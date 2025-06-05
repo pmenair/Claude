@@ -16,7 +16,7 @@
 [[https://www.gabar.org/member-directory/?id=DAD946C89B915C4348327FF364872C6E][Carrie L. Christie, Rutherford & Christie, LLP]]\\
 [[https://www.gabar.org/member-directory/?id=8A8954095C2B57D40C6325B2618EDF5B][Alexis C. Jones, Christie, Rutherford & Christie, LLP]]
 
-| [2025-06-06 Fri] | {F}  | [AdamsD] | schedule mediation, review file |
+| [2025-06-20 Fri] | {F}  | [AdamsD] | schedule mediation, review file |
 | [2025-07-08 Tue] | {D} | [AdamsD] | discovery dl per extend       |
 
 nonparties, contact FF [list in notes]
@@ -45,7 +45,7 @@ server: [[elisp:(dired-other-window "/Volumes/LeibelFiles/DAY, DANIEL #91605 DOL
 Counsel for Defendants(State Farm): [[https://www.gabar.org/member-directory/?id=3EB6D03F841B8C1FABF136A22435732F][Ramsey Ware Chambless, The Chambless Law Firm, PC]]
 Counsel for UM(Progressive): [[https://www.gabar.org/member-directory/?id=216764E51F55C50EC50D57CAC113A3D7][Karolynn Harris, Worsham Corsi Scott & Dobur]]
 
-| [2025-06-06 Fri] | {F} | [Day] | stip to trial or get expert, SKL to call new atty |
+| [2025-06-13 Fri] | {F} | [Day] | stip to trial or get expert, SKL to call new atty |
 
 August 2024 rear end, look at financial circumstances stuff
 
@@ -109,7 +109,7 @@ Counsel for Chaput: [[https://www.gabar.org/member-directory/?id=9289AF1D273FCC0
 Counsel for Chaput: [[https://www.gabar.org/member-directory/?id=356B8422031D72301CDD25AC2ABC87F7][Grace Townsend, The Minor Firm, LLC]]
 Counsel for UM: [[https://www.gabar.org/member-directory/?id=E2F7A6DB49C0100B68A86643DA905A44][Morris Margulis, Law Office of Marcus A. Blackwell]]
 
-| [2025-06-06 Fri] | {F} | [White] | mediate? Nelson depo, suppl per Casey |
+| [2025-06-13 Fri] | {F} | [White] | mediate? Nelson depo, suppl per Casey |
 
 fu UM re stip, mediation, trial in Sept. not sure if they are going to depose Nelson.
 
@@ -136,7 +136,7 @@ Attorney for Savannah: [[https://www.gabar.org/member-directory/?id=20AF99CBEA09
 Attorney for Oak View: [[https://www.gabar.org/member-directory/?id=37008CB76EDC3A0DC48DFB1C0C1693C1][Craig Terrett, Cruser Mitchell Novitz Sanchez Gaston & Zimet LLP]]
 Attorney for Oak View: [[https://www.gabar.org/member-directory/?id=7FD345AECEA1D06017CABB382D850D77][Robert Mills, Cruser Mitchell Novitz Sanchez Gaston & Zimet LLP]]
 
-| [2025-06-06 Fri] | {zF} | [Kipfmiller] | request 30b6s and other witnesses, identify experts [notes] |
+| [2025-06-06 Fri] | {F} | [Kipfmiller] | request 30b6s and other witnesses, identify experts [notes] |
 | [2025-08-21 Thu] | {D} | [Kipfmiller] | discovery dl per extend                                     |
 
 ** [[denote:20240417T151048][Nelson]]
@@ -178,7 +178,9 @@ waiting on Ace
 20000 or 30000 or more if others are putting money on it
 not a 2-3x specials case, need to contribute
 
-| [2025-06-06 Fri] | {zF} | [Young] | schedule depos, figure out experts, schedule mediation              |
+| [2025-06-16 Mon] | {F} | [Young] | pp depos --> figure out experts, mediate              |
+| [2025-06-17 Tue] | {E}  | [Young] | depositions                                           |
+| [2025-06-18 Wed] | {E}  | [Young] | depositions                                           |
 | [2025-08-01 Fri] | {D} | [Young] | close of discovery per FINAL CMO, dl to disclose experts [none yet] |
 | [2025-09-01 Mon] | {D} | [Young] | dl for rebuttal witnesses                                           |
 | [2025-09-15 Mon] | {D} | [Young] | dl for mediation                                                    |

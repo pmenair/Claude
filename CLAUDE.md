@@ -51,6 +51,23 @@ This is a personal legal practice management system for a Georgia tort litigatio
 - **Archived cases**: Moved to timestamped archive directories
 - **Backup strategy**: Multiple backup levels with `.org_archive` files
 
+### Calendar and Task Management
+
+The main case database (`database.org`) uses a structured table format for tracking case activities:
+
+```
+| [YYYY-MM-DD Day] | {TYPE} | [CaseName] | Description |
+```
+
+**Task Type Codes:**
+- `{T}` - TODO items (tasks to be completed)
+- `{E}` - Events (scheduled appointments, depositions, hearings)
+- `{D}` - Deadlines (discovery deadlines, filing deadlines, statute limitations)
+- `{F}` - Follow-up reminders (client contact, status checks, case reviews)
+
+**Date Format:** Always use `[YYYY-MM-DD Day]` format for consistency
+**Case References:** Use abbreviated case names in brackets `[CaseName]` matching the denote file identifiers
+
 ## Key File Locations
 
 - **Main case database**: `WORK SYNC/projects/1-data/database.org`
