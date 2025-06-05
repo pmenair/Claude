@@ -1,0 +1,189 @@
+* Brief
+
+BRIEF IN OPPOSITION TO DEFENDANT GCA EDUCATION SERVICE'S MOTION FOR SUMMARY JUDGMENT
+
+COMES NOW the above Plaintiff and files her Brief in Opposition ot Defendant GCA Education Service's Motion for Summary Judgment (the "Motion" of "Defendant" or "GCA"), showing the following:
+
+I. Facts
+
+This is a slip and fall case. At the time of her fall, on August 14, 2019, Plaintiff Jenny Figel ("Figel") was employed at Gainesville Middle School. (Deposition of Jenny Figel ["Figel Depo."], transcript filed contemporaneously herewith and extracts attached as Exhibit A hereto, at 13:9-12, 22:11-18.) She arrived at around 7:00 am, and her students at 8:00 am. (Figel Depo. at 53:25-54:5.)
+
+Figel's students were not permitted to take individual trips to the bathroom. (Figel Depo. at 54:25-55:02.) Accordingly, at around 10 am, or shortly after, Figel walked her class to use the restrooms. (Figel Depo. at 57:03-17; 115:04-10.) It was her first visit to the restroom that day. (Figel Depo. at 58:01-07, 23-25.)
+   
+The restroom was located off of a wide open area, with a short transition hallway into the area with stalls and sinks. (Figel Depo. at 59:11-18, 61:17-24.) The entry area was tiled, and the stall area had a concrete floor. (Figel Depo. at 59:19-25.) Figel occasionally had to clean the sinks that her students used because they were filthy. (Figel Depo. at 60:08-18.)
+   
+Figel followed her class into the restroom and saw that there was water puddled on the floor. (Figel Depo. at 63:22-64:02, 69:21-70:15.) She stepped only a few inches into the concrete area and then stepped back onto the tile, where she slipped and fell. (Figel Depo. at 64:03-12, 65:01-12, 68:20-25.)
+
+The area where Figel fell was not well lit. (Figel Depo. at 68:05-10.) She did not see a wet floor sign near the area where she fell; after she fell, she saw a sign lying on the floor about 40-45 feet away. (Figel Depo. at 71:13-72:23.) Figel did not expect the floor where she fell to be wet, but it was slippery, and that is why she fell. (Figel Depo. at 75:01-08, 155:16-156:12.)
+
+ABM's employee on duty the day of the fall was responsible for inspecting the restrooms after she finished cleaning the cafeteria. (Deposition of Rosa Bonilla ["Bonilla Depo."], filed contemporaneously herewith and extracts attached hereto as Exhibit B, at 10:04-18.) If there was water on the floor in a restroom, ABM's employee was supposed to ensure that there was a wet floor sign and use a dry mop to remediate the issue. (Bonilla Depo. at 11:02-10.) Water would sometimes be left on the floor of the restrooms during overnight cleaning, and as students walked through the areas of standing water onto the tiled area, they would track water and the tile would become slippery. (Bonilla Depo. 12:03-08, 14:21-15:14, 23:01-09.)
+
+The night-time cleaning was performed by GCA employees. (Bonilla Depo. at 26:18-20.) GCA denies having any responsibility for prevention of slip and fall incidents. (Deposition of OCGA § 9-11-36(b) corporate representative of GCA ["Jackson Depo."], filed contemporaneously herewith and extracts attached as Exhibit C, at 23:23-24:13.)
+
+II. Argument and Citation of Authority
+
+A. Standard of Decision
+
+Summary judgment is appropriate if, and only if, no genuine issues of material fact exist for trial. OCGA § 9-11-56. On a motion for summary judgment, any doubt is resolved, and all evidence is construed, in favor of the party opposed to the motion. Scott v. Owens-Illinois, Inc., 173 Ga. App. 19 (1984). It is an "extreme remedy" to be granted only in the exceptional case where no doubt exists as to the material facts and no genuine issue exists for trial. Id.
+
+Here, Plaintiff's sole claim is that GCA should be held liable for the negligence of its employees in cleaning floors located at Gainesville Middle School. She does not allege that GCA was the owner or occupier of those premises, and her claim does not, accordingly, raise issues specific to the law of premises liability such as, for example, the proprietor's knowledge of the hazard.
+
+To establish her claim under Georgia law, Plaintiff must simply show: (1) that GCA had a legal duty; (2) a breach of that duty; (3) a "legally attributable causal connection" to some injury, ie., proximate causation; and (4) damages. Walker v. Aderhold Properties, Inc., 303 Ga. App. 710, 712 (2010). Questions of negligence are generally for the jury, and a movant is entitled to summary judgment only in cases where “the evidence is plain, palpable, and undisputable.” Munroe v. Universal Health Svcs., 277 Ga. 861, 864 (2004).
+
+B. GCA Had a Duty of Care
+
+The "threshold issue" in a negligence case is whether the defendant owned the plaintiff a duty of care. Southwestern Emergency Physicians, P.C. v. Quinney, 347 Ga. App. 410, 423 (2018). Georgia law does not recognize a general legal duty for all persons to preserve the entire world from any and all risks of harm, but does recognize a variety of legal duties originating in both statute and common law. Ga. Dept. of Labor v. McConnell, 305 Ga. 812, 816 and throughout (2019).
+
+Under Georgia law, an owner of real property has a statutory duty under OCGA § 51-3-1 et seq. to keep its premises safe for different categories of visitors. That statutory responsibility for the safety of visitors to the premises is, as a general matter, inapplicable to independent contractors. R & S Farms, Inc v. Butler, 258 Ga. App. 784, 786-87 (2002). However, it is well established that an independent contractor may still be liable to third parties, under ordinary negligence principles, for injuries arising directly from negligent performance of contracted work, such as cleaning services. Kelley v. Piggly Wiggly, 230 Ga. App. 508, 509 (1997).
+
+B. An Issue for the Jury Exists as to Whether GCA Breached Its Duty
+
+Routine issues of negligence, as well as allegations of contributory negligence, are matters for the jury and, as such, ordinarily should not be decided on summary judgment. Robinson v. Kroger Co. 268 Ga. 735 748 (1997). For example, where the evidence suggests that the plaintiff may have fallen due to water having been left on a floor by a cleaning contractor, the jury is authorized to hold the contractor liable for negligent performance of its cleaning services, even when that evidence is contested. Kelly, 230 Ga. App at 509. See also, e.g. Ahuja v. Cumberland Mall, LLC, 821 F. Supp. 2d 1317, 1327 (N.D. Ga. 2011) (denying summary judgment where evidence suggested poor placement of wet floor warning sign by contractor).
+
+C. Plaintiff Has Sufficiently Identified the Cause of Her Fall
+
+GCA cites numerous cases where defendants were entitled to summary judgment because they were unable to testify regarding the specific nature of the hazard that caused them to slip and fall. These cases are distinguishable on the facts, but also because they are premises cases. In a premises case, the owner/occupier has a general responsibility to guard against any and all known hazards on the premises, so the law has evolved a complex balancing test regarding the plaintiff and defendant's knowledge of a particular hazard and generally, unlike in ordinary negligence cases, permits a defendant to obtain summary judgment on the basis of its having exercised reasonable care in guarding against known or forseeable hazards. In an ordinary negligence case, on the other hand, the issue is simply whether the plaintiff is able to raise evidence sufficient to go to a jury regarding causation. Compare Kelley with Head v. Sears Roebuck Company, 233 Ga. App. 344, 346 (1998) (no evidence that store employees created trip hazard) and Christopher v. Donna's Country Store, 236 Ga. App. 219, 221 (1999) (plaintiff noticed a greasy substance on her clothes some time after she fell but had no other evidence of why she fell).
+
+Here, Plaintiff plainly slipped and fell due to water that a reasonable juror might conclude was left on the floor by GCA's employees, one of whom admitted in deposition that this sometimes happened and that it created a hazardous condition when students tracked the water around. (Bonilla Depo. 12:03-08, 14:21-15:14, 23:01-09.) This is sufficient to bring this case to a jury on the issue of negligence.
+
+C. Defendant Had Superior Knowledge of the Hazard
+
+On the issue of Plaintiff's purportedly "superior knowledge" of the hazard, GCA again cites extensively from authority that is simply inapplicable to Plaintiff's ordinary negligence claim. A premises owner is charged with maintaining the safety of invitees against essentially any hazard that might exist on the premises and, accordingly, the law weighs its knowledge of a hazard against that of any potential plaintiffs. A contractor, on the other hand, is simply liable to perform its contract with ordinary care. Plaintiff is aware of no authority, and GCA appears to provide none, for the proposition that "superior knowledge" is a relevant concern in an ordinary negligence case against a contractor. Moreover, to the extent that GCA impliedly argues that Plaintiff was contributorily or comparatively negligent, even in an action against a premises owner such questions are matters for the jury except in "extraordinary cases." Barton v. City of Rome, 271 Ga. App. 858, 862 (2005). Indeed, the tendency to try and assign fault to the plaintiff in a slip and fault case on summary judgment is the very tendency warned against in Robinson v. Kroger, 268 Ga. 735, 747-48 (1997), and the case authority since 1997 has been very careful to distinguish between comparative knowledge and comparative fault.
+
+This is, in any even, not an extraordinary case, even if it were a premises. GCA had constructive knowledge through its employee of the hazard, and it had an unreasonable policy of delaying inspection of the restrooms until later in the morning after the cafeterias were cleaned. Plaintiff did not see that the tiled area where she walked was wet prior to her fall. Even if this were a premises case, which Plaintiff denies, summary judgment would not be appropriate.
+
+D. GCA's Purported Attempt at Remediation Does Not Absolve It of Liability
+
+Finally, Plaintiff cites similarly distinguishable authority allowing a premises owner a reasonable period of time to remediate a hazard on discovering it. There is a line of cases on this topic, related to the issue of whether a premises owner has reasonable procedures in place to inspect for hazards. All of these cases are entirely beside the point here. GCA's employees are alleged to have created this hazard in the process of providing contracted services and alleged to have failed to warn forseeable plaintiffs regarding the known hazard of a wet floor. The fact that they may have attempted to remediate that hazard may be a matter for consideration by a jury, but it has no relevance on this motion, as GCA has provided no authority for the proposition that this court might find a defendant in an ordinary negligence case to have acted reasonably as a matter of law. Moreover, as argued above, even if this were a premises case, the court would not be authorized to decide on summary judgment that the inspection and remediation procedures of GCA were adequate as a matter of law.
+
+CONCLUSION
+
+This is not a premises liability case. This is an ordinary negligence case, and, as in most any other ordinary negligence case, questions exist for decision by a jury, and the Court should accordingly deny the present Motion.
+
+WHEREFORE, Plaintiff respectfully prays that the motion be denied and that the Court grant such other and further relief as it deems proper and just.
+
+* SMF Response
+
+COMES NOW the above Plaintiff and responds to Defendant GCA Education Services, Inc.'s Statement of Material Facts to which There Are No Genuine Issues to Be Tried as follows:
+
+1. On August 14, 2019, Plaintiff left her basement level classroom to take her students to the bathroom. (Deposition of Jenny Figel, hereinafter “Figel Depo” 53:5-11, 56:24-57:7).
+RESPONSE: Not controverted.
+
+2. There was water on the floor that had been puddled “all over the floor.” (Figel Depo 63:25-64:1).
+RESPONSE: Not controverted.
+
+3. When Plaintiff entered the restroom, she “saw that water on the floor.” (Figel Depo 65:7).
+RESPONSE: Plaintiff admits her testimony that she saw water on the floor. However, the referenced evidentiary material does not support the contention or implication that she fully entered into the restroom. Instead, her testimony is that she stopped short having only stepped a very short distance into the room. (Figel Depo. at 64:3-6, 65:2-6.)
+
+4. She observed water on the concrete floor before she fell. (Figel Depo 77:21-22, 69:18-20).
+RESPONSE: Plaintiff admits seeing water inside the restroom. However, she did not see water on the tile area where she fell, and her students had not yet walked in that area. (Figel Depo. at 77:13-78:7.)
+
+5. She told her students to “be careful” because she did not want any of them “getting hurt.” (Figel Depo 64:5-8).
+RESPONSE: Not controverted.
+
+6. She was concerned about them slipping and falling in the water. (Figel Depo 65:11-12).
+RESPONSE: Not controverted.
+
+7. Plaintiff was on the concrete floor, walked onto the tile, took a few steps and slipped and fell. (Figel Depo 64:8-12).
+RESPONSE: Not controverted.
+
+8. She had been looking straight ahead when she was walking, and the area of her fall had not been obstructed in the moments before she fell. (Figel Depo 72:24-73:6).
+RESPONSE: Not controverted.
+
+9. Plaintiff observed the water before she fell. (Figel Depo 69:18-20).
+RESPONSE: On the concrete floor, not in the area where she fell. Although the fact statement is crafted to imply that Plaintiff had prior knowledge of the specific hazard that caused her to fall, the referenced evidentiary material does not support this assertion.
+
+10. Plaintiff observed that “there was water everywhere.” (Figel Depo 70:3-4).
+RESPONSE: On the concrete floor, not in the area where she fell. Although the fact statement is crafted to imply that Plaintiff had prior knowledge of the specific hazard that caused her to fall, the referenced evidentiary material does not support this assertion.
+
+11. There was standing water all throughout the bathroom. (Figel Depo 70:14-15).
+RESPONSE: On the concrete floor, not in the area where she fell. Although the fact statement is crafted to imply that Plaintiff had prior knowledge of the specific hazard that caused her to fall, the referenced evidentiary material does not support this assertion.
+
+12. Plaintiff stepped into “that area” of water before she slipped, but she does not know if she actually stepped into water before her fall. (Figel Depo 74:18, 101:1-9).
+RESPONSE: Not controverted.
+
+13. She slipped on the tiled floor of the bathroom but does not know if there was actually water there. (Figel Depo 78:1-7).
+RESPONSE: Plaintiff was aware of water on the concrete floor, but did not see water on the tile floor. See above. (See also Figel Depo. at 75:01-08, 155:16-156:12.)
+
+14. Defendant GCA Education Services, Inc. (sometimes referred to as “GCA”) was contracted to clean the floors of Gainesville Middle School and to perform janitorial work. (30(b)(6) Deposition of GCA, hereinafter “Jackson Depo” 23:11-15).
+RESPONSE: Not controverted.
+
+15. The floor at the school was to be mopped in the evenings so it would be dry in the mornings. (Jackson Depo 24:20-25:12).
+RESPONSE: Not controverted. However, GCA's employee admitted that water from the nighttime cleaning was sometimes left on the floor in the mornings. (Bonilla Depo. at 12:03-08.)
+
+16. Rosa Bonilla worked for GCA on the date of Plaintiff’s fall. (Bonilla Depo 9:12-10:3).
+RESPONSE: Not controverted.
+
+17. There was a wet floor sign placed right outside the bathroom prior to Plaintiff’s fall. (Bonilla Depo 12:14-13:4, 19:13-17).
+RESPONSE: This was Bonilla's testimony, but Plaintiff denies this is an undisputed fact. (Figel Depo. at 71:13-72:23.)
+    
+18. Bonilla went into the bathroom in order to check on the supply of tissue, which she did in the morning but only after she had completed her duties in other parts of the premises. (Bonilla Depo at 10:04-14; 14:15-17).
+RESPONSE: Not controverted.
+
+19. She observed water on the bathroom floor and then went to go retrieve a mop. (Bonilla Depo 22:1-4).
+RESPONSE: Not controverted.
+
+20. As she was going to get the mop, Plaintiff was entering with the students, walking quickly and hurriedly. (Bonilla Depo 22:5-13).
+RESPONSE: Not controverted. However, Plaintiff was not walking quickly when she fell. (Figel Depo. at 73:7-11.) Plaintiff further notes that Bonilla, by her own testimony, did nothing to warn Plaintiff regarding the condition of the floors and, instead, left the area without saying anything.
+    
+21. Bonilla went to the corner closet because that’s where all the cleaning supplies where and when she came back with the mop, Plaintiff had already fallen. (Bonilla Depo 15:11-14).
+RESPONSE: Not controverted.
+
+* Our SMF
+
+STATEMENT OF MATERIAL FACTS SHOWING GENUINE ISSUES EXIST FOR TRIAL
+
+COMES NOW the above Plaintiff and files her Statment of Material Facts Showing Genuine Issues Exist for Trial, as follows:
+
+1. At the time of her fall, on August 14, 2019, Figel was employed at Gainesville Middle School. (Deposition of Jenny Figel ["Figel Depo."], transcript filed contemporaneously herewith and extracts attached as Exhibit A hereto, at 13:9-12, 22:11-18.)
+
+2. Figel arrived at around 7:00 am, and her students at 8:00 am. (Figel Depo. at 53:25-54:5.)
+
+3. Students were not permitted to take individual trips to the bathroom. (Figel Depo. at 54:25-55:02.)
+  
+4. At around 10 am, or shortly after, Figel walked her class to use the restrooms. (Figel Depo. at 57:03-17; 115:04-10.)
+
+4. It was her first visit to the restroom where she fell that day. (Figel Depo. at 58:01-07, 23-25.)
+   
+5. The restroom was located off of a wide open area, with a short transition hallway into the area with stalls and sinks. (Figel Depo. at 59:11-18, 61:17-24.)
+
+6. The entry area was tiled, and the stall area had a concrete floor. (Figel Depo. at 59:19-25.)
+
+7. Figel occasionally had to clean the sinks that her students used because they were filthy. (Figel Depo. at 60:08-18.)
+   
+8. Figel followed her class into the restroom and saw that there was water puddled on the floor. (Figel Depo. at 63:22-64:02, 69:21-70:15.)
+   
+9. Figel stepped only a few inches into the concrete area and then stepped back onto the tile, where she slipped and fell. (Figel Depo. at 64:03-12, 65:01-12, 68:20-25.)
+
+10. The area where Figel fell was not well lit. (Figel Depo. at 68:05-10.)
+
+11. Figel did not see a wet floor sign near the area where she fell; after she fell, she saw a sign lying on the floor about 40-45 feet away. (Figel Depo. at 71:13-72:23.)
+     
+12. Figel did not expect the floor where she fell to be wet, but it was slippery, and that is why she fell. (Figel Depo. at 75:01-08, 155:16-156:12.)
+
+13. ABM's employee on duty the day of the fall was responsible for inspecting the restrooms after she finished cleaning the cafeteria. (Deposition of Rosa Bonilla ["Bonilla Depo."], filed contemporaneously herewith and extracts attached hereto as Exhibit B, at 10:04-18.)
+    
+14. If there was water on the floor in a restroom, ABM's employee was supposed to ensure that there was a wet floor sign and use a dry mop to remediate the issue. (Bonilla Depo. at 11:02-10.)
+    
+15. Water would sometimes be left on the floor of the restrooms during overnight cleaning. (Bonilla Depo. at 12:03-08.)
+
+16. As students walked through the areas of standing water onto the tiled area, they would track water and the tile would become slippery. (Bonilla Depo. 14:21-15:14, 23:01-09.)
+
+17. The night-time cleaning was performed by GCA employees. (Bonilla Depo. at 26:18-20.)
+    
+18. GCA denies having any responsibility for prevention of slip and fall incidents. (Deposition of OCGA § 9-11-36(b) corporate representative of GCA ["Jackson Depo."], filed contemporaneously herewith and extracts attached as Exhibit C, at 23:23-24:13.)
+
+---
+
+Review tasks:
+
+Confirm all cited authority is still good law and stands for the proposition asserted in the brief. Look for typos in citations and citation format. I'm not a rigid stickler for "Blue Book" style, in fact I think it's evidence of conformist thinking, but citations need to make sense and be consistent. Where there is no pin cite, provide one.
+
+Confirm all factual assertions are supported by cited evidence; while you're doing this, prepare the extract exhibits to the depositions and read through the depositions in their entirety.
+
+Are there any facts you think are important that I missed? 
+
+Confirm I address all of the arguments in their brief.
+
+Is my argument easy to follow? Is it persuasive? What can you recommend I do better?
+

@@ -1,0 +1,256 @@
+* Rich Text
+
+Org Mode does
+
+#+begin_example
+‘*bold*’, ‘/italic/’, ‘_underlined_’, ‘=verbatim=’ and ‘~code~’, and, if you must, ‘+strike-through+’
+#+end_example
+
+Superscript with '^'
+
+Markdown is different in that it tries to be semantic, but ultimately similar, asterix and underline both mean emphasis, double asterix means strong, double underline means underline, strikeouts are double tildes. Markdown subscripts use tildes, org uses underscores, but I never use this anyway. Need TURN OFF the automatic font lock in org. I think I prefer org mode mostly, because markdown's attempt at semantics still feels like a lost cause. In export, pandoc exporter chooses <strong> for bold, <em> for italic, and <u> for underline, respectively, which seems right.
+
+# TODO - fix problem with bold starting at the front of the line...
+
+* Metadata
+
+I prefer YAML to the fricking properties that org mode uses, Org let's you create YAML blocks but it's not clear pandoc export will recognize them. I guess I can live with Org, need to think about how it handles properties and whether there's a nicer way to do this with drawers.
+
+* Footnotes and Links
+
+All org links *except footnotes* are variations on [[][]].
+
+The basic footnote format for org [fn:1] exports fine and as expected, makes html endnotes and latex footnotes. Pandoc export similarly makes endnotes. It's easy enough to move the notes (kill hr, make div if section) inside the raw html. Seems like too much work right now to make the notes automatically interleave with the text casetext style, and if I'm automating endnotes is a sensible default. Not tested, but I'm guessing this works as expected for epub export also.
+
+Could try to make these look more like pandoc markdown by fiddling with org-footnote-re (see org-footnote.el), but this would likely be brittle and I'm actually okay with fn: style notes. But I made a font lock overlay rule that does it the easy way.
+
+Just for history sake:
+
+I tried playing with search links to roll my own, but this worked only in org and broke in html exports. If you must do it on the front end, you can do it set up plaintext superscript footnotes without linking, like this.^1
+
+#+begin_quote
+^1 Footnote goes here.
+#+end_quote
+
+Attempts to use internal links instead of [fn:] links work in org, but the exporters choke. If I really want to do something different someday, org lets you define extensions to the exporters, sort of like a derived mode.
+
+Re other sorts of internal linkage, note that search by text links actually do work as fallback for internal links and not just file reference links, so you don't need to use those angle bracket targets as long as the text is unique. [[* Footnotes and Links][Links to headings] work but don't export right and require match to heading. Mostly I don't do this anyway, and if I did in a more complex document I'd be tempted to get into properties etc for better control.
+
+These export issues with internal links seem like a [[https://stackoverflow.com/questions/20898798/in-org-mode-how-to-export-internal-links][moving target]] (pun intended), custom-ids are probably the only way to make this work.
+
+[fn:1] the footnote.
+
+
+And here is an example of an inline footnote.[fn:: Footnote text here.]
+
+[[Overlays] looks for fuzzy match anywhere because org-link-search-must-match-exact-headline is nil., but I disabled it because it wrecks the export.
+
+tl;dr ain't broke, don't fix. If you need a unique id consider using org-id-get-create to create a property drawer and populate it, but this seems like overkill for most of what I do. Look into the new citation system and bibtex.
+
+[ ] TODO play around with org-store-link and org-insert-link, and org-capture, and org-protocol
+
+* Overlays, Font-Lock, and Conversion
+
+** Font Lock and Overlay
+
+Building a system, including overlay of underlying org markup into something that *looks* more like markdown, which is prettier to me for some reason. Also a way to learn about font-lock and text properties, which are janky but powerful.
+
+#+begin_src elisp :results none
+  
+  ;; markdownify headings
+  
+  (font-lock-add-keywords nil
+			  '(("^\\(*\\)"
+			     (0 (prog1 () (compose-region (match-beginning 1) (match-end 1) "#"))))))
+  
+  (font-lock-add-keywords nil
+			  '(("^\\*\\(*\\)"
+			     (0 (prog1 () (compose-region (match-beginning 1) (match-end 1) "#"))))))
+  
+  (font-lock-add-keywords nil
+			  '(("^*\\*\\(*\\)"
+			     (0 (prog1 () (compose-region (match-beginning 1) (match-end 1) "#"))))))
+  
+  (font-lock-add-keywords nil
+			  '(("^*\\*\\*\\(*\\)"
+			     (0 (prog1 () (compose-region (match-beginning 1) (match-end 1) "#"))))))
+  
+  ;; markdownify footnotes
+  
+  (font-lock-add-keywords nil
+			  '(("\\[\\(fn\\):"
+			     (0 (prog1 () (compose-region (match-beginning 1) (match-end 1) "^"))))))
+  
+  ;; light up todo types everywhere
+  
+  (font-lock-add-keywords nil
+			  '(("Todo: " . 'font-lock-type-face)))
+  
+  (font-lock-add-keywords nil
+			  '(("Follow up: " . 'font-lock-type-face)))
+  
+  (font-lock-add-keywords nil
+			  '(("Event: " . 'font-lock-type-face)))
+  
+  (font-lock-add-keywords nil
+			  '(("Deadline: " . 'font-lock-type-face)))
+  
+  ;; make lozenges
+  
+  (font-lock-add-keywords nil
+			  '(("\\@\\@"
+			     (0 (prog1 () (compose-region (match-beginning 0) (match-end 0) "◊"))))))
+  
+
+  ;; need to figure out a way to do this in the init file and make it mode specific, this just sets file-specific variables ("nil" does that). Note that to match the whole string you need (match-beginning 0), (match-beggining 1) matches a group. Also, compose region itself does not take regex and does this wierd thing where it piles glyphs on top of each other in layers when you have multiple characters. 
+#+end_src
+
+Todo: Automate font-lock-update. Figure out font lock for case names in consult-line results.
+
+** Conversion
+
+Conversion org to markdown works much better in ox-pandoc than the regular exporter, which converts to html and then does a lazy conversion to markdown that leaves a lot of the html intact. ox-pandoc is much better and gives a choice of styles. Would need to be turned on in the regular export menu (I also need to turn some stuff I don't need OFF), but you can
+M-x org-pandoc-export-to-markdown directly.
+
+* Lozenges and HTML
+
+Didn't use a keymap, did an overlay on double @ instead just temporarily. Had trouble making this a keymap, kept giving me a dynamic expansion error like I was trying to make an abbreviation. Don't really need this anyway, yet, but eventually I'll adapt it so I can use it for inline html. See also [[https://github.com/tali713/esxml/][esxml]] and [[https://orgmode.org/manual/Quoting-HTML-tags.html#Quoting-HTML-tags][raw html quoting]].
+
+* Todo
+
+** Google Scholar
+
+[[https://github.com/teeann/scholar-import][scholar-importEmacs package to import Bibtex & PDF from Google Scholar]]
+
+#+begin_example elisp
+(use-package scholar-import
+  :config
+  (require 'citar)
+  (add-hook 'scholar-import-after-hook #'citar-refresh)
+  (setq scholar-import-bibliography citar-bibliography
+        scholar-import-library-path (car citar-library-paths)))
+#+end_example
+
+** XML/HTML
+
+#+begin_src elisp
+  
+  (cl-defmethod my-caseprint ((casename case)) ; new and improved with oref - can I live without the let variables?
+    (let ((namepr (oref casename :name))
+	  (courtpr (oref casename :court))
+	  (judgepr (oref casename :judge))
+	  (canpr (oref casename :can))
+	  (statuspr (oref casename :status))
+	  (liamtpr (group-number (format "%.2f" (oref casename :liamt))))
+	  (licarrpr (oref casename :licarr))
+	  (umamtpr (group-number (format "%.2f" (oref casename :umamt))))
+	  (umcarrpr (oref casename :umcarr))
+	  (medpr (group-number (format "%.2f" (oref casename :med))))
+	  (otherpr (group-number (format "%.2f" (oref casename :other))))
+	  (demandpr (group-number (format "%.2f" (oref casename :demand))))
+	  (offerpr (group-number (format "%.2f" (oref casename :offer)))))
+      (princ (format "ID:     %s\nCourt:  %s\nJudge:  %s\nCAN:    %s\nStatus: %s\n-------\nLI:    %s - %s\nUM:    %s - %s\n-------\nMeds:    %s\nOther:   %s\n-------\nDemand:  %s\nOffer:   %s" namepr courtpr judgepr canpr statuspr liamtpr licarrpr umamtpr umcarrpr medpr otherpr demandpr offerpr))))
+  
+  (cl-defmethod my-caseprint-csv ((casename case)) ; for import into sqlite, hacky, probably prefer pandas Dataframe.to_sql (as opposed to emacsql, which is also hacky
+    (let ((namepr (oref casename :name))
+	  (courtpr (oref casename :court))
+	  (judgepr (oref casename :judge))
+	  (canpr (oref casename :can))
+	  (statuspr (oref casename :status))
+	  (liamtpr (oref casename :liamt))
+	  (licarrpr (oref casename :licarr))
+	  (umamtpr (oref casename :umamt))
+	  (umcarrpr (oref casename :umcarr))
+	  (medpr (oref casename :med))
+	  (otherpr (oref casename :other))
+	  (demandpr (oref casename :demand))
+	  (offerpr (oref casename :offer)))
+      (insert (format "%s,%s,%s,%s,%s,%.2f,%s,%.2f,%s,%.2f,%.2f,%.2f,%.2f" namepr courtpr judgepr canpr statuspr liamtpr licarrpr umamtpr umcarrpr medpr otherpr demandpr offerpr)))) ; need to figure out how to interate through the objects and print to a dated save file, but this format works with SQL as follows:
+  
+  ;; CREATE TABLE cases (name PRIMARY KEY, court , judge , can , status , liamt , licarr , umamt , umcarr , med , other , demand , offer )
+  ;; .mode csv
+  ;; .import foo.csv cases
+  
+  (cl-defmethod my-caseprint-oldhtml ((casename case)) ; WORKS - add format, probably don't need css, can get rid of the let variables
+    (let ((namepr (oref casename :name))
+	  (courtpr (oref casename :court))
+	  (judgepr (oref casename :judge))
+	  (canpr (oref casename :can))
+	  (statuspr (oref casename :status))
+	  (liamtpr (group-number (format "%.2f" (oref casename :liamt))))
+	  (licarrpr (oref casename :licarr))
+	  (umamtpr (group-number (format "%.2f" (oref casename :umamt))))
+	  (umcarrpr (oref casename :umcarr))
+	  (medpr (group-number (format "%.2f" (oref casename :med))))
+	  (otherpr (group-number (format "%.2f" (oref casename :other))))
+	  (demandpr (group-number (format "%.2f" (oref casename :demand))))
+	  (offerpr (group-number (format "%.2f" (oref casename :offer)))))
+      (dom-print
+       `(div nil (ul nil (li ((data-type . "name")) ,namepr)
+		     (li ((data-type . "court")) ,courtpr)
+		     (li ((data-type . "judge")) ,judgepr)
+		     (li ((data-type . "can")) ,canpr)
+		     (li ((data-type . "status")) ,statuspr)
+		     (li ((data-type . "liamt")) ,liamtpr) ; has to be a string!
+		     (li ((data-type . "licarr")) ,licarrpr)
+		     (li ((data-type . "umamt")) ,umamtpr)
+		     (li ((data-type . "umcarr")) ,umcarrpr)
+		     (li ((data-type . "med")) ,medpr)
+		     (li ((data-type . "other")) ,otherpr)
+		     (li ((data-type . "demand")) ,demandpr)
+		     (li ((data-type . "offer")) ,offerpr))) t )))
+  
+  (cl-defmethod my-caseprint-xml ((casename case)) ; WORKS - need docstring, print to timestamped backup file and/or temp file, python code to manipulate in pandas, clean python install
+    (dom-print
+     `(row ((row-id . ,(oref casename :name)))
+	   (client nil ,(oref casename :name))
+	   (court nil ,(oref casename :court))
+	   (judge nil ,(oref casename :judge))
+	   (can nil ,(oref casename :can))
+	   (status nil ,(oref casename :status))
+	   (liamt nil ,(format "%.2f" (oref casename :liamt))) ; no commas, this is data
+	   (licarr nil ,(oref casename :licarr))
+	   (umamt nil ,(format "%.2f" (oref casename :umamt)))
+	   (umcarr nil ,(oref casename :umcarr))
+	   (med nil ,(format "%.2f" (oref casename :med)))
+	   (other nil ,(format "%.2f" (oref casename :other)))
+	   (demand nil ,(format "%.2f" (oref casename :demand)))
+	   (offer nil ,(format "%.2f" (oref casename :offer)))
+	   ) t t ))
+  
+
+  
+  ;; TODO [ ] eieio-persist
+  
+  ;; TODO [ ] figure out how to read the xml into the object. Just parse to a dom object (has to be a way to do that by source block), gets a list of li tags with (dom-by-tag dom 'li), then sets into slots by reference (dom-attr node 'data-type), maybe with a case statement? Shouldn't be too hard to slurp the xml back into the class object
+  
+		       #+end_src
+
+# Once we have the xml we can run a function on it by reference (and maybe extract so we can "#+CALL:" - reference to json works like this:
+
+# #+BEGIN_SRC emacs-lisp :var input=./2019-02-12.org:json
+# input
+# #+END_SRC
+
+# #+RESULTS:
+# : {"date":"Tue Feb 12 08:30:20 2019"}
+
+# example shows how to use an external file as input source, but you can just reference a named block.
+
+# :results value html creates an html export block
+
+** pythonic
+
+# see python.py
+
+# also import sqlalchemy as sqla
+# import pandas as pd
+# pd.set_option('display.float_format', lambda x: '%.2f' % x)
+# db = sqla.create_engine('sqlite:///data.db')
+# x = pd.read_sql('select * from settled', db)
+# # x = pd.read_sql('select settlement.name, liamt, umamt, med from settlement inner join cases on settlement.name = cases.name where cases.status!="settled" order by med desc', db)
+# x.med.sum()
+# # x.describe()
+# # x.head(20)
+
+# Should be able to do something similar to read in the xml, *write* to sql, and then play with the dataframe. Prefer to do this in org blocks over jupyter, which is a lot of overhead, albeit potentially more shareable?

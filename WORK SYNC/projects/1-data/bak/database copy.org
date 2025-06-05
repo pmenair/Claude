@@ -1,0 +1,1191 @@
+* headers                                                          :noexport:
+#+OPTIONS: toc:nil num:nil H:2 title:nil tags:nil
+#+OPTIONS: broken-links:t    ; Ignore broken links
+#+OPTIONS: broken-links:mark ; Mark broken links
+# HTML style sheet for print CSS. Solarized stylsheet fallback at http://thomasf.github.io/solarized-css/solarized-dark.min.css
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="css/print-style.css"/>
+#+OPTIONS: html-style:nil
+#+STARTUP: nofold
+#+STARTUP: hideblocks
+@@html:<div style="color: blue; font-size: 24px;">Leibel Law Case Status</div>@@
+* -------------- Traffic [11]
+** [[denote:20231229T092133][Bromaghim, Stephanie v. Ligon]]
+[[https://leibel.filevineapp.com/#/project/990515833/calendar/list/2025/2/4][/Stephanie Lynn Bromaghim v. Lee Ann Ligon and Dan Siler/, 2:24-CV-076-SCJ, NDGa Gainesville, Steve Jones]]
+#+begin_export html
+<script type="application/ld+json">
+{
+  "@context": {
+    "custom": "http://example.com/custom.jsonld",
+   },
+  "@id": "urn:uuid:51D1220A-1684-4D43-92D5-F3FC45604B82",
+  "@sameAs": [
+      "https://leibel.filevineapp.com/#/project/990515833/calendar/list/2025/2/4",
+      "/Volumes/LeibelFiles/BROMAGHIM, STEPHANIE  #91330  DOL 2-18-17"
+      ],
+  "custom:type": "lawsuit",
+  "custom:casetype": "traffic",
+  "custom:style": "/Stephanie Lynn Bromaghim v. Lee Ann Ligon and Dan Siler/",
+  "custom:identifier": " 2:24-CV-076-SCJ",
+  "custom:court": "https://www.gand.uscourts.gov/court-info/court-locations/gainesville",
+  "custom:judge": "Steve Jones",
+  "custom:insurance": {
+    "custom:li": 1500000,
+    "custom:licarr": "USAA",
+    "custom:um": 0.0,
+    "custom:umcarr": "NA"
+    },
+  "custom:damages": {
+    "custom:med": 249666.66
+    "custom:other": 170100.00
+  }
+}
+</script>
+#+end_export
+[[https://www.gabar.org/member-directory/?id=C814D15276133F86E0BD83BA7C578EC7][Dallas Oliver, Fain Major Brennan Sanford & Hardee, PC]]
+[[https://www.gabar.org/member-directory/?id=E5505FBED4D2F8897D3C665E4B2C2B6A][Jessica Sanford, Fain Major Brennan Sanford & Hardee, PC]]
+#+begin_export html
+<script type="application/ld+json">
+{
+  "@context": {
+    "schema": "https://schema.org/"
+  },
+  "@id": "https://www.gabar.org/member-directory/?id=C814D15276133F86E0BD83BA7C578EC7",
+  "@type": "Person",
+  "name": "Dallas Oliver",
+  "worksFor": {
+    "@type": "Organization",
+    "@id": "fainmajor.com",
+    "name": "Fain Major Brennan Sanford & Hardee, PC"
+  },
+  "involvedIn": {
+    "@id": "urn:uuid:51D1220A-1684-4D43-92D5-F3FC45604B82",
+    "@name": "Bromaghim v. Ligon"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": {
+    "schema": "https://schema.org/"
+  },
+  "@id": "https://www.gabar.org/member-directory/?id=E5505FBED4D2F8897D3C665E4B2C2B6A",
+  "@type": "Person",
+  "name": "Jessica Sanford",
+  "worksFor": {
+    "@type": "Organization",
+    "@id": "fainmajor.com",
+    "name": "Fain Major Brennan Sanford & Hardee, PC"
+  },
+  "involvedIn": {
+    "@id": "urn:uuid:51D1220A-1684-4D43-92D5-F3FC45604B82",
+    "@name": "Bromaghim v. Ligon"
+  }
+}
+</script>
+#+end_export
+| [2025-03-03 Mon] | {F} | [Bromaghim] | pp mediation --> pp for trial |
+| [2025-03-11 Tue] | {D} | [Bromaghim] | memo to court per order       |
+| [2025-03-17 Mon] | {E} | [Bromaghim] | Mediation                     |
+** [[denote:20240416T094516][Day, Daniel v. McCartney et al]]
+[[https://leibel.filevineapp.com/#/project/990516497/calendar/list/2024/12/30][/Daniel Ethridge Day v. Alan Lee McCartney and Linda Johanson/, 20SC-0483-B, Forsyth State, Russell McClelland]]
+#+begin_export html
+<script type="application/ld+json">
+{
+  "@context": {
+    "custom": "http://example.com/custom.jsonld",
+   },
+  "@id": "urn:uuid:6C44789F-729D-411F-8818-11109C4FDCBC",
+  "@sameAs": [
+      "https://leibel.filevineapp.com/#/project/990516497/calendar/list/2024/12/30",
+      "/Volumes/LeibelFiles/DAY, DANIEL #91605 DOL 5-25-18"
+      ],
+  "custom:type": "lawsuit",
+  "custom:casetype": "traffic",
+  "custom:style": "Daniel Ethridge Day v. Alan Lee McCartney and Linda Johanson",
+  "custom:identifier": "20SC-0483-B",
+  "custom:court": "Forsyth State",
+  "custom:judge": "Russell McClelland",
+  "custom:insurance": {
+    "custom:li": 125000,
+    "custom:licarr": "StateFarm",
+    "custom:um": 100000,
+    "custom:umcarr": "Progressive"
+    },
+  "custom:damages": {
+    "custom:med": 89083.07,
+    "custom:other": 6686.25
+  }
+}
+</script>
+#+end_export
+Counsel for Defendants(State Farm): [[https://www.gabar.org/member-directory/?id=248422B098AAF87DB40961A05AFF2B6C][Jennifer Walker DeBaun, Lynn Leonard & Associates
+]]--[Ashley Vest is handling until 2/24]
+Counsel for UM(Progressive): [[https://www.gabar.org/member-directory/?id=216764E51F55C50EC50D57CAC113A3D7][Karolynn Harris, Worsham Corsi Scott & Dobur]]
+#+begin_export html
+<script type="application/ld+json">
+{
+  "@context": {
+    "schema": "https://schema.org/"
+  },
+  "@id": "https://www.gabar.org/member-directory/?id=248422B098AAF87DB40961A05AFF2B6C",
+  "@type": "Person",
+  "name": "Jennifer Walker DeBaun",
+  "worksFor": {
+    "@type": "Organization",
+    "@id": "statefarm.com",
+    "name": "Lynn Leonard & Associates"
+  },
+  "involvedIn": {
+    "@id": "",
+    "@name": "Day v. McCartney"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": {
+    "schema": "https://schema.org/"
+  },
+  "@id": "https://www.gabar.org/member-directory/?id=216764E51F55C50EC50D57CAC113A3D7",
+  "@type": "Person",
+  "name": "Karolynn Harris",
+  "worksFor": {
+    "@type": "Organization",
+    "@id": "progressive.com",
+    "name": "Worsham Corsi Dobur & Berss"
+  },
+  "involvedIn": {
+    "@id": "urn:uuid:6C44789F-729D-411F-8818-11109C4FDCBC",
+    "@name": "Day v. McCartney"
+  }
+}
+</script>
+#+end_export
+| [2025-02-24 Mon] | {F}  | [Day] | vanishing? PP FOR TRIAL - MSJ is pending |
+| [2025-02-25 Tue] | {D}  | [Day] | dl consent continuance                   |
+| [2025-03-07 Fri] | {E}  | [Day] | calendar CALL, PTO due PRIOR             |
+| [2025-03-17 Mon] | {E}  | [Day] | two week trial calendar                  |
+** [[denote:20240520T131409][Hardwick, Tara v. Adams]]
+/Tara June Hardwick v. James Wesley Adams and Dagmar Adams/, 23SC-1568-B, Forsyth State, Russell McClelland]]
+#+begin_export html
+<script type="application/ld+json">
+{
+  "@context": {
+    "custom": "http://example.com/custom.jsonld",
+   },
+  "@id": "urn:uuid:D3DB036F-5D58-4C03-B365-7CF30DDDBE99",
+  "@sameAs": [
+      "https://leibel.filevineapp.com/#/project/990311327/calendar/list/2024/12/30",
+      "https://atty.forsythco.com/CaseDetail.aspx?CaseID=1428883",
+      "/Volumes/LeibelFiles/HARDWICK, TARA #91907 DOL 2-24-22"
+      ],
+  "custom:type": "LegalCase",
+  "custom:identifier": "23SC-1568-B",
+  "custom:court": "https://forsythcourts.com/About/State-Court",
+  "custom:judge": "Russell McClelland",
+  "custom:insurance": {
+    "custom:li": 50000,
+    "custom:licarr": "AutoOwners",
+    "custom:um": 250000,
+    "custom:umcarr": "Farmers"
+    },
+  "custom:damages": {
+    "custom:med": 11102.45
+    "custom:other": 
+  }
+}
+</script>
+#+end_export
+Counsel for Defendants: [[https://www.gabar.org/member-directory/?id=E3168707F4EBDC412A35AE3E31932F16][Charles Medlin, Bovis, Kyle, Burch & Medlin, LLC]]
+Counsel for Defendants: [[https://www.gabar.org/member-directory/?id=83679EAFA228AB538FD575B91F9930B5][Eric A. Ludwig, Bovis, Kyle, Burch & Medlin, LLC]]
+Counsel for UM: [[https://www.gabar.org/member-directory/?id=AB63B28CB2D704FA0E46C1C745FF11BC][James Wysocki, Farmers Insurance Exchange]]
+#+begin_export html
+<script type="application/ld+json">
+{
+  "@context": {
+    "schema": "https://schema.org/"
+  },
+  "@id": "https://www.gabar.org/member-directory/?id=E3168707F4EBDC412A35AE3E31932F16",
+  "@type": "Person",
+  "name": "Charles Medlin",
+  "worksFor": {
+    "@type": "Organization",
+    "@id": "https://www.boviskyle.com/",
+    "name": "Bovis, Kyle, Burch & Medlin, LLC"
+  },
+  "involvedIn": {
+    "@id": "urn:uuid:D3DB036F-5D58-4C03-B365-7CF30DDDBE99",
+    "@name": "Hardwick v. Adams"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": {
+    "schema": "https://schema.org/"
+  },
+  "@id": "https://www.gabar.org/member-directory/?id=83679EAFA228AB538FD575B91F9930B5",
+  "@type": "Person",
+  "name": "Eric A. Ledwig",
+  "worksFor": {
+    "@type": "Organization",
+    "@id": "https://boviskyle.com",
+    "name": "Bovis, Kyle, Burch & Medlin, LLC"
+  },
+  "involvedIn": {
+    "@id": "urn:uuid:D3DB036F-5D58-4C03-B365-7CF30DDDBE99",
+    "@name": "Hardwick v. Adams"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": {
+    "schema": "https://schema.org/"
+  },
+  "@id": "https://www.gabar.org/member-directory/?id=AB63B28CB2D704FA0E46C1C745FF11BC",
+  "@type": "Person",
+  "name": "James Wysocki",
+  "worksFor": {
+    "@type": "Organization",
+    "@id": "farmersinsurance.com",
+    "name": "Farmers Insurance Exchange"
+  },
+  "involvedIn": {
+    "@id": "urn:uuid:D3DB036F-5D58-4C03-B365-7CF30DDDBE99",
+    "@name": ""
+  }
+}
+</script>
+#+end_export
+| [2025-03-07 Fri] | {F} | [Hardwick] | discovery ran long ago, SKL has authority to get 10k from the UM |
+** [[denote:20240312T113933][Krebs-Bensch, Allison v. George]]
+[[https://leibel.filevineapp.com/#/project/990415089/calendar/list/2025/2/6][/Allison Krebs Bensch v. Trinity George and Jaqueline Y. George, individually and as Natural Guardian of Trinity George/]]
+#+begin_export html
+<script type="application/ld+json">
+{
+  "@context": {
+    "custom": "http://example.com/custom.jsonld",
+   },
+  "@id": "urn:uuid:94923FCF-D680-4E7D-B084-16B0211EA3F9",
+  "@sameAs": [
+      "https://leibel.filevineapp.com/#/project/990415089/calendar/list/2025/2/6",
+      "https://researchga.tylerhost.net/CourtRecordsSearch/#!/case/6e0a1c175ea5564e93d53f2537c09357",
+      "/Volumes/LeibelFiles/KREBS-BENSCH, ALLISON #91951 DOL 7-25-22"
+      ],
+  "custom:type": "lawsuit",
+  "custom:casetype": "traffic",
+  "custom:style": "Allison Krebs Bensch v. Trinity George and Jaqueline Y. George, individually and as Natural Guardian of Trinity George",
+  "custom:identifier": "24A01656",
+  "custom:court": "https://dekalbstatecourt.net/",
+  "custom:judge": "https://dekalbstatecourt.net/division-a/division-a-judges/judge-mike-jacobs-division-a-5/",
+  "custom:insurance": {
+    "custom:li": 25000,
+    "custom:licarr": "USAA",
+    "custom:um": 500000,
+    "custom:umcarr": "Allstate"
+    },
+  "custom:damages": {
+    "custom:med": 32417.40,
+    "custom:other": 0.0
+  }
+}
+</script>
+#+end_export
+/Allison Krebs Bensch v. Trinity George and Jaqueline Y. George, individually and as Natural Guardian of Trinity George/
+Attorney for Defendants: [[https://www.gabar.org/member-directory/?id=C814D15276133F86E0BD83BA7C578EC7][Dallas S.F. Oliver, Fain, Major & Brennan, PC]]
+Attorney for UM: [[https://www.gabar.org/member-directory/?id=50CCE3989851B341D19E51CCFBF3689A][Cameil Reddick, Law Office of Marcus A. Blackwell]]
+#+begin_export html
+<script type="application/ld+json">
+{
+  "@context": {
+    "schema": "https://schema.org/"
+  },
+  "@id": "https://www.gabar.org/member-directory/?id=C814D15276133F86E0BD83BA7C578EC7",
+  "@type": "Person",
+  "name": "Dallas S.F. Oliver",
+  "worksFor": {
+    "@type": "Organization",
+    "@id": "fainmajor.com",
+    "name": "Fain, Major & Brennan, PC"
+  },
+  "involvedIn": {
+    "@id": "urn:uuid:94923FCF-D680-4E7D-B084-16B0211EA3F9",
+    "@name": "Krebs v. George"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": {
+    "schema": "https://schema.org/"
+  },
+  "@id": "https://www.gabar.org/member-directory/?id=50CCE3989851B341D19E51CCFBF3689A",
+  "@type": "Person",
+  "name": "Cameil Reddick",
+  "worksFor": {
+    "@type": "Organization",
+    "@id": "allstate.com",
+    "name": "Law Office of Marcus A. Blackwell"
+  },
+  "involvedIn": {
+    "@id": "urn:uuid:94923FCF-D680-4E7D-B084-16B0211EA3F9",
+    "@name": "Krebs v. Georiga"
+  }
+}
+</script>
+#+end_export
+| [2025-02-21 Fri] | {F} | [Krebs] | fu discovery issue, mediation    |
+| [2025-04-07 Mon] | {D} | [Krebs] | dl to mediate                    |
+| [2025-04-17 Thu] | {E} | [Krebs] | close of discovery per extension |
+** [[denote:20240528T110056][Martin, Dawn v. Ash et al.]]
+[[https://leibel.filevineapp.com/#/project/991716232/calendar/list/2025/1/31][Dawn Martin v. Lynneicia Ash and Dajuan Cloud and Jasmine Mahone d/b/a collectively as D&J Appliances, 2024SV000939, Hall State, Larry Baldwin]]
+#+begin_export html
+<script type="application/ld+json">
+{
+  "@context": {
+    "custom": "http://example.com/custom.jsonld",
+   },
+  "@id": "urn:uuid:03E00787-E29E-40CD-9123-C4E002AFE2CC",
+  "@sameAs": [
+      "https://leibel.filevineapp.com/#/project/991716232/calendar/list/2025/1/31",
+      "/Volumes/LeibelFiles/MARTIN, DAWN #92031 DOL 10-10-23"
+      ],
+  "custom:type": "lawsuit",
+  "custom:casetype": "traffic",
+  "custom:style": "Dawn Martin v. Lynneicia Ash and Dajuan Cloud and Jasmine Mahone d/b/a collectively as D&J Appliances",
+  "custom:identifier": "2024SV000939",
+  "custom:court": "Hall State",
+  "custom:judge": "Larry Baldwin",
+  "custom:insurance": {
+    "custom:li": 15590.18,
+    "custom:licarr": "Progressive [PAID]",
+    "custom:um": 5000.00,
+    "custom:umcarr": "Allstate [PAID]",
+    "custom:otheramt": ,
+    "custom:othercarr": ""
+    },
+  "custom:damages": {
+    "custom:med": 46425.00,
+    "custom:other": 0.00
+  }
+}
+</script>
+#+end_export
+Attorney for Defendants: [[https://www.gabar.org/member-directory/?id=F95E177D22659DC6887DD3B5DE2BA549][Anne D. Gower]]
+#+begin_export html
+<script type="application/ld+json">
+{
+  "@context": {
+    "schema": "https://schema.org/"
+  },
+  "@id": "https://www.gabar.org/member-directory/?id=F95E177D22659DC6887DD3B5DE2BA549",
+  "@type": "Person",
+  "name": "Anne D. Gower",
+  "worksFor": {
+    "@type": "Organization",
+    "@id": "https://gwdlawfirm.com",
+    "name": "Gower, Wooten & Darneille, LLC"
+  },
+  "involvedIn": {
+    "@id": "urn:uuid:03E00787-E29E-40CD-9123-C4E002AFE2CC",
+    "@name": "Martin v. Ash et al."
+  }
+}
+</script>
+#+end_export
+| [2025-02-25 Tue] | {T} | [Martin] | pp depos |
+| [2025-02-27 Thu] | {E} | [Martin] | depos    |
+** [[denote:20240318T150448][Newman, Daniel v. Kurt Panton et al.]]
+[["https://leibel.filevineapp.com/#/project/990516226/custom/casesummary990000988][Daniel Allen Newman v. Kurt Rohan Panton, Humble Leaderology, LLC, and Chick-fil-A, Inc., 23EV007755, Fulton State, Diane Besson]]
+#+begin_export html
+<script type="application/ld+json">
+{
+  "@context": {
+    "custom": "http://example.com/custom.jsonld",
+   },
+  "@id": "urn:uuid:40C47C0E-1921-4BE0-8B5C-36D291A1D6BD",
+  "@sameAs": [
+      "https://leibel.filevineapp.com/#/project/990516226/custom/casesummary990000988",
+      "https://researchga.tylerhost.net/CourtRecordsSearch/#!/case/47608944336a506b839596f016488104"
+      ],
+  "custom:type": "lawsuit",
+  "custom:casetype": "traffic",
+  "custom:style": "Daniel Allen Newman v. Kurt Rohan Panton, Humble Leaderology, LLC, and Chick-fil-A, Inc.",
+  "custom:identifier": "23EV007755",
+  "custom:court": "Fulton State",
+  "custom:judge": "Diane Bessopn",
+  "custom:insurance": {
+    "custom:li": 250000,
+    "custom:licarr": "Sedgwick-HL/CFA has 5MM",
+    "custom:um": 100000,
+    "custom:umcarr": "State Farm",
+    "custom:umb": 1000000
+    },
+  "custom:damages": {
+    "custom:med": 20726.31,
+    "custom:income": 0.00
+  }
+}
+</script>
+#+end_export
+Counsel for Chik-fil-A: [[https://www.gabar.org/member-directory/?id=E1E3DF914309E098B41E36928DC751AD][Brooke Voelzke, Nicolson Law Group]]
+Counsel for Panton and HL: [[https://www.gabar.org/member-directory/?id=537478992BF89CEA31FB26C808D4F0DB][Walter McClelland, Freeman Mathis & Gary LLP]]
+Counsel for Panton and HL: [[https://www.gabar.org/member-directory/?id=95C312B8198C8086D89B25E05B4F21F1][James Scarbrough, Freeman Mathis & Gary LLP]]
+# Counsel for State Farm: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=NTg4NzUz][Daniel C. Prout, Jr., Waldon Adelman Castilla McNamara & Prout]] OUT
+# Counsel for State Farm: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=NjgxMTM3][Ryan E. Brightman, Waldon Adelman Castilla McNamara & Prout]] OUT
+#+begin_export html
+<script type="application/ld+json">
+{
+  "@context": {
+    "schema": "https://schema.org/"
+  },
+  "@id": "https://www.gabar.org/member-directory/?id=E1E3DF914309E098B41E36928DC751AD",
+  "@type": "Person",
+  "name": "Brooke Voelzke",
+  "worksFor": {
+    "@type": "Organization",
+    "@id": "nicolsonlawgroup.com",
+    "name": "Nicolson Law Group"
+  },
+  "involvedIn": {
+    "@id": "urn:uuid:40C47C0E-1921-4BE0-8B5C-36D291A1D6BD",
+    "@name": "Newman v. Panton et al."
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": {
+    "schema": "https://schema.org/"
+  },
+  "@id": "https://www.gabar.org/member-directory/?id=537478992BF89CEA31FB26C808D4F0DB",
+  "@type": "Person",
+  "name": "Walter B. McClelland",
+  "worksFor": {
+    "@type": "Organization",
+    "@id": "fmglaw.com",
+    "name": "Freeman Mathis & Gary LLP"
+  },
+  "involvedIn": {
+    "@id": "urn:uuid:40C47C0E-1921-4BE0-8B5C-36D291A1D6BD",
+    "@name": "Newman v. Panton et al."
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": {
+    "schema": "https://schema.org/"
+  },
+  "@id": "https://www.gabar.org/member-directory/?id=95C312B8198C8086D89B25E05B4F21F1",
+  "@type": "Person",
+  "name": "James Scarbrough",
+  "worksFor": {
+    "@type": "Organization",
+    "@id": "fmglaw.com",
+    "name": "Freeman Mathis & Gary LLP"
+  },
+  "involvedIn": {
+    "@id": "urn:uuid:40C47C0E-1921-4BE0-8B5C-36D291A1D6BD",
+    "@name": "Newman v. Panton et al."
+  }
+}
+</script>
+#+end_export
+| [2025-02-21 Fri] | {F} | [Newman] | schedule mediation, r file more |
+| [2025-03-12 Wed] | {D} | [Newman] | dispositive motion dl           |
+| [2025-04-11 Fri] | {D} | [Newman] | dl to mediate                   |
+| [2025-05-12 Mon] | {D} | [Newman] | dl to notice ready for trial    |
+** [[denote:20250220T132030][Popphan v. XXX]]
+
+| [2025-02-28 Fri] | {F} | [Poppham] | meet --> wait on medical --> OTHER CASES/EMMA |
+
+  FF mother Jennifer Lowe 693 Sweetwater Church 706-974-8766, father Jeff, MIL Brandy Dollar 706-974-7389
+
+** [[denote:20240312T104552][Smith, Wanda v. Tracy Pagliari et al.]]
+/Wanda Smith and Leslie Smith v. Tracy Pagliara, Payton Allen Johnson, Williams Industrial Services Group, Inc., Williams Industrial Services Group, LLC, and Williams Industrial Services/, 24EV000284, Fulton State, John Mather
+#+begin_export html
+<script type="application/ld+json">
+{
+  "@context": {
+    "custom": "http://example.com/custom.jsonld",
+   },
+  "@id": "urn:uuid:6877BB3C-E43F-42DE-BD43-4381782920B1",
+  "@sameAs": [
+      "https://leibel.filevineapp.com/#/project/990583973/custom/casesummary990000988",
+      "https://researchga.tylerhost.net/CourtRecordsSearch/#!/cases"
+      ],
+  "custom:type": "lawsuit",
+  "custom:casetype": "traffic",
+  "custom:style": "/Wanda Smith and Leslie Smith v. Tracy Pagliara, Payton Allen Johnson, Williams Industrial Services Group, Inc., Williams Industrial Services Group, LLC, and Williams Industrial Services",
+  "custom:identifier": "24EV000284",
+  "custom:court": "Fulton State",
+  "custom:judge": "John Mather",
+  "custom:insurance": {
+    "custom:li": 1000000.00,
+    "custom:licarr": "Gallagher Bassett Services, Inc",
+    "custom:um": 100000.00,
+    "custom:umcarr": "Allstate"
+    },
+  "custom:damages": {
+    "custom:med": 30829.78
+    "custom:other": 0.00
+  }
+}
+</script>
+#+end_export
+Attorney for Pagliara et al: [[https://www.gabar.org/member-directory/?id=65F30539E6D3A0F8EE9123155D7A25E1][R. Scott Masterson, Lewis Brisbois Bisgaard & Smith LLP]]
+Attorney for Pagliara et al: [[https://www.gabar.org/member-directory/?id=633B752DFE8F88138A28147B29BCF20A][Paul R. Borr, Lewis Brisbois Bisgaard & Smith LLP]]
+Attorney for Johnson: [[https://www.gabar.org/member-directory/?id=87F1C900317AAEA0358FA6A80354EEEB][Brenda Raspberry, Andrews & Gupta]]
+#+begin_export html
+<script type="application/ld+json">
+{
+  "@context": {
+    "schema": "https://schema.org/"
+  },
+  "@id": "https://www.gabar.org/member-directory/?id=65F30539E6D3A0F8EE9123155D7A25E1",
+  "@type": "Person",
+  "name": "R. Scott Masterson",
+  "worksFor": {
+    "@type": "Organization",
+    "@id": "lewisbrisbois.com",
+    "name": "Lewis Brisbois Bisgaard & Smith LLP"
+  },
+  "involvedIn": {
+    "@id": "urn:uuid:6877BB3C-E43F-42DE-BD43-4381782920B1",
+    "@name": "Smith v. Pagliara"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": {
+    "schema": "https://schema.org/"
+  },
+  "@id": "https://www.gabar.org/member-directory/?id=633B752DFE8F88138A28147B29BCF20A",
+  "@type": "Person",
+  "name": "Paul R. Borr",
+  "worksFor": {
+    "@type": "Organization",
+    "@id": "lewisbrisbois.com",
+    "name": "Lewis Brisbois Bisgaard & Smith LLP"
+  },
+  "involvedIn": {
+    "@id": "urn:uuid:6877BB3C-E43F-42DE-BD43-4381782920B1",
+    "@name": "Smith v. Pagliara"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": {
+    "schema": "https://schema.org/"
+  },
+  "@id": "https://www.gabar.org/member-directory/?id=87F1C900317AAEA0358FA6A80354EEEB",
+  "@type": "Person",
+  "name": "Brenda Raspberry",
+  "worksFor": {
+    "@type": "Organization",
+    "@id": "geico.com",
+    "name": "Andrews & Gupta"
+  },
+  "involvedIn": {
+    "@id": "urn:uuid:6877BB3C-E43F-42DE-BD43-4381782920B1",
+    "@name": "Smith v. Pagliara"
+  }
+}
+</script>
+#+end_export
+| [2025-02-21 Fri] | {F} | [SmithW] | dismiss and refile if they won't transfer |
+** [[denote:20240522T135857][Sullen, Mordena v. Adams]]
+/Mordena Sullen v. Carla Wilson Adams/
+| [2025-03-14 Fri] | {F} | [Sullen] | stip to calendar filed |
+** [[denote:20240514T121105][White, Neal v. Chaput et al.]]
+[[https://leibel.filevineapp.com/#/project/990515879/calendar/list/2025/2/14][Neal White, individually and as Natural Guardian of Connor White, a minor v. Nicklas Chaput, Barry Stringer and Ann Stringer, SUVC2023000082, Lumpkin Superior, T. Buckley Levins]]
+#+begin_export html
+<script type="application/ld+json">
+{
+  "@context": {
+    "custom": "http://example.com/custom.jsonld",
+   },
+  "@id": "urn:uuid:78BC40D8-AFE1-4FAE-B217-AA1862CBA0D5",
+  "@sameAs": [
+      "https://leibel.filevineapp.com/#/project/990515879/calendar/list/2025/2/14",
+      ""
+      ],
+  "custom:type": "lawsuit",
+  "custom:casetype": "traffic",
+  "custom:style": "Neal White, individually and as Natural Guardian of Connor White, a minor v. Nicklas Chaput, Barry Stringer and Ann Stringer",
+  "custom:identifier": "SUVC2023000082",
+  "custom:court": "Lumpkin Superior",
+  "custom:judge": "T. Buckley Levins",
+  "custom:insurance": {
+    "custom:li": 25000.00,
+    "custom:licarr": "Alfa",
+    "custom:um": 75000.00,
+    "custom:umcarr": "Allstate"
+    "custom:other": 1000000.00
+    },
+  "custom:damages": {
+    "custom:med": 32957.65,
+    "custom:other": 0.00
+  }
+}
+</script>
+#+end_export
+# Counsel for RRG: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=MDIwNzY1][Adam L. Appel, Dermer Appel Ruder, LLC]] 
+Counsel for property Ds: [[https://www.gabar.org/member-directory/?id=AB0B2B01E3F21143EB561BE5BC8FE322][William Casey, Jr., Swift, Currie, McGhee & Hiers, LLP]]
+Counsel for property Ds: [[https://www.gabar.org/member-directory/?id=0C2BAF8ADCF48CAF53D41148E16A3746][Daniel J. McCann, Swift, Currie, McGhee & Hiers, LLP]
+Counsel for Chaput: [[https://www.gabar.org/member-directory/?id=9289AF1D273FCC004558E0B96C435A95][Jonathan L. Bledsoe, The Minor Firm]]
+Counsel for Chaput: [[https://www.gabar.org/member-directory/?id=0D89434F6BD9D867426E9ADF8A52E5B1][Azurae K. Orie, The Minor Firm]]
+Counsel for UM: [[https://www.gabar.org/member-directory/?id=E2F7A6DB49C0100B68A86643DA905A44][Morris Margulis, Law Office of Marcus A. Blackwell]]
+#+begin_export html
+<script type="application/ld+json">
+{
+  "@context": {
+    "schema": "https://schema.org/"
+  },
+  "@id": "https://www.gabar.org/member-directory/?id=AB0B2B01E3F21143EB561BE5BC8FE322",
+  "@type": "Person",
+  "name": "William T. Casey, Jr.",
+  "worksFor": {
+    "@type": "Organization",
+    "@id": "swiftcurrie.com",
+    "name": "Swift Currie McGhee & Hiers LLP"
+  },
+  "involvedIn": {
+    "@id": "urn:uuid:78BC40D8-AFE1-4FAE-B217-AA1862CBA0D5",
+    "@name": "White v. Chaput et al."
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": {
+    "schema": "https://schema.org/"
+  },
+  "@id": "https://www.gabar.org/member-directory/?id=0C2BAF8ADCF48CAF53D41148E16A3746",
+  "@type": "Person",
+  "name": "Daniel J. McCann",
+  "worksFor": {
+    "@type": "Organization",
+    "@id": "swiftcurrie.com",
+    "name": "Swift Currie McGhee & Hiers LLP"
+  },
+  "involvedIn": {
+    "@id": "urn:uuid:78BC40D8-AFE1-4FAE-B217-AA1862CBA0D5",
+    "@name": "White v. Chaput et al."
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": {
+    "schema": "https://schema.org/"
+  },
+  "@id": "https://www.gabar.org/member-directory/?id=9289AF1D273FCC004558E0B96C435A95",
+  "@type": "Person",
+  "name": "Jonathan Bledsoe",
+  "worksFor": {
+    "@type": "Organization",
+    "@id": "minorfirm.com",
+    "name": "The Minor Firm LLC"
+  },
+  "involvedIn": {
+    "@id": "urn:uuid:78BC40D8-AFE1-4FAE-B217-AA1862CBA0D5",
+    "@name": "White v. Chaput et al."
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": {
+    "schema": "https://schema.org/"
+  },
+  "@id": "https://www.gabar.org/member-directory/?id=0D89434F6BD9D867426E9ADF8A52E5B1",
+  "@type": "Person",
+  "name": "Azurae Orie",
+  "worksFor": {
+    "@type": "Organization",
+    "@id": "minorfirm.com",
+    "name": "The Minor Firm LLC"
+  },
+  "involvedIn": {
+    "@id": "urn:uuid:78BC40D8-AFE1-4FAE-B217-AA1862CBA0D5",
+    "@name": "White v. Chaput et al."
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": {
+    "schema": "https://schema.org/"
+  },
+  "@id": "",
+  "@type": "Person",
+  "name": "",
+  "worksFor": {
+    "@type": "Organization",
+    "@id": "allstate.com",
+    "name": "Law Office of Marcus A. Blackwell"
+  },
+  "involvedIn": {
+    "@id": "urn:uuid:78BC40D8-AFE1-4FAE-B217-AA1862CBA0D5",
+    "@name": "White v. Chaput et al."
+  }
+}
+</script>
+#+end_export
+| [2025-02-21 Fri] | {F} | [White] | SKL to talk to UM --> stip to trial and OOS |
+* -------------- Premises [7]
+** [[denote:20230524T144740][Bruce, Matthew v. Kroger Co.]]
+
+91764, Matthew Bruce v. The Kroger Co., 1:23-cv-05470-ELR, Georgia Northern District, Eleanor L. Ross
+
+https://leibel.filevineapp.com/#/project/990515965/custom/casesummary990000988
+https://ecf.gand.uscourts.gov/cgi-bin/iquery.pl?183017581859587-L_1_0-0-323097
+
+| [2025-02-28 Fri] | {F} | [Bruce] | waiting on MSJ, lost income, supplement, prep trial, ltr client |
+
+** [[denote:20240409T133728][Conard, Victoria v. Ingles Markets, Inc. et al.]]
+
+91847, Victoria Conard v. Ingles Markets, Inc. and DS Services of America, Inc. d/b/a Primo Water North America, STC2024000369, Stephens, Judge TBD
+
+https://leibel.filevineapp.com/#/project/990515978/custom/casesummary990000988
+
+| [2025-02-21 Fri] | 1:30p{E} | [Conard] | Zoom with Wheeler --> depo? [fu Chrisna Jones] |
+
+** [[../6-denote/20240514T090408--kipfmiller-marylynn__casenotes.org][Kipfmiller, Marylynn v. City of Savannan]]
+** [[../6-denote/20240417T151048--nelson-curtis__casenotes.org][Nelson, Curtis v. ATS]] 
+** [[denote:20240417T092927][Ragsdale, Forrest v. Wells Fargo et al.]]
+** [[denote:20240418T092418][Sewell, Marcus et al v. Wilderness Development Corporation]]
+
+91929, Sewell, Marcus et al v. Wilderness Development Corporation, 3:24-cv-00406-TAV-JEM, EDTN, Thomas A. Varlan
+
+https://leibel.filevineapp.com/#/project/990515878/custom/casesummary990000988
+
+| [2025-02-24 Mon] | {T} | [Sewell] | get SS, r file, fu depos etc, non-party, suppl med and expert? |
+
+contacting Daniel Forbing, no 6.4, finalize expert disclosures, get PO docs and info, McCord, setting up depositions 
+
+| [2025-09-11 Thu] | {D} | [Sewell] | dl expert disclosures for Pl |
+
+-- D by 10/10, plus 30 days for rebuttal experts, Daubert to be filed and all evidentiary discovery to be concluded and statuts report filed by [2025-11-10 Mon]. 2/6/26 for pretrial disclosures, PTO (must circulate by 1/23), MIL, for trial 3/10 SEE SCHEDULING ORDER FOR OTHER DEADLINES
+
+** [[../6-denote/20240514T134729--young-vicky__casenotes.org][Young, Vicky v. Verizon]]
+:Properties:
+:li: multiple 1MM policies
+:um: na
+:med: $130,414.13
+:style: /Vicky Young v. T-Mobile USA, Inc., Caliber 1 Construction, Inc., Atlanta Flooring Design Centers, Inc., ASE Flooring LLC,  and John Doe 1./
+:can: 24-C-07683-S1
+:court: Gwinnett State
+:judge: Emily Brantley
+:End:
+:Counsel:
+Atty for T-Mobile: [[https://www.gabar.org/member-directory/?id=D503BB29152E614CF8BDE0AD7F893096][Matthew S. Knoop, Polsinelli PC]]
+Atty for Atlanta Flooring: [[https://www.gabar.org/member-directory/?id=708DCE518C1AC72B574E695CE74FD7A1][Christopher J. Watkins, Hall Booth Smith PC]]
+Atty for Atlanta Flooring: [[https://www.gabar.org/member-directory/?id=C9446F2372B9E29C1186BE94557F1427][William J. Barillas, Hall Booth Smith PC]]
+Atty for Caliber 1: [[https://www.gabar.org/member-directory/?id=690D96B16948FA7B7ECE1EBD41CE069C][Mark D. Lefkow, Esq., Copeland, Stair, Valz & Lovell, LLP]]
+Atty for Caliber 1: [[https://www.gabar.org/member-directory/?id=7410FA515970ABB6185A917B6BE4D547][Xiaoya Zhu, Esq., Copeland, Stair, Valz & Lovell, LLP]]
+:End:
+:Links:
+[[elisp:(dired-other-window "/Volumes/LeibelFiles/YOUNG, VICKY #92035 DOL 11-17-23")][server]]
+[[https://leibel.filevineapp.com/#/project/991735117/calendar/list/2025/1/31][filevine]]
+:End:
+
+T-Mobile case sucks, waiting on new sub to answer, 
+
+| [2025-02-21 Fri] | {F} | [Young] | calendar answer, update CMO, move case |
+| [2025-04-01 Tue] | {D} | [Young] | close of discovery per CMO             |
+| [2025-05-01 Thu] | {D} | [Young] | dl for rebuttal witnesses              |
+| [2025-05-15 Thu] | {D} | [Young] | dl to mediate per CMO                  |
+| [2025-06-02 Mon] | {D} | [Young] | PTO                                    |
+
+* -------------- Medmal [6]
+** [[//][Holderfield, Ricky Alan v. Dennis Wang MD et al.]]
+** [[../6-denote/20240429T083730--moye-sheria__casenotes.org][Moye, Sheria v. USIOM et al]]
+[[https://leibel.filevineapp.com/#/project/990516069/calendar/list/2025/2/7][Sheria Moye v. Kimberly Stanley, Monitoring Concepts Neuro, LLC, and US IOM, LLC]]
+#+begin_export html
+<script type="application/ld+json">
+{
+  "@context": {
+    "custom": "http://example.com/custom.jsonld",
+   },
+  "@id": "urn:uuid:6EA0F4AE-9DFB-4D00-A301-141DEC113D83",
+  "@sameAs": [
+      "https://leibel.filevineapp.com/#/project/990516069/calendar/list/2025/2/7",
+      "https://researchga.tylerhost.net/CourtRecordsSearch/#!/cases"
+      ],
+  "custom:type": "lawsuit",
+  "custom:casetype": "medmal",
+  "custom:style": "Sheria Moye v. Kimberly Stanley, Monitoring Concepts Neuro, LLC, and US IOM, LLC",
+  "custom:identifier": "21A04921",
+  "custom:court": "https://dekalbstatecourt.net/",
+  "custom:judge": "Kimberly Alexander",
+  "custom:insurance": {
+    "custom:li": 1000000,
+    "custom:licarr": "The Medical Protective Company"
+    },
+  "custom:damages": {
+    "custom:med": 48291.82
+    "custom:other": 
+  }
+}
+</script>
+#+end_export
+Counsel for Stanley, Dickson and monitoring entities: [[https://gabar.reliaguide.com/lawyer/30303-GA-Terrell-Benton-263119][Terrell W. Benton, III, Hall Booth Smith, PC]]
+Counsel for Stanley, Dickson and monitoring entities: [[https://gabar.reliaguide.com/lawyer/30303-GA-Sheila-Kazemian-281971][Sheila K. Kazemian, Hall Booth Smith, PC]]
+#+begin_export html
+<script type="application/ld+json">
+{
+  "@context": {
+    "schema": "https://schema.org/"
+  },
+  "@id": "https://gabar.reliaguide.com/lawyer/30303-GA-Terrell-Benton-263119",
+  "@type": "Person",
+  "name": "",
+  "worksFor": {
+    "@type": "Organization",
+    "@id": "hallboothsmith.com",
+    "name": "Hall Booth Smith, PC"
+  },
+  "involvedIn": {
+    "@id": "urn:uuid:6EA0F4AE-9DFB-4D00-A301-141DEC113D83",
+    "@name": "Moye v. Stanley"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": {
+    "schema": "https://schema.org/"
+  },
+  "@id": "https://gabar.reliaguide.com/lawyer/30303-GA-Sheila-Kazemian-281971",
+  "@type": "Person",
+  "name": "",
+  "worksFor": {
+    "@type": "Organization",
+    "@id": "hallboothsmith.com",
+    "name": "Hall Booth Smith, PC"
+  },
+  "involvedIn": {
+    "@id": "urn:uuid:6EA0F4AE-9DFB-4D00-A301-141DEC113D83",
+    "@name": "Moye v. Stanley"
+  }
+}
+</script>
+#+end_export
+| [2025-02-28 Fri] | {F} | [Moye] | schedule expert, then mediation?                  |
+| [2025-04-23 Wed] | {D} | [Moye] | dl to mediate, notify court by 4/30, pretrial 5/7 |
+** [[//][Murray, Brooke Nichole et al. {Coen} v. Megally et al.]]
+[[https://leibel.filevineapp.com/#/project/991833998/calendar/list/2025/2/18][/Brooke Nichole Murray and Edward J. Murray III, Individually and as Natural Parents and Guardians of Coen Elliot Murray v. Nada Megally, M.D. and Modern Obstetrics & Gynecology of North Atlanta, P.C./, 24A02656, Fulton State, Myra Dixon]]
+#+begin_export html
+<script type="application/ld+json">
+{
+  "@context": {
+    "custom": "http://example.com/custom.jsonld",
+   },
+  "@id": "urn:uuid:7837DCBF-7E5D-4024-BB60-EDF8CA4ED7B1",
+  "@sameAs": [
+      "https://leibel.filevineapp.com/#/project/991833998/calendar/list/2025/2/18",
+      "/Volumes/LeibelFiles/MURRAY, COEN #92048 DOL 5-19-22"
+      ],
+  "custom:type": "lawsuit",
+  "custom:casetype": "medmal",
+  "custom:style": "Brooke Nichole Murray and Edward J. Murray III, Individually and as Natural Parents and Guardians of Coen Elliot Murray",
+  "custom:identifier": "24A02656",
+  "custom:court": "Fulton State",
+  "custom:judge": "Myra Dixon",
+  "custom:damages": {
+    "custom:med": 39111.80
+  }
+}
+</script>
+#+end_export
+Attorney for Defendant: [[https://www.gabar.org/member-directory/?id=B432E35C2D57028E99130BC9C1CC4394][Jacob Raehn, MMPO Defense]]
+Attorney for Defendant: [[https://www.gabar.org/member-directory/?id=4AB1AFA1C78947E587F44447EF0FF2A1][Megan L. Patterson, MMPO Defense]]
+#+begin_export html
+<script type="application/ld+json">
+{
+  "@context": {
+    "schema": "https://schema.org/"
+  },
+  "@id": "https://www.gabar.org/member-directory/?id=B432E35C2D57028E99130BC9C1CC4394",
+  "@type": "Person",
+  "name": "Jacob Raehn",
+  "worksFor": {
+    "@type": "Organization",
+    "@id": "mmpodefense.com",
+    "name": "MMPO Defense/MagMutual"
+  },
+  "involvedIn": {
+    "@id": "urn:uuid:7837DCBF-7E5D-4024-BB60-EDF8CA4ED7B1",
+    "@name": "Murray v. Megally et al."
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": {
+    "schema": "https://schema.org/"
+  },
+  "@id": "https://www.gabar.org/member-directory/?id=4AB1AFA1C78947E587F44447EF0FF2A1",
+  "@type": "Person",
+  "name": "Megan L. Patterson",
+  "worksFor": {
+    "@type": "Organization",
+    "@id": "mmpodefense.com",
+    "name": "MMPO Defense/MagMutual"
+  },
+  "involvedIn": {
+    "@id": "urn:uuid:7837DCBF-7E5D-4024-BB60-EDF8CA4ED7B1",
+    "@name": "Murray v. Megally et al."
+  }
+}
+</script>
+#+end_export
+| [2025-02-28 Fri] | {F} | [Murray] | {circumcision}, agendaskl re vicarious, depos practice, experts? |
+** [[../6-denote/20240418T095349--rundles-royce__casenotes.org][Rundles, Royce v. Stanley et al.]]
+[[https://leibel.filevineapp.com/#/project/991348756/calendar/list/2025/2/17][/Royce Cailen Rundles v. David Stanley, M.D., Northeast Georgia Medical Center, Inc., and Northeast Georgia Physicians Group, Inc./, 2023SV001259, Hall State, Larry A. Baldwin, II]]
+#+begin_export html
+<script type="application/ld+json">
+{
+  "@context": {
+    "custom": "http://example.com/custom.jsonld",
+   },
+  "@id": "urn:uuid:084B6A4A-05F4-482A-B8E5-C18A4D7AFED1",
+  "@sameAs": [
+      "https://leibel.filevineapp.com/#/project/991348756/calendar/list/2025/2/17",
+      "/Volumes/LeibelFiles/RUNDLES,\ CAILEN\ \#92007\ DOL\ 5-1-22"
+      ],
+  "custom:type": "lawsuit",
+  "custom:casetype": "medmal",
+  "custom:style": "Royce Cailen Rundles v. David Stanley, M.D., Northeast Georgia Medical Center, Inc., and Northeast Georgia Physicians Group, Inc.",
+  "custom:identifier": " 2023SV001259",
+  "custom:court": "Hall State",
+  "custom:judge": "Larry A. Baldwin, II",
+}
+</script>
+#+end_export
+Attorney for D: [M. Scott Bailey, Huff, Powell & Bailey, LLC]]
+Attorney for D: [Lindsey L. Cassimus, Huff, Powell & Bailey, LLC]]
+Attorney for D: [Lauren N. Wright, Huff, Powell & Bailey, LLC]]
+#+begin_export html
+<script type="application/ld+json">
+{
+  "@context": {
+    "schema": "https://schema.org/"
+  },
+  "@id": "https://www.gabar.org/member-directory/?id=7AABC7CC11A1BA3024603A0AD3BE2135",
+  "@type": "Person",
+  "name": "M. Scott Bailey",
+  "worksFor": {
+    "@type": "Organization",
+    "@id": "huffpowellbailey.com",
+    "name": "Huff, Powell & Bailey, LLC"
+  },
+  "involvedIn": {
+    "@id": "urn:uuid:084B6A4A-05F4-482A-B8E5-C18A4D7AFED1",
+    "@name": "Rundles v. Stanley et al."
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": {
+    "schema": "https://schema.org/"
+  },
+  "@id": "https://www.gabar.org/member-directory/?id=F3DEF3E696F3C696A09ECFA179B0D44B",
+  "@type": "Person",
+  "name": "Lindsey Cassimus",
+  "worksFor": {
+    "@type": "Organization",
+    "@id": "huffpowellbailey.com",
+    "name": "Huff, Powell & Bailey, LLC"
+  },
+  "involvedIn": {
+    "@id": "urn:uuid:084B6A4A-05F4-482A-B8E5-C18A4D7AFED1",
+    "@name": "Rundles v. Stanley et al."
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": {
+    "schema": "https://schema.org/"
+  },
+  "@id": "https://www.gabar.org/member-directory/?id=C6728AA6830B19D92C4A9F0F5AF6455F",
+  "@type": "Person",
+  "name": "Lauren Wright",
+  "worksFor": {
+    "@type": "Organization",
+    "@id": "huffpowellbailey.com",
+    "name": "Huff, Powell & Bailey, LLC"
+  },
+  "involvedIn": {
+    "@id": "urn:uuid:084B6A4A-05F4-482A-B8E5-C18A4D7AFED1",
+    "@name": "Rundles v. Stanley et al."
+  }
+}
+</script>
+#+end_export
+| [2025-03-27 Thu] | {E} | [Rundles] | r file re jury charges, demand, OOS             |
+| [2025-04-30 Wed] | {D} | [Rundles] | dl to depose Pl experts [June 30 for D experts] |
+| [2025-08-01 Fri] | {D} | [Rundles] | Daubert and dispositive                         |
+| [2025-08-25 Mon] | {D} | [Rundles] | PTO                                             |
+| [2025-09-08 Mon] | {E} | [Rundles] | trial calendar special set nb conflict          |
+** [[../6-denote/20240522T131920--smith-leah__casenotes.org][Smith, Leah v. NEGMC et al.]] 
+** [[//][Willis]]  
+* -------------- Settlement or Judgment Pending [1]
+** [[ ][Davis, Karin v. Piedmont Hospital]]
+
+| [2025-03-31 Mon] | {D} | [Davis] | DEADLINE TO SUBMIT SCHEDULING ORDER |
+
+* -------------- Misc [7]
+** [[denote:20240313T103418][ATU adv. MARTA]]
+
+[[elisp:(dired-other-window%20%22/Volumes/Work%20Files/Work%20Sync%20Folders/ATU/%22)][TRO Petition]] pending in Fulton State 24CV004279, answer extended multiple times, dismissed without prejudice so that we can arbitrate by [2025-04-03 Thu]
+
+[[elisp:(dired-other-window%20%22/Volumes/Work%20Files/Work%20Sync%20Folders/ATU/%22)][New MARTA Case]] 24CV006697 Filed 5-24-24, the REACH outsourcing case, Union is in negotiations, fully briefed and waiting on the Court, status conference set of
+
+| [2025-04-28 Mon] | {E} | [Marta-REACH] | pp for argument                       |
+| [2025-05-12 Mon] | {E} | [Marta-REACH] | Will be set for argument on this date |
+
+[[elisp:(dired-other-window%20%22/Volumes/Work%20Files/Work%20Sync%20Folders/ATU/%22)][APPEAL]] A24A1557, WE WON, waiting on mtn reconsider
+
+status? everything is fully briefed, decision in appeal by March 14, 2025, no deadline in new MARTA, our TRO answer extended to [10-04 Fri], NLRB thing done
+
+** [[../6-denote/20240821T100113--cladding__casenotes.org][Cladding and Component Solutions, Inc. v. Nguyen et al.]]
+[[https://leibel.filevineapp.com/#/project/992160313/calendar/list/2025/2/5][Cladding and Component Solutions, Inc. v. Phuong K. Nguyen and Cam Ken Construction, LLC, STCV24-01932, State Court of Chatham County, Elizabeth Coolidge]]
+#+begin_export html
+<script type="application/ld+json">
+  {
+    "@context": {
+      "custom": "http://example.com/custom.jsonld"
+     },
+    "@id": "urn:uuid:18DEFDE7-9218-47E4-B31D-009CD368C0FD",
+    "@sameAs": [
+        "https://leibel.filevineapp.com/#/project/992160313/calendar/list/2025/2/5",
+        "https://researchga.tylerhost.net/CourtRecordsSearch/#!/case/6afb3925de30532fa9b44990818f65ef",
+	"/Volumes/LeibelFiles/Cladding v. Phuong K. Nguyen and Cam Ken Construction, LLC"
+        ],
+    "custom:type": "LegalCase",
+    "custom:identifier": "STCV24-01932",
+    "custom:court": "Chatham State",
+    "custom:judge": "Elizabeth Coolidge",
+    "custom:damages": {
+       "custom:other": 165711.44
+    }
+  }
+</script>
+#+end_export  
+[[https://www.gabar.org/member-directory/?id=76B531CCA2947A504CEA34435BF25A76][R. Brandon Galloway, Galloway & Galloway, P.C.]]
+#+begin_export html
+<script type="application/ld+json">
+  {
+    "@context": {
+      "schema": "https://schema.org/"
+    },
+    "@id": "https://www.gabar.org/member-directory/?id=76B531CCA2947A504CEA34435BF25A76",
+    "@type": "Person",
+    "name": "R. Brandon Galloway",
+    "worksFor": {
+      "@type": "Organization",
+      "@id": "gallowaylaw.com",
+      "name": "Galloway & Galloway, P.C."
+    },
+    "involvedIn": {
+      "@id": "urn:uuid:18DEFDE7-9218-47E4-B31D-009CD368C0FD",
+      "@name": "CCS v. Cam Ken"
+    }
+  }
+  </script>
+#+end_export
+| [2025-03-10 Mon] | {F} | [Cladding] | disco, mtn to compel     |
+| [2025-04-14 Mon] | {D} | [Cladding] | discovery dl per answers |
+Boat wasn't in his name, Sean Sullivan (framer?). They cut a bill of sale for $60,000, it needed 40,000 worth of work. Months after the deal was signed, they were switching the framing to a local company and reduced the price from 850,000, reduced to 450,000, we think he billed out the whole amount to Lexis cost plus. Paid a bit to try and get them to work on change order work, then stopped. May 11.
+** [[denote:20240522T140017][McKinney v. Jenkins & Stiles et al.]]
+Forklift accident in TN - NB answer points finger at other parties,
+being handled by TN counsel
+
+[status]: [McKinney] waiting on trial, outside counsel handling
+
+** [[../6-denote/20240416T150121--riley-matthew__casenotes.org][Riley Carey, Melissa indiv. and as PR et al. v. GNI et al.]]
+[[https://leibel.filevineapp.com/#/project/990516197/custom/casesummary990000988][91560]],
+
+[/Melissa Riley Carey, individually and as Personal Representative of
+the Estate of Matthew Wallace Riley, and Christina Greenberg Riley, as
+Personal Representative of the Estate of Wallace Riley v. Georgia
+Department of Corrections et al./],
+
+[[https://researchga.tylerhost.net/CourtRecordsSearch/#!/cases][20EV002325]],
+[[https://www.fultonclerk.org/144/eServices][Fulton State]],
+[[https://www.fultoncourt.org/sites/default/files/jdglist/judgelist2.pdf][Patsy
+Y. Porter]]
+
+What's left of our prison malpractice case.
+
+| [2025-02-28 Fri] | {F} | [Riley] | pp trial? |
+
+  expert disclosures are okay per Fischer.
+  
+** [[denote:20241009T095427][Wallace, Sherry v. Grady Memorial Hospital et al.]]
+
+| [2025-03-03 Mon] | {F} | [Wallace] | pp compl? |
+
+** [[denote:20240409T123822][Williams, Julie adv. King]]
+[[https://leibel.filevineapp.com/#/project/991874182/custom/casesummary990000988][H92054]],
+[[elisp:(dired-other-window%22%20/Volumes/Work%20Files/Work%20Sync%20Folders/Williams%22)][/Howard
+Stanley King, Jr.and Karrie King v. Julie M. Williams, d/b/a Sellers
+Realty of Dahlonega]],
+[[https://peachcourt.com/CaseDocket/index?cno=SUCV2024000164&cty=Lumpkin&crt=Superior][SUCV2024000164]],
+[[https://www.lumpkincounty.gov/directory.aspx?did=9][Lumpkin
+Superior]],
+[[https://www.lumpkincounty.gov/DocumentCenter/View/2510/Court-Personnel-Contact-Information][T.
+Buckley Levins]]
+
+ask for $1,000 property damage, did they get paid for the rent, they said it was their stove
+
+Defense offer of settlement
+
+[[https://gmass.net/meet-the-team/#leadership]]
+
+| [2025-02-28 Fri] | {F} | [Williams] | waiting on the court    |
+
+"Hi Paul - As follow up to our conversation of today, please note that 205 Rainhill Station Drive, Dawsonville, is owned by 43 Summer Street, LLC, a Georgia LLC.  The only other property owned by 43 Summer Street, LLC is 197 Rainhill Station Drive, Dawsonville, the house next door to 205 Rainhill Station Drive."
+
+** Misc Misc
+[[https://leibellaw-my.sharepoint.com/:w:/g/personal/emma_leibel_com/ESYZkAUjwOpDvmkIO35grS4BGVIBJs1yLQr5Ajc8J0hBGQ?rtime=QSz6kHTO3Eg][emmas
+td list]]
+
+| [2025-02-24 Mon] | {F} | [FCSO] | r corporation book |
+
+| [2025-02-28 Fri] | {F} | [Lunsford] | getting prior medical, DOL 2024-07-02 |
+
+| [2025-04-01 Tue] | {F} | [Leaptrot] | March 26 annual return |
+
+--> bond must cover accumulated amount, bank statements showing no withdrawals, ending balance matches return, bond amount must be within $3,000 or court will order increase
+
+| [2025-03-14 Fri] | {F} | [Alevy] | status? SOL 2025-04-03 or 30d after, mtn for relief stay 2/10    |
+
+| [2026-01-05 Mon] | {F} | [CCS] | Cladding and Component Solutions, Inc. -- annual meeting |
+
+| [2025-02-28 Fri] | {T} | [Menair Consulting] | annual fee |
+
+| [2025-03-21 Fri] | {F} | [CCS] | justice sotomayor, piazza inc. yonkers, get amount and bills from Connie |
+
+- {F} | [Misc] review re confidentiality orders --> Wildeboer, Cotton, Loftin, Hyams, Ballard, Murray [Schuch, Bruce, Young, XXX]
+
+| [2025-03-07 Fri] | {F} | [Howard], PAISLEY - GET IT SETTLED or get out    |
+
+* --
+
+Local variables:
+eval: (custom-set-faces '(org-level-1 ((t (:foreground "red")))))
+End:
+
+# (org-link-set-parameters
+#  "denote"
+#  :face '(:foreground "green" :underline t))

@@ -1,0 +1,84 @@
+#+title:      mcmullen-shirley
+#+date:       [2024-03-20 Wed 09:16]
+#+filetags:   :casenotes:
+#+identifier: 20240320T091653
+
+Counsel for Defendant: [[https://gabar.reliaguide.com/lawyer/30319-GA-Michael-Moore-273655][Michael J. Moore, Strickland & Schwartz, LLC]]
+
+Counsel for Counterclaim Defendant: [[https://gabar.reliaguide.com/lawyer/30006-GA-Cynthia-Bower-270882][Cynthia Bower, Worsham, Corsi, Dobur & Berss]]
+
+#+begin_export html
+|case' id='McMullen|
+|court|Fulton State|
+|judge|John R. Mather|
+|can|22EV000637|
+|liamt|100,000.00|
+|licarr|Farmers|
+|umamt|100,000.00|
+|umcarr|Progressive|
+|medical|0.0|
+|other|0.0|
+|demand|0.0|
+|offer|100,000.00 |
+|
+<br>
+#+end_export
+
+
+SOL 2023/02/08, this is a death case, they want to tender 100k. Speeding citation three days prior. We got the UM 100k.  They are alleging our client went through a yellow signal. Witness in building near intersection. Jennifer Norris, 7702892808, saw green signal in lane D was turning into immediately after crash, did not see the crash. They sent us a copy of 40-6-73, but we properly alleged violation of 40-6-71? Only witnesses identified in rogs are those in the accident report. NB criminal case done. Counterclaim dismissed without prejudice.  --> hold re experts, discovery ran 2023-05-01 P. J. McFadden, J. Rickman, C. J. Mercier
+
+2024-03-18 decision on appeal ct app
+
+[rules](https://www.gaappeals.us/rules-1-8/)
+[ten days to file notice of intention](https://www.gaappeals.us/rule-38/)
+[Petition to be filed same day in Georgia Supreme court](https://www.gasupreme.us/wp-content/uploads/2023/12/RULES-FINAL-eff.-1.1.24-_-12.15-edits.pdf)
+
+S.Ct. has *20 day* dl, copy of decision of Ct. App. to be attached:
+
+A petition for certiorari must state, separately and distinctly, the question or questions presented by the case which, in the petitioner’s view, meet the standard set out in Rule 40 for granting review. Argument in a petition for certiorari should explain why, in the petitioner’s view, the question or questions presented by the case meet the standard set out in Rule 40 for granting review, not merely why the decision below was error. The petition for certiorari will be considered by the Court without oral argument
+
+https://www.alston.com/-/media/files/insights/publications/2012/12/igeorgia-appellate-practice-handbooki-7th-ed-2012/files/georgia-appellate-practice-handbook-7th-edition/fileattachment/appellatehandbook1.pdf
+
+For filing in the Court of Appeals:
+
+NOTICE OF INTENTION TO APPLY FOR CERTIORARI
+To: Clerk
+Court of Appeals of the State of Georgia
+47 Trinity Avenue S.W., Sutie 501
+Atlanta, Georgia 30334
+
+Notice is hereby given that Appellants, Patricia Mercner Davis, Individually and as Personal Representative of the Estate of Shirley Mercner McMullen, deceased, and Lynn Hyde and Randy Mercner, intend to apply to the Georgia Supreme Court for a writ of certiorari to review the judgment of the Court of Appeals rendered in the above-styled case on March 19, 2024.
+
+For filing in the Georgia Supreme Court
+
+PETITION FOR CERTIORARI
+
+Question Presented
+
+Whether a non-adoptive stepparent who self-servingly denies authority to control the use of a motor vehicle by his stepchild and did not contribute to the purchase the motor vehicle but otherwise contributes to household finances is entitled to summary judgment on claims of vicarious liability under the family purpose doctrine or a theory of negligent entrustment.
+
+Rule 40 Statement
+
+Appellants, Patricia Mercner Davis, Individually and as Personal Representative of the Estate of Shirley Mercner McMullen, deceased, and Lynn Hyde and Randy Mercner, hereby petition this Honorable Court for review by certiorari of the judgment of the Georgia Court of Appeals, rendered in the above-styled case on March 19, 2024, affirming the grant of summary judgment to one of the named defendants in the underlying action on the grounds that he cannot be held liable vicariously or for negligent entrustment because he was not the "owner" of the vehicle at issue in this traffic accident case. As argued below, the decision of the intermediate appellate body in this case misstates governing law in this area in a manner that is likely to introduce confusion regarding the standards governing the liability of non-adoptive step-parents, an issue that is likely to recur in this era of blended families, a matter of great public concern. To the extent that this law is not settled and creates uncertainty, it should definitively be settled by this Court. Accordingly, pursuant to Rule 40, this case is appropriate for review by certiorari.
+
+Statement of the Case
+
+This case arises from a fatal collision involving a minor. (V2-9.) At the time of the collision, the minor driver  lived with her mother and her stepfather; she had been living with her stepfather since the age of thirteen. (Deposition of Kiera Jones [“Jones Depo.”], V2-451-52, 484-85, 503, 529; Deposition of Michael Jespersen [“M. Jespersen Depo.”], V3-663-64, 669; Deposition of Jean Jespersen [“J. Jespersen Depo.”] V3-601.) She had only been driving for about a year and a half, and she had received a speeding ticket just a few days prior to the collision. (J. Jespersen Depo. V3-610, 617.) Her stepfather testified that he did not supervise her use of the vehicle but, when asked whether he could have, his answer was not a denial but simply, “I don’t know.” (M. Jespersen Depo. V3-673) Her stepfather did not specifically contribute funds towards the purchase of the vehicle but did contribute to the overall household finances. (M. Jespersen Depo. V3-672-72.) He maintained separate automotive insurance from the remainder of the household, which he wrote off as a business expense. (M. Jespersen Depo. V3-670.) The trial court granted summary judgment in his favor, and this appeal followed. (V2-1-7.) On March 19, 2024, the Court of Appeals affirmed. See Decision of the Court of Appeals, attached as Exhibit A.
+
+Argument and Citation of Authority
+
+A. Family Purpose Doctrine
+
+The Family Purpose Doctrine allows a plaintiff to hold vicariously liable a person who permits a motor vehicle to be used by a family member. Logan v. Younusbaig, 365 Ga. App. 805, 808 (2022). Although case authority often refers to this form of vicarious liability extending to the "owner" of the vehicle, this Court has made it clear that "owner" in this context refers to any person who "owns an auto, controls its use, has some property interest in it, or supplies it." Id. at 808 n1. Accordingly, the issue is not title but authority and control. Id. at 808. This doctrine is a creature of caselaw justified, as a matter of public policy, by the fact that minor drivers are almost always "judgment proof"; it is an extension of agency law. Phillips v. Dixon, 236 Ga. 271 (1976). 
+
+In proceedings before the Court of Appeals, we cited Gaither v. Sanders, 259 Ga. App. 810, 811 (2003) and Clifton v. Zemurray, 223 Ga. App. 756, 758 (1996) as authority for the proposition that it is not necessary to show any actual exercise of authority over use of the vehicle by a family purpose defendant, so long as that authority may reasonably be inferred from the circumstances. The Court of Appeals distinguished those cases on the grounds that they involved defendants with ownership by title in the vehicle. (Decision of the Court of Appeals, Exhibit A, at 6.) However, this suggests that the issue of "authority and control" centers on ownership of the vehicle, and the doctrine is actually broader than that. Tolbert v. Murrell, 253 Ga. 566, 568 (1984).[fn][The cases cited by the Court of appeals in support of its decision are either distinguishable because they involve vehicles purchased by the driver defendant or were incorrectly decided due to this confusion between title ownership and control. Dashtpeyma v. Wade, 285 Ga. App. 361 (2007) involved a teenage driver who purchased and maintained a vehicle entirely with his own funds; it simply was not a family vehicle. Allen v. Brookshire, 169 Ga. App. 391 (1984) was decided the same year as this Court's decision in Tolbert, cited above, and is overly focused on title as opposed to control, the actual issue under Tolbert.] 
+
+The defendant driver in this case was a minor who had lived with her stepfather since she was an early teen. When asked whether he had authority over her use of the vehicle, Mr. Jespersen was unable to simply deny it. The parents in this family do not appear to have separate finances; Mr. Jespersen simply maintains a personal vehicle separately as a business expense. Under these facts, there should be at least support for an inference, if not a rebuttable presumption, that he had authority to control her use of the vehicle.
+
+The Court of Appeals suggests that it might have decided otherwise if there was more evidence in the record regarding the "scope" of Mr. Jespersen's "disciplinary control" over his stepdaughter. (Decision of the Court of Appeals, Exhibit A, at 6.) But the only evidence likely to be available to a plaintiff other than the self-serving testimony of the parties on this issue would be title or matters from the family finances, and the trial court restricted access to the later in discovery.[fn][See Protective Order at V2-261-62.] The Court of Appeal's decision is overly protective of step-parents in blended families, an increasingly common arrangement. The issue of authority and control should be a matter for the jury, who are best situated to make that determination. 
+
+B. Negligent Entrustment
+
+The Court of Appeals similarly focuses on the issue of title ownership in deciding that Mr. Jespersen cannot be held liable under a theory of negligent entrustment because he was not the owner of record of the vehicle involved in the collision. (Decision of the Court of Appeals, Exhibit A, at 8-9. Indeed, the Court of Appeals suggests in its opinion that ownership, as opposed to control, is a precondition to liability under this theory. However, although the word "owner" appears in many cases on this topic, there is ample authority for the proposition that this issue should also be decided based on authority and control rather than record title. See, e.g. Webb v. Day, 273 Ga. App. 491, 493 (2005)("liability extends to a person who had control over the use of a vehicle and negligently entrusted it to another"). There seems to be some confusion and inconsistent application on this issue, see, e.g. Logan at 806 (noting the issue but affirming on other grounds), and this Court should intervene to clarify the application of this doctrine, especially in the context of family cases, where control and ownership do not always run together.
+
+

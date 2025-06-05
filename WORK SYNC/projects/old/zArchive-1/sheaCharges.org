@@ -1,0 +1,148 @@
+COMES NOW Plaintiff Althea Shea and files her Requests to Charge in the above matter, showing the following:
+
+[CONTINUED ON FOLLOWING PAGES]
+
+Pattern Request No. __ Pleadings
+You have been considering the case of Althea Shea, as Plaintiff, v. Gary Croy, as Defendant, Civil Action No. 2019SV484Z. Althea Shea filed this action in this court because she was injured in a collision with a vehicle driven by Gary Croy who is the defendant. Gary Croy filed an answer to the petition in which he has accepted liability but denies causation and damages. I have briefly outlined the written contentions of the parties as set forth in the pleadings. The pleadings are not evidence; they are only claims or contentions of the parties.
+[Georgia Pattern Jury Charge 02.010 with contentions of the parties added.]
+GIVEN ________ REFUSED ________
+
+Pattern Request No. __ Burden of Proof
+The plaintiff has the burden of proof, which means that the plaintiff must prove whatever it takes to make his/her case, except for any admissions (in pleadings) by the defendant. The plaintiff must prove his/her case by what is known as a preponderance of the evidence; that is, evidence upon the issues involved, while not enough to wholly free the mind from a reasonable doubt, is yet sufficient to incline a reasonable and impartial mind to one side of the issue rather than to the other.
+[Georgia Pattern Jury Charge 02.020.]
+GIVEN ________ REFUSED ________
+
+Pattern Request No. __ Evidence, Generally
+Evidence is the means by which any fact that is put in question is established or disproved. Evidence includes all of the testimony of the witnesses as well as the exhibits admitted during the trial. (It also includes any stipulations, which are facts agreed to by the attorneys.)
+Evidence may be either direct or circumstantial or both.
+In considering the evidence, you may use reasoning and common sense to make deductions and reach conclusions. "Direct evidence" is the testimony of a person who asserts that he or she has actual knowledge of a fact (such as an eyewitness) (such as by personally observing or otherwise witnessing that fact). "Circumstantial evidence" is proof of [a chain or set of] facts and/or circumstances that tend to prove or disprove another fact by inference (that is, by consistency with such fact or elimination of other facts). There is no legal difference in the weight you may give to either direct or circumstantial evidence.
+[Georgia Pattern Jury Charge 02.100]
+GIVEN ________ REFUSED ________
+
+Pattern Request No. __ Stipulations
+The parties have entered into a stipulation that has been approved by the court about the following facts:
+Gary Croy has stipulated that his negligence caused the collision with Althea Shea.
+Where parties stipulate facts with the approval of the court, this is in the nature of evidence. You must take that fact or those facts as a given without the necessity of further proof.
+[Georgia Pattern Jury Charge 02.112 with stipulation added]
+
+Pattern Request No. __ Expert Witnesses
+When scientific, technical, or other specialized knowledge might be helpful, a person who has special training or experience in that field is allowed to state an opinion about the matter. But that does not mean you must accept the witness's opinion. As with any other witness's testimony, you must decide for yourself whether to rely upon the opinion.
+[Georgia Pattern Jury Instruction 02.120]
+GIVEN ________ REFUSED ________
+
+NONPATTERN REQUEST Lay Testimony Regarding Symptoms by Plaintiff
+A Plaintiff can testify regarding her symptoms, and the jury is authorized to form opinions regarding those symptoms to the extent legitimately arising out of the facts.
+[Thomason v. Willingham, 118 Ga. App. 821, 825 (1968).]
+GIVEN ________ REFUSED ________
+
+Pattern Request No. __ Torts Introduction
+The case before you is a tort case in which the plaintiff must prove by a
+preponderance of the evidence that the negligence of the defendant was a
+proximate cause of the injuries to the plaintiff.
+[Georgia Pattern Jury Instruction 60.001]
+GIVEN ________ REFUSED ________
+
+Pattern Request No. __ Proximate Cause
+Proximate cause means that cause which, in a natural and continuous sequence,
+produces an event, and without which cause such event would not have occurred.
+In order to be a proximate cause, the act or omission complained of must be such that a person using ordinary care would have foreseen that the event, or some similar event, might reasonably result therefrom. There may be more than one proximate cause of an event, but if an act or omission of any person not a party to the suit was the sole proximate cause of an occurrence, then no act or omission of any party could have been a proximate cause. When I use the expression "proximate cause," I mean a cause that, in the natural or ordinary course of events, produced the plaintiff's injury. It need not be the only cause, nor the last or nearest cause. It is sufficient if it combines with another cause resulting in the injury.
+[Georgia Pattern Jury Instruction 60.200]
+GIVEN ________ REFUSED ________
+
+Pattern Request No. __ Tort Damages Preliminary Instructions
+Damages are given as pay or compensation for injury done. When one party is required to pay damages to another, the law seeks to ensure that the damages awarded are fair to both parties. If you believe from a preponderance of the evidence that the plaintiff is entitled to recover, you should award to the plaintiff such sums as you believe are reasonable and just in this case.
+[Georgia Pattern Jury Charge 66.001]
+GIVEN ________ REFUSED ________
+
+Pattern Request No. __ Tort Damages; Expenses; Generally; Medical Expenses
+In all cases, necessary expenses resulting from the injury are a legitimate item of damages. As to medical expenses, such as hospital, doctor, and medicine bills, the amount of the damage would be the reasonable value of such expense as was reasonably necessary.
+[Georgia Pattern Jury Charge 66.040]
+
+Pattern Request No. __ Tort Damages; Earnings, Past; Loss of
+Loss of revenue from the time of the alleged injury to the time of trial is a legal item of damages, and the amount that may be recovered is the value of the earnings that the evidence shows with reasonable certainty the plaintiff has lost as a result of the injury. You may consider what the plaintiff was receiving at the time of the injury, what was made since the injury, the amount customarily paid in the locality for the kind of work the plaintiff does, and similar matters. There must be some evidence before you as to the plaintiff's loss.
+[Georgia Pattern Jury Charge 66.100]
+GIVEN ________ REFUSED ________
+
+Pattern Request No. __ Tort Damages; Earnings; Loss of Future Earnings
+If you find that the plaintiff's earnings will be permanently reduced, lost future earnings--just like lost past earnings--are to be determined on the basis of the earnings that the plaintiff will lose, and there must be some evidence before you as to the amount of such earnings. In considering the evidence, you should take into consideration that old age generally reduces the capacity to labor and earn money. You may also take into consideration the proposition that the ability of the plaintiff to earn money could have increased during some later periods of the plaintiff's life, if it is authorized by the evidence.
+[Georgia Pattern Jury Charge 66.201]
+GIVEN ________ REFUSED ________
+
+Pattern Request No. __ Tort Damages; Earnings; Life Expectancy
+You would also consider the life expectancy of the plaintiff.
+[Georgia Pattern Jury Charge 66.202]
+GIVEN ________ REFUSED ________
+
+Pattern Request No. __ Tort Damages; Earnings, Average Annual Earnings
+By taking into consideration the factors as to earning capacity and life expectancy and applying them to this plaintiff's life, you should determine what the average annual loss of future earnings probably would have been.
+[Georgia Pattern Jury Charge 66.203]
+GIVEN ________ REFUSED ________
+
+Pattern Request No. __ Tort Damages; Life Expectancy; Generally
+You may determine the life expectancy of a person when the person's age is shown without any other direct evidence on the subject. In deciding this matter, you are also entitled to consider the evidence pertaining to the person's health, habits, surroundings, and method of living.
+[Georgia Pattern Jury Charge 66.301.]
+GIVEN ________ REFUSED ________
+
+Pattern Request No. __ Tort Damages; Life Expectancy; Mortality Tables
+There is another way in which you may determine the life expectancy of the
+plaintiff. There has been introduced into evidence a copy of the Annuity Mortality Table for 1949, Ultimate mortality tables. If you desire to determine from this table the life expectancy of a person, look up that person's age in one column, and across from the age column, you will find the life expectancy of a person of that age. Life expectancy shown on any such table is merely a guide that you may follow while considering the evidence as a whole.
+If you use the mortality tables, you should take the average annual loss of future income of the plaintiff and multiply it by the number of years of the plaintiff's life expectancy. The result will give you the probable gross loss of future earnings. You should then reduce the loss to its present cash value by using a rate of interest of 5 percent per annum as a reduction factor. If you find the plaintiff's loss of future earnings is not permanent but will be reduced for some period of time into the future, you should then disregard the mortality table and award to the plaintiff damages for loss of future earnings for such temporary period as you may find.
+[Georgia Pattern Jury Charge 66.302]
+GIVEN ________ REFUSED ________
+
+Pattern Request No. __ Tort Damages; Pain and Suffering; Generally;
+Mental; Future
+Pain and suffering is a legal item of damages. The measure is the enlightened conscience of fair and impartial jurors. Questions of whether, how much, and how long the plaintiff has suffered or will suffer are for you to decide. Mental Pain and suffering includes mental suffering, but mental suffering is not a legal item of damage unless there is physical suffering also. In evaluating the plaintiff's pain and suffering, you may consider the following factors, if proven: interference with normal living; interference with enjoyment of life; loss of capacity to labor and earn money; impairment of bodily health and vigor; fear of extent of injury; shock of impact; actual pain and suffering, past and future; mental anguish, past and future; and the extent to which the plaintiff must limit activities.
+[Georgia Pattern Jury Charge 66.501]
+GIVEN ________ REFUSED ________
+
+Pattern Request No. __ Tort Damages; Pain and Suffering; Future
+If you find that the plaintiff's pain and suffering will continue into the future, you should award damages for such future pain and suffering as you believe the plaintiff will endure. In making such award, your standard should be your enlightened conscience as impartial jurors. You would be entitled to take into consideration the fact that the plaintiff is receiving a present cash award for damages not yet suffered.
+[Georgia Pattern Jury Charge 66.503]
+GIVEN ________ REFUSED ________
+
+Pattern Request No. __ Tort Damages; Pain and Suffering; Preexisting Condition; Aggravation
+No plaintiff may recover for injuries or disabilities that are not connected with the act or omissions of the defendant in this case. There can be no recovery for a particular plaintiff for any injury or disability that was not proximately caused by the incident in question. If you should find that, at the time of the incident, the plaintiff had any physical condition, ailment, or disease that was becoming apparent or was dormant, and if you should find that the plaintiff received an injury as a result of the negligence of the defendant and that the injury resulted in any aggravation of a condition already pending, then the plaintiff could recover damages for aggravation of the preexisting condition.
+[Georgia Pattern Jury Charge 66.504]
+GIVEN ________ REFUSED ________
+
+NONPATTERN REQUEST Eggshell Plaintiff
+The sick or diseased, as well as the healthy, may recover for injuries proximately caused by the negligence of another. The Defendant cannot complain that their conduct would have caused a healthy person less injury than it caused the Plaintiff. To cause a condition, or to aggravate or make it worse, is an injury for which damages are recoverable. Your damages award should include any aggravation or worsening of a pre-existing condition you find was caused by the Defendant’s negligence.
+ [Coleman v. Atlanta Obstetrics & Gynecology Group, P.A., 194 Ga. App. 508, 510, 390, S.E. 2d 856, 858 (1990); Binns v. MARTA, 168 Ga. App. 261, 264, 308 S.E. 2d 674, 676 (1983); Whatley v. Henry, 65 Ga. App. 668, 16 S.E.2d, 214, 216 (1941); Bray v. Latham, 81 Ga. 64, 8 S.E. 64 (1888), Georgia Law of Damages, § 4:5 (2012).]
+GIVEN ________ REFUSED ________
+
+NONPATTERN REQUEST Collateral Source
+As you consider the evidence in this case, you should not speculate about whether the Plaintiff has been compensated in whole or in part by any other source for any of the damages you find. It would not be proper for you to speculate about other sources of payment that may or may not exist. In determining an award of damages, the law does not allow a jury to consider payments made by any other source for the treatment or benefit of the Plaintiff or to give the Defendant credit for such payments.
+[Hoeflick v. Bradley, 282 Ga. App. 123, 124 (2006).]
+GIVEN ________ REFUSED ________
+
+Pattern Request No. __ Verdict; Form of
+If you believe from a preponderance of the evidence that the plaintiff is entitled to recover damages, you would find for the plaintiff and the form of your verdict would be, “We, the jury, find for the plaintiff in the sum of (blank) dollars.” (Where I have used the word “blank,” you would insert such sum in dollars and cents as you think the plaintiff is entitled to recover.) If you do not think the plaintiff is entitled to recover damages based upon the evidence presented, you should find for the defendant, and the form of your verdict would be, “We, the jury, find for the defendant.”
+[Georgia Pattern Jury Charge 02.500]
+GIVEN ________ REFUSED _______
+
+Pattern Request No. __ Verdict in Writing
+Whatever your verdict in the case, it must be agreed to by each juror; it must be in writing, dated, and signed by your foreperson; and it must be returned and read aloud in court. You may write your verdict on the back of the plaintiff’s petition.
+[Georgia Pattern Jury Charge 02.520]
+GIVEN ________ REFUSED ________
+
+Pattern Request to Charge No. __ Court Has No Interest
+I want to emphasize that anything the court did or said during the trial of this case was not intended to and did not intimate, hint, or suggest to you which of the parties should prevail in this case. Whichever of the parties is entitled to a verdict is a matter entirely for you to determine, and whatever your verdict, it must be agreed upon by all of you. The court’s interest in the matter is that the case be fairly presented according to law and that you—as honest, conscientious, impartial jurors—consider the case as the court has instructed you and return a verdict that speaks the truth as you find the truth of the case to be.
+[Georgia Pattern Jury Charge 02.530]
+GIVEN ________ REFUSED ________
+
+Pattern Request No. __ Sympathy
+Your verdict should be a true verdict based upon your opinion of the evidence
+according to the laws given you in this charge. You are not to show favor or sympathy to one party or the other. It is your duty to consider the facts objectively without favor, affection, or sympathy to either party. In deciding this case, you should not be influenced by sympathy or prejudice (because of race, creed, color, religion, national origin, sexual preference, local or remote residence, economic (or corporate) status) for or against either party.
+[Georgia Pattern Jury Charge 02.550]
+GIVEN ________ REFUSED ________
+
+Pattern Request No. __ Jury; Final Instructions
+Your verdict must be unanimous. One of your first duties in the jury room will be to select one of your number to act as foreperson, who will preside over your deliberations and who will sign the verdict to which all twelve of you freely and voluntarily agree. You should start your deliberations with an open mind. You should carefully consider all of the evidence in the case and deliberate with an aim toward reaching a unanimous verdict consistent with your consciences and oaths as jurors. Avoid premature, fixed opinions. Consult with one another and consider each other’s views. Each of you must decide this case for yourself, but you should do so only after discussion and consideration of the case with your fellow jurors. Do not hesitate to change an opinion if convinced that it is wrong. However, you should never surrender honest convictions or opinions in order to be congenial or to reach a verdict solely because of the opinions of the other jurors. You may go now to the jury room, but do not begin your deliberations until I send you the pleadings, exhibits, and verdict form, which I will do shortly. Then you may begin your deliberations.
+[Georgia Pattern Jury Charge 02.570]
+GIVEN ________ REFUSED ________
+
+WHEREFORE, Plaintiff respectfully prays:
+(a) That the above and foregoing jury charges be given verbatim; and
+(c) That that Court grant such other and further relief as it deems
+proper.

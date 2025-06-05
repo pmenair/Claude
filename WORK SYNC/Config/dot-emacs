@@ -1,0 +1,3 @@
+(load "~/Documents/Github/Config/init.el")
+(setq custom-file "~/.emacs.d/custom.el")
+(ignore-errors (load custom-file))

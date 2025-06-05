@@ -1,0 +1,397 @@
+#+title:      riley matthew
+#+date:       [2024-04-16 Tue 15:01]
+#+filetags:   :casenotes:
+#+identifier: 20240416T150121
+* Notes
+
+The minute they start talking standards of care we are screwed, we need it to be clear that these nurses and Dr. Lewis were not exercising professional discretion.
+
+
+Counsel for DOC: [[https://gabar.reliaguide.com/lawyer/30334-GA-Peter-Fisher-276932][Peter Fisher, Georgia Office of the Attorney General]]
+
+Counsel for 1983 Ds: William Winford Peters, Georgia Office of the Attorney General -- Not in bar directory, wpeters@law.ga.gov
+
+
+
+Section not restricted to medical malpractice. — 
+
+Applicability of O.C.G.A. § 9-11-9.1 is not restricted to medical malpractice actions. Housing Auth. v. Greene, 259 Ga. 435, 383 S.E.2d 867, 1989 Ga. LEXIS 393 (1989).
+
+While the trial court erred in granting summary judgment against a patient in a medical malpractice action based on a failure to attach an expert affidavit pursuant to O.C.G.A. § 9-11-9.1 because the complaint could be construed as alleging claims of ordinary negligence, to the extent the complaint could be read to allege professional malpractice claims, summary judgment was proper; moreover, there were instances in which actions performed by a professional were nevertheless not professional acts constituting professional malpractice, but, rather, were acts of simple negligence which would not require proof by expert evidence. Brown v. Tift County Hosp. Auth., 280 Ga. App. 847, 635 S.E.2d 184, 2006 Ga. App. LEXIS 881 (2006).
+
+Trial court must decide as a matter of law if the negligence alleged by a plaintiff is, in fact, ordinary negligence or professional malpractice, requiring an expert’s affidavit. Drawdy v. DOT, 228 Ga. App. 338, 491 S.E.2d 521.
+
+Dismissal of an action filed by children against a health care center that operated a nursing home alleging that their parent’s injuries in a fall resulted from the nursing home’s failure to follow emergency room instructions to take fall precautions was proper because the children did not file an expert affidavit contemporaneously with the complaint as required by O.C.G.A. § 9-11-9.1(a); their claim sounded in professional negligence, not ordinary negligence, because the nursing home was not given a list of specific precautions to be implemented, and the decision as to what specific precautions to take was left to the medical judgment of its staff. Gaddis v. Chatsworth Health Care Ctr., Inc., 282 Ga. App. 615, 639 S.E.2d 399, 2006 Ga. App. LEXIS 1488 (2006), cert. denied, No. S07C0486, 2007 Ga. LEXIS 341 (Ga. Apr. 24, 2007).
+
+Trial court did not err in granting summary judgment in favor of a hospital and the hospital’s employees in a surviving spouse’s wrongful death action on the ground that the spouse’s claims sounded in professional negligence, not ordinary negligence, which required an affidavit under O.C.G.A. § 9-11-9.1 because whether or not the treatments ordered by the husband’s treating physician and carried out by the employees were timely was a question of medical judgment, and the duties involved in the administration of medications and treatments constituted a professional service; the spouse pointed to no admissible medical testimony to support the spouse’s claim that the failure of the lab technician to call the intensive care unit (ICU) when the blood arrived caused the decedent’s death, and the question of whether or not the lab technician’s failure to call the ICU, resulting in the failure of the ICU to administer a blood transfusion, caused the decedent’s death required expert testimony, which was excluded from the case. Pattman v. Mann, 307 Ga. App. 413, 701 S.E.2d 232, 2010 Ga. App. LEXIS 1075 (2010).
+
+Trial court properly refused to dismiss a plaintiff’s claim asserting tortious termination of life support based on the defendant’s argument that it was really a medical malpractice claim and, therefore, required an expert medical affidavit under O.C.G.A. § 9-11-9.1; because such a claim is a suit for wrongful death, not medical malpractice, no expert medical affidavit was necessary. DeKalb Med. Ctr., Inc. v. Hawkins, 288 Ga. App. 840, 655 S.E.2d 823, 2007 Ga. App. LEXIS 1269 (2007), cert. denied, No. S08C0710, 2008 Ga. LEXIS 477 (Ga. May 19, 2008), overruled in part, Harrison v. McAfee, 338 Ga. App. 393, 788 S.E.2d 872, 2016 Ga. App. LEXIS 417 (2016).
+
+Affidavit was not required in an action by the estate of a deceased inmate against a city, county, sheriff, and medical personnel alleging claims arising from failure to respond to the inmate’s request for treatment of the inmate’s diabetic condition. Howard v. City of Columbus, 219 Ga. App. 569, 466 S.E.2d 51, 1995 Ga. App. LEXIS 1105 (1995), cert. denied, No. S96C0631, 1996 Ga. LEXIS 406 (Ga. Mar. 8, 1996), cert. denied, No. S96C0562, 1996 Ga. LEXIS 407 (Ga. Mar. 8, 1996).
+
+Trial court erred in dismissing a wrongful death claim by children of a deceased nursing home resident, based on their allegation that the nursing home violated O.C.G.A. § 31-8-108(a)(2) of the Bill of Rights for Residents of Long-Term Care Facilities by not documenting the resident’s complaints of chest pain, as the claim was based on the nonprofessional, administrative aspects of running the facility and, accordingly, it was not subject to the pleading requirement of an expert affidavit pursuant to O.C.G.A. § 9-11-9.1. Williams v. Alvista Healthcare Ctr., Inc., 283 Ga. App. 613, 642 S.E.2d 232, 2007 Ga. App. LEXIS 137 (2007).
+
+After the plaintiff’s foot was burned by a lamp from which the heat shield had been removed during surgery — the alleged decision being to obtain more light by removing the heat shield or other protective device from the lamp, as opposed to bringing in another lamp or increasing the volume of overhead lights — the claim was not necessarily one of medical malpractice. If that particular act, coupled with leaving the lamp near the foot for an extended period, was the heart of the claim, then simple negligence, not medical malpractice, was involved, and medical testimony was not essential to establish liability. Jones v. Bates, 261 Ga. 240, 403 S.E.2d 804, 1991 Ga. LEXIS 216 (1991).
+Caylor v. Potts, 183 Ga. App. 133 (Ga. Ct. App. 1987) wrongful death action survives to his estate
+
+Client is in Chap 13, but no indiv. capacity claims in either action. We were going to get certified CMB but not sure we need it any more?
+
+Fisher cell 623-606-7932
+
+David P. Folkenflik
+5742 54th Ave N
+St Petersburg FL
+7275484529
+
+UM notes in SCRIBE, were those the tracker notes that were produced, is there anything else?
+Also have a list of specific policies they are asking for
+
+IIA04-0002 Incident Report
+IIB02-0001  inmate discipline
+IIB02-0001 A 02, 04  under category of inmate discipline
+IIE02-0001 A 03 medical checklist
+IIE02-0003 Orientation handbook
+IIE03-0001 A 03 detainee rights statement
+IVA01-0001 A 03 male/female diagnostic prisoner basic issue
+IVN10-0003 health and safety response
+VG15-0001 clinical supervision
+VG31-0001 MH/MR evaluations
+and any policy on access to care
+
+Post-discovery conference conducted on 05/23
+
+agendaskl re status, RSS re Affidavit, look at reports, LOOK AT THE PLEADINGS AND MAYBE AMEND, GDOC is the only defendant, policies, scheduling order? addl written discovery, PROBABLY DO NOT notice experts
+
+25 Oct 2023 14:21:16 notes from BP re experts
+
+PUT TOGETHER, r em and notes, notice 30b6 on Augusta topics? (HOLD for expert first pass), expert re utilization management, get an economist (Daniels), utilization management expert, contact hospitalist?
+
+# Riley
+
+## Rhyner
+
+This is 100% a tumor with characteristics of a malignant tumor, nothing about it looks benign. No indication of an infarction.
+
+lesion in an non-vascular distribution. Very round (atypical for a stroke), central necrosis, complex blood, homogeneous restricted diffusion but intermediate not like a stroke. No findings of a venous infarction, usually would be a big clot. Brain mapping is critical. Could have done a biopsy to confirm malignancy. But herniation already in first imaging. Likely for a long time. Probably years, usually gradual.
+
+musculo-skeletal Emory Adam Singer, Monica Umpires
+Northside Craig X
+
+## DOC Policies Online
+
+www.dcor.state.ga.us/content/50704-policy-ph-inmate-physical-health-services
+www.dcor.state.ga.us/content/222-Policy-Court/Release/Transport/Transfer
+
+## Robert Lee Carnes tc 912-531-2785
+
+Near Matthew in 80 man dorm. Way out of character. Pushing him to go to
+medical. Nobody wants to go to medical. Happened so fast, from watching
+football games to five-seven year old speech, slurring. Told officer he
+was having issue, they called medical re emergency. Lieutenant Cummings
+was on duty, wrote him a DR for lying. *May have been a nurse who saw
+him that day*. Two weeks later morning inspection team saw him leaning
+against rail on second floor, puddle of slobber. Very little ability to
+speak. Told officer who called medical, came and got him, nurse saw him.
+Got sister's information from tablet. Reeves wanted to help Matt. Did
+what she could. At transitional center now, happy to be a witness. In
+prison for aggravated assault, false imprisonment, terroristic threats
+out of Chatham County. Engaged to the wrong girl, she cheated on him, he
+beat the guy pretty bad.
+
+## Friedman tc Note
+
+2020-10-07 Conversation with Dr. Friedman. He's wrong, dreadfully wrong.
+Can't do awake surgery if there is intercranial pressure. Mass effect is
+a contraindication brain mapping. Maybe Smisson is saying we're general
+neurosurgeons, we don't do much surgery, if it's complicated we want to
+transfer. Wheels come off when they start going down the tubes.
+Surprised that he was out of town when the decision not to intervene
+over the weekend was made. Went through the imaging again, it's a little
+unusual, tumor would be at the top of the list, weakly and
+inhomogeneously enhances. Limited report leaves us wondering what's
+really going on. Prison population has high risk of AIDs, could be
+immunosuppression--could be lymphoma, which would correspond to the
+frozen section. Or it could be an unusual infection.
+
+Two weeks in prison. Pathology. Release of patient, intensivist
+culpable. Intubation.
+
+Decision not to intubate is dead wrong, could have been an immediate
+contributing cause the brain herniation. Just one of many factors, but
+it was dead wrong. Worst brain shift he's ever seen. Probably would have
+died anyway. Needed to be intubated and immediately brought into the
+operating room.
+
+Fast growing. Raises suspicion of lymphoma. Ask for full brain autopsy.
+They still have the brain and they still have sections.
+
+Delay at prison was probably immaterial, patient was wide awake, two
+week delay wouldn't have made any difference. Don't fault them for
+wanting to transfer, but do criticize them for failing to rescue after
+deterioration.
+
+Reasonable medical probability patient was doomed with or without
+intubation unless there was emergency surgery at Navicent.
+
+Depose the partner. Second imaging shows a subfalcine herniation, not a
+minor change, egregiously wrong.
+
+COMPLETE THE PATHOLOGY They didn't seem to consider anything other than
+tumor.
+
+Communication with the group. HANDOFF
+
+Past medical history. possible HIV
+
+## Friedman tc Note:
+
+Prisoner poorly, diagnosed with tumor, transferred to Fairview, then to
+Navicent, normal neurologically, big mass, pressure producing "shift" of
+the normal structures. Dangerous situation. Partners told him brain
+mapping, they couldn't do it, transfer to Piedmont. Didn't do anything
+else. Note patient comatose at transfer. They watched him, transferred
+him without a tube, intubation, cardiac arrest.
+
+Neurosurgeon needed to expedite transfer or do the surgery on an
+emergency basis.
+
+Relied on the neurosurgeon.
+
+Only surgeon was in the position to do something.
+
+Person who made the decision to transfer without intubation was also
+responsible.
+
+Not clear when the decline happened. Couldn't tell that. Decision
+made not to put it in the chart.
+
+Completely salvageable by the time he got to Smitsson.
+
+Responsibility of the neurosurgeon.
+
+Once it became clear they couldn't timely transfer, local neurosurgeon
+does what needs to be done.
+
+Urgent surgery. Immediate transfer or do the operation.
+
+Bad decision, led to severe harm to the patient.
+
+Somebody needs to be compensated for this bad error in judgment.
+
+4-5 cases a year, quite a few years. 80% defense.
+
+500 cases a year surgical practice, focus on tumors.
+
+Just stepped down as chair.
+
+Very few cases where brain mapping is needed, never a reason not to do
+an emergency procedure.
+
+Would have been difficult because usually involves doing surgery awake.
+Stimulate areas electrically and map things out. Already difficulty
+speaking so not candidate. Wouldn't argue, but he wouldn't personally
+have done it.
+
+Discharging physician makes decision to intubate.
+
+## Lubin Notes
+
+Any transfer, you should intubate, no reason not to in this case, certainly a contributing factor, but that's not the cause of his death, real problem was the delay. They sat on this guy for too long. 
+
+10-12mm is a BIG difference
+
+No vassopressin
+
+Never saw the guy before he made the decision, did not see him on arrival, that's a big deal, no matter how good his PA was, not clear he ever saw the patient.
+
+Trusted other people to make the transfer call.
+
+"If this was your nephew, same call?"
+
+"If this was your nephew, would you have trusted your PA?"
+
+How did we get to the point where we needed the intubation? Why didn't that indicate to you that he needed surgery immediately?
+
+## RSS General
+
+Continuous treatment exception to two year statute from injury (ie.
+initial failure to treat or misdiagnosis) has been /rejected/ in
+Georgia. However, you can extend by showing a new injury, ie., new
+symptoms. Cleveland v. Gannon, 284 Ga. 376, 667 S.E.2d 366, 2008 Ga.
+LEXIS 755, 2008 Fulton County D. Rep. 2946; Harrison v. Daly, 268 Ga.
+App. 280, 601 S.E.2d 771, 2004 Ga. App. LEXIS 891, 2004 Fulton County D.
+Rep. 2261
+
+Case for earlier failure to diagnose based on headaches is a bad one. We
+need to make this about the new symptoms.
+
+## RSS re Renewal
+
+Saving statute federal law Bd. of Regents v. Tomanio, 446 U.S. 478, 100
+S. Ct. 1790, 64 L. Ed. 2d 440, 1980 U.S. LEXIS 100
+
+Bd. of Regents v. Tomanio, 446 U.S. 478, 100 S. Ct. 1790, 64 L. Ed. 2d
+440, 1980 U.S. LEXIS 100
+
+McDaniel v. Smith, 2008 U.S. Dist. LEXIS 76593, 2008 WL 4425305 "The
+Georgia renewal statute applies to § 1983 actions in federal court.
+Scott, 949 F.2d at 1123."
+
+Goins v. City of Quitman, 2012 U.S. Dist. LEXIS 2187, 2012 WL 39638 is
+interesting, as is Delaine v. Rosco Mfg. Co., 2010 U.S. Dist. LEXIS
+118137, 2010 WL 4639257
+
+There are older cases saying you can't renew after renewal, but they are
+based on an older statute that did not include the federal courts.
+
+HAS worked in Johnson State, Mens State prison
+
+## Depo Notes 2021-06-24
+
+
+
+
+
+
+
+Good morning.
+
+I spoke with Mr. Hickman last week, and we agreed that, absent other instruction from the Court, today's hearing will be in the nature of oral argument. I am also, of course, happy to answer any questions you might have about the record we've presented. The record should be complete, but I have access to our file if there's anything else from either case that needs to be looked at.
+
+Matthew Riley was a prisoner at Johnson State Prison, which is located in Wrightsville, near Macon. He died while being transferred from Navicent Hospital in Macon to Atlanta Medical Center in Atlanta, after a significant delay caused by the Department of Corrections’ insistence on a transfer to their preferred facility, where there initially were no beds. He died of a brainstem herniation, which is exactly as horrible as it sounds.
+
+Matthew was in prison on a drug offense. At some point, he started showing dramatic neurological symptoms. When exactly that started is an issue in the other pending case, where we are suing the Department of Corrections. For purposes of this case, the record shows that Matthew presented at Navicent as someone who had been already been having serious neurological symptoms for about two weeks.
+
+We have a case against the prison, and I can talk about that, but we don't have any complaints about how Matthew was treated by the prison *medical* personnel, who called an ambulance more or less immediately after they were finally called to examine him, treating it as the emergent situation that it was.
+
+We also don't have any complaints about the local hospital where Matthew was initially sent. They recognized Matthew as someone who needed immediate treatment in neurological intensive care, and called Navicent, the nearest NICU, where Dr. Smisson accepted Matthew as a patient.
+
+You should have fairly detailed narratives of what happened at Navicent from both parties, as well as the actual medical record. For today's hearing, I am going to give a sort of higher level view, and we can refer to the record if necessary.
+
+On admission, Matthew was looked at, his obvious neurological symptoms were noted, and an MRI was ordered. So far so good. Now, there has been some confusion in both cases, because when Matthew's brain was finally sent to pathology in Atlanta, the pathologist found no malignancy. So, there was initially some question as to what sort of mass was in Matthew's brain. That is no longer an issue in the case. It seems likely that the pathologist simply took his slides from the wrong portion of the brain. There was a malignant tumor the size of a baseball in Matthew's brain.
+
+There also is little if any dispute regarding Matthew's life expectancy if he had, in fact, undergone a successful surgery. The expert affidavits in front of us are in agreement on a range of probability that centers around 15 months. Our expert testified in his deposition that this statistic is, of course, an average, and the population it derives from tends to be older than Matthew. So Dr. Friedman believes there was a significant chance of survival beyond 15 months. But again, the survival prognosis is mostly agreed on by the experts. There is a limit to how long Matthew had to live, at least as a matter of probability, that is not contested. And he wasn't given a chance to prove the statistics wrong.
+
+It's also clear that Matthew would have had a significant chance of experiencing neurological deficits after the tumor was taken out of his brain. That's why Dr. Smisson and his partners ultimately, after some delay, ordered that Matthew be transferred to a facility where brain mapping could be conducted. They did that jointly, at a meeting held some time after the MRI images came back. 
+
+This decision contested. Our expert testified that he would have conducted this surgery immediately and may have done so without brain mapping, although he does have brain mapping available at his facility. He notes that Matthew was aphasic, which would have reduced the utility of brain mapping, which requires communication with the patient.
+
+Now, it is important to note a few things. Dr. Friedman concedes in his deposition that this was a difficult surgery.  Dr. Friedman also concedes that this is the type of surgery he specializes in performing, and a generalist neurosurgeon who mostly performs spinal surgery sees fewer of these difficult brain cases and might understandably be reluctant to perform the operation.
+
+However, one simple fact remains. This was their patient. They accepted Matthew for transfer and agreed to treat him. And then they didn't. For four days.
+
+If you read the deposition of Dr. Johnson, the GNI neurosurgeon who took over for Dr. Smisson, you will note his very visceral distaste for the surgical procedure that would have been necessary to remove this tumor, and the vehemence with which he insists that he would not have performed it, even on a family member. I think this amounts to an admission that they assessed the patient and decided to let him die, because of the risk of an ugly outcome for a patient that was probably going to die soon anyway. 
+
+But that's not his call to make.
+
+A related issue is the involvement of the hospitalist group. Once the decision was made to transfer the patient, Smisson insists that Matthew was transferred to the hospitalist group for care and he no longer had responsibility for the patient. Dr. Friedman disagrees. Dr. Smisson was the doctor who accepted Matthew as a patient. He was the neurosurgeon responsible for treating this patient, if treatment was to be provided. Matthew was, put simply, under his care. And, as we'll see, GNI was ultimately called in again to consult. 
+
+So, okay, lets be a little more specific about the timeline. Matthew was admitted on October 17, 2017, which was a Tuesday. The decision to transfer was not even made until October 19, two days later. On October 20, Friday, three days after admission, Matthew's mental status was noticably declining, and the hospitalist group called in Dr. Johnston, the on call neurosurgeon and a GNI partner. A CT was ordered. At this point, at the very least, GNI was again responsible for decision making, and we believe that Dr. Smisson was likely involved in the decision to, again, not treat Matthew. Both doctors concede that they could have performed on the 20th. They simply decided not to perform it, and instead gave some medication in an attempt to mitigate the herniation.
+
+At this point, just for background, the nurses who work for the Department of Corrections in their utilization management unit were still negotiating with Atlanta Medical Center for a bed. DOC insists that they wanted AMC because there's a locked ward at the Atlanta hospital and that would have reduced their staffing requirements for guarding this bed-ridden, soon to be comatose patient. We believe it may also have to do with the fact that they have an agreement with AMC capping fees. Regardless, the nurse apparently obtained a promise from the people at AMC that they would get a bed by the end of the day on Friday and then left for the weekend.
+
+The transfer did not happen until the next day. By the time Matthew got to AMC, he was basically dead. 
+
+Some concern has been expressed about a decision that was made not to intubate during transfer, and all of the experts, including our expert, agree that this was the wrong thing to do. But, as Dr. Friedman points out, Matthew's brain was already herniating in the image from the second CT, an absolute emergency that Dr. Johnston decided to treat with medication because he absolutely, positively did not want to operate on this patient.
+
+This is not a case about whether it would have been better to operate on Matthew with brain mapping. This is not a case about whether Dr. Smisson and Dr. Johnston were the best surgeons to operate on Matthew. This is not a case about whether it was okay for them to want to transfer Matthew so that a more capable surgeon could operate on Matthew with equipment that was not available at Navicent. This is a case about whether it was okay for Dr. Smisson to accept Matthew as a patient and then let Matthew sit in the Navicent Hospital for four days until, eventually, he died. As opposed to operating on him immediately or expeditiously transferring him to someone who would.
+
+They argue that Matthew's condition was more or less stable until the 20th. In considering that argument, I'd ask you to remember that Matthew had a tumor in his head the size of a baseball. He should have been operated on as soon as possible. Dr. Friedman would have operated within the first 24 hours of admission. A delay of four days is unconscionable, and amounts to a decision to let Matthew die.
+
+Again, I recommend you read Dr. Johnston's deposition. This was not an easy case. The outcome of a successful surgery would have been a person who had a limited time to live, who may have had significant neurological deficits, especially if a doctor less experienced that Dr. Friedman performed the operation. This was a malignant tumor impacting the speech center of the brain. 
+
+Dr. Friedman disagrees with Dr. Johnston's contention that operating without mapping would have involved removing a significant amount of good tissue. But it may be true that that's what would have happened under Dr. Johnston's care. And I absolutely believe Dr. Johnston when he testified that he would not have performed this surgery on a family member, because of the likely consequences.
+
+But making that decision for Matthew Riley and his family was not Dr. Johnston's job, or Dr. Smisson's, or the job of anyone else involved with GNI. Their job was to preserve life. Instead, they decided not to.
+
+There are two components to this case, an estate claim and a wrongful death claim. The estate claim is for funeral expenses and for pain and suffering. The funeral expense amounts to about $11,000. Matthew's pain and suffering, while he waited for transfer, was, I would submit, significant. His sister observed him in distress, in the hospital, waiting for a transfer that never happened.
+
+There is also the question of the value of Matthew's life, from the point of view of a wrongful death claim. Wallace Riley, Matthew's father, has passed away. What was the value to him, and now his estate, of the loss of an opportunity to mend his relationship with his son, which was strained by the incarceration? What is the value to his sister of the loss of a brother that she was close to? Matthew was a veteran, and a good friend to his friends. The inmate in the cell next to him was very eloquent about what a good person he was. There is an economic aspect to a wrongful death claim. But there also is a non-economic aspect. The claim is for the full value of the decedent's life. Matthew's life had value.
+
+We are asking for an award of one million dollars.
+
+
+
+Matthew Riley ("Riley") was an inmate at Johnson State Prison, a Georgia Departmant of Corrections facility. On October 17, 2017, he presented to prison medical personnel with a variety of neurological symptoms, including slurred speech and difficulty reciting his GDC#. He was initially transported to Fairview Hospital and then transferred from there to Medical Center Navicent Health because the doctor at Fairview assessed him and determined that he needed immediate neurosurgical evaluation and management. (Fairview Park Hospital Records, copy attached as Ex. 1, at 9.)[fn][References to page numbers in the records attached as exhibits hereto are references to internal pagination as printed on the documents and may not correspond to the pdf page number.]
+
+On the evening of October 17, on or around 6:49 pm, a neurosurgical consultation was entered into the medical record by Cynthia Hunt, PA, which was later reviewed and authenticated by Dr. Hugh Smisson, the Respondent herein ("Smisson") (Navicent Health records ["NH"], copy attached as Exhibit 2, at 6-8; Deposition of Hugh F. Smisson III, MD ("Smisson Depo."], copy attached as Exhibit 3, at 8:22-11:21, 15:05-18:23.) The history note identifies Riley as a 39 year old male who had been exhibiting neurological symptoms including difficulty speaking, headaches, and double vision for the prior two weeks. (Id.) At the time of consultation he had expressive aphasia but was able to respond appropriately. (Id.) A CT scan performed at Fairview was reported to show a left frontotemporal intraaxial mass, 7.9 cm in it greatest diameter, with surrounding edema and left-to-right shift. (Id.) Riley was admitted to the neurological intensive care unit and an MRI was ordered. (Id.) Smisson was the attending physician who accepted Riley for transfer. (Id.; see also NH 10-11.)
+
+According to the subsequent progress notes (NH 15-30; Smisson Depo. at 30:08-38:08), at noon the next day, October 18, Riley was being prepared for surgery. (NH at 17.) His aphasia appeared to be improving. (NH at 18.) The MRI showed a left frontal lobe parietal mass with necrosis, hemorrhage, midline shift, and mass effect. (NH at 20.) In an assessment based in part on the MRI, Dr. Smisson concluded that neurosurgical intervention was necessary and stated that he would start planning for surgury on his patient. (NH at 20-21; Smisson Depo. at 37:11-24.)
+
+However, in a subsequent assessement recorded on October 19 at 2:31 pm, nearly two days after Riley had been accepted as a patient, Dr. Smisson recorded that he had met with his partners to review the imaging and concluded that "the location of the mass would best be served by brain mapping." (Id. at 22-23.) Because brain mapping is not available at Navicent, the decision was made to transfer Riley to another facility. (Id.) According to Dr. Smisson, all of the partners of GNI participated in that decision, but he was the person ultimately responsible for the decision. (Smisson Depo. at 7:22-8:12; 40:04-10.) According to Dr. Smisson, the factors suggesting a necessity for brain mapping were the size of the tumor and the symptom of aphasia. (Smisson Depo. at 40:15-21.) Smisson concedes that he could have performed the surgery without brain mapping and his decision was based on the reduction of the chance of complications with that form of surgery. (Smisson Depo. at 44:15-45:04.)
+
+Riley was under Dr. Smisson's care until the afternoon of Thursday, October 19, (Smisson Depo. at 20:23-21:07.) Dr. Smisson describes his role in the treatment as that of a consultant, instead of the admitting physician. (Smisson Depo. at 21:08-19.) He testified that once the decision was made to transfer to patient, on or about 2:31 pm on October 19, he no longer had a role in the treatment of the patient, who was from that point forward being managed by hospitalists pending transfer. (Smisson Depo. at 22:09-23:21; NH at 22-23.) However, Dr. Smisson concedes that the hospitalists caring for Riley would have deferred to the decision of his group regarding the necessity for transfer and brain mapping. (Smisson Depo. at 23:22-24:12.)
+
+A progress note recorded around 3pm on October 20, the next day and later authenticated by Dr. Smisson, despite his testimony that at this point Riley was entirely under the care of the hospitalist group, shows the patient "arousable" as opposed to "alert," which Dr. Smisson concedes to be a decline in mental status from the previous day. (NH at 26-27; Smisson Depo. at 49:06-51:91.) Dr. Smisson was not in the hospital at that time. (Id.) Dr. Kim Johnston was the on-call neurosurgeon on November 20. (Deposition of Kim Johnston ["Johnston Depo."], attached as Exhibit 4, at 17:20-24.) Although he does not specifically recall the event, he testified that he was involved in the review of the MRI and the decision to transfer Riley. (Johnston Depo. at 18:10-24.)
+
+On October 20, 2017, Dr. Johnston received notice of a change for the worse in Riley's status and ordered a CT scan, which showed an increase of two millimeters in the midline shift associated with the mass in Riley's brain, along with edema, mass effect, and "probable early transtentorial herniation." (Johnston Depo. at 22:03-23:15; NH at 75; see also Smisson Depo. at 51:17-53:05, 55:13-58:15; NH at 229.) Dr. Johnston conceded that he could have performed neurosurgery but insists that he would likely have killed the patient and would in any event have removed brain tissue if the surgery was conducted without mapping (Johnston Depo. at 24:24-27:17.) He also conceded that the transtentorial herniation was putting pressure on the brainstem, and that this was a cause for immediate concern. (Johnston Depo. at 29:03-18.) Nonetheless, he decided, potentially after consulting Dr. Smisson, that Riley could continue to wait for transfer. (Johnston Depo. at 30:03-17; Smisson Depo. at 59:13-60:17.) In both Dr. Johnston and Dr. Smisson's opinion, if surgery had been conducted by either of them on October 20, it would have been surviveable, but the patient would have had significant deficits. (Smisson Depo. at 60:23-61:07; Johnston Depo. at 38:01-40:18.)
+
+On discharge from Navicent on Saturday, October 21[fn][The transfer was delayed until the 21st because Atlanta Medical Center did not initially have beds. The Department of Corrections' role in the choice of that facility and the subsequent delay in transfer is an issue in the companion federal case.], Riley was "not awake, not alert, not oriented, [and] in very critical condition. (NH 9.) On arrival at Atlanta Medical Center, he was found to be in severe respiratory distress; he went into cardiac arrest and had to be rescuscitated, lost cranial nerve signs, and was declared dead. (Extract from Records of Atlanta Medical Center, attached as Exhibit 5.) The final pathology report identified no malignancy in the portion biopsied. (Surgical Pathology Report, attached as Exhibit 6.)
+
+Plaintiffs[fn][Wallace Riley, the decedent's father, died during the pendency of this action. His estate is represented here by its duly appointed personal representative.] retained an expert to provide an opinion regarding professional negligence relating to the treatment of Riley. (Affidavit of Dr. William Alan Friedman, MD ["Friedman Aff."], attached as Exhibit 7.) Dr. Friedman is a Professor of Neurological Surgery and Neuroscience at the University of Florida. (Curriculum Vitae, attached as Exhibit 8.) In his affidavit, he opines the following:
+
+1. Dr. Smisson was responsible for Riley's care. (Friedman Aff. at 11.)
+
+2.  Riley could have survived if he had received immediate treatment from Dr. Smisson. (Friedman Aff. at 13.)
+
+3.  Brain mapping was not indicated and unnecessary in Riley's case. (Friedman Aff. at 27.)
+
+4.  Dr. Smisson should have intervened surgically immediately. (Friedman Aff. at 27.)
+
+5.  The delay between Dr. Smisson's evaluation and Riley's transfer to Atlanta was a significant contributing factor in the worsening of his condition. (Friedman Aff. at 27.)
+   
+6. Dr. Smisson's treatment was below the standard of care and a proximate cause of Riley's death. (Friedman Aff. at 27.)
+
+Dr. Friedman's deposition was conducted in a related case currently still pending in the United States District Court for the Northern District of Georgia, involving the Georgia Department of Corrections and related defendants. (Deposition of William Friedman ["Friedman Depo."], attached as Exhibit 9.) Dr. Friedman testified that he is ordinarily retained as a defense expert. (Friedman Depo. at 6:24-7:02.) He further articulated his opinions as stated above, adding the following:
+
+1. He agrees, despite the pathology report, that Riley had a brain tumor. (Friedman Depo. at 16:14-21, 19:20-23.)
+
+2. He testified that surgery was "pretty desperately needed" given the size of the tumor and the amount of mass effect from it. (Friedman Depo. at 16:25-17:03.)
+
+3. He noted that during the delay in surgery the patient became comatose, but the Navicent physcians nonetheless "stuck to their plan to transfer." (Friedman Depo. at 17:04-09.)
+
+4. He disagreed with Dr. Johnston's assertion that surgery at Navicent would necessarily have involved the removal of good brain tissue. (Friedman Depo. at 20:10-21:07.)
+
+5. He insisted unambiguously that surgery "would have been lifesaving, and was absolutely indicated." (Friedman Depo. at 21:02-03.)
+
+6. He noted that traditional brain mapping may not have been possible given the patient's neurological condition and testified that, while some surgeons may have incorporated a different form of brain mapping in their surgery it was not required in view of the patient's deteriorating condition. (Friedman Depo. at  22:01-13.)
+
+7. He testified that, while it is not unusual for surgeons to transfer their patients when they feel uncomfortable operating on them, emergency surgery was necessary in this case in view of Riley's deteriorating condition. (Friedman Depo. at 22:14-23:09.)
+
+8. He testified that his normal practice would be to operate on a patient in this condition within 24 hours. (Friedman Depo. at 23:09-18.)
+
+9. He notes that the failure to intubate Riley for transfer could not have caused the herniation in Riley's brain because it was already herniated, and that pre-existing herniation would likely have been fatal. (Friedman Depo. at 23:22-24:01, 25:05-23.)
+
+10. In Dr. Friedman's opinion, surgery should absolutely have been conducted on an emergent basis on the morning of October 19th, when the deterioration in Riley's baseline condition became evident. (Friedman Depo. at 25:24-26:17.
+
+11. Dr. Friedman opined that the likely outcome of a timely and efficient surgery would have been temporary worsening of right side weakness, along with potential worsening of speech functions. (Friedman Depo. at 26:18-27:12.)
+
+12. Dr. Friedman's opinion of the average survival of a patient like Riley, assuming his malignancy was a glioblastoma, would have been 15 months; given Riley's age, he might have done better than average. (Friedman Depo. at 27:13-28:02; 29:23-30:20.)
+
+The initial Plaintiff's in this action were Wallace Riley, Riley's father and the wrongful death claimant, and Melissa Carey, Riley's sister and the personal representative of Riley's estate. Wallace Riley's relationship with his son was strained but improving at the time of Riley's death (Deposition of Wallace Riley, attached as Exhibit 10, at 12:20-13:03.) Riley's death robbed his father of any chance to further repair their relationship.
+
+Melissa Carey ("Carey") visited her brother once while he was in prison, a two hour drive from where she lived. (Deposition of Melissa Carey from federal case ["Carey Depo. II"], attached as Exhibit 11, at 9:17-24, 12:07-17.) She also communicated with him by email. (Carey Depo. II at 10:09-12.) Carey visited her brother at Navicent and observed that he was emotional about his condition and aware that he needed surgery. (Carey Depo. II at 27:17-28:04.) Her brother had a degree in landscaping from technical college and might have returned to that sort of work if he had survived; he was working at a saw mill prior to his incarceration. (Carey Depo. II at 35:08-36:11.)
+
+Riley was a member of the 82d Airborne. (Deposition of Melissa Carey from the Bibb County case ["Carey Depo. I"], copy attached as Exhibit 12, at 08:10-16.) He enjoyed working on motorcycles and doing landscaping for friends. (Carey Depo. I at 10:19-24.) He visited with his sister weekly prior to his incarceration. (Carey Depo. I at 11:04-07.) She spoke with him often on the phone while he was in prison. (Carey Depo. I at 15:21-23.) When she visited him at Navicent, she recalls that he was "overwhelmed with emotion." (Carey Depo. I at 21:02-08.) She believes he was a good person, generous and likeable; her children miss him. (Carey Depo. I at 41:09-21.)
+
+There is no claim for medical expenses in this matter because Riley was an inmate and the Department of Corrections was responsible for his treatment. (Carey Depo. I at 37:01-06.) However, the Plaintiffs do claim for funeral expense in the amount of $11,377.65. (Invoice, attached as Exhibit 13.) Claimants also claim for Riley's pain, suffering, emotional distress and other general damages during his lifetime and for the value of his life. Riley's income prior to his incarceration was minimal. (IRS Tax Records, attached as Exhibit 14.) Moreover, his expected survival would have been for a relatively short period of time, with some degree of disability. However, his life had value, and Drs. Smisson and Johnson, and the other doctors with the Georgia Neurosurgical Institute, acted negligently in a manner that deprived him, and his family of invaluable time together. 
+
+
+
+[skip 9]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[ ] medical log not never produced, not medical records, no DR
+[ ] say something about grievance procedure, ability to talk to the warden?
+

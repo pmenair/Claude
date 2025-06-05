@@ -1,0 +1,145 @@
+#+title:      young vicky
+#+date:       [2024-05-14 Tue 13:47]
+#+filetags:   :casenotes:
+#+identifier: 20240514T134729
+
+Correct party is T-Mobile USA, Inc., misidentified in caption. No venue issues, they have the contract with the contractor. T-Mobile Leasing, LLC T-Mobile South, LLC Dismiss without prejudice, USA would be responsible.
+
+Monday, April 21, 2025 11:44 AM
+To: Matt Knoop <MKnoop@Polsinelli.com>; Zhu, Xiaoya <xzhu@csvl.law>; Lefkow, Mark D. <mlefkow@csvl.law>; Will Barillas <wbarillas@hallboothsmith.com>; cwatkins@hallboothsmith.com
+Cc: Steven Leibel <steven@leibel.com>; Betty Pennington <betty@leibel.com>
+Subject: Young
+
+Counsel,
+
+Now that I have written discovery from ASE I am ready to begin scheduling depositions. However, please provide in advance of the deposition of your client's witnesses verification of interrogatory responses (if not already provided) and supplementation of document requests to include any material your client indicated it intended to provide at a later date.
+
+Please provide dates for the following witnesses:
+
+ASE
+
+Eduardo Aguilar
+Pedro Gustavo
+30b6 for purpose of authentication of documents, examination regarding written discovery responses, and examination on the topics of ASE's contractual relationship to the other parties and policies and procedures regarding safety including, without limitation, the prevention of slip and fall incidents. I assume this is likely to be Mr. Aguilar and I am happy to depose him in both capacities at the same deposition.
+
+Atlanta Flooring
+
+30b6 for purpose of authentication of documents, examination regarding written discovery responses, and examination on the topics of Atlanta Flooring's contractual relationship to the other parties and policies and procedures regarding safety including, without limitation, the prevention of slip and fall incidents.
+
+Caliber 1
+
+30b6 for purpose of authentication of documents, examination regarding written discovery responses, and examination on the topics of Caliber 1's contractual relationship to the other parties and policies and procedures regarding safety including, without limitation, the prevention of slip and fall incidents.
+
+T-Mobile
+
+Rudy Guzman
+Aaron Latty
+30b6 for purpose of authentication of documents, examination regarding written discovery responses, and examination on the topics of T-Mobile's contractual relationship to the other parties and policies and procedures regarding safety including, without limitation, the prevention of slip and fall incidents.
+
+
+
+[[denote:20250120T140652][active_negligence]]
+
+PROTECTIVE ORDER
+
+ --> sort discovery out, ADD [[https://ecorp.sos.ga.gov/BusinessSearch/BusinessInformation?businessId=2619954&businessType=Domestic%20Limited%20Liability%20Company&fromSearch=True][ASE Flooring, LLC]], GET VIDEO etc, finalize notes, decide re 6.4 and start scheduling depositions -- NB 60 day dl from 10-25 to file motion to compel, call first, NEED TO ID EXPERTS
+
+set up file, r file re status, etc discovery? T-Mobile slip and fall SOL Nov 2025, set up subtreee, Caliber filed a special appearance answer but acknowledged service, T-Mobile has a LOT of defenses. FILE DISCOVERY MOTIONS WITHIN 60 DAYS, CALL FIRST PER CMO, NB substitution of counsel NEED TO AMEND COMPLAINT, FACTS ARE SUPER WEIRD, LOOK FOR VIDEO
+
+SHE WAS NOT THERE TO SHOP, BIG PROBLEM
+
+ALL EXPERTS MUST BE DEPOSED, SHOULD BE DEPOSED WITHIN 30 DAYS OF DISCLOSURE
+
+(get our copy to them 10 days prior) and dl for dispositive motions INCLUDING DAUBERT, no boilerplate MIL, NOTE MANY OTHER CASE MGT ISSUES ADDRESSED IN CMO PARTICULARLY WRT TRIAL
+
+** /Discovery/
+-------
+
+ASE
+
+[ ] Eduardo Aguilar, 131 Sunnydale Court, Lawrenceville, GA 30044, 770-865-1717 [ASE Flooring, LLC principal]
+[ ] Pedro Gustavo, 912-398-3426 [worker?]
+Both were working that day, they were at lunch
+--> through counsel Christopher Watkins / William Barillas
+Comp insurance only, K in Spanish
+Safety meetings in person, no documents
+No 6.4 except confirmation nothing withheld or privilege log
+
+Caliber 1
+
+Service defense not withdrawn but service acknowledged
+
+No witnesses, Rogs by Timothy Hill of Caliber 1 Construction, Inc., no one present, 30b6? id communication with Les Bridwell of Atlanta Flooring, 1MM coverage, Caliber is the prime and subcontracted the floor work to Atlanta Flooring, policies in K, again with privilege. K indemnifies Caliber, Caliber demanded indemn
+--> through counsel Mark Lefkow / Xiaoya Zhu 
+
+
+"Plumb Soldiers – Gayle Mowery 770-317-1748 (Concrete cut, plumbing, and pour back).
+Atlanta Flooring- Les Bridwell 770-476-8306 (Replacement of flooring affected by concrete cutting).
+Customer’s kid paid no attention and was allowed to run loose in the store, slipped on flooring patch skim coat that was
+applied by Atlanta Flooring. Picture included is the only pic showing signage.
+Total cost of the project was $15,900.00. I know this is above the threshold for Marisa, but subs were contracted
+separately,"
+
+Is Plumb Soldiers a proper party? Looks like no, ASE was the company doing the working and installed the "levelers," Plumb did the concrete cutting.
+
+Atlanta Flooring Design - denies indispensible parties? Do they mean ASE Flooring?
+
+Frank Winter – Executive Vice President | 770.476.8396 | 3665 Swiftwater Park Drive
+Suwanee, GA 30024, Atlanta Flooring Design Centers, Inc.
+John Adams – Director of Human Resources | 770.476.8396 | 3665 Swiftwater Park Drive
+Suwanee, GA 30024. Atlanta Flooring Design Centers, Inc.
+Donny Phillips | President | 770.476.8396 | 3665 Swiftwater Park Drive
+Suwanee, GA 30024, Atlanta Flooring Design Centers, Inc.
+Contact through Watkins / Barillas
+
+
+
+T-Mobile
+
+Verified
+
+[ ] need verification from Caliber and the two flooring Ds
+
+Rudy Guzman store manager, filled out incident report
+He was in the back with the flooring crew
+Aaron Latty, employee
+
+*** Atlanta Flooring Design Centers, Inc.
+
+Deny indispensible parties, deny premises was open as to the area where the fall happened, deny involvement other than hiring a subcontractor. Produced correspondence from Valley Forge to Utica saying Utica is on the hook. Produced subcontract. Identify three officers and Eduard Aguilar of ASE as witnesses.
+
+*** Caliber 1 Construction
+
+special appearance, service defense, subsequently acknowledged, they allege there were signs based on the photograph
+
+*** T-Mobile
+
+They deny invitee status. Potentially an issue if she was just there with her family? I also think there is a claim that the are was not open to the public.
+
+Rudy Guzman, Retail Store Manager, and Aaron Latty, T-Mobile employee,
+
+[ ] Need their documents esp video, maybe do 6.4 re prior incidents etc
+
+** /Medical/
+
+Urgent care XR preexisting arthritis KNEE, fall exacerbates inflammation
+
+2 days later ER Northside pain SHOULDER and HIP, CT spine negative, fully ambulatory, "perhaps" mild tenderness, no bruising
+
+Hamilton seems mostly unrelated??
+
+shoulder scope and upcoming knee scope? knee seems to come and go, wait and see how she talks about it
+
+ChatGPT: "Temporal relationship. Symptoms in both joints began immediately after the documented fall, and no alternative inciting event is recorded. The latency from injury to specialist evaluation (12 days) is typical for soft‑tissue injuries that fail to improve with simple care.
+
+Consistency of findings. Imaging shows a full‑thickness rotator‑cuff tear with SLAP involvement—patterns commonly produced by a sudden fall onto an outstretched arm in patients with pre‑existing outlet narrowing. Clinical testing of the hip reproduced pain in the labral distribution, which is also consistent with a torsional injury during the same fall.
+
+Pre‑existing conditions. Degenerative AC‑joint change, outlet stenosis and prior bursitis indicate that both regions were at risk, but Ms Young had managed these chronic issues for years with only sporadic treatment. The abrupt escalation to disabling pain, objective weakness, MRI‑proven cuff rupture and eventual surgery marks a clear change in condition temporally linked to the fall.
+
+Provider opinion. The orthopaedic surgeon repeatedly coded the cuff injury as “traumatic,” recommended operative repair after failed conservative measures, and documented the history of ground‑level fall as the precipitating event. There is no suggestion of any intervening trauma.
+
+Probability statement. Within reasonable medical probability ( > 50 %), the 11 / 17 / 23 ground‑level fall was a substantial contributing factor that acutely tore the previously degenerative but intact supraspinatus and precipitated symptomatic labral pathology in the right hip. Pre‑existing degenerative changes made her more susceptible, yet the clinical course and imaging indicate a new structural failure caused by the fall rather than spontaneous degeneration alone."
+
+
+
+

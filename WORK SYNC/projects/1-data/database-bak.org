@@ -1,0 +1,322 @@
+* headers                                                          :noexport:
+#+OPTIONS: toc:nil num:nil H:2 title:nil tags:nil
+#+OPTIONS: broken-links:t    ; Ignore broken links
+#+OPTIONS: broken-links:mark ; Mark broken links
+# HTML style sheet for print CSS. Solarized stylsheet fallback at http://thomasf.github.io/solarized-css/solarized-dark.min.css
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="css/print-style.css"/>
+#+OPTIONS: html-style:nil
+#+STARTUP: nofold
+#+STARTUP: hideblocks
+@@html:<div style="color: blue; font-size: 24px;">Leibel Law Case Status</div>@@
+* -------------- Traffic [9]
+** [[denote:20240830T130931][Adams]]
+
+[[https://leibel.filevineapp.com/#/project/991037798/calendar/list/2024/12/307394][Deborah Ann Adams, v. Mary Kirkwood Blalock]], [[https://researchga.tylerhost.net/CourtRecordsSearch/#!/case/c807eeabe7085dbeacd6c38c42fca974][24EV007394]], [["https://fultonstate.org/][Fulton State]], Jay M Roth
+
+[[https://www.gabar.org/member-directory/?id=DAD946C89B915C4348327FF364872C6E][Carrie L. Christie, Rutherford & Christie, LLP]]\\
+[[https://www.gabar.org/member-directory/?id=8A8954095C2B57D40C6325B2618EDF5B][Alexis C. Jones, Christie, Rutherford & Christie, LLP]]
+
+| [2025-05-02 Fri] | {F} | [AdamsD] | nonparties, contact FF [list in notes], skl to meet with Cooper re narrative |
+| [2025-07-08 Tue] | {D} | [AdamsD] | discovery dl per extend                                                      |
+
+** [[denote:20231229T092133][Bromaghim]]
+
+[[https://leibel.filevineapp.com/#/project/990515833/calendar/list/2025/2/4][Stephanie Lynn Bromaghim v. Lee Ann Ligon and Dan Siler]], 2:24-CV-076-SCJ, [[https://www.gand.uscourts.gov/court-info/court-locations/gainesville][NDGa Gainesville]], Steve Jones
+
+server: [[elisp:(dired-other-window "/Volumes/LeibelFiles/BROMAGHIM, STEPHANIE  #91330  DOL 2-18-17")]]
+
+Attorney for D: [[https://www.gabar.org/member-directory/?id=C814D15276133F86E0BD83BA7C578EC7][Dallas Oliver, Fain Major Brennan Sanford & Hardee, PC]]\\
+Attorney for D: [[https://www.gabar.org/member-directory/?id=E5505FBED4D2F8897D3C665E4B2C2B6A][Jessica Sanford, Fain Major Brennan Sanford & Hardee, PC]]
+
+| [2025-05-01 Thu] | {T} | [Bromaghim] | pp for trial in June |
+
+** [[denote:20240416T094516][Day]]
+
+[[https://leibel.filevineapp.com/#/project/990516497/calendar/list/2024/12/30][Daniel Ethridge Day v. Alan Lee McCartney and Linda Johanson]], 20SC-0483-B, Forsyth State, Russell McClelland
+
+server: [[elisp:(dired-other-window "/Volumes/LeibelFiles/DAY, DANIEL #91605 DOL 5-25-18")]]
+
+Counsel for Defendants(State Farm): [[https://www.gabar.org/member-directory/?id=248422B098AAF87DB40961A05AFF2B6C][Jennifer Debaun, Lynn Leonard & Associates]]
+Counsel for UM(Progressive): [[https://www.gabar.org/member-directory/?id=216764E51F55C50EC50D57CAC113A3D7][Karolynn Harris, Worsham Corsi Scott & Dobur]]
+
+| [2025-04-24 Thu] | {F} | [Day] | consent motion           |
+| [2025-04-28 Mon] | {E} | [Day] | trial if not transferred |
+
+August 2024 rear end, look at financial circumstances stuff
+
+** [[denote:20240312T113933][Krebs-Bensch]]
+
+[[https://leibel.filevineapp.com/#/project/990415089/calendar/list/2025/2/6][Allison Krebs Bensch v. Trinity George and Jaqueline Y. George, individually and as Natural Guardian of Trinity George]], [[https://researchga.tylerhost.net/CourtRecordsSearch/#!/case/6e0a1c175ea5564e93d53f2537c09357][24A01656]], [[https://dekalbstatecourt.net/][Dekalb State]], [[https://dekalbstatecourt.net/division-a/division-a-judges/judge-mike-jacobs-division-a-5/][Mike Jacobs]]
+
+Server: [[elisp:(dired-other-window "/Volumes/LeibelFiles/KREBS-BENSCH, ALLISON #91951 DOL 7-25-22")]]
+Server: [['/Volumes/LeibelFiles/KREBS-BENSCH, ALLISON #91951 DOL 7-25-22']]
+
+Attorney for Defendants: [[https://www.gabar.org/member-directory/?id=C814D15276133F86E0BD83BA7C578EC7][Dallas S.F. Oliver, Fain, Major & Brennan, PC]]\\
+Attorney for UM: [[https://www.gabar.org/member-directory/?id=50CCE3989851B341D19E51CCFBF3689A][Cameil Reddick, Law Office of Marcus A. Blackwell]]
+
+| [2025-04-28 Mon] | {F} | [Krebs] | discovery extending 60 days, do RFAs, NO D DEPOS |
+
+** [[denote:20240528T110056][Martin]]
+
+[[https://leibel.filevineapp.com/#/project/991716232/calendar/list/2025/1/31][Dawn Martin v. Lynneicia Ash and Dajuan Cloud and Jasmine Mahone d/b/a collectively as D&J Appliances]], 2024SV000939, Hall State, Larry Baldwin
+
+server: [[elisp:(dired-other-window "/Volumes/LeibelFiles/MARTIN, DAWN #92031 DOL 10-10-23")]]
+
+Attorney for Defendants: [[https://www.gabar.org/member-directory/?id=F95E177D22659DC6887DD3B5DE2BA549][Anne D. Gower]]
+
+| [2025-05-23 Fri] | {F} | [Martin] | pp mtn to compel, sanctions, default |
+| [2025-06-10 Tue] | {D} | [Martin  | discovery dl per extension           |
+
+** [[denote:20240318T150448][Newman]]
+
+[[https://leibel.filevineapp.com/#/project/990516226/custom/casesummary990000988][Daniel Allen Newman v. Kurt Rohan Panton, Humble Leaderology, LLC, and Chick-fil-A, Inc.]], [[https://researchga.tylerhost.net/CourtRecordsSearch/#!/case/47608944336a506b839596f016488104][23EV007755]], Fulton State, Diane Besson
+
+Counsel for Chik-fil-A: [[https://www.gabar.org/member-directory/?id=E1E3DF914309E098B41E36928DC751AD][Brooke Voelzke, Nicolson Law Group]]
+Counsel for Panton and HL: [[https://www.gabar.org/member-directory/?id=537478992BF89CEA31FB26C808D4F0DB][Walter McClelland, Freeman Mathis & Gary LLP]]
+Counsel for Panton and HL: [[https://www.gabar.org/member-directory/?id=95C312B8198C8086D89B25E05B4F21F1][James Scarbrough, Freeman Mathis & Gary LLP]]
+# Counsel for State Farm: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=NTg4NzUz][Daniel C. Prout, Jr., Waldon Adelman Castilla McNamara & Prout]] OUT
+# Counsel for State Farm: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=NjgxMTM3][Ryan E. Brightman, Waldon Adelman Castilla McNamara & Prout]] OUT
+
+| [2025-04-30 Wed] | {D} | [Newman] | OOS                      |
+| [2025-05-05 Mon] | {T} | [Newman] | pp mediation             |
+| [2025-05-09 Fri] | {E} | [Newman] | mediation --> pp for hrg |
+| [2025-05-12 Mon] | {D} | [Newman] | mediation dl             |
+| [2025-05-13 Tue] | {E} | [Newman] | hrg on msj (conflict?)   |
+
+** [[denote:20240312T104552][Smith]]
+
+[["https://leibel.filevineapp.com/#/project/990583973/custom/casesummary990000988][Wanda Smith and Leslie Smith v. Tracy Pagliara, Payton Allen Johnson, Williams Industrial Services Group, Inc., Williams Industrial Services Group, LLC, and Williams Industrial Services]], [[https://researchga.tylerhost.net/CourtRecordsSearch/#!/cases][24EV000284]], Fulton State, John Mather
+
+
+Attorney for Pagliara et al: [[https://www.gabar.org/member-directory/?id=65F30539E6D3A0F8EE9123155D7A25E1][R. Scott Masterson, Lewis Brisbois Bisgaard & Smith LLP]]\\
+Attorney for Pagliara et al: [[https://www.gabar.org/member-directory/?id=633B752DFE8F88138A28147B29BCF20A][Paul R. Borr, Lewis Brisbois Bisgaard & Smith LLP]]\\
+Attorney for Pagliara et al: [[https://www.gabar.org/member-directory/?id=DC6E337B245C4AD871508DAB5C92467C][Cameron Q. Ward, Lewis Brisbois Bisgaard & Smith LLP]]\\
+Attorney for Johnson: [[https://www.gabar.org/member-directory/?id=87F1C900317AAEA0358FA6A80354EEEB][Brenda Raspberry, Andrews & Gupta]]\\
+Attorney for UM: Deanna Jones
+
+| [2025-04-28 Mon] | {F} | [SmithW] | wait on Loizides, Borr |
+
+** [[denote:20240522T135857][Sullen]]
+
+[[https://leibel.filevineapp.com/#/project/990515949/calendar/list/2025/4/3][Mordena Sullen v. Carla Wilson Adams]], 17EV004431, Fulton State, Eady
+
+Counsel for Defendant: [[https://www.gabar.org/member-directory/?id=E4E7606AE12827CA68747D90E2C5E4B1][W. Dale Ellis, Jr. Rebecca Hendry & Associates]]
+
+| [2025-05-02 Fri] | {F} | [Sullen] | sigh |
+
+** [[denote:20240514T121105][White]]
+
+[[https://leibel.filevineapp.com/#/project/990515879/calendar/list/2025/2/14][Neal White, individually and as Natural Guardian of Connor White, a minor v. Nicklas Chaput, Barry Stringer and Ann Stringer]], SUVC2023000082, Lumpkin Superior, T. Buckley Levins
+
+# Counsel for RRG: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=MDIwNzY1][Adam L. Appel, Dermer Appel Ruder, LLC]] 
+Counsel for property Ds: [[https://www.gabar.org/member-directory/?id=AB0B2B01E3F21143EB561BE5BC8FE322][William Casey, Jr., Swift, Currie, McGhee & Hiers, LLP]]
+# Counsel for property Ds: -NOT IN THE BAR DIRECTORY-(Lane Kublanow, Swift, Currie, McGhee & Hiers, LLP)
+Counsel for Chaput: [[https://www.gabar.org/member-directory/?id=9289AF1D273FCC004558E0B96C435A95][Jonathan L. Bledsoe, The Minor Firm, LLC]]
+Counsel for Chaput: [[https://www.gabar.org/member-directory/?id=356B8422031D72301CDD25AC2ABC87F7][Grace Townsend, The Minor Firm, LLC]]
+Counsel for UM: [[https://www.gabar.org/member-directory/?id=E2F7A6DB49C0100B68A86643DA905A44][Morris Margulis, Law Office of Marcus A. Blackwell]]
+
+| [2025-05-02 Fri] | {T} | [White] | RESPOND TO BIFURC [due [2025-05-14 Wed]? --> review for trial, special set prob Sept, Nelson depo, supplement rogs per em from Casey |
+
+* -------------- Premises [6]
+** [[denote:20230524T144740][Bruce]]
+
+[[https://leibel.filevineapp.com/#/project/990515965/custom/casesummary990000988][Matthew Bruce v. The Kroger Co.]], [[https://ecf.gand.uscourts.gov/cgi-bin/iquery.pl?183017581859587-L_1_0-0-323097][1:23-cv-05470-ELR]], Georgia Northern District, Eleanor L. Ross
+
+| [2025-04-28 Mon] | {T} | [Bruce] | prep for trial, waiting on MSJ, lost income, supplement |
+
+** [[denote:20240409T133728][Conard]]
+
+[[https://leibel.filevineapp.com/#/project/990515978/custom/casesummary990000988][Victoria Conard v. Ingles Markets, Inc.]], STC2024000369, Stephens, Judge TBD
+
+| [2025-05-16 Fri] | {F} | [Conard] | Peter Brown reviewing, SKL to fu --> stip to trial |
+
+** [[denote:20240514T090408][Kipfmiller]]
+
+[[https://leibel.filevineapp.com/#/project/991005339/calendar/list/2025/2/7][Marylynn Kipfmiller v. The City of Savannah, Oak View Group, LLC,]], [[https://peachcourt.com/MyCases][24-A-2090]], Chatham State, Elizabeth Coolidge
+
+Attorney for Savannah: [[https://www.gabar.org/member-directory/?id=78799DEAB017E3B80475F4854A4A7A4B][R. Bates Lovett, Pierson Ferdinand LLP]]
+Attorney for Savannah: [[https://www.gabar.org/member-directory/?id=A5A50B6509ACAD75AC191AB571C0C84B][Denise Cooper, Savannah City Attorney]]
+Attorney for Savannah: [[https://www.gabar.org/member-directory/?id=20AF99CBEA09160FEE5EC2833D06305F][Eva N. Hill, Savannah City Attorney]]
+Attorney for Oak View: [[https://www.gabar.org/member-directory/?id=37008CB76EDC3A0DC48DFB1C0C1693C1][Craig Terrett, Cruser Mitchell Novitz Sanchez Gaston & Zimet LLP]]
+Attorney for Oak View: [[https://www.gabar.org/member-directory/?id=7FD345AECEA1D06017CABB382D850D77][Robert Mills, Cruser Mitchell Novitz Sanchez Gaston & Zimet LLP]]
+
+| [2025-04-28 Mon] | {T} | [Kipfmiller] | fu request 30b6s, experts [notes] |
+| [2025-08-21 Thu] | {D} | [Kipfmiller] | discovery dl per extend           |
+
+** [[denote:20240417T151048][Nelson]]
+
+[[https://leibel.filevineapp.com/#/project/990899130/calendar/list/2025/4/2][Curtis Nelson v. Advanced Technology Services, Inc. (DE), Brenton Douglas Bonine and John Does 1-10]], [[https://peachcourt.com/MyCases][23SC-0519-A]], Forsyth State, [[https://www.forsythclerk.com/CourtsAndJudges/JudgeJamesDunn.aspx][James A Dunn]]
+
+| [2025-05-01 Thu] | {F} | [Nelson] | pp mediation |
+| [2025-05-06 Tue] | {E} | [Nelson] | mediation    |
+
+Christopher Tubbs, former Toyo employee, 479-562-2249
+
+** [[denote:20240418T092418][Sewell]]
+
+[[https://leibel.filevineapp.com/#/project/990515878/custom/casesummary990000988][Sewell, Marcus et al v. Wilderness Development Corporation]], 3:24-cv-00406-TAV-JEM, EDTN, Thomas A. Varlan
+
+Counsel for Defendant: [[https://fmsllp.com/attorneys/mullins/][Benjamin C. Mullins, Frantz, McConnell & Seymour, LLP]]
+
+| [2025-05-16 Fri] | {T} | [Sewell] | review file re status, notes, ID more docs --> depo prep for skl |
+| [2025-05-01 Thu] | {E} | [Sewell] | client depos, McCord report coming in June                       |
+| [2025-05-13 Tue] | {E} | [Sewell] | Grimsled and Kedzic depos -- [2025-05-14 Wed]                    |
+| [2025-09-11 Thu] | {D} | [Sewell] | dl expert disclosures for Pl --> more dls                        |
+
+** [[denote:20240514T134729][Young, Vicky v. Verizon]]
+[[https://leibel.filevineapp.com/#/project/991735117/calendar/list/2025/1/31][Vicky Young v. T-Mobile USA, Inc., Caliber 1 Construction, Inc., Atlanta Flooring Design Centers, Inc., ASE Flooring LLC,  and John Doe 1]], 24-C-07683-S1, Gwinnett State, Emily Brantley
+
+Atty for T-Mobile: [[https://www.gabar.org/member-directory/?id=D503BB29152E614CF8BDE0AD7F893096][Matthew S. Knoop, Polsinelli PC]]
+Atty for Atlanta Flooring: [[https://www.gabar.org/member-directory/?id=708DCE518C1AC72B574E695CE74FD7A1][Christopher J. Watkins, Hall Booth Smith PC]]
+Atty for Atlanta Flooring: [[https://www.gabar.org/member-directory/?id=C9446F2372B9E29C1186BE94557F1427][William J. Barillas, Hall Booth Smith PC]]
+Atty for Caliber 1: [[https://www.gabar.org/member-directory/?id=690D96B16948FA7B7ECE1EBD41CE069C][Mark D. Lefkow, Esq., Copeland, Stair, Valz & Lovell, LLP]]
+Atty for Caliber 1: [[https://www.gabar.org/member-directory/?id=7410FA515970ABB6185A917B6BE4D547][Xiaoya Zhu, Esq., Copeland, Stair, Valz & Lovell, LLP]]
+
+| [2025-04-28 Mon] | {F}  | [Young] | schedule depos            |
+| [2025-08-01 Fri] | {D}  | [Young] | close of discovery per FINAL CMO, dl to disclose experts |
+| [2025-09-01 Mon] | {D}  | [Young] | dl for rebuttal witnesses                                |
+| [2025-09-15 Mon] | {D}  | [Young] | dl for mediation                                         |
+| [2025-10-01 Wed] | {D}  | [Young] | dl for motions, PTO, MIL, objxn to disco                 |
+
+* -------------- Medmal [4]
+** [[denote:20240920T111836][Holderfield]]
+
+[[https://leibel.filevineapp.com/#/project/991737271/calendar/list/2025/2/24][Rickie Alan Holderfield v.Dennis Wang, M.D., Julio Bimbela, R.N., Northeast Georgia, Medical Center, Inc., and Georgia Emergency Department Services, P.C]], 2024SV001333, Hall State, Kelley M. Robertson
+
+Attorney for NGMC and Bimbela: [[https://www.gabar.org/member-directory/?id=3A9AA14E9AE30A57A39115FC60564209][Kristin L. Pierson, Bendin, Sumrall & Ladner, LLC]]
+Attorney for GEDS and Wang: [[https://www.gabar.org/member-directory/?id=28837ACB4CED7D4A6CF05C97CD3ACB3D][David Mackenzie, Huff, Powell & Bailey, LLC]]
+
+| [2025-05-02 Fri] | {F} | [Holderfield] | discovery dl per answer passed, EXTENDING? --> EMTALA waiting on CMS |
+
+** [[denote:20240429T083730][Moye]]
+
+[[https://leibel.filevineapp.com/#/project/990516069/calendar/list/2025/2/7][Sheria Moye v. Kimberly Stanley, Monitoring Concepts Neuro, LLC, and US IOM, LLC]], 21A04921, Dekalb State, Kimberly Alexander
+
+Counsel for Stanley, Dickson and monitoring entities: [[https://gabar.reliaguide.com/lawyer/30303-GA-Terrell-Benton-263119][Terrell W. Benton, III, Hall Booth Smith, PC]]
+Counsel for Stanley, Dickson and monitoring entities: [[https://gabar.reliaguide.com/lawyer/30303-GA-Sheila-Kazemian-281971][Sheila K. Kazemian, Hall Booth Smith, PC]]
+
+| [2025-04-25 Fri] | {F} | [Moye] | dl to mediate 4/23, notify court by 4/30, pretrial 5/7 |
+
+** [[denote:20250403T150013][Murray]]
+
+[[https://leibel.filevineapp.com/#/project/991833998/calendar/list/2025/4/3][Brooke Nichole Murray and Edward J. Murray III, individually and as natural guardians of Coen Elliot Murray, a minor, v. Nada Megally, MD and Modern Obstetrics & Gynecology of North Atlanta, PC]], 24EV005687, Fulton State, Myra Dixon
+
+Attorney for Defendants: [[https://www.gabar.org/member-directory/?id=B432E35C2D57028E99130BC9C1CC4394][Jacob H. Raehn, MMPO Defense at MagMutual]]
+Attorney for Defendants: [[https://www.gabar.org/member-directory/?id=4AB1AFA1C78947E587F44447EF0FF2A1][Megan Patterson, MMPO Defense at MagMutual]]
+
+| [2025-05-02 Fri] | {T} | [Murray] | review file re status, discovery closed |
+
+** [[denote:20250404T131648][Willis]]
+
+[[https://leibel.filevineapp.com/#/project/990899474/calendar/list/2025/4/4][Regina Michelle Willis and Darin Willis, individually and as Wrongful Death Claimants in relation to Oliver Duncan Willis, a Deceased Minor, v. Northeast Georgia Medical Center, Inc., Longstreet Clinic, P.C., and Amanda Turner Driskell, CNM]], 2024SV000669, Hall State, Kelley M. Robertson
+
+| [2025-06-03 Tue] | {E} | [Willis] | mediation |
+
+* -------------- Settlement or Judgment Pending [2]
+** [[denote:20240417T092927][Ragsdale]]
+
+| [XXX] | {E} | [Ragsdale] | SETTLED |
+
+** [[denote:20240418T095349][Rundles]]
+
+[[https://leibel.filevineapp.com/#/project/991348756/calendar/list/2025/2/17][/Royce Cailen Rundles v. David Stanley, M.D., Northeast Georgia Medical Center, Inc., and Northeast Georgia Physicians Group, Inc./, 2023SV001259, Hall State, Larry A. Baldwin, II]]
+
+Attorney for D: [[https://www.gabar.org/member-directory/?id=7AABC7CC11A1BA3024603A0AD3BE2135][M. Scott Bailey, Huff, Powell & Bailey, LLC]]
+Attorney for D: [[https://www.gabar.org/member-directory/?id=F3DEF3E696F3C696A09ECFA179B0D44B][Lindsey L. Cassimus, Huff, Powell & Bailey, LLC]]
+Attorney for D: [[https://www.gabar.org/member-directory/?id=26BFA65D1299D22E3FDF8CB3458076ED][Karian Chard, Huff, Powell & Bailey, LLC]]
+
+| [XXX] | {F} | [Rundles] | DISMISSED                                       |
+
+* -------------- Misc [5]
+** [[denote:20250220T132030][Popphan
+]]
+| [2025-05-02 Fri] | {F} | [Popphan] | file? |
+
+FF mother Jennifer Lowe 693 Sweetwater Church 706-974-8766, father Jeff, MIL Brandy Dollar 706-974-7389
+
+** [[denote:20241009T095427][Wallace, Sherry v. Grady Memorial Hospital et al.]]
+
+| [2025-05-02 Fri] | {F} | [Wallace] | file? |
+
+** FCSO
+
+| [2025-04-24 Thu] | {T} | [FCSO] | corporation book, fu CSAM |
+
+REVIEW HEROS TAX STATUS, REVIEW CORPORATE BOOKS, UPDATE OPERATING AGREEMENT
+
+** [[denote:20240313T103418][ATU adv. MARTA]]
+
+[[elisp:(dired-other-window%20%22/Volumes/Work%20Files/Work%20Sync%20Folders/ATU/%22)][TRO Petition]] pending in Fulton State 24CV004279, answer extended multiple times, dismissed without prejudice so that we can arbitrate by 4/3, need to refile by [2025-09-11 Thu]
+
+| [2025-05-14 Wed] | {F} | [Marta-TRO | did we arbitrate? |
+
+[[elisp:(dired-other-window%20%22/Volumes/Work%20Files/Work%20Sync%20Folders/ATU/%22)][New MARTA Case]] 24CV006697 Filed 5-24-24, the REACH outsourcing case, Union is in negotiations, fully briefed and waiting on the Court, status conference set of
+
+| [2025-04-28 Mon] | {E} | [Marta-REACH]   | pp for argument                       |
+| [2025-05-12 Mon] | {E} | [Marta-REACH]   | Will be set for argument on this date |
+
+[[elisp:(dired-other-window%20%22/Volumes/Work%20Files/Work%20Sync%20Folders/ATU/%22)][APPEAL]] A24A1557, WE WON
+
+status? everything is fully briefed, decision in appeal by March 14, 2025, no deadline in new MARTA, our TRO answer extended to [10-04 Fri], NLRB thing done
+
+** [[denote:20240821T100113][Cladding]]
+
+[[https://leibel.filevineapp.com/#/project/992160313/calendar/list/2025/2/5][Cladding and Component Solutions, Inc. v. Phuong K. Nguyen and Cam Ken Construction, LLC, STCV24-01932, State Court of Chatham County, Elizabeth Coolidge]]
+
+[[https://www.gabar.org/member-directory/?id=76B531CCA2947A504CEA34435BF25A76][R. Brandon Galloway, Galloway & Galloway, P.C.]]
+
+| [2025-04-28 Mon] | {F} | [Cladding] | schedule or notice --> MSJ [remember acknowls debt      |
+
+** [[denote:20240522T140017][McKinney v. Jenkins & Stiles et al.]]
+
+Forklift accident in TN - NB answer points finger at other parties,
+being handled by TN counsel
+
+[status]: [McKinney] waiting on trial, outside counsel handling
+
+** [[denote:20240416T150121][Riley]]
+
+[[https://leibel.filevineapp.com/#/project/990516197/custom/casesummary990000988][Melissa Riley Carey, individually and as Personal Representative of the Estate of Matthew Wallace Riley, and Christina Greenberg Riley, as Personal Representative of the Estate of Wallace Riley v. Georgia Department of Corrections et al.]], [[https://researchga.tylerhost.net/CourtRecordsSearch/#!/cases][20EV002325]], [[https://www.fultonclerk.org/144/eServices][Fulton State]], [[https://www.fultoncourt.org/sites/default/files/jdglist/judgelist2.pdf][Patsy Y. Porter]]
+
+| [2025-04-28 Mon] | {T} | [Riley] | trial stip filed, PUT TOGETHER, think about whether we need anyone other than Freeman |
+
+** [[denote:20240409T123822][Williams, Julie adv. King]]
+[[https://leibel.filevineapp.com/#/project/991874182/custom/casesummary990000988][
+Howard Stanley King, Jr.and Karrie King v. Julie M. Williams, d/b/a Sellers Realty of Dahlonega]], [[https://peachcourt.com/CaseDocket/index?cno=SUCV2024000164&cty=Lumpkin&crt=Superior][SUCV2024000164]], [[https://www.lumpkincounty.gov/directory.aspx?did=9][Lumpkin
+Superior]], [[https://www.lumpkincounty.gov/DocumentCenter/View/2510/Court-Personnel-Contact-Information][T.Buckley Levins]]
+
+[[https://gmass.net/meet-the-team/#leadership]]
+
+| [2025-05-02 Fri] | {F} | [Williams] | NO peremptory, waiting on msj ruling |
+
+** Misc Misc
+
+
+| [2025-04-24 Thu] | {F} | [Lunsford] | 2d ante-litem with PJI DOL 2024-07-02 [90 days]          |
+| [2025-04-24 Thu] | {T} | [Chabad]   | fu mediation, new contractor                             |
+| [2025-05-02 Fri] | {F] | [Reeves]   | fu compl service                                         |
+| [2025-04-28 Mon] | {F} | [Menair]   | annual fee                                               |
+| [2025-04-28 Mon] | {T} | [Misc]     | litigation transfer list [[elisp:(switch-to-buffer "*scratch*")][*scratch*]]   Prea, Baudo, Hamby  |
+| [2025-05-02 Fri] | {F} | [CCS]      | piazza inc. yonkers, get amount and bills from Connie    |
+| [2025-06-06 Fri] | {F} | [Alevy]    | status? SOL 04/03 tolled to 7/3                          |
+| [2026-01-05 Mon] | {F} | [CCS]      | Cladding and Component Solutions, Inc. -- annual meeting |
+| [XXXX]           | {F} | [Howard]   | PAISLEY - GET IT SETTLED seriously ffs                   |
+
+- {F} | [Misc] review re confidentiality orders --> Wildeboer, Cotton, Loftin, Hyams, Ballard, Murray [Schuch, Bruce, Young, XXX]
+
+* --
+
+Local variables:
+eval: (custom-set-faces '(org-level-1 ((t (:foreground "red")))))
+eval: (custom-set-faces '(org-level-2 ((t (:foreground "green")))))
+eval: (org-link-set-parameters
+        "denote"
+        :face '(:foreground "green" :underline t))
+End:
+
+
+
+
+
+
+

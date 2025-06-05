@@ -1,0 +1,225 @@
+;;;; This is my database elisp file
+
+;; (defun my-initialize-database ()
+;;   "Setup function to initialize my db file."
+;; (interactive)
+;;   (progn
+
+
+
+;;   (defclass case ()
+;;     ((name :initarg :name
+;;            :initform ""
+;;            :type string)
+;;      (court :initarg :court
+;;             :initform ""
+;;             :type string)
+;;      (judge :initarg :judge
+;;             :initform ""
+;;             :type string)
+;;      (can :initarg :can
+;;           :initform ""
+;;           :type string)
+;;      (status :initarg :status
+;;              :initform ""
+;;              :type string)
+;;      (liamt :initarg :liamt
+;;             :initform 0.0 ; elisp allows 0.0e+NaN but not really for missing values
+;;             :type float)  ; EIEIO allow nil slots but doesn't let you write nil
+;;      (licarr :initarg :licarr
+;;              :initform ""
+;;              :type string)
+;;      (umamt :initarg :umamt
+;;             :initform 0.0
+;;             :type float)
+;;      (umcarr :initarg :umcarr
+;;              :initform ""
+;;              :type string)
+;;      (med :initarg :med ; I remember damage
+;;           :initform 0.0
+;;           :type float)
+;;      (other :initarg :other
+;;             :initform 0.0
+;;             :type float)
+;;      (demand :initarg :demand
+;;              :initform 0.0
+;;              :type float)
+;;      (offer :initarg :offer
+;;             :initform 0.0
+;;             :type float))
+;;     "My basic case class.")
+;; ;    :allow-nil-initform t)
+
+;;; initialization
+
+(org-hide-block-all)
+(setq caselist ())
+
+;;; helper functions
+
+(defun my-pretty-print-xml-region (begin end)
+  "This pretty-prints the xml, based on an original at https://stackoverflow.com/questions/12492/pretty-printing-xml-files-on-emacs that turned on nXML mode. In an org block I can just rely on the mode to indent correctly."
+  (interactive "r")
+  (save-excursion
+    (goto-char begin)
+    (while (search-forward-regexp "\>[ \\t]*\<" nil t) 
+      (backward-char) (insert "\n") (setq end (1+ end)))
+    (indent-region begin end)))
+
+(defun my-group-number (num &optional size char)
+  "Format NUM as string grouped to SIZE with CHAR."
+  ;; Based on code for `math-group-float' in calc-ext.el
+  (let* ((size (or size 3))
+         (char (or char ","))
+         (str (if (stringp num)
+                  num
+                (number-to-string num)))
+         ;; omitting any trailing non-digit chars
+         ;; NOTE: Calc supports BASE up to 36 (26 letters and 10 digits ;)
+         (pt (or (string-match "[^0-9a-zA-Z]" str) (length str))))
+    (while (> pt size)
+      (setq str (concat (substring str 0 (- pt size))
+                        char
+                        (substring str (- pt size)))
+            pt (- pt size)))
+    str))
+
+;;; html output function
+
+;; Adopted from prior verion using cl-defmethod to create a generic for a "case" class; this is just a plist processor. NB this assumes presence of specific keys, am going to refactor to generalize. (dolist (casename caselist)...
+
+(defun my-caseprint-html (casename)
+  (sxml-to-xml
+   `(div (p ,(plist-get casename :court) " " ,(plist-get casename :can))
+	 (p "Judge: " ,(plist-get casename :judge))
+	 (p (table (tr (td "LI Amount:") (td (@ (data-type "liamt")) ,(my-group-number (format "%.2f" (plist-get casename :liamt)))))
+		   (tr (td "LI Carrier:") (td (@ (data-type "licarr")) ,(plist-get casename :licarr)))
+		   (tr (td "UM Amount:") (td (@ (data-type "umamt")) ,(my-group-number (format "%.2f" (plist-get casename :umamt)))))
+		   (tr (td "UM Carrier:") (td (@ (data-type "umcarr")) ,(plist-get casename :umcarr)))))
+	 (p (table (tr (td "Med:") (td (@ (data-type "med")) ,(my-group-number (format "%.2f" (plist-get casename :med)))))
+		   (tr (td "Other:") (td (@ (data-type "other")) ,(my-group-number (format "%.2f" (plist-get casename :other)))))
+		   (tr (td "Demand:") (td (@ (data-type "demand")) ,(my-group-number (format "%.2f" (plist-get casename :demand)))))
+		   (tr (td "Offer:") (td (@ (data-type "offer")) ,(my-group-number (format "%.2f" (plist-get casename :offer))))))))))
+
+:;; CSV dump for SQLite, two versions
+
+;; This works but is kinda dumb, because emacsql isn't very smart about quotes. The quotes end up going in and then coming back out of Sqlite fine, but you end up having to double quote in the Sqlite program, and if you strip them in Sqlite with trim() then emacsql chokes.
+
+(defun my-export-database-to-sql ()
+  "Dump the db into SQL"
+  (interactive)
+  (progn
+    (setq db (emacsql-sqlite "~/Documents/Github/projects/1-data/test.db"))
+    (emacsql db [:create-table-if-not-exists cases
+					     ([(name :primary-key) court judge can status liamt licarr umamt umcarr med other demand offer])])
+    (dolist (casename caselist)
+      (emacsql db [:insert-or-replace-into cases :values $v1]
+	       (list (vector (plist-get casename :name)
+			     (plist-get casename :court)
+			     (plist-get casename :judge)
+			     (plist-get casename :can)
+			     (plist-get casename :status)
+			     (plist-get casename :liamt)
+			     (plist-get casename :licarr)
+			     (plist-get casename :umamt)
+			     (plist-get casename :umcarr)
+			     (plist-get casename :med)
+			     (plist-get casename :other)
+			     (plist-get casename :demand)
+			     (plist-get casename :offer)))))))
+
+(cl-defmethod my-caseprint-csv ((casename case)) 
+  (let ((namepr (oref casename :name))
+	(courtpr (oref casename :court))
+	(judgepr (oref casename :judge))
+	(canpr (oref casename :can))
+	(statuspr (oref casename :status))
+	(liamtpr (oref casename :liamt))
+	(licarrpr (oref casename :licarr))
+	(umamtpr (oref casename :umamt))
+	(umcarrpr (oref casename :umcarr))
+	(medpr (oref casename :med))
+	(otherpr (oref casename :other))
+	(demandpr (oref casename :demand))
+	(offerpr (oref casename :offer)))
+    (insert (format "%s,%s,%s,%s,%s,%.2f,%s,%.2f,%s,%.2f,%.2f,%.2f,%.2f\n" namepr courtpr judgepr canpr statuspr liamtpr licarrpr umamtpr umcarrpr medpr otherpr demandpr offerpr))))
+
+
+(defun my-csv-dump ()
+  (interactive)
+  "creates a csv file for further processing"
+  (with-temp-file "cases.csv"
+    (insert "name,court,judge,can,status,liamt,licarr,umamt,umcarr,med,other,demand\n")
+    (mapcar 'my-caseprint-csv caselist)))
+
+;; Works great. In Jupyter I just need to import pandas as pd; df = pd.read_csv("cases.csv") and it's in a dataframe ready to rock and roll. All strings, probably, but still.
+
+
+    ;; XML - This works too, absent a stray ampersand, just import pandas as pd; df = pd.read_xml("cases.xml")
+
+    (cl-defmethod my-caseprint-xml ((casename case))
+      (dom-print
+       `(row ((row-id . ,(oref casename :name)))
+	     (client nil ,(oref casename :name))
+	     (court nil ,(oref casename :court))
+	     (judge nil ,(oref casename :judge))
+	     (can nil ,(oref casename :can))
+	     (status nil ,(oref casename :status))
+	     (liamt nil ,(format "%.2f" (oref casename :liamt))) ; no commas, this is data
+	     (licarr nil ,(oref casename :licarr))
+	     (umamt nil ,(format "%.2f" (oref casename :umamt)))
+	     (umcarr nil ,(oref casename :umcarr))
+	     (med nil ,(format "%.2f" (oref casename :med)))
+	     (other nil ,(format "%.2f" (oref casename :other)))
+	     (demand nil ,(format "%.2f" (oref casename :demand)))
+	     (offer nil ,(format "%.2f" (oref casename :offer)))
+	     ) t t )
+      (insert "\n"))
+    
+    (defun my-xml-dump ()
+      (interactive)
+      "creates an xml file for further processing"
+      (with-temp-file "cases.xml"
+	(insert "<cases>\n")
+	(mapcar 'my-caseprint-xml caselist)
+	(insert "</cases>")))
+
+  ;; markdownify headings
+  (font-lock-add-keywords nil
+			  '(("^\\(*\\)"
+			     (0 (prog1 () (compose-region (match-beginning 1) (match-end 1) "#"))))))
+  
+  (font-lock-add-keywords nil
+			  '(("^\\*\\(*\\)"
+			     (0 (prog1 () (compose-region (match-beginning 1) (match-end 1) "#"))))))
+  
+  (font-lock-add-keywords nil
+			  '(("^*\\*\\(*\\)"
+			     (0 (prog1 () (compose-region (match-beginning 1) (match-end 1) "#"))))))
+  
+  (font-lock-add-keywords nil
+			  '(("^*\\*\\*\\(*\\)"
+			     (0 (prog1 () (compose-region (match-beginning 1) (match-end 1) "#"))))))
+  ;; markdownify footnotes
+  (font-lock-add-keywords nil
+			  '(("\\[\\(fn\\):"
+			     (0 (prog1 () (compose-region (match-beginning 1) (match-end 1) "^"))))))
+  ;; light up todo types everywhere
+  (font-lock-add-keywords nil
+			  '(("Todo: " . 'font-lock-type-face)))
+  
+  (font-lock-add-keywords nil
+			  '(("Follow up: " . 'font-lock-type-face)))
+  
+  (font-lock-add-keywords nil
+			  '(("Event: " . 'font-lock-type-face)))
+  
+  (font-lock-add-keywords nil
+			  '(("Deadline: " . 'font-lock-type-face)))
+  ;; make lozenges
+  (font-lock-add-keywords nil
+			  '(("\\@\\@"
+			     (0 (prog1 () (compose-region (match-beginning 0) (match-end 0) "◊"))))))
+  ;; apply
+  (font-lock-update)))
+

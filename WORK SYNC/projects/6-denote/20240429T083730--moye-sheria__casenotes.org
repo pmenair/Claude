@@ -1,0 +1,161 @@
+#+title:      moye sheria
+#+date:       [2024-04-29 Mon 08:37]
+#+filetags:   :casenotes:
+#+identifier: 20240429T083730
+
+Service complete as of 12/17; NB jxn denials in RFA responses.
+
+Answers: No concerning defenses as to most defendants except to venue. Dickson contests jxn and venue - there may be an issue re residence. 
+
+RFAs and ROGS: Black claims she doesn't know whether the equipment was working or not, she admits requested neuromonitoring. Black identifies individuals in the medical records, says she has one prior medmal but doesn't remember the details; lots of "discovery is ongoing" and "not in my pcc" but it's generally responsive. She produced medical records, her CV, and some contracts. Some records (e.g. insurance) coming by supplementation.
+
+Dickson admits service but denies jxn and venue, claims he had nothing to do with treatment. He's covered by the IOM policy. He claims he was shadowing Stanley pursuant to an "approval" - Black claims she didn't approve anyone, just requested monitoring. Dickson identifies Darryl Bullock?
+
+Stanley admits the equipment wasn't working, identifies Bullock and Noan Ivie (references text exchange re new equipment, produced). She's covered under the IOM policy. Refers to docs produced by IOM.
+
+IOM: 1MM;4MM policy. Documents produced show the equipment didn't work, don't show why. Identify general counsel Bruce McGee, probably as 30b6. Device manufactured by Caldwell Cascade. Follow up re why did it malfunction? I honestly don't care much.
+
+Monitoring Concepts Neuro: Covered by IOM, unclear what the relationship is but they seem like a subsidiary, doesn't really matter?
+
+Medical Center: Admits it employed the staff in the operating theater (identified in the responses) and offers to help identify additional parties from the records produced. Physician's group employed the doctor.
+
+Depo prep (if me - skl may handle) - review atty notes, docs provided
+
+Neck surgery medmal. No concerning defenses as to most defendants except to venue. Dickson out.
+
+See notes. NB battery and informed consent malpractice are DIFFERENT THINGS, general consent is a defense to battery claim
+
+Discovery ran 6/23
+
+added consent, K claim re USIOM, fu Cassimus em July 21 re policies, 30b6? - all experts should be identified. 
+
+wages: lost income pled with no amount or type, withdrawn in ROG responses, response in depo is "NO"
+
+
+
+
+O.C.G.A. § 9-11-26(b)(4)(A)(ii) allows the court to determine the reasonableness of an expert's fee on basically anyone's motion. 
+
+Court has sua sponte raised, as a threshold issue, the question whether the expert whose fee is being questioned here was entitled to service of the present motion
+
+I wasn't able to find authority on that question. There are cases involving an expert coming to court attempting to compel payment, fee shifting cases where the expert was going to be paid regardless, and other cases where it isn't clear, to me anyway. I wasn't able to find a case where the court's issue is discussed.
+
+But it seems in principle like if we are compelling the expert to take less than his customary fee he should have an opportunity to be heard.
+
+On the substance, however, we believe Dr. Wolinsky's fee is reasonable. Not sure it's our burden, we aren't the ones seeking reimbursement here. But we have nevertheless presented evidence of the following fee schedules:
+
+Hazany, $1,000 per hour neuroradiologist
+Jove, $2,000 for first hour, $400 per 15 minutes after that, ortho surgeon
+Sherman $750 per hour psyiatrist, which is low, but higher than their expert, and I'm showing the range
+Wada $1,500 per hour for live, $2,000 for video, pain doc
+
+If we are looking at federal authority, Miller v. Credit, No. 12-00138-BAJ-RLB, 2013 WL 1833310 (M.D. La. May 1, 2013) and Grauvogl v. Roby, No. 2:11-CV-333-WCL-PRC, 2012 WL 4959478 (N.D. Ind. Oct. 17, 2012) are both cases where a court presented by evidence of similarly situated experts charging similar fees found a $1,500 per hour fee to be reasonable.
+
+All they've shown is their expert charges $500 per hour but has a three hour minimum, and they've also shown the court that we have a different expert who charges $250 per hour for record review.
+
+Dr. Wolinsky is billing what they concede to be his standard rate for testimony in a specific, elite medical field. Absent better evidence to rebut the evidence we've provided of the customary rates for what I'd suggest are more or less similarly situated doctors I don't see how we can come to the conclusion that Dr. Wolinsky's fee is unreasonable.
+
+There's an additional layer.
+
+If we are here on the issue of fee shifting under O.C.G.A. § 9-11-26(b)(4)(C)(ii), and it's not entirely clear, they must demonstrate that requiring them to pay the entire fee would work a *manifest injustice*. Barnum v. Coastal Health Services, 288 Ga. App. 209, 216 (2007). 
+
+And for practical purposes I'd submit that's what this is, if the doctor isn't here, because if the doctor isn't here the assumption I think is we end up paying the difference.
+
+The fee shifting factors are "the possible hardships imposed on the respective parties; the need for doing justice on the merits between the parties; whether a party is indigent; and the need for maintaining orderly and efficient procedural arrangements." Id. 
+
+The defendants are not indigent and have proposed no basis for a finding that this fee would work any sort of injustice on them other than the simple fact that it's more than they would like to pay. 
+
+The deposition could be conducted less expensively by videoconference, but the defendants insist on deposing him in person, which of course is their right but is inconsistent with the proposition that the fee amount works some sort of extraordinary hardship. And, again, on the specific issue of reasonableness, all they have provided is anecdotal evidence of the fee schedule of one other doctor and a file review quote from our doctor.
+
+---
+
+Polston v. Levine, 171 Ga. App. 893 (Ga. Ct. App. 1984) (upholding order compelling payment of fees on motion by doctor but denying attorney fee award to doctor)
+
+Wolinsky is a neurophysiologist, which is a specific expertise relating to nerve function monitoring.
+
+  NGMC directives polices etc given pursuant to agreement with USIOM
+  Walinsky said deal with the practice, Travers Mayhan
+  Providing this service is a revenue issue, USIOM gets paid
+  split fees
+  she gave a drug that monitoring wouldn't be effective
+  she wasn't even planning to use it
+  we need this this and this
+  need to take 30b6 re revenue hospital and USIOM, practice manager
+  revenue stuff
+  [ ] texas medical board Mahan
+  [ ] identify Walensky
+
+  ---
+
+  Screenshots / data
+  Name of the unit
+  No incident report or communication with Mfct
+  No consent signed by patient but blank for provided
+  1 Email (scheduling service) produced
+  No equipment servicing records
+  Equipment failure protocol produced
+
+  Chat record
+  Stanley offer letter
+  Invoice $450 paid on a per case basis
+  2 page report of the procedure
+  Service agreement with fee schedule
+  Training material (slides)
+  Insurance policy
+
+  -- NEGMC gave us a huge list of policies
+  
+  30b6
+  
+[ ] copies of licenses, approvals, and permits per IIA
+[ ] SOC ASET and ASNM
+[ ] signed interpreted reports
+[ ] solicitation of input re competency and performance and response
+[ ] annual review  of same
+[ ] credentialing and qualifications and proof it was provided
+[ ] vendormate
+[ ] discipline records re Stanley
+[ ] all screening re Stanley
+[ ] USIOM copies of policies, standards, etc re neuromonitoring
+[ ] bill line items monitoring
+
+Tackett, Walinsky
+
+Medical illustrator
+
+monitoring concepts management LLC
+
+
+* Notes
+
+Porterfield - disagrees re loss of informed consent, does not agree that she should have stopped the surgery, if I really needed the nerve monitor and I hadn't visualized the nerve I would have done a near total thyroidectomy and left material near where the nerve is likely to be cut. Don't leave a dead thyroid and redo the surgery. I did five without nerve monitors yesterday, didn't cut any nerves or have any traction injuries.
+
+
+Dr. Black is and was at the time of the incident from which this lawsuit arises an employee of Northeast Georgia Physicians Group. (Black Depo. at 11:21-12:19, 20:03-07.) She is board certified in general surgery. (Black Depo. at 17:14-18.) Moye presented to her with a large left thyroid mass that was increasing in size. (Black Depo. at 21:14-22:06.) The mass was displacing her trachea into the empty space left from the previous removal of her right thyroid lobe, causing a deviation. (Black Depo. at 22:07-23:05.)
+
+Neuromonitoring allows a surgeon to confirm whether or not they are stimulating a nerve in the patient's body. (Black Depo. at 35:25-36:10.) Every time Dr. Black performs a thyroid surgery, she requests nerve monitoring. (Black Depo. at 36:23-37:15; 59:10-12.) The recurrent laryngeal nerve ordinarily can be visualized in its anatomic location. (Black Depo. at 18-24.) However, Moye did not have a normal anatomical presentation. (Black Depo. at 47:01-04; 64:18-65:10.)
+
+Black believed after the surgery that she had identified the nerve and that it appeared intact at the end of the case. (Black Depo. 69:06-69:24.) Black concedes she did not positively identify the nerve through neuromonitoring, because the equipment malfunctioned, so she was only able to identify what she "suspected" was the nerve and did not confirm this. (Black Depo. 80:05-11.) Black does believe she identified the nerve, and does not believe she cut the nerve, but she concedes it was injured, most likely, she believes, by traction. (Black Depo. 66:23-67:13.) In fact, she concedes that if Moye has not recovered, then there was a serious or severe traction injury. (Black Depo. 73:09-12.) A traction injury is injury to a nerve by stretching or pulling. (Black Depo. 76:06-16.) In her words, "I believe that it had to have been something that was injured while I was dissecting something else, and it happened to be attached to it and, therefore, got stretched." (Black Depo. 82:05-09.) Although she contends that neuromonitoring would not have prevented the injury (Black Depo. 67:18-21; 81:20-82:09), Black unreservedly admits that Moye "had some sort of nerve injury during the [surgery]" (Black Depo. at 81:25-82:01). 
+
+Plaintiff's expert, Dr. John R. Porterfield, Jr. ("Dr. Porterfield") has testified by affidavit that Dr. Black "failed to properly identify, and protect the recurrent laryngeal nerve while in the operating theater," and that this was below the standard of care and a cause of permanent injury to Moye. (Porterfield Affidavit at ¶ 6.) While Black insists she believes she did identify it, she admits she failed to protect it. For reasons argued below, this is an appropriate case for partial summary judgment as to liability.
+
+Argument and Citation of Authority
+
+Summary judgment shall be granted where the record shows that no genuine issue of fact exists for trial. OCGA § 9-11-56(c). Summary judgment is awarded in negligence cases where liability is plain, palpable, and indisputable. Purcell v. Breese, 250 Ga. App. 472, 475 (2001) (quoting Sykes v. Colony Regency Partners, 226 Ga. App. 804, 806 (1997)).
+
+Here, setting aside questions of causation and damages, Dr. Black's breach of duty is plain, palpable and indisputable; indeed, she concedes it. In cases where the mechanism of an injury is unclear, res ipsa loquitur does not apply in medical malpractice actions in Georgia, because the courts have found that "[a]n unintended result does not raise an inference of negligence" in a medical or surgical context. Oakes v. Magat, 263 Ga. App. 165, 168 (2003) (speculation that phrenic nerve injury may have been caused by surgical procedure insufficient basis to take case to jury). Here, however, the doctrine is unnecessary, as Dr. Black concedes that she caused the injury, whether by cutting or by traction. Although she contends that neuromonitoring would not have prevented the injury (Black Depo. 67:18-21; 81:20-82:09), Black unreservedly admits that Moye "had some sort of nerve injury during the [surgery]" (Black Depo. at 81:25-82:01). 
+
+This is, in other words, not a typical res ipsa loquitur case in which the mechanism of injury is not known and a presumption is invoked in an attempt to establish that some negligent act must have caused injury to the plaintiff. Here, the defendant admits that she damaged the nerve and simply presents a different explanation of how she believes it must have happened. Whether or not neuromonitoring would have made a difference is irrelevant for purposes of establishing liability, and the disputed issue of whether she properly visualized the nerve is similarly beside the point, as she admits to inadvertantly stretching it and, as a consequence, damaging it. 
+
+On these facts, the Court should enter summary judgment on the question of liability, reserving the issues of damages for the jury.
+
+
+---
+
+Expert testimony admitted at trial that nerve injury is an "unexpected result" of a shoulder surgery. McMullen v. Vaughan, 138 Ga. App. 718 (Ga. Ct. App. 1976)
+
+issue whether surgeon's lack of care or sliding equipment caused nerve damage. Beasley v. Northside Hospital, Inc., 658 S.E.2d 233 (Ga. Ct. App. 2008)
+
+lack of evidence of cause of nerve damage, no res ipsa Oakes v. Magat, 263 Ga. App. 165 (Ga. Ct. App. 2003)
+
+consent Duke v. Bachner, 266 Ga. App. 109 (Ga. Ct. App. 2004)

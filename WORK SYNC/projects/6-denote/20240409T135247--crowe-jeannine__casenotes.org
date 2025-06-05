@@ -1,0 +1,84 @@
+#+title:      crowe jeannine
+#+date:       [2024-04-09 Tue 13:52]
+#+filetags:   :casenotes:
+#+identifier: 20240409T135247
+
+---
+
+** /Representation and Coverage/:
+
+Counsel for Defendants: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=NTgwNzIz][Melissa C. Greene, Copeland, Stair, Valz & Lovell, LLP]]
+Counsel for Defendants: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=NjMxNzc3][Sharon R. Opila, Copeland, Stair, Valz & Lovell, LLP]]
+
+Counsel for UM: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=Mzk0NzQ1][Brian W. Johnson, Drew, Eckl & Farham, LLP]]
+Counsel for UM: Jeffrey F. Leasendale, Drew, Eckl & Farham, LLP
+
+LI Policy: 1,300,000.00 Geico
+UM Policy: 100,000.00 reduced by Horace Mann OUT ON YARB
+
+** /Damages/:
+
+Medical: 56,125.56
+
+** Notes
+
+UM out on Yarb -- adjuster accepted 100% liability, Russo pled guilty to failure to yield, owner denied liability for negligent entrustment -- chronic neck, headaches -- wages: loss of income claimed, unclear if past or future, not itemized in discovery responses either, definitely needs work before depos, need to meet with client, amend the pleadings and discovery, get set for depos --  no lost income claim, amend discovery and pleading (agendaskl), sick days only, no money out of paycheck, may delay retirement, probably not a TBI -- DO NOT amend re knee comp claim, hold off discovery for entrustment
+
+Accident 11 19 2021
+
+Guilty plea
+NB witnesses not listed in report unredacted in 911
+Trenna Gordan VERIZON Alarm: Addr: 4975 ATLANTA HWY Phone: (911) 444-0385{?} [probably the closest witness]
+Chris [?]
+Alex [?]
+Len Konecny
+Per bodycam [Clark] two young girls saw accident but "not great," inconsistent testimony
+Clark bodycam is pretty good
+firearm in vehicle (client) husband is John Crowe, came to scene
+two witnesses listed in report ref "girls"
+HAMPTON, GRACE ELLEN 1720 HORSHAM TRL MILTON GA 30004
+EIGEMAN, SIDNEY LAUREN 800 SCOTLANDWELL PL MILTON GA 30004
+Husband is a park ranger, shows up, gets firearm
+shows him taking pictures of the V1 vehicle
+Clark talks about the witness interviews a lot but it's all second hand, basically the investigation comes down to traffic was moving, there couldn't have been an arrow
+Robinson bodycam, witness not sure if green or yellow, conclusion is she had a yellow, nice images of the vehicles. We don't have all of the officers
+
+Medical:
+
+EMS chest and abdomen pain, back emerges enroute to ER
+ER Headache, dizziness, neck pain, chest pain and left hip pain, also upper back and lower abdomen. CT taken, unremarkable, normal curve cervical spine.
+Month and a half later she goes to Ortho Sport Spine, they Dx cervicalgia and cervical facet syndrome with a questionable cervical radiculopathy versus ulnar neuropathy after recent trauma of a motor vehicle collision. After a couple of visits, they order an MRI which shows: "There is a central protrusion at the C3-4 level with no spinal cord compression. At C4-5 there is a right foraminal disc herniation at C5-6 there is minimal bulging and at C6-7 there is a left-sided foraminal bulge with facet hypertrophy creating left-sided foraminal stenosis."
+headaches, but history
+Not seeing good causation language in the records on the cervical issues, but she's treating, ER CT not great, shows some chronic changes
+
+presuit offer 2x meds
+
+multiple ablations, so went to neurologist
+
+lots of opioids
+
+She's leaning on the "no answers as to why I'm having these headaches" and is taking a lot of meds.
+
+---
+
+graves disease
+
+prior treatment for lower back, late 90s (college)
+
+prior headaches (Graves disease)
+
+Facebook and Instagram
+
+[ ] lights contribute to accident? did D see lights?
+
+D&J Appliances
+Dajuan
+646 Steve Dr SW
+Atlanta, GA 30318
+
+404-512-8307
+
+** RSS Family Purpose
+
+In Mr. Russo's interrogatory responses he states, in responding to Interrogatory 16: "Defendant Louis denied [a request to admit family purpose] because the vehicle was used for Defendant Michelle to drive home from work and not for a family purpose." My recollection of Michelle's deposition is she testified that she was engaged in a detour from her ordinary commute for the purpose of picking up her mother. In any event, it is well established that use of a family vehicle to drive to and from work is a family purpose. Whitley v. Ditta, 209 Ga. App. 553, 556 (1993) (citing Shank v. Phillips, 193 Ga. App. 393, 394 (1989) ("If this injury had occurred while the son was on his way to or from work no question would exist that the vehicle was being used for a family purpose.") See also Ferguson v. Gurley, 218 Ga. 276, 280 (1962). Please supplement and amend this discovery, or provide me with authority supporting your position.
+

@@ -1,0 +1,167 @@
+#+title:      adams shawn
+#+date:       [2023-12-28 Thu 09:47]
+#+filetags:   :casenotes:
+#+identifier: 20231228T094739
+
+---
+
+** /Representation and Coverage/:
+
+LI Policy: [[https://ecorp.sos.ga.gov/BusinessSearch/BusinessInformation?businessId=734299&businessType=Foreign%20Insurance%20Company&fromSearch=True][Auto Owners Insurance Company]] 1,500,000.00\\
+UM Policy: [[https://ecorp.sos.ga.gov/BusinessSearch/BusinessInformation?businessId=1204678&businessType=Foreign%20Insurance%20Company&fromSearch=True][Progressive Premier Insurance Company of Illinois]] 50,000.00 Yarborough\\
+
+Counsel for Ds(Auto Owners): [[https://gabar.reliaguide.com/lawyer/30309-GA-William-Casey-272796][William T. Casey, Jr., Swift, Currie, McGhee & Hiers, LLP]]\\
+Counsel for Ds(Auto Owners): [[https://gabar.reliaguide.com/lawyer/30533-GA-Amber-OConnell-282120][Amber R. O’Connell, Swift, Currie, McGhee & Hiers, LLP]]\\
+
+** /Damages/:
+
+Medical: $593,414.98 as of 2024-03-07\\
+Income:  $22,800.00
+
+[medical]: Good imaging report on disc herniation suggesting acute C6-7 and L5-S1, possible hamstring tear; good liability case, significant damage, solid medical. RFAs admit family purpose. Driver admits partial fault, denies failing to yield. Depos done - NB encounter at auto body shop, no MIL per SKL. Progressive out on Yarb. Discovery over, mediation failed. Son says his father needs help lifting, not visibly in pain. FF identified. Lots of lien. Updated medical, lost income added, need to be sure we have all FF.
+
+[wages]: complaint initially for medical expenses only, amended to add past lost wages $7,200.00 and future lost wages "at least" $14,400.00 (estimate for recovery post surgery), plus loss of capacity. Medical component of this case is huge, client is working (mostly). I don't see that we've documented the loss of income at all, though, so needs careful discovery supplementation [re responses we may have missed] and support
+[negotiation]: prelit demand for $30,297. OOS for $999,999.00. Defendant sent OOS for $150,000.00.
+
+fear of extent of injury. See Food Lion v. Williams, 219 Ga. App. 352
+  (1995) & pattern instruction 66.501.
+  
+** /Experts/:
+
+Identified: [[https://goals.sos.ga.gov/GASOSOneStop/s/licensee-search?selectedlicenseId=xezVaASPIU3Ze2wIGY4NBUrYtV45ZvoqS6xPY3v5%252BecdVZ%252F2%252FLnO2boyrd4g98oy&searchType=Individual][Daniel Navarro, PT]] *?*\\
+Identified: [[https://npiprofile.com/npi/1689659799][Kush Singh, MD]] *no?*\\
+
+Treating: [[https://npiprofile.com/npi/1346546611][Darr McKeown, MD]] *video*\\
+Treating: [[https://npiprofile.com/npi/1205889680][Taylor Fletcher, MD]] *video*\\
+Treating: [[https://www.apexspineandneuro.com/provider/dave-seecharan-md-faans][Dave Seecharan, MD]] *live*\\
+etc?
+
+Consulting: [[https://npiprofile.com/npi/1790838746][Anthony Cabot, MD]]\\
+Consulting: [[https://verify.sos.ga.gov/verification/Details.aspx?result=b2df2ee5-4c51-4b04-a5d8-444a6a575cab][Ashley Combier, RPN]]\\
+
+Nelson *live*
+
+[[https://gcmb.mylicense.com/verification/][Medical Board]]
+
+** /Notes/:
+
+fear of extent of injury. See Food Lion v. Williams, 219 Ga. App. 352 (1995) & pattern instruction 66.501.
+
+OCGA § 24-8-801(d)(1)(A) "An out-of-court statement shall not be hearsay if the declarant testifies at the trial or hearing, is subject to cross-examination concerning the statement, and the statement is admissible as a prior inconsistent statement or a prior consistent statement under Code Section 24-6-613 or is otherwise admissible under this chapter."
+
+See also OCGA § 24-8-801(d)(2) [admission of party opponent]
+
+See also Brewner v. State, 804 S.E.2d 94 (Ga. 2017) ("The failure of a witness to remember making a statement may provide the foundation for offering extrinsic evidence to prove that the statement was made.")
+
+Carl SSN 257-63-2899
+
+*Lots* of lien, NB Pl OOS 99,999.99
+
+[ ] BE SURE FCE IN EXHIBIT LIST
+
+---
+
+2021-03-25 COSD Luke Volle 1st Rogs and RPD
+2021-04-22 COSDM response of Pl
+2021-05-20 Non-Party requests sent
+2021-06-02 more non-parties
+2022-04-20 2d Suppl Response of Pl
+2022-09-14 3d Suppl Response
+2022-11-14 [unnumbered] Suppl Response
+2023-03-07 4th Suppl Response
+2023-04-21 2d [sic] Suppl Response
+2023-09-01 5th Suppl Response
+2024-01-24 [unnumbered] Suppl Response
+
+
+
+
+** /Trial/
+
+
+[[https://leibel.filevineapp.com/#/project/990516513/calendar/list][91626]], [[elisp:(dired-other-window "/Volumes/Work Files/Work Sync Folders/Adams Shawn")][/Shawn Adams v. Luke Volle and Carl Volle]],
+[[https://peachcourt.com/CaseDocket/index?cno=2021SV000163&cty=Hall&crt=State][2021SV163D]], [[https://www.hallcourts.net][Hall State]], [[https://www.hallcounty.org/734/Judge-Breakfield][John Breakfield]]
+
+*** [ ] motions in limine
+
+Good morning, your honor. I believe we addressed motions in limine the last time this case was set for trial, and those motions were ruled on, although I don't believe those rulings were set down, exactly, but I believe the Court granted our motion with respect to collateral source and specifically ruled that documents should be redacted respecting health insurance, treatment on lien, references to attorneys or litigation in medical records, and so forth. I believe this extends to references to treatment on lien, for example, in deposition transcripts, which is relevant to the parties because we are preparing redacted video for presentation to the jury, so I just wanted to confirm that these matters should be excluded from the deposition testimony as well.
+
+And I believe the Court has ruled against them on their motion to exclude or restrict officer testimony regarding the collision.
+
+We have not filed additional motions, so presently pending are their motions to exclude some cross-examination we conducted of Dr. Barry Jefferies and also to exclude causation testimony from the deposition of a treating physician, Dr. Seecharan.
+
+We briefed the Jefferies issue. I think it's clear that in Georgia we can inquire into how often an expert like Jefferies testifies for defense, how much of his income depends on him giving favorable opinions to defense counsel, it's clearly relevant to bias. The cases they cite are not binding and the case I cited, I would submit, is. Whitner v. State, 276 Ga. 742 (2003). It seems to me the issue is clearly controlled by that case, by the statute regarding impeachment for bias, Rule 622, which is a little different from how things work in federal court, and by the fact that I just don't don't see the unfair prejudice in letting the jury know that Dr. Jefferies testifies a lot for defendants in these type of case. But I'd be happy to try and answer any questions on that.
+
+Regarding Dr. Seecharan, this motion was filed on Thursday and we have not filed a written response, but the motion also lacks merit. A little background. We noticed intent to use a medical narrative of Dr. Seecharan, a treating physician, on February 15, 2024. No objection to that notice of intent was filed. It includes an opinion regarding causation. Later on, we let the other side know that we intended to present Dr. Seecharan by deposition. At the deposition, they objected to some of Dr. Seecharan's testimony regarding medical causation for foundation. But they did not present this motion in limine until last week. In their motion, they ask that causation opinions be redacted from his deposition testimony and from the medical record itself, but they don't mention the medical narrative. It's notable though that at the deposition Dr. Seecharan reviews the narrative and is discussing it when he restates his causation opinion.
+
+So as background, this is a very late Daubert motion to exclude testimony relating to a narrative that was not objected to at the time, in which they are objecting to a causation opinion presented in a deposition where they had a full and fair opportunity to depose the doctor. Similarly, they did not object to the narrative of Dr. Richardson, which also contains a causation opinion, and which we also intend to introduce at trial. So the odd thing to me is they are objecting to this testimony in the form where they were given an opportunity to cross the doctor.
+
+As to the opinion itself, it's based on the doctor's treatment of my client, review of the my client's records, and his education and experience, he believes my client's condition was caused by an accident around the date of the collision we're here about. Obviously he wasn't in the car with my client, he's looking at a timeline of treatment, film, and my client's subjective report of symptoms. More or less just like their experts, except our expert is actually a treating doctor. I'd submit this meets the Daubert standard.
+
+If it doesn't, this is interesting in light of the fact that they have two experts they intend to present, Jefferies by video and Gower live, who will give a *negative* causation opinion based entirely aa record review conducted some time after the collision. Simple fairness suggests we should be able to present testimony in support of the positive case, especially where their experts are similarly situated with respect to the origin of their knowledge of the case.
+
+They also argue that Dr. Seecharan is not a biomechanical expert. But the issue here is not whether this was a sufficiently serious accident to cause an injury. Their contention is that my client is suffering from a degenerative spine and the surgery was not necessitated by an acute injury, and I would submit that that is a question within the specialization of a neurosurgeon, not a biomechanical engineer.
+
+
+
+
+*** Cross of Carl Steven Volle
+
+[Objection, hearsay. Your honor, Luke Volle's statement to Mr. Volle were out of court statements that are being presented here for the truth of the matter asserted, they were not made at the scene of the collision and do not fall under any of the res gestae exceptions.]
+
+Good Afternoon Mr. Volle
+
+It's been awhile since we met, but I believe I took your deposition by videoconference on May 17, 2021, does that sound correct?
+
+Luke is your youngest son, and at the time of the deposition he was still in college, correct? [7]
+
+At the time of the collision you were the owner of the vehicle involved in the collision, which was a 2007 Toyota Tacoma. [14]
+
+And you regularly allowed your son use of the vehicle. [14]
+
+After the collision, it was sufficiently damaged that you didn't have it repaired. [16]
+
+You were not there for the collision. [18]
+
+The collision happened in Dahlonega, and Luke was in Dahlonega because he was attending classes at North Georgia, while he was still in high school. [18]
+
+And when your son called from the scene, you went over there, about a 20 minute drive. [20]
+
+{You told me in your deposition that you spoke with an officer, but you don't remember what he said, and that no one told you at the scene anything about how it happened, including your son. [20-21]}
+
+When we spoke, you told me you believe my client was speeding and passed a vehicle without signalling. [23]
+
+And you told me your basis for that was the fact that you doubt vehicles would have been damaged as much as they were if my client had been maintaining the speed limit. [23]
+
+{But your son didn't tell you that my client didn't signal.}
+
+{And your son didn't tell you my client was speeding, did he.}
+
+But you weren't there, so you couldn't have seen that first hand, you just saw the damage to the vehicles, after they'd already been moved. [24-25]
+
+You have no experience in accident reconstruction, though, do you. [26]
+
+You've testified in court as a real estate appraiser, but you've never given an expert opinion in court regarding the speed of vehicles involved in a motor vehicle collision.
+
+You've been doing real estate appraisals for over 25 years, not working in law enforcement or as a first responder. [11-12]
+
+And you wouldn't be qualified to give that sort of opinion in court as an expert, that's just your personal opinion based on what you saw.
+
+*** Cross of Luke Volle
+
+Okay, so your testimony is my client changed lanes unexpectedly, when you thought he was going to stop behind a vehicle that was turning right, up to the Dahlonega McDonald's. [16]
+
+You were a 17 year old driver at that point.
+
+You were driving your father's care at the time of the collision, and you were in Dahlonega because you were attending classes at North Georgia. [LV-14]
+
+You don't recall whether he signalled the lane change, do you. [LV-16]
+
+And you don't recall how fast he was going, do you. [LV-16]
+
+You thought that you had time to make it across the two lanes of oncoming traffic, though.
+
+But your tires spun out, because it was raining. [LV-20]
+
+*** [ ] requests to charge
+

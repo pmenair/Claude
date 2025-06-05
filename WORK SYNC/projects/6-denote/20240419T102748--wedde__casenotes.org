@@ -1,0 +1,257 @@
+#+title:      wedde
+#+date:       [2024-04-19 Fri 10:27]
+#+filetags:   :casenotes:
+#+identifier: 20240419T102748
+
+Dismissing: Henry State  | Stephen N. Knights, Jr. | STSV2022001656
+
+Counsel for Sheets personal: David J. Hungeling, 404-574-2466, david@hungelinglaw.com
+
+Counsel for Ds: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=NDMwOTIz][Marcia S. Freeman, Waldon Adelman Castilla Hiestand & Prout]]
+
+Counsel for Ds: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=MjM4ODQz][Ashley L. Yagla, Waldon Adelman Castilla Hiestand & Prout]]
+
+Counsel for UM: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=MzU4MTgz][Rebecca Strickland, Swift Currie McGhee & Hiers LLP]]
+
+Counsel for UM: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=MjA1ODE3][Taylor Gore, Swift Currie McGhee & Hiers LLP]]
+
+DOI 2022-03-26, single car accident wrongful death, waiting on estate in TN (ONE YR STATUTE) and more info re dram shop piece - UM svc filed 10-13
+
+EW dead at scene, no attempt to rescuscitate per no pulse and severe trauma, noted "Obvious Death." Autopsy notes cause of death as blunt force head trauma. Per autopsy
+
+Nationwide says coverage (100k UM) is 0.0 per TN reduced by; State Farm tendered 500k.n
+
+K is 35% not 40!
+
+Is UM reduced by? LI is 500,000 but it looks like there is another 250k policy in the household, our insurance guy says it covers (but not the umbrella)
+
+Insurance policy produced and sent to Weston
+ https://www.epilepsy.com/lifestyle/driving-and-transportation/laws/georgia [1]
+
+  Nathan Sheets had seizures which were not reported to the dmv prior to the accident
+  His parents knew of them and still entrusted the vehicle to him.
+  Nathan in hospital said his accident was caused by a seizure
+
+--> figure out settlement REVIEW FILE **depose Dr. Sanchez**, work up other discovery, check identification experts, new counsel Erika Meek // schedule depos, need phone number for parents, find out about prosecution, pp for rule nisi being rescheduled THEY HAVE NAMES WRONG
+
+Copies of Dr. Ramone Sanchez’s (neurologist) medical records. Send a
+HIPAA release to opposing counsel for Sheets to sign so we can get
+these records.
+
+see notes file [file:~/Documents/WORK\ SYNC/projects/5-CaseFiles/Wedde.org]
+::We just were behind them and they slammed a tree.(Todo)  Angela needs her own counsel, 
+
+We use Nelson and DUI crime lab, requirements re seizure condition
+
+blood on p. 27, 1.14 value, at 10:00 he was .193-.2, hospital records show intoxicated, should be noticeably intoxicated
+
+negligent entrustment re seizures?
+
+Sheets has disciplinary records at the University of TN, Chattanooga
+location. Sheets was suspended for the DUI.
+
+There is $1,250,000 of insurance coverage through Central Mutual Insurance.
+
+Get copies of records from court in TN of prior DUI and plea. Sheets
+was suspended from driving for a year.
+
+Sheets also had two prior accidents. Send a supplemental interrogatory
+asking who insured him at the time of those first two accidents.
+
+Want all policies of insurance last five years
+Like to know who was their agent
+Want any and all umbrella policies for last five years.
+
+[ ] employer sending
+[ ] school records?
+[ ] neuro sending
+
+We just were behind them and they slammed a tree.
+
+* -->
+
+  [ ] fu christina at Lumpkin sheriff about getting unredacted CFS # 2022-10806
+
+  [ ] 6.4 sent 1/17 Ashley Yagla, she gave us a privilege log but no phone, file to compel if we have to
+
+  [ ] non-parties and/or correspondence re add'l coverage, get coverage counsel involved
+
+  [ ] non-parties re BAC, phone
+
+  [ ] fu re phone requests send mid february, schedule depos
+
+kristina @ sheriff
+
+Mark Doherty 571-422-2542 (roommate)
+Nate Kane    615-943-9538 (person who sublet apt to them)
+list of friends [FW: List of Elliotts friends]
+
+Angela Dawn Sheets 52 255-51-XXXX 
+Nathan Sheets 23 672-07-XXXX
+Kenneth Glen Sheets 55 253-45-XXXX
+
+(770) 957-3527 - (ATT)
+(770) 957-3557 - (ATT)
+(678) 764-5593 - (ATT)
+(404) 277-8759 - (Verizon)
+
+There will be strict limits as to whether the mother can be held liable specifically for her own failure to call 911. The statutory duty to report is on the driver only (OCGA § 40-6-273), and the bottom line principle is that there is no common law duty to call 911 to report an accident you do not cause. Dutt v. Mannar & Co., 354 Ga. App. 565 (Ga. Ct. App. 2020). However, there is a better theory; that in not telling HIM to dial 911 she negligently supervised him or (even better maybe) was his principal in an agency relationship involving wrongful conduct, specifically by inducing HIS failure immediately to report the accident, either negligently or in furtherance of some wrongful purpose of her own. In other words, the duty she breached was not a duty to report, but a duty to supervise.
+
+"There is a 1-3/4" laceration of the right eyebrow with associated comminuted fractures of the frontal bone and extrusion of brain matter.... The left eye is collapsed and hemorrhagic. There is global shattering of the facial bones. The maxilla and mandible exhibit comminuted fractures and associated traumatic absence of multiple teeth and a 2" avulsion of the chin. There are comminuted fractures of the anterior and middle cranial fossae." Comminuted basically means pulverized. Responding officer confirmed death before med2 arrived. Nathan dl run no wants.
+
+* Complaint
+
+IN THE STATE COURT OF HENRY COUNTY
+STATE OF GEORGIA
+
+John Wedde and Courtney Wedde,
+as Wrongful Death Claimants and
+Parents of Elliott Mason Wedde,
+Deceased, and John Wlater Ray Wedde,
+as Personal Representative of the Estate
+of Elliott Wedde.
+
+v.
+
+Nathan Thomas Sheets and
+Kenneth Glen Sheets,
+
+Defendants.
+
+JURY TRIAL DEMANDED
+
+COMPLAINT
+
+COME NOW the above Plaintiffs and file their Complaint, showing the following:
+
+Preliminary Statement
+
+x. This is an action for money damages arising from the wrongful death of Elliot Mason Wedde ("Elliott Wedde") in a motor vehicle accident.
+
+Jurisdiction and Venue
+
+x. Plaintiffs are citizens of the State of Tennessee submitting themselves hereby to the jurisdiciton and venue of this Court.
+
+x. Defendant Nathan Thomas Sheets ("Nathan Sheets") is a resident of Henry County, Georgia, and he may be served with summons and complaint in this action at 472 Kimberly Court, McDonough, Henry County, Georgia 30252.
+
+x. Defendant Kenneth Glen Sheets ("Kenneth Sheets") is a resident of Henry County, Georgia, and he may be served with summons and complaint in this action at 472 Kimberly Court, McDonough, Henry County, Georgia 30252.
+
+x. The state court has subject matter jurisdiction of this action for money damages.
+
+x. Venue is proper in Henry County pursuant to Ga. Const. Art. VI Sec. II Paras. IV and VI.
+
+Facts Common to All Counts
+
+x. On March 26, 2022, Elliott Wedde was a passenger in a motor vehicle operated by Nathan Sheets and owned by Kenneth Sheets.
+
+x. While traveling northbound on US-19 north of its intersection with Porter Springs Road, in Lumpkin County, Georgia, Nathan Sheets failed to maintain his lane of travel, left the road, and struck a tree.
+
+x. Nathan Sheets was cited for violations of OCGA § 40-6-48, failure to maintain lane, OCGA § 40-6-393(a), homicide by vehicle, and OCGA § 40-6-391(a), operating under the influence of alcohol, drugs, or other intoxicating substances.
+
+x. Elliott Wedde died at the scene of the accident.
+
+x. Plaintiffs are the surviving parents of Elliott Wedde and wrongful death claimants herein.
+
+x. Plaintiff John Walter Ray Wedde is also the personal representative of the estate of Elliott Wedde.
+
+COUNT I - Negligence and Negligence Per Se (Nathan Sheets)
+
+x. At all times relevant herein, Nathan Sheets had a duty to operate a motor vehicle with due care and in compliance with Georgia law.
+
+x. Nathan Sheets breached said duties of care by operating a motor vehicle while under the influence of one or more intoxicating substances and failing to maintain his lane of travel, which breaches of duty constituted negligence or negligence per se and directly and proximately caused the death of Elliott Wedde.
+
+x. The Estate of Elliot Wedde is entitled to recover for his pain, suffering, and emotional distress during his lifetime and for his funeral expenses. The Plaintiffs as wrongful death claimants also are entitled tor recover for the full value of his life.
+
+COUNT II - Negligenct Entrustment (Kenneth Sheets)
+
+x. Kenneth Sheets had a duty to exercise due care in the entrustment of a motor vehicle to Nathan Sheets.
+
+x. Kenneth Sheets failed to exercise due care, which constituted negligence and was a direct and proximate cause of the death of Elliott Wedde.
+
+x. The Estate of Elliot Wedde is entitled to recover for his pain, suffering, and emotional distress during his lifetime and for his funeral expenses. The Plaintiffs as wrongful death claimants also are entitled tor recover for the full value of his life.
+
+COUNT III - Punitive Damages (Nathan Sheets)
+
+x. Nathan Sheets' conduct in operating a motor vehicle under the influence of one or more intoxicating substances showed willful misconduct, malice, fraud, wantonness, oppression, or that entire want of care which would raise the presumption of conscious indifference to consequences, entitling Plaintiffs to punitive damages.
+
+WHEREFORE, Plaintiffs respectfully pray that summons issue and be served with the foregoing Complaint, that discovery be had, that the matter be tried to a jury, that the Court enter judgment in favor of Plaintiffs awarding damages and casting the costs of this action on Defendants.
+
+
+
+x. Plaintiffs are 
+
+Xanax, drinking night before, at the apartment, Nathan talked him into wedding, Elliot's Chatanooga girlfriend was there the night before Reilly Francis Cooper 615-636-1335, grand jury end of August, first prosecutor recused because one of Elliot's teachers, new prosecutor Greg Fletch
+
+Last minute, was with Eliot the night before picked up from Main St in Chatanooga, friend from HS, woke up Saturday morning, talked about it, went, Nathan picked them both up about noon, took her to her car, they went to wedding, was going to come back the next day, talked through the day, snapchat
+
+[ ] Snapchat, 9:52, screenshot. Mirror selfie. Screenshot log. Woke up that night no contact weird, next morning felt uneasy, recalled didn't want to drive truck back to TN, phone not going through. Spoke with Mark Doherty (roommate off campus UTC) 571-442-2542 had connection with parents.
+
+Hotel in Dahlonega guest accommodations - might be Holiday Inn Express [thinks it was this one], Smith House, Ava House Inn and Event Venue
+
+Strong Rock Christian School McDonough, Locust Grove
+
+Parson Varnadoe
+
+desiree green parson varnadoe wedding pops it up
+
+Nathan's apartment, would skateboard there, left party because messed up, saw him the next morning and seemed sober. Xanax and drinking. Acting out in lobby of hotel. Barking like a dog at apartments.
+
+Messaged her on instagram? made no sense. DUI in TN on Passenger St in Chatanooga.
+
+Just Eliot and Nathan at the house.
+
+Eliot knew no one at the party. Nathan went to high school with Carson the groom.
+
+Leaving White Oak, take left to hotel, missed turn down Porter Springs road, should have taken a left, turned right instead. Time span between accident and 911 14-20 minutes.
+
+Garrett Clark, went to JP2 with Eliot, went to HS with Nathan, he said Nathan said he lost control of the truck and hit a tree.
+
+She's a teacher, they recently moved to Colorado or someplace far away. Public Instagram. desiree_taylor2
+
+Political science class, wanted to go to law school, passionate about law, leadership, help other people, had not applied yet, was going to graduate in December.
+
+Grandfather built road, very wealthy.
+
+living at home with mom, 2228 Maple Grove Ln Nashville TN 37211 Margaret Cooper ("Peggy")615-400-2659 - father Ken Cooper at 334 Blackman Rd 37211
+
+Garrett number is 615-934-5909, he is in "cahoots" with Nathan
+
+* Arbitration documents
+
+Steve thinks we've handled basically everything by stip
+
+** witness list
+** exhibit list
+** copies of expert reports
+** a brief of evidence and authorities
+** a proposed stipulation of additional facts
+** description of anticipated needs respecting technology and other administrative matters
+
+
+Tell me about yourself. Where did you grow up?
+
+How much education did you get?
+
+How did you meet {spouse}
+
+Tell me about your children?
+
+When was Elliot born?
+
+Was Elliot a good student?
+
+How did he choose college?
+
+First in family to go to college?
+
+What sports did he play? HS, College?
+
+What were his ambitions? How fixed were they? Did they seem attainable to you? 
+
+Did he have girlfriends?
+
+Do you expect he would have gotten married? Had children of his own?
+
+Did he plan on staying in TN?
+
+Relationship with Sheets?

@@ -1,0 +1,1 @@
+He tested positive for Zoloft and Xanax and had a blood alcohol level of .04, following too closely prior neck, treating with trigger point and nerve block, potential surgery on disk bulge wages: no lost income claimed, client is 61yo female

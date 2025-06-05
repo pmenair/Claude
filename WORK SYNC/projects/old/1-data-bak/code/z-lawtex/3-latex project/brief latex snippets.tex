@@ -1,0 +1,69 @@
+
+
+%Syntax for @startsection{name}{level}{indent}{abovespace}{belowspace}{format}
+%The 4th argument is negative to suppress indenting after the section heading
+\def\section{\@startsection{section}{2}{0pt}{-10pt}{2pt}{\centering\normalsize\bfseries}}%
+\def\subsection{\@startsection{subsection}{2}{0pt}{-2pt}{2pt}{\hyphenpenalty=10000\normalsize\bfseries}}%
+\def\subsubsection{\@startsection{subsubsection}{3}{\parindent}{-2pt}{2pt}{\hyphenpenalty=10000\bfseries}}%
+
+%No numbers printed for section (remove \quad); I. Subsection; A. Subsubsection
+\renewcommand{\thesection}{\hspace{-1em}}
+\renewcommand{\thesubsection}{\Roman{subsection}}
+\renewcommand{\thesubsubsection}{\Alph{subsubsection}.}
+
+% \newcommand{\makecaption}{{
+
+\singlespacing
+
+\begin{centering}
+\bf\scshape \@court \\~\\ 
+\rm 
+
+\begin{tabular}{p{.45\textwidth}|p{.45\textwidth}}
+\cline{1-1}
+{~
+
+\raggedright\@firstparty, 
+
+~
+
+{\leftskip=1in plus 1.fill minus .5in%
+\textit{\@firstpartytitle,}\par}
+
+\hspace*{1in}v.
+
+~ 
+
+\raggedright\@secondparty, 
+
+~
+
+{\leftskip=1in plus 1.fill minus .5in%
+\textit{\@secondpartytitle.}\par} 
+~
+} &
+{\@actionnumber
+} \\
+\cline{1-1}
+\end{tabular}
+
+\end{centering}
+}}
+
+% end box
+    
+\newenvironment{rightbox}{
+	%Start a new group to contain the def of the testbox and newline
+	\bgroup
+	%Store the box here
+	\newbox\testbox
+	%Change newline so that each line is an hbox
+	\def\\{\unskip\egroup\hbox\bgroup\ignorespaces}
+	%Start vbox{hbox{ ...
+	\setbox\testbox=\vbox\bgroup\hbox\bgroup\ignorespaces}
+	%End the last hbox and the vbox
+	{\unskip\egroup\egroup
+	%Output a fill, then the box
+	\hskip 0pt plus 1.0fill \box\testbox \egroup }
+
+

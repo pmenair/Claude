@@ -1,0 +1,37 @@
+#+title:      nater paul
+#+date:       [2024-04-11 Thu 12:36]
+#+filetags:   :casenotes:
+#+identifier: 20240411T123600
+
+** /Representation and Coverage/:
+
+LI policy: 100,000.00 State Farm
+UM policy: 100,000.00 MemberSelect 
+
+Counsel for Defendant: [[https://gabar.reliaguide.com/lawyer/30345-GA-Alaina-Howard-107788][Alaina S. Howard, Lynn Leonard & Associates]]
+Counsel for UM: [[https://gabar.reliaguide.com/lawyer/30060-GA-Ryan-Ingram-272652][Ryan Ingram, Moore Ingram Johnson & Steele LLP]]
+Counsel for UM: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=OTE3MDAw][Yasmin Cunningham, Moore Ingram Johnson & Steele LLP]]
+Counsel for UM: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=NjE2NDU4][Nathan Planitz, Moore Ingram Johnson & Steele LLP]]
+
+** /Damages/:
+
+Medical: 80413.74
+Income:  28000.00 
+         pled lost income tbd, discovery responses estimate $20,000
+	 never able to get much help from client fleshing that out
+
+** /Notes/:
+	 
+DOL 2019-10-23 They identify State Farm personnel in discovery? No responses re prior litigation, limited medical detail provided except that he was on an antibiotic. Client lives in FL. We produced financial info for Karen, her loss of income because she had to move with her husband is part of the claims, need to put numbers on all of this though. D pled nolo, is crazy and armed. Significant collision. D looks much more injured than client at scene. He claims sudden medical emergency, client told officer he had to stop suddenly.
+
+Acute headache at hospital day of collision, MRI normal, back pain "feels like it's muscular," no Fx, no radiculopathy. Tinnitus maybe due to Rx (my guess)? Chronic neck and shoulder pain after, did PT, RFA, injxn. They contend not related. Cabot on review suggests headaches have resolved, he can't speak to the tinnitus, thinks that the sprain exacerbated pre-existing facet arthritis, possible causation of shoulder tear but he is unclear. We sent an OOS for $150,000.
+
+ID Ortho (Yarborough) to testify re need for epidurals, French
+
+Tackett named today
+
+2d MVA in 2021? Depo says no.
+
+Bad neuro, do not produce. ADDED CONSORTIUM, discovery ran 6/2
+
+SSN 155 40 2750

@@ -1,0 +1,291 @@
+* Reply Brief
+
+** Static Condition Cases
+
+*** [[https://scholar.google.com/scholar_case?case=15856539162967960762&q=premises+%22static+condition%22+%22summary+judgment%22&hl=en&as_sdt=4,11][Anderson v. Turton Development, Inc., 483 SE 2d 597 - Ga App 1997]] :@:
+
+Slip and fall on handicap parking ramp, expert testimony re safety standars. Prior traversal.
+
+Distinguishes numerous uneven walking surface cases, finding sufficient evidence of due care and defective design for the matter to go to a jury.
+
+Addresses negligence per se argument but rejects ANSI standards as basis. Discusses franchise relationships and is potentially relevant to Kridel.
+
+Three dissenting judges, cert. denied.
+
+54 citing [[https://scholar.google.com/scholar?cites=15856539162967960762&as_sdt=80005&sciodt=4,11&hl=en][documents]] including treatises in Google Scholar. Per lexis distinguished by Poythress v. Savannah Airport Comm'n 229 Ga. App. 303, 494 S.E.2d 76 (1997), see also discussion and numerous citations in Pinder v. H & H Food Servs., LLC 326 Ga. App. 493 (2014)
+
+*** [[https://scholar.google.com/scholar_case?case=18024747153994442458&q=premises+%22static+condition%22+%22summary+judgment%22&hl=en&as_sdt=4,11][Becton v. Tire King of North Columbus, Inc., 539 SE 2d 551 - Ga: Court of Appeals 2000]]
+
+Plain and palpable case where the Pl walked backwards into a planter. Cites Parker v. Welborn, 236 Ga.App. 344, 346(1), 511 S.E.2d 917 (1999) (plaintiff failed to exercise ordinary care when she walked blindly into an unfamiliar room through a closed door and fell down stairs); Wright  Wright v. JDN Structured Finance, 239 Ga.App. 685, 686(2), 522 S.E.2d 4 (1999) (plaintiff failed to exercise ordinary care when she tripped over high, yellow-painted curb); Carey v. W.R. Grace & Co., 221 Ga.App. 728, 730(3)(a), 472 S.E.2d 524 (1996) (plaintiff failed to exercise ordinary care when he walked backward without looking and tripped over a pallet).
+
+*** [[https://scholar.google.com/scholar_case?case=8313770492281747408&q=premises+%22static+condition%22+%22summary+judgment%22&hl=en&as_sdt=4,11][Bonner v. Southern Restaurant Group, Inc., 610 SE 2d 129 - Ga: Court of Appeals 2005]] :@:
+
+This is a main case we will have to distinguish in Estes. Curb at a restaurant, open and obvious static condition previously traversed. Prior traversal is important here, but also the issue of open and obvious.
+
+*** [[https://casetext.com/case/brewer-v-atlanta-south?jxs=ga&p=2&q=view%20%2Fp%20obstructed%20%2Fp%20hazard%20%2Fp%20park!&sort=relevance&type=case&ssr=false&scrollTo=true][Brewer v. Atlanta South 75, 288 Ga. App. 809 (Ga. Ct. App. 2007)]] :@:
+
+THIS IS THE CASE TO ANALOGIZE - obscured vision at gas station
+
+*** [[https://cite.case.law/ga-app/330/17/][Canaan Land Properties, Inc. v. Herrington, 330 Ga. App. 17, 766 S.E.2d 493 (2014)]]
+
+Disregard, this is one of those cases where the plaintiff couldn't identify the hazard.
+
+*** [[https://scholar.google.com/scholar_case?case=11744015909026499153&q=premises+%22static+condition%22+%22summary+judgment%22&hl=en&as_sdt=4,11][Christensen v. Overseas Partners Capital, 549 SE 2d 784 - Ga: Court of Appeals 2001]] :@:
+
+Uneven handicap ramp case. Height gap where there was prior traversal but it may not have been as visible going into the building, so the court declined to find that she had negotiated the hazard. Good case. NB n15 re the "common knowledge" of uneven pavement language vacated and reversed in light of Robinson in Freyer v. Silver, 234 Ga.App. 243, 246-247(3), 507 S.E.2d 7 (1998) ("Freyer II").
+
+*** [[Cowan v. Waffle House, 217 Ga. App. 273, 456 S.E.2d 762 (Ga. Ct. App. 1995)][Cowan v. Waffle House, 217 Ga. App. 273, 456 S.E.2d 762 (Ga. Ct. App. 1995)]]
+
+Rebar sticking up in a parking lot, open and obvious, bad case.
+
+*** [[https://cite.case.law/ga-app/304/794/][Craig v. Bailey Bros. Realty, Inc., 304 Ga. App. 794, 697 S.E.2d 888 (2010)]] :@:
+
+See n4: In a trespass case, defining open and obvious static condition in opposition to hidden peril: "A hidden peril, in contrast to an open and obvious static condition on the land, is concealed or camouflaged from the view of persons on the property. See Ga. Dept. of Transp. v. Strickland, 279 Ga. App. 753, 754-755 (1) (632 SE2d 416) (2006). See also Thomas v. Executive *799 Committee of the Baptist Convention &c., 262 Ga. App. 315, 319 (c) (585 SE2d 217) (2003) (a static condition is one that is not obstructed or concealed from view)."
+
+*** [[https://cite.case.law/ga-app/234/243/][Freyer v. Silver, 234 Ga. App. 243, 507 S.E.2d 7 (1998)]]
+
+This case involved a catch basin, court held it was not open and obvious despite prior traversal of the pavement near it.
+
+*** [[https://scholar.google.com/scholar_case?case=14739489130274659975&q=premises+%22static+condition%22+%22summary+judgment%22&hl=en&as_sdt=4,11][Gaydos v. GRUPE RE INVESTORS, 440 SE 2d 545 - Ga: Court of Appeals 1994]]
+
+Typical pre-Robinson uneven pavement case, with an added departure from the prescribed path aspect.
+
+*** [[https://cite.case.law/ga-app/267/143/][Hagadorn v. Prudential Insurance, 267 Ga. App. 143, 598 S.E.2d 865 (2004)]]
+
+Another storm drain, depart from the path case, but this came out for the plaintiff.
+
+*** [[https://scholar.google.com/scholar_case?case=14656802340694235848&q=premises+%22static+condition%22+%22summary+judgment%22&hl=en&as_sdt=4,11][Hannah v. Hampton Auto Parts, Inc., 506 SE 2d 910 - Ga: Court of Appeals 1998]]
+
+Interesting stair case; plaintiff was a regular at the store and had traversed the stairs many times. Court held, among other things, that the expert testimony in the case only established negligence per se and did not impact the superior knowledge issue.
+
+*** [[https://cite.case.law/ga-app/170/509/][Housing Authority of Atlanta v. Famble, 170 Ga. App. 509 (1984)]]
+
+Storm sewer case, clogged drain led to ponding, children drowned. Huge opinion in a death case, not a summary judgment case.
+
+*** [[https://scholar.google.com/scholar_case?case=4621864063739484721&q=premises+%22static+condition%22+%22summary+judgment%22&hl=en&as_sdt=4,11][Jackson v. Waffle House, Inc., 537 SE 2d 188 - Ga: Court of Appeals 2000]]
+
+Good uneven pavement case, repeated prior traversal of parking lot but again not this specific portion. Two judges dissent and would find the knowledge of the general condition of the parking lot sufficient for summary judgment.
+
+And the fact that the rough uneven 192*192 pavement is a static condition, ostensibly open and obvious, cannot automatically absolve the owner/occupier from liability, if any, from its failure to exercise ordinary care to keep the approaches safe.[7] To do so would "relegate a business patron to licensee status by requiring the patron to be on the alert to discover [and avoid] defects [in the approaches]."[8] "We do not understand this to be the law in [trip] and fall cases."[9]
+
+[7] Freyer v. Silver, supra, 234 Ga.App. at 246(3), 507 S.E.2d 7. It should be noted that the prior decision of this Court in Freyer v. Silver, 227 Ga.App. 253, 488 S.E.2d 728 (1997), was vacated at the direction of the Supreme Court at 234 Ga.App. at 245(1), 507 S.E.2d 7, and the "open and obvious" analysis employed therein and in MARTA v. Fife, 220 Ga.App. 298(2), 469 S.E.2d 420 (1996), was disapproved by the majority in light of the Supreme Court's ruling in Robinson v. Kroger Co., supra. Freyer v. Silver, supra, 234 Ga.App. at 246(3), 507 S.E.2d 7. The dissent's reliance on Tanner v. Larango, 232 Ga.App. 599, 600(2), 502 S.E.2d 516 (1998), which depends on the superseded analysis of the vacated Freyer decision, is misplaced.
+
+[8] Robinson v. Kroger Co., supra, 268 Ga. at 742(1), n. 3, 493 S.E.2d 403.
+
+[9] (Citation omitted.) Telligman v. Monumental Properties, Inc., 161 Ga.App. 13, 17(2), 288 S.E.2d 846 (1982).
+
+[10] (Punctuation and footnote omitted.) Shepherd v. Winn Dixie Stores, 241 Ga.App. 746, 749(2), 527 S.E.2d 36 (1999).
+
+[11] "If the plaintiff by ordinary care could have avoided the consequences to himself caused by the defendant's negligence, he is not entitled to recover." OCGA § 51-11-7.
+
+[12] Robinson v. Kroger Co., supra, 268 Ga. at 743(1), 493 S.E.2d 403. Accord Freyer v. Silver, supra, 234 Ga.App. at 246(3), 507 S.E.2d 7.
+
+[13] Ray v. Restaurant Mgmt. Svcs., 230 Ga.App. 145, 146, 495 S.E.2d 613 (1998).
+
+*** [[https://cite.case.law/ga-app/341/12/][Joe Enterprise, LLC v. Kane, 341 Ga. App. 12, 798 S.E.2d 97 (2017)]] :@:
+
+Ramp case. Failure to identify the specific area where she fell. This holding specifically seems inconsistent with the Anderson case insofar as the court disregards expert testimony regarding the visibility of the hazard in making a prior traversal holding, BUT it is plainly distinguishable because the plaintiff failed to articulate how she fell.
+
+*** [[https://cite.case.law/ga-app/312/838/][Jordan v. Bennett, 312 Ga. App. 838, 720 S.E.2d 301 (2011)]]
+
+Social guest case, plaintiff fell off a balcony, low railing was a static condition.
+
+*** [[https://scholar.google.com/scholar_case?case=14888749599804322881&q=premises+%22static+condition%22+%22summary+judgment%22&hl=en&as_sdt=4,11][LeCroy v. Bragg, 739 SE 2d 1 - Ga: Court of Appeals 2013]] :@:
+
+Pothole case, court found no distraction but discusses the issue at some length.
+
+*** [[https://scholar.google.com/scholar_case?case=13487078186027199252&q=premises+%22static+condition%22+%22summary+judgment%22&hl=en&as_sdt=4,11][McLemore v. Genuine Parts Co., 722 SE 2d 366 - Ga: Court of Appeals 2012]] :@:
+
+Customer injured on curb at auto parts store, parked across the stree because the lot was full. This is THE case to distinguish, extended discussion of the distraction principle and good general lay out of the rules.
+
+*** [[https://cite.case.law/ga-app/220/298/][Metropolitan Atlanta Rapid Transit Authority v. Fife, 220 Ga. App. 298, 469 S.E.2d 420 (1996)]]
+
+1996 curb case laying out the status quo ante Kroger. NB this case, as stated in Freyer, was probably overruled by Kroger. Wiggins v. Belk, Inc. 2012 U.S. Dist. LEXIS 5035.
+
+*** [[https://casetext.com/case/norwich-v-the-shrimp-factory-inc?jxs=ga&p=2&q=curb%20and%20obstruct!&sort=relevance&type=case&ssr=false&scrollTo=true][Norwich v. the Shrimp Factory Inc., 770 S.E.2d 357, 332 Ga. App. 159 (Ga. Ct. App. 2015)]]
+
+Lengthy complicated case with dissents, probably don't want to cite this but may need to distinguish it. A prior traversal case.
+
+*** [[https://scholar.google.com/scholar_case?case=3847531970101012099&q=premises+%22static+condition%22+%22summary+judgment%22&hl=en&as_sdt=4,11][Perkins v. Val D'Aosta Co., 699 SE 2d 380 - Ga: Court of Appeals 2010]] :@:
+
+Patron at Comfort Inn stepped off a curb, did not recall whether traversed prior. Basically a great case for us, use as a template to lay out the elements?
+
+NB distinguished in Norwich on the ground that a length of time intervened between traversals.
+
+*** [[https://casetext.com/case/stephens-v-kmart-corp-1?jxs=ga&p=1&q=curb%20and%20obstruct!&sort=relevance&type=case&ssr=false&scrollTo=true][Stephens v. Kmart Corp. 785 S.E.2d 21 (Ga. Ct. App. 2016)]]
+
+Distraction by clothing racks case. Interesting pro-P case but probably distinguishable.
+
+*** [[https://scholar.google.com/scholar_case?case=1354926045132928637&q=premises+%22static+condition%22+%22summary+judgment%22&hl=en&as_sdt=4,11][Pirkle v. Robson Crossing LLC, 612 SE 2d 83 - Ga: Court of Appeals 2005]]
+
+Pro-D curb case, spends some time distinguishing Freyer.
+
+*** [[https://casetext.com/case/rentz-v-prince-of-albany-inc-1?jxs=ga&p=1&q=curb%20%2Fp%20obstruct!%20%2Fp%20visib!&sort=relevance&type=case&ssr=false&scrollTo=true][RENTZ v. PRINCE OF ALBANY, INC. 340 Ga. App. 388 (Ga. Ct. App. 2017)]]
+
+Moveable items, in this case a cornhold game, can be static conditions.
+
+** Prior Briefing
+
+This case is more closely analogous to MAC International-Savannah
+Hotel, Inc. v. Hallman, 265 Ga. App. 727, 595 S.E.2d 577 (2004). In
+Hallman, the plaintiff fell while walking down a poorly lit staircase.
+The Court of Appeals upheld denial of summary judgment despite the
+fact that the plaintiff voluntarily entered into the dimly lit
+staircase, finding that the landowner had superior knowledge of a
+hazard that was disguised by the darkness. Id. at 729-30 ("[I]f...dim
+lighting prevents the injured party from discovering a dangerous
+condition of which the owner, but not the injured party, should be
+aware, liability may be imposed.") (quoting Joyner v. Sandefur Mgmt.
+Co., 168 Ga. App. 854, 857, 310 S.E.2d 578 (1983)).
+
+Moreover, the Bridge was not a static condition under Georgia law,
+which defines a static condition as an open and obvious, unchanging
+condition of the premises that is not in itself inherently dangerous.
+Wiley v. Liberty Southern, 243 Ga. App. 110, 1 (2000). Here, the
+condition of the Bridge was not obvious to Nenadic and was inherently
+dangerous. Indeed, Shoffeitt plainly was aware that the Bridge was
+hazardous and undertook to both warn Nenadic and attempt to guide her
+across it safely.
+
+The cases Shoffeitt relies on here are distinguishable in that they
+involve observable or known hazards. See Trulove .v Jones, 271 Ga.
+App. 681, 681 (2005) (missing handrail on pool deck); Evans v. Parker,
+172 Ga. App. 416, 417 (1984) (lack of illumination and known hazard);
+Rossano v. Am. Legion Post No. 29, 189 Ga. App. 610, 612 (1988)
+(same). Moreover, the latter two cases predate the opinion in Robinson
+v. Kroger regarding the standard of decision in summary judgment cases
+and, as such, are of doubtful application. See Hamilton .v Ky. Fried
+Chicken of Valdosta, 248 Ga. App. 245, 247 (2001) ("In light of
+Robinson's significantly lightening the plaintiff's load in proving a
+trip and fall case, and its reminder that most routine issues in such
+cases are not subject to summary adjudication, pre-Robinson cases
+affirming summary judgment must be carefully scrutinized."). Asthe
+Court of Appeals has held, "the ruleimputing knowledge of a danger to
+a person who has successfully negotiated an alleged dangerous
+condition before applies only to cases involving a static condition
+that is readily discernible to a person exercising reasonable care for
+his own safety." (Citation and punctuation omitted; emphasis in
+original.) Strauss v. City of Lilburn, 329 Ga. App. 361, 364 (2014).
+That rule does not apply here.
+
+Various Georgia cases provide that no liability attaches to a landlord
+for failure to warn a person injured by a static condition of the
+premises that is “open and obvious,” because the plaintiff and the
+landlord have equivalent and common knowledge of the hazard.
+Metropolitan Atlanta Rapid Transit Authority v. Fife, 220 Ga. App.
+298, 300 (1996). Defendant contends that, because the condition of the
+pallet was static and because Nenadic had previously negotiated it,
+Shoffeitt cannot be held liable. However, here, unlike in the cases
+cited by Defendant, the hazard represented by the pallet was neither
+open nor obvious. Nenadic testified: It was wood across a ravine. It
+looked like it went sturdy from one end to the other. It was even. It
+was straight. It didn’t have any rails or anything like a bridge would
+have. So, you know, I knew there was a possibility of falling off of
+it, but I never imagined there was a possibility of falling through
+it. Deposition of Teresa Nenadic [“Nenadic Depo.”], extracts attached
+as Exhibit A, at 64-65. Defendant cites cases involving railings as
+presenting allegedly similar fact patterns. However, each of these
+cases is distinguishable both on the facts and with respect to the
+applicable law. See Thompson v. Oursler, 318 Ga. App. 377 (2012)
+(plaintiff was licensee only and there was no evidence defendants had
+or should have had superior knowledge of a defect in the railing);
+Rogers v. Woodruff, 328 Ga. App. 310 (2014) (same); Trulove v. Jones,
+271 Ga. App. 681 (2005) (plaintiff was licensee only and absence of
+handrail was an open and obvious hazard).
+
+As discussed above, Georgia bars plaintiffs from suing property owners
+regarding open and obvious hazards that they have successfully
+traversed in the past. However, as previously noted and as discussed
+in the case relied upon by Defendant, this “prior traversal rule” only
+applies to open and obvious hazards and is, accordingly, simply a
+consequence of the general rule preventing recovery by a party who had
+equal knowledge of a hazard. See Gervin v. Real Property Trust, 840
+S.E.2d 101, 104 (2020) (“The rule imputing knowledge of a danger to a
+person who has successfully negotiated an alleged dangerous condition
+before applies only to cases involving a static condition that is
+readily discernible to a person exercising reasonable care for his own
+safety.”) (quoting Strauss v. City of Lilburn, 329 Ga. App. 361, 364
+(2014)). Here, a jury would at the very least be authorized to find
+that the hazard at issue was not readily discernable to Nenadic but
+was in fact known to Shoffeitt. Defendant’s contention that there is
+“an absence of evidence in the record showing that Mr. Shoffeitt knew
+or had reason to know of any dangerous condition” is entirely
+disingenuous in light of Mr. Shoffeitt’s plain and unambiguous
+testimony that he knew the pallet might collapse under a person’s
+weight and in fact attempted to warn Nenadic of that specific hazard.
+
+** Current Briefing
+
+Grey cover
+no statement re oral, jxn, issues, case, summary, conclusion
+
+Reply to Issue 1: The Gerteisens Were Not Simply Out of Possession Landlords
+
+It is worth noting that the Appellees largely avoid any discussion of the public policy issues at stake in this case. As previously argued, Denson contends that the Gerteisens were not "landlords" for purposes of decision as to whether OCGA § 44-7-14 applies in this case. Contrary to the Gerteisens' argument (see App'ee Br. at 11), for example, they had not fully parted with possession and did not require permission of anyone before entering the premises; they simply had to notify Vacasa of their intention. (Doc. 46-4 at A.3-4.) Moreover, and more importantly, this was a transient guest rental arrangement best understood as something other than a landlord tenant arrangement. Jai Ganesh Lodging, Inc. v. David Smith, Inc., 328 Ga. App. 713, 724 (2014), a case in which the Georgia Court of Appeals held that hotel was not a "dwelling" for purpose of construing the construction defect statute (OCGA § 8-2-35), does not bind this Court to the contrary. 
+
+Reply to Issue 2: A Jury Issue Exists as to Whether the Gerteisens Were on Constructive Notice of the Defective Stairs
+
+However, assuming the contrary for the sake of argument, in Watts Colwell Builders v. Martin, 313 Ga App. 1, 720 S.E.2d 329 (2011), relied on by the Gertiesens, the entire rule articulated by the Georgia Court of Appeals relating to out of possession landlords reads as follows:
+
+Landlords still fully part with possession of leased premises when they retain limited entry or inspection rights for landlord-related purposes. Such limited rights do not evidence such dominion and control of the premises so as to vitiate the landlord's limited liability imposed by OCGA § 44–7–14 and replace it with the liability imposed by OCGA § 51–3–1. However, if the landlord undertakes to inspect the property, he has a duty to repair any unsafe conditions which should have been discovered in the inspection.
+
+Id at 333-34. Because the Gerteisens retained the right to inspect, and expressly the duty to repair, this rule simply brings us back to the next issue articulated in prior briefing, ie., should the defect in the stairs have been identified on inspection of the premises, either by the Gerteisens or by the home inspectors they hired?
+
+A. Duty to Repair
+
+The Gerteisens cite Warner v. Arnold, 133 Ga. App. 174, 178–79 (1974) for the proposition that a landlord has a duty to repair on actual or constructive notice of a defect, and then they go on to argue as if they can be held liable only on actual notice. To the contrary, Denson submits that the Gerteisens were under constructive notice of the defect in the stairs, which should have been apparent to them over time or, at the very least, have been identified in an inspection, as discussed below.
+
+B. Defective Construction
+
+Denson stands on prior briefing on the issue of defective construction, except to note that the Gerteisens argue as if the fact that one or more pre-purchase inspections was actually conducted absolves them of any possible liability under OCGA § 44-7-14, assuming that statute applies. However, they provide no authority for the proposition that obtaining a home inspection constitutes, per se and as a matter of law, "reasonable diligence." (App'ee Br. at 19.)
+
+Reply to Issue 3: The Gerteisens Had Constructive Knowledge of the Defective Stairs
+
+To withstand a motion for summary judgment, the Georgia Supreme Court has held that a slip-and-fall plaintiff is not required, except in plain, palpable, and undisputed cases to produce evidence to disprove the plaintiff's own negligence. Robinson v. Kroger, 268 Ga. 735, 747-48 (1997). Accordingly, care must be taken regarding Georgia caselaw predating 1997, as these cases often involve an assessment of a plaintiff's fault and may have been indirectly or impliedly overruled by Robinson. The Robinson case left as the sole remaining issue on summary judgment, in all but the rare case falling under the plain and palpable standard, the requirement that the plaintiff raise a genuine issue of material fact regarding the defendant's actual or constructive knowledge of the specific hazard at issue in the case. Hardee's Food Systems v. Green, 232 Ga. App. 864, 865 (1998).
+
+In Wingo v. Harrison, 268 Ga. App. 156 (2004), for example, the primary case relied on by the Gerteisens, summary judgment was not decided by some balancing test assessing fault between the plaintiff and the defendant; the Wingo court simply found that the property owner had no actual or constructive knowledge of any problem with a wooden deck, which led to its collapse. That case is distinguishable and appears to have been decided at least in part based on the fact that the defect at issue was not entirely clear to the appeals court on the record. Here, as previously argued, Denson has raised a genuine issue of material fact for the jury as to whether the Gerteisens had constructive knowledge of the defect, which was apparent to the district court and is apparent in the photograph in the record. (Docs. 46-2 and 59 at 21.)
+
+Reply to Issue 4: Denson's Prior Traversal Does Not Absolve the Gerteisens from Liability
+
+It is not the case that any prior traversal is sufficient to charge a plaintiff, constructively, with superior knowledge of a hazard. Nor is it necessarily true that, as the Densons contend, "once over, an action is subsequently barred." (App'ee Br. at 23.) The prior traversal rule is an aspect of Georgia law of premises liablity, relating to the "open and obvious static condition" doctrine, which provides that a prior negotiation of a hazard can in the appropriate circumstances establish superior knowledge of that hazard. Georgia law contains many instances, however, where prior traversal did not decide the case in the defendants' favor.
+
+In Christensen v. Overseas Partners Capital, 549 SE 2d 784 (2001), for example, the plaintiff tripped while exiting a building on a height gap at the end of a handicap ramp she had successfully passed over on her way into the building. However, because she testified that she did not notice it on her way in and it was less noticeable going into the building, the appeal court did not apply the prior traversal rule in the defendant's favor.
+
+Similarly, in Perkins v. Val D'Aosta Co., 699 SE 2d 380 (2010), a curb case, the Georgia court declined to apply the rule despite unrebutted evidence of multiple prior traversals, on the ground that the specific hazard at issue, a poorly lit curb, would not have been readily observeable on those prior occasions, a significant period of time passed between traversals, and the direction of travel was different.
+
+Most closely analogous to this case, in Aggeles v. Theater of the Stars, 235 Ga. App. 57 (1998) (physical precedent only), the Georgia Supreme Court remanded for reconsideration in light of Robinson a case in which the lower court had upheld summary judgment in favor of a theatrical venue where a patron fell in a stairwell because the railing stopped five or six steps above the end of the staircase. On reconsideration, the Court of Appeals reversed summary judgment, despite the fact that the patron-plaintiff was elderly, needed to utilize railings in staircases, and had actually used an identical railing during a prior traversal on the opposite side of the staircase where she fell. See also Murray v. W. Bldg. Materials, 243 Ga. App. 834 (2000) (physical precedent only) (relying on Aggeles in a case involving similar facts). Recently, see Stewart v. Brown, 343 Ga. App. 190 (citing Murray with approval in a case that is not physical precedent only).
+
+Like the hazard in Aggeles, the hazard at issue here was a defect in a staircase that was not immediately obvious to a layperson on visual inspection. This is not a case involving an open and obvious trip hazard, such as was the case in Orff v. Stonewood Rest. Grp., LLC, 285 Ga. App. 488 (2007), the primary case relied on by the Gerteisens, in which the plaintiff fell off a raised platform in a restaurant.
+
+Reply to Issue 5: Plaintiff's Own Negligence Is Not a Proper Basis for Decision as a Matter of Law
+
+In Robinson v. Kroger 268 Ga. 735,493 S.E.2d 403 (1997), the Georgia Court of Appeals overruled a large number of Georgia Court of Appeals decision in which the lower appellate court had held that the plaintiff’s failure to observe a visible hazard was itself a basis for summary judgment, i.e., that the plaintiff’s claim was barred as consequence of the plaintiffs own purported negligence in failing to be sufficiently observant. Robinson 268 Ga. at 738-39.
+
+Disapproving and overruling this line of cases, the Robinson court framed the issue as follows:
+
+[B]y routinely adjudicating as a matter of law questions of the plaintiffs and defendant’s negligence, proximate cause, and the exercise of ordinary care, these decisions have made commonplace what is, in reality, an unusual circumstance in tort law, since as a general proposition issues of negligence, contributory negligence and lack of ordinary care for one’s own safety are not susceptible of summary adjudication.
+
+Id. Here, Denson submits that her own negligence in traversing the stairs was not plain and palpable; indeed, it is somewhat odd for the Gerteisens to argue that the hazard here was obvious to any person of ordinary intelligence, but also that it somehow was not obvious to them.
+
+Moreover, and in any event, Georgia law also provides that a landlord is responsible for injuries arising from breaches of duty imposed by the building code, including the absence of a handrail, regardless whether the plaintiff had equal knowledge of the hazard. Bastien v. Metropolitan Park Lake Associates L.P., 209 Ga. App. 881, 882 (1993) (“The landlord...cannot avoid duties created by housing codes.”) (citing Thompson v. Crownover, 259 Ga. 126, 129 (1989)).
+
+As a matter of public policy, in the case of a code violation, “the facts supporting [the defense of assumption of the risk] will not be plain or indisputable” as a matter of both law and public policy. Johnston v. Ross, 264 Ga. App. 252, 255 (2003). The fact that Plaintiff was elderly does not change this analysis; in fact, a person renting premises to elderly guests or tenants should arguably be held to a higher standard, as a matter of public policy, in ensuring that the premises are safe.
+
+OCGA § 44-7-14
+Aggeles v. Theater of the Stars, 235 Ga. App. 57, 507 S.E.2d 856 (1998)
+Bastien v. Metropolitan Park Lake Associates L.P.
+Christensen v. Overseas Partners Capital, 249 Ga. App. 827, 549 SE 2d 784 (2001)
+Jai Ganesh Lodging, Inc. v. David Smith, Inc., 328 Ga. App. 713, 760 S.E.2d 718 (2014)
+Murray v. W. Bldg. Materials, 243 Ga. App. 834, 534 S.E.2d 204 (2000)
+Orff v. Stonewood Rest. Grp., LLC, 285 Ga. App. 488 (2007)
+Perkins v. Val D’Aosta Co., 305 Ga. App. 126, 699 S.E.2d 380 (2010)
+Robinson v. Kroger, 268 Ga. 735, 739-40, 493 S.E.2d 403, 408 (1997)
+Stewart v. Brown, 343 Ga. App. 190, 193, 806 S.E.2d 640, 643 (2017)
+Thompson v. Crownover 259 Ga. 126, 129, 377 S.E. 2d 661, 662 (1989)).
+Warner v. Arnold, 133 Ga. App. 174, 178–79, 210 S.E.2d 350, 353-54 (1974)
+Wingo v. Harrison, 268 Ga. App. 156, 601 S.E.2d 507(2004)
+
+
+
+
+

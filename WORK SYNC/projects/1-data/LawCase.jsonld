@@ -1,0 +1,84 @@
+
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "docket": {
+      "@id": "schema:DefinedTerm",
+      "name": "Docket (court)",
+      "description": "The records associated with a case. This will be a URI to the e-filing portal.",
+      "inDefinedTermSet": "https://en.wikipedia.org/wiki/Docket_(court)"
+    },
+    "court": {
+      "@id": "schema:DefinedTerm",
+      "name": "Court",
+      "description": "The name of the venue of the action.",
+      "inDefinedTermSet": "https://en.wikipedia.org/wiki/Court"
+    },
+    "plaintiff": {
+      "@id": "schema:DefinedTerm",
+      "name": "Plaintiff",
+      "description": "A party who initiates a legal action.",
+      "inDefinedTermSet": "https://en.wikipedia.org/wiki/Plaintiff"
+    },
+    "defendant": {
+      "@id": "schema:DefinedTerm",
+      "name": "Defendant",
+      "description": "A party who defends against a legal action.",
+      "inDefinedTermSet": "https://en.wikipedia.org/wiki/Defendant"
+    },
+    "judge": {
+      "@id": "schema:DefinedTerm",
+      "name": "Judge",
+      "description": "The judicial officer assigned to the case.",
+      "inDefinedTermSet": "https://en.wikipedia.org/wiki/Judge"
+    }
+  }
+}
+
+
+<script type="application/ld+json">
+{
+  "docket": "https://peachcourt.com/CaseDocket/index?cno=2021SV000163&cty=Hall&crt=State",
+  "docketNumber": "2021SV000163",
+  "court": "Hall County State Court",
+  "judge": "John Breakfield",
+  "plaintiff": ["Shawn Adams"],
+  "defendant": ["Luke Volle", "Carl Volle"]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": ["Thing", "CreativeWork"],
+  "name": "Adams v. Volle (2021SV000163)",
+  "description": "Contract dispute case heard in Hall County State Court",
+  "location": { 
+    "@type": "Place",
+    "name": "Hall County State Court",
+    "address": {/* Court's address */} 
+  },
+  "startDate": "2021-03-12",
+  "organizer": { /* Court or government agency */ },
+  "performer": [
+    { "@type": "Person", "name": "John Breakfield", "role": "Judge" }, 
+    {/* Add lawyers, etc. */ } 
+  ] 
+}
+</script>
+
+<script type="application/ld+json" id="caseData">
+{
+  "@context": "http://www.yourwebsite.com/legal_terms.jsonld",
+  "docket": "https://peachcourt.com/CaseDocket/index?cno=2021SV000163",
+  /* ...other data */
+}
+</script>
+
+<script>
+const jsonData = document.getElementById('caseData').textContent; 
+const caseData = JSON.parse(jsonData);
+
+// Now you can access caseData.docket, caseData.plaintiff, etc.
+</script>
+

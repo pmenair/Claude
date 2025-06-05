@@ -1,0 +1,56 @@
+#+LANGUAGE: en
+#+OPTIONS: ':t *:t f:t tex:t toc:nil H:2 num:UNNUMBERED
+#+latex_compiler: xelatex
+#+latex_class: article
+#+latex_class_options: [12pt, letterpaper, oneside]
+#+latex_header: \setlength{\parskip}{0in}
+#+latex_header: \setlength{\parindent}{.5in}
+#+latex_header: \frenchspacing
+#+latex_header: \usepackage{fontspec}
+#+latex_header: \setmainfont{Times New Roman}
+#+latex_header: \usepackage{geometry}
+#+latex_header: \newgeometry{top=1in, bottom=1in, left=1in, right=1in}
+#+latex_header: \setlength{\footskip}{15pt}
+#+latex_header: \usepackage{setspace}
+#+latex_header: \doublespacing
+#+latex_header: \raggedright
+#+latex_header: \newcommand{\tab}{\hspace*{.5in}}
+#+latex_header: \pagestyle{fancy}
+#+latex_header: \fancyhf{}
+#+latex_header: \cfoot{\vspace{-1mm} \ptm{\thepage} }
+
+\begin{document}
+\begin{center}
+IN THE <court> OF <county> COUNTY \\ STATE OF GEORGIA
+\end{center}
+\begin{minipage}[t]{3in}
+<plaintiff>\\
+\tab \tab \tab Plaintiff,\\
+\tab \tab v.\\
+<defendant>\\
+\tab \tab \tab Defendant\\
+\makebox[3in]{\hrulefill}
+\end{minipage}%
+\begin{minipage}[t]{5mm}
+\begin{singlespace*}
+)\\)\\)\\)\\)\\)\\)\\)\\)
+\end{singlespace*}
+\end{minipage}%
+\begin{minipage}[t]{2in}
+\tab CIVIL ACTION NO.
+\tab <CAN>
+\end{minipage}
+\begin{center}
+<TITLE>
+\end{center}
+<contents>
+\begin{singlespace}
+\hspace*{1in}Respectfully submitted,\\
+\hspace*{1in}Date: ~ \today \\
+\hspace*{1in}By: ~ \makebox[2in]{\hrulefill} \\
+\hspace*{1in}Paul David Menair \\
+\hspace*{1in}Attorney for Plaintiff \\
+\hspace*{1in}Georgia Bar No: 502018 \\
+\end{singlespace*}
+\end{document}
+

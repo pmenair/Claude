@@ -1,0 +1,24 @@
+#+title:      denson betty
+#+date:       [2024-05-08 Wed 10:36]
+#+filetags:   :casenotes:
+#+identifier: 20240508T103643
+
+| liamt      | licarr         | umamt | umcarr |
+| 500,000.00 | JohnsonJohnson |   0.0 | NA     |
+
+|   medical | other | demand     | offer     |
+| 163656.09 |   0.0 | 500,000.00 | 50,000.00 |
+
+
+Counsel for Defendants: [[https://gabar.reliaguide.com/lawyer/30309-GA-Paul-Fields-256388][Paul Fields, Fields Howell LLP]]
+
+Counsel for Defendants: [[https://gabar.reliaguide.com/lawyer/30326-GA-Christopher-Lee-281365][Christopher Sue-Min Lee, Fields Howell LLP]]
+
+AL co-counsel: [[https://stokesstemle.com/attorneys/jonathan-h-stokes/][Jonathan Stokes, Stokes Stemle, LLC]]  [JStokes@StokesStemle.com]
+
+EDF ID 11Cir is 430669620
+
+[status]: [Denson] appeal
+
+Roland LeClaire 678-6135049 opinion is bad
+

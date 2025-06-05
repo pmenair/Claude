@@ -1,0 +1,104 @@
+#+title:      ragsdale forrest
+#+date:       [2024-04-17 Wed 09:29]
+#+filetags:   :casenotes:
+#+identifier: 20240417T092927
+
+** /Representation and Coverage/:
+
+
+Counsel for Wells Fargo and JCB Holdings: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=NDA5NTA5][Dawn Pettigrew, Hudson Lambert Parrott Walker, LLC]]
+
+Counsel for Wells Fargo and JCB Holdings: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=NDU5ODU2][Emma Greer, Hudson Lambert Parrott Walker, LLC]]
+
+Counsel for Wells Fargo and JCB Holdings: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=NTk1OTk5][Brad Parrott, Hudson Lambert Parrott Walker, LLC]]
+
+Counsel for CBRE: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=NTI4Mjgx][Elliot C. Ream, Hawkins, Parnell & Young, LLP]] x7424
+
+Counsel for CBRE: [[https://www.gabar.org/member-directory/?id=3E54A9D2E0B71CF4A042D49C0A44046C][Warner Fox, Hawkins, Parnell & Young, LLP]]
+
+Counsel for CBRE: [[https://www.gabar.org/member-directory/?id=2DA218F24E70D245568D5A1D91FDE806][Shane Keith, Hawkins, Parnell & Young, LLP]]
+
+Wells Fargo self-insured
+Zurich American Insurance Company 5MM CBRE
+
+** /Damqages/:
+
+Medical:  115,000 about
+Income:   170,812.80
+
+** /Notes/:
+
+BACK SEEMS RELATED - pain at scene, but there is history
+
+EMS - interview with bystander, complain lower back, post-concussive, LOC
+
+Northside - Hx ptsd, anxiety/depression, ambulating, LOC "witnessed by staff," confusion, no neck pain or headache, incontinent, low back pain, cardiac issues preexisting, no burns, CT head normal, preexisting diverticulitis, facet arthritis, mild L4-5 bulge, osteophytes, no fracture
+
+Prior hx for headache, joint pain, thyroid, serious ptsd, GERD, sexual dysfunction, cardio
+
+Longstreet (PCP) - lots of unrelated
+
+Northside Neuro (Cooper) - these records are terrible, Dx mild cognitive impairment
+
+Resurgens - Dx facet syndrome, references fall and concuss but not great for causation? facet injection helped, no surgery recommended for bulge, loss of control of bowel and bladder causation? knee pain?
+
+reference to marijuana use in neuropsych
+
+* ---
+
+[ ] fu copies of non-party
+
+[ ] review pleadings, discovery
+
+[ ] VENUE AND PARTIES - no vanishing venue issues, venue is Gwinnett, Wells Fargo and CBRE are both there, maybe let out landlord no evidence of involvement
+
+[ ] LIABILITY - we allege premises WF and ordinary negligence CBRE, there are some issues here but I think we're as good as we're going to get, do order of proof on elements of both, NB no concerning defenses in pleadings
+
+[ ] WITNESSES LIST order of proof, outlines
+
+[ ] PTO
+
+[ ] WF denies invitee, do we need to amend to add something else?
+
+[ ] contact former employees of WF?
+
+[ ] Wells Fargo is self-insured - what's the retention amount? [I think they are fully self-insured]
+
+[ ] no video "upon information and belief" SPOLIATION? [LOOK AT DEPOS]
+
+[ ] other incidents response limited to the specific condition
+
+[ ] NO memorializing documents! No policies but lots of "will supplement"
+
+[ ] WF needs to supplement and provide a privilege log
+
+** /Experts Notes/:
+
+Reiss - can't speak to the electrocution portion, record focuses on concussion, not unusual for it to go in all sorts of directions, from a defense pov the records lay everything out but don't provide a good psychosocial history, there are inconsistencies, unclear how well he was functioning prior, they were reducing his Klonopin which he was iatrogenically addicted to, he's on a lot of drugs, some of them might be problematic after a head injury, talk to his psychiatrist
+
+Dr. Andrews - whackjob but willing to sayt acute electrical injury no doubt
+
+2 initial points - bearing on disability
+1. medical history includes previous concussion, previous PTSD
+   BUT at the least severe exacerbation
+   typical symptomotology
+2. criteria for post-electrical syndrome couched in the context of a demonstrated injury, but actual mechanism wanting
+   need techical report to document fault
+No literature correlates the size of the shock, amount of the shock does matter much.
+
+elements of adjustment disorder, PTSD, but no established criteria for post-electric shock syndrome in the DSM.
+
+diagnosis results from many papers showing spectrum of injuries we see, derived from the literature, he published them
+
+plausible that disk bulge was exacerbated by the fall
+
+This guy is all over the record outside his expertise
+He has no psych experience that I can see
+specialty
+adjunct professor
+do you practice, what specialty, how much expert
+
+Bachelors is the practice degree
+medicine and engineering academic
+full professor now
+

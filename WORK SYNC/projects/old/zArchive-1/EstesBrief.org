@@ -1,0 +1,345 @@
+* Reply Brief
+
+** Static Condition Cases
+
+*** [[https://scholar.google.com/scholar_case?case=15856539162967960762&q=premises+%22static+condition%22+%22summary+judgment%22&hl=en&as_sdt=4,11][Anderson v. Turton Development, Inc., 483 SE 2d 597 - Ga App 1997]] :@:
+
+Slip and fall on handicap parking ramp, expert testimony re safety standars. Prior traversal.
+
+Distinguishes numerous uneven walking surface cases, finding sufficient evidence of due care and defective design for the matter to go to a jury.
+
+Addresses negligence per se argument but rejects ANSI standards as basis. Discusses franchise relationships and is potentially relevant to Kridel.
+
+Three dissenting judges, cert. denied.
+
+54 citing [[https://scholar.google.com/scholar?cites=15856539162967960762&as_sdt=80005&sciodt=4,11&hl=en][documents]] including treatises in Google Scholar. Per lexis distinguished by Poythress v. Savannah Airport Comm'n 229 Ga. App. 303, 494 S.E.2d 76 (1997), see also discussion and numerous citations in Pinder v. H & H Food Servs., LLC 326 Ga. App. 493 (2014)
+
+*** [[https://scholar.google.com/scholar_case?case=18024747153994442458&q=premises+%22static+condition%22+%22summary+judgment%22&hl=en&as_sdt=4,11][Becton v. Tire King of North Columbus, Inc., 539 SE 2d 551 - Ga: Court of Appeals 2000]]
+
+Plain and palpable case where the Pl walked backwards into a planter. Cites Parker v. Welborn, 236 Ga.App. 344, 346(1), 511 S.E.2d 917 (1999) (plaintiff failed to exercise ordinary care when she walked blindly into an unfamiliar room through a closed door and fell down stairs); Wright  Wright v. JDN Structured Finance, 239 Ga.App. 685, 686(2), 522 S.E.2d 4 (1999) (plaintiff failed to exercise ordinary care when she tripped over high, yellow-painted curb); Carey v. W.R. Grace & Co., 221 Ga.App. 728, 730(3)(a), 472 S.E.2d 524 (1996) (plaintiff failed to exercise ordinary care when he walked backward without looking and tripped over a pallet).
+
+*** [[https://scholar.google.com/scholar_case?case=8313770492281747408&q=premises+%22static+condition%22+%22summary+judgment%22&hl=en&as_sdt=4,11][Bonner v. Southern Restaurant Group, Inc., 610 SE 2d 129 - Ga: Court of Appeals 2005]] :@:
+
+This is a main case we will have to distinguish in Estes. Curb at a restaurant, open and obvious static condition previously traversed. Prior traversal is important here, but also the issue of open and obvious.
+
+*** [[https://casetext.com/case/brewer-v-atlanta-south?jxs=ga&p=2&q=view%20%2Fp%20obstructed%20%2Fp%20hazard%20%2Fp%20park!&sort=relevance&type=case&ssr=false&scrollTo=true][Brewer v. Atlanta South 75, 288 Ga. App. 809 (Ga. Ct. App. 2007)]] :@:
+
+Obscured vision at gas station
+
+*** [[https://cite.case.law/ga-app/330/17/][Canaan Land Properties, Inc. v. Herrington, 330 Ga. App. 17, 766 S.E.2d 493 (2014)]]
+
+Disregard, this is one of those cases where the plaintiff couldn't identify the hazard.
+
+*** [[https://scholar.google.com/scholar_case?case=11744015909026499153&q=premises+%22static+condition%22+%22summary+judgment%22&hl=en&as_sdt=4,11][Christensen v. Overseas Partners Capital, 549 SE 2d 784 - Ga: Court of Appeals 2001]] :@:
+
+Uneven handicap ramp case. Height gap where there was prior traversal but it may not have been as visible going into the building, so the court declined to find that she had negotiated the hazard. Good case. NB n15 re the "common knowledge" of uneven pavement language vacated and reversed in light of Robinson in Freyer v. Silver, 234 Ga.App. 243, 246-247(3), 507 S.E.2d 7 (1998) ("Freyer II").
+
+*** [[Cowan v. Waffle House, 217 Ga. App. 273, 456 S.E.2d 762 (Ga. Ct. App. 1995)][Cowan v. Waffle House, 217 Ga. App. 273, 456 S.E.2d 762 (Ga. Ct. App. 1995)]]
+
+Rebar sticking up in a parking lot, open and obvious, bad case.
+
+*** [[https://cite.case.law/ga-app/304/794/][Craig v. Bailey Bros. Realty, Inc., 304 Ga. App. 794, 697 S.E.2d 888 (2010)]] :@:
+
+See n4: In a trespass case, defining open and obvious static condition in opposition to hidden peril: "A hidden peril, in contrast to an open and obvious static condition on the land, is concealed or camouflaged from the view of persons on the property. See Ga. Dept. of Transp. v. Strickland, 279 Ga. App. 753, 754-755 (1) (632 SE2d 416) (2006). See also Thomas v. Executive *799 Committee of the Baptist Convention &c., 262 Ga. App. 315, 319 (c) (585 SE2d 217) (2003) (a static condition is one that is not obstructed or concealed from view)."
+
+*** [[https://cite.case.law/ga-app/234/243/][Freyer v. Silver, 234 Ga. App. 243, 507 S.E.2d 7 (1998)]]
+
+This case involved a catch basin, court held it was not open and obvious despite prior traversal of the pavement near it.
+
+*** [[https://scholar.google.com/scholar_case?case=14739489130274659975&q=premises+%22static+condition%22+%22summary+judgment%22&hl=en&as_sdt=4,11][Gaydos v. GRUPE RE INVESTORS, 440 SE 2d 545 - Ga: Court of Appeals 1994]]
+
+Typical pre-Robinson uneven pavement case, with an added departure from the prescribed path aspect.
+
+*** [[https://cite.case.law/ga-app/267/143/][Hagadorn v. Prudential Insurance, 267 Ga. App. 143, 598 S.E.2d 865 (2004)]]
+
+Another storm drain, depart from the path case, but this came out for the plaintiff.
+
+*** [[https://scholar.google.com/scholar_case?case=14656802340694235848&q=premises+%22static+condition%22+%22summary+judgment%22&hl=en&as_sdt=4,11][Hannah v. Hampton Auto Parts, Inc., 506 SE 2d 910 - Ga: Court of Appeals 1998]]
+
+Interesting stair case; plaintiff was a regular at the store and had traversed the stairs many times. Court held, among other things, that the expert testimony in the case only established negligence per se and did not impact the superior knowledge issue.
+
+*** [[https://cite.case.law/ga-app/170/509/][Housing Authority of Atlanta v. Famble, 170 Ga. App. 509 (1984)]]
+
+Storm sewer case, clogged drain led to ponding, children drowned. Huge opinion in a death case, not a summary judgment case.
+
+*** [[https://scholar.google.com/scholar_case?case=4621864063739484721&q=premises+%22static+condition%22+%22summary+judgment%22&hl=en&as_sdt=4,11][Jackson v. Waffle House, Inc., 537 SE 2d 188 - Ga: Court of Appeals 2000]]
+
+Good uneven pavement case, repeated prior traversal of parking lot but again not this specific portion. Two judges dissent and would find the knowledge of the general condition of the parking lot sufficient for summary judgment.
+
+And the fact that the rough uneven 192*192 pavement is a static condition, ostensibly open and obvious, cannot automatically absolve the owner/occupier from liability, if any, from its failure to exercise ordinary care to keep the approaches safe.[7] To do so would "relegate a business patron to licensee status by requiring the patron to be on the alert to discover [and avoid] defects [in the approaches]."[8] "We do not understand this to be the law in [trip] and fall cases."[9]
+
+[7] Freyer v. Silver, supra, 234 Ga.App. at 246(3), 507 S.E.2d 7. It should be noted that the prior decision of this Court in Freyer v. Silver, 227 Ga.App. 253, 488 S.E.2d 728 (1997), was vacated at the direction of the Supreme Court at 234 Ga.App. at 245(1), 507 S.E.2d 7, and the "open and obvious" analysis employed therein and in MARTA v. Fife, 220 Ga.App. 298(2), 469 S.E.2d 420 (1996), was disapproved by the majority in light of the Supreme Court's ruling in Robinson v. Kroger Co., supra. Freyer v. Silver, supra, 234 Ga.App. at 246(3), 507 S.E.2d 7. The dissent's reliance on Tanner v. Larango, 232 Ga.App. 599, 600(2), 502 S.E.2d 516 (1998), which depends on the superseded analysis of the vacated Freyer decision, is misplaced.
+
+[8] Robinson v. Kroger Co., supra, 268 Ga. at 742(1), n. 3, 493 S.E.2d 403.
+
+[9] (Citation omitted.) Telligman v. Monumental Properties, Inc., 161 Ga.App. 13, 17(2), 288 S.E.2d 846 (1982).
+
+[10] (Punctuation and footnote omitted.) Shepherd v. Winn Dixie Stores, 241 Ga.App. 746, 749(2), 527 S.E.2d 36 (1999).
+
+[11] "If the plaintiff by ordinary care could have avoided the consequences to himself caused by the defendant's negligence, he is not entitled to recover." OCGA § 51-11-7.
+
+[12] Robinson v. Kroger Co., supra, 268 Ga. at 743(1), 493 S.E.2d 403. Accord Freyer v. Silver, supra, 234 Ga.App. at 246(3), 507 S.E.2d 7.
+
+[13] Ray v. Restaurant Mgmt. Svcs., 230 Ga.App. 145, 146, 495 S.E.2d 613 (1998).
+
+*** [[https://cite.case.law/ga-app/341/12/][Joe Enterprise, LLC v. Kane, 341 Ga. App. 12, 798 S.E.2d 97 (2017)]] :@:
+
+Ramp case. Failure to identify the specific area where she fell. This holding specifically seems inconsistent with the Anderson case insofar as the court disregards expert testimony regarding the visibility of the hazard in making a prior traversal holding, BUT it is plainly distinguishable because the plaintiff failed to articulate how she fell.
+
+*** [[https://cite.case.law/ga-app/312/838/][Jordan v. Bennett, 312 Ga. App. 838, 720 S.E.2d 301 (2011)]]
+
+Social guest case, plaintiff fell off a balcony, low railing was a static condition.
+
+*** [[https://scholar.google.com/scholar_case?case=14888749599804322881&q=premises+%22static+condition%22+%22summary+judgment%22&hl=en&as_sdt=4,11][LeCroy v. Bragg, 739 SE 2d 1 - Ga: Court of Appeals 2013]] :@:
+
+Pothole case, court found no distraction but discusses the issue at some length.
+
+*** [[https://scholar.google.com/scholar_case?case=13487078186027199252&q=premises+%22static+condition%22+%22summary+judgment%22&hl=en&as_sdt=4,11][McLemore v. Genuine Parts Co., 722 SE 2d 366 - Ga: Court of Appeals 2012]] :@:
+
+Customer injured on curb at auto parts store, parked across the stree because the lot was full. This is THE case to distinguish, extended discussion of the distraction principle and good general lay out of the rules.
+
+*** [[https://cite.case.law/ga-app/220/298/][Metropolitan Atlanta Rapid Transit Authority v. Fife, 220 Ga. App. 298, 469 S.E.2d 420 (1996)]]
+
+1996 curb case laying out the status quo ante Kroger. NB this case, as stated in Freyer, was probably overruled by Kroger. Wiggins v. Belk, Inc. 2012 U.S. Dist. LEXIS 5035.
+
+*** [[https://casetext.com/case/norwich-v-the-shrimp-factory-inc?jxs=ga&p=2&q=curb%20and%20obstruct!&sort=relevance&type=case&ssr=false&scrollTo=true][Norwich v. the Shrimp Factory Inc., 770 S.E.2d 357, 332 Ga. App. 159 (Ga. Ct. App. 2015)]]
+
+Lengthy complicated case with dissents, probably don't want to cite this but may need to distinguish it. A prior traversal case.
+
+*** [[https://scholar.google.com/scholar_case?case=3847531970101012099&q=premises+%22static+condition%22+%22summary+judgment%22&hl=en&as_sdt=4,11][Perkins v. Val D'Aosta Co., 699 SE 2d 380 - Ga: Court of Appeals 2010]] :@:
+
+Patron at Comfort Inn stepped off a curb, did not recall whether traversed prior. Basically a great case for us, use as a template to lay out the elements?
+
+NB distinguished in Norwich on the ground that a length of time intervened between traversals.
+
+*** [[https://casetext.com/case/stephens-v-kmart-corp-1?jxs=ga&p=1&q=curb%20and%20obstruct!&sort=relevance&type=case&ssr=false&scrollTo=true][Stephens v. Kmart Corp. 785 S.E.2d 21 (Ga. Ct. App. 2016)]]
+
+Distraction by clothing racks case. Interesting pro-P case but probably distinguishable.
+
+*** [[https://scholar.google.com/scholar_case?case=1354926045132928637&q=premises+%22static+condition%22+%22summary+judgment%22&hl=en&as_sdt=4,11][Pirkle v. Robson Crossing LLC, 612 SE 2d 83 - Ga: Court of Appeals 2005]]
+
+Pro-D curb case, spends some time distinguishing Freyer.
+
+*** [[https://casetext.com/case/rentz-v-prince-of-albany-inc-1?jxs=ga&p=1&q=curb%20%2Fp%20obstruct!%20%2Fp%20visib!&sort=relevance&type=case&ssr=false&scrollTo=true][RENTZ v. PRINCE OF ALBANY, INC. 340 Ga. App. 388 (Ga. Ct. App. 2017)]]
+
+Moveable items, in this case a cornhold game, can be static conditions.
+
+
+** Prior Briefing
+
+This case is more closely analogous to MAC International-Savannah
+Hotel, Inc. v. Hallman, 265 Ga. App. 727, 595 S.E.2d 577 (2004). In
+Hallman, the plaintiff fell while walking down a poorly lit staircase.
+The Court of Appeals upheld denial of summary judgment despite the
+fact that the plaintiff voluntarily entered into the dimly lit
+staircase, finding that the landowner had superior knowledge of a
+hazard that was disguised by the darkness. Id. at 729-30 ("[I]f...dim
+lighting prevents the injured party from discovering a dangerous
+condition of which the owner, but not the injured party, should be
+aware, liability may be imposed.") (quoting Joyner v. Sandefur Mgmt.
+Co., 168 Ga. App. 854, 857, 310 S.E.2d 578 (1983)).
+
+Moreover, the Bridge was not a static condition under Georgia law,
+which defines a static condition as an open and obvious, unchanging
+condition of the premises that is not in itself inherently dangerous.
+Wiley v. Liberty Southern, 243 Ga. App. 110, 1 (2000). Here, the
+condition of the Bridge was not obvious to Nenadic and was inherently
+dangerous. Indeed, Shoffeitt plainly was aware that the Bridge was
+hazardous and undertook to both warn Nenadic and attempt to guide her
+across it safely.
+
+The cases Shoffeitt relies on here are distinguishable in that they
+involve observable or known hazards. See Trulove .v Jones, 271 Ga.
+App. 681, 681 (2005) (missing handrail on pool deck); Evans v. Parker,
+172 Ga. App. 416, 417 (1984) (lack of illumination and known hazard);
+Rossano v. Am. Legion Post No. 29, 189 Ga. App. 610, 612 (1988)
+(same). Moreover, the latter two cases predate the opinion in Robinson
+v. Kroger regarding the standard of decision in summary judgment cases
+and, as such, are of doubtful application. See Hamilton .v Ky. Fried
+Chicken of Valdosta, 248 Ga. App. 245, 247 (2001) ("In light of
+Robinson's significantly lightening the plaintiff's load in proving a
+trip and fall case, and its reminder that most routine issues in such
+cases are not subject to summary adjudication, pre-Robinson cases
+affirming summary judgment must be carefully scrutinized."). Asthe
+Court of Appeals has held, "the ruleimputing knowledge of a danger to
+a person who has successfully negotiated an alleged dangerous
+condition before applies only to cases involving a static condition
+that is readily discernible to a person exercising reasonable care for
+his own safety." (Citation and punctuation omitted; emphasis in
+original.) Strauss v. City of Lilburn, 329 Ga. App. 361, 364 (2014).
+That rule does not apply here.
+
+Various Georgia cases provide that no liability attaches to a landlord
+for failure to warn a person injured by a static condition of the
+premises that is “open and obvious,” because the plaintiff and the
+landlord have equivalent and common knowledge of the hazard.
+Metropolitan Atlanta Rapid Transit Authority v. Fife, 220 Ga. App.
+298, 300 (1996). Defendant contends that, because the condition of the
+pallet was static and because Nenadic had previously negotiated it,
+Shoffeitt cannot be held liable. However, here, unlike in the cases
+cited by Defendant, the hazard represented by the pallet was neither
+open nor obvious. Nenadic testified: It was wood across a ravine. It
+looked like it went sturdy from one end to the other. It was even. It
+was straight. It didn’t have any rails or anything like a bridge would
+have. So, you know, I knew there was a possibility of falling off of
+it, but I never imagined there was a possibility of falling through
+it. Deposition of Teresa Nenadic [“Nenadic Depo.”], extracts attached
+as Exhibit A, at 64-65. Defendant cites cases involving railings as
+presenting allegedly similar fact patterns. However, each of these
+cases is distinguishable both on the facts and with respect to the
+applicable law. See Thompson v. Oursler, 318 Ga. App. 377 (2012)
+(plaintiff was licensee only and there was no evidence defendants had
+or should have had superior knowledge of a defect in the railing);
+Rogers v. Woodruff, 328 Ga. App. 310 (2014) (same); Trulove v. Jones,
+271 Ga. App. 681 (2005) (plaintiff was licensee only and absence of
+handrail was an open and obvious hazard).
+
+As discussed above, Georgia bars plaintiffs from suing property owners
+regarding open and obvious hazards that they have successfully
+traversed in the past. However, as previously noted and as discussed
+in the case relied upon by Defendant, this “prior traversal rule” only
+applies to open and obvious hazards and is, accordingly, simply a
+consequence of the general rule preventing recovery by a party who had
+equal knowledge of a hazard. See Gervin v. Real Property Trust, 840
+S.E.2d 101, 104 (2020) (“The rule imputing knowledge of a danger to a
+person who has successfully negotiated an alleged dangerous condition
+before applies only to cases involving a static condition that is
+readily discernible to a person exercising reasonable care for his own
+safety.”) (quoting Strauss v. City of Lilburn, 329 Ga. App. 361, 364
+(2014)). Here, a jury would at the very least be authorized to find
+that the hazard at issue was not readily discernable to Nenadic but
+was in fact known to Shoffeitt. Defendant’s contention that there is
+“an absence of evidence in the record showing that Mr. Shoffeitt knew
+or had reason to know of any dangerous condition” is entirely
+disingenuous in light of Mr. Shoffeitt’s plain and unambiguous
+testimony that he knew the pallet might collapse under a person’s
+weight and in fact attempted to warn Nenadic of that specific hazard.
+
+
+** Estes Facts
+
+RESPONSE TO MOTION FOR SUMMARY JUDGMENT
+
+COMES NOW the above plaintiff ("Estes" or "Plaintiff") and files her Response to Motion for Summary Judgment, showing the following:
+
+Facts
+
+On December 16, 2019, Estes visited the defendant's dealership of the purpose of purchasing a new vehicle. (Deposition of Barbara Estes ["Estes Depo."], attached to Defendant's Br. Supp. MSJ as Exhibit 1 thereto, at 40:02-05.)  On that day, she parked on the right side of the building in the customer parking area and entered the building through the door to the dealership showroom. (Estes Depo. at 41:16-42:05.) Dealership employees drove her vehicle to the service bay and unloaded it; she left in a new car, having promised to return with the title documents relating the her trade-in vehicle. (Estes Depo. at 42:13-43:18.)
+
+Two days, later, on December 18, 2019, Estes returned to the dealership to drop off paperwork. (Estes Depo. at 44:13-25.) Again, she parked on the right side of the building. (Estes Depo. at 47:23-48:16.) There were other cars parked on that side of the building. (Estes Depo. at 49:22-50:03.) She does not recall whether she parked in the same space as the prior occasion. (Estes Depo. at 51:14-21.) She backed into the parking space and got out to go around the back of her car towards the entrance. (Estes Depo. at 52:01-12.) Walking past the rear of her vehicle, she tripped over a "one or two-inch step up" in the parking area. (Id.)
+
+There were vehicles behind Estes' car on the raised area outside the dealership, between the parking spaces and the building. (Estes Depo. at 52:13-17.) Estes assumed that these vehicles were simply parked at the dealership, ie., that the area where they were parked was part of the parking lot. (Estes Depo. at 52:18-21.)
+
+Prior to her fall, Estes did not see the difference in elevation. (Estes Depo. at 59:11-20.) There was nothing physically obscuring her view, but she was not looking down as she walked; instead, she was looking at the cars parked in the raised area, which she believed to be part of the parking lot. (Estes Depo. at 61:21-62:10.) After her fall, she was taken to the hospital, where she was treated for a concussion and an injury to her right knee. (Estes Depo. at 65:14-21, 68:01-05.)
+
+Timothy Satterfield, Plaintiff's retained expert, states the opinion that the curb violates applicable building codes and fire and safety standards because it represents an inappropriate elevation change for a walkway and it is insufficiently marked to place a person taking reasonable precautions for their own safety on notice of a trip hazard. (Satterfield Affidavit, thoughout, copy attached to Plaintiff's Statement of Material Facts Showing Genuine Issues Exist for Trial as Exhibit A thereto.)
+
+Argument and Citation of Authorities
+
+OCGA § 51-3-1 provides that "[w]here an owner or occupier of land, by express or implied invitation, induces or leads others to come upon his premises for any lawful purpose, he is liable in damages to such persons for injuries caused by his failure to exercise ordinary care in keeping the premises and approaches safe." OCGA § 51-3-1. On a "trip and fall" claim, "an invitee must prove (1) that the defendant had actual or constructive knowledge of the hazard; and (2) that the plaintiff lacked knowledge of the hazard despite the exercise of ordinary care due to actions or conditions within the control of the owner/occupier." Robinson v. Kroger Co., 268 Ga. 735, 748-49, 493 S.E.2d 403, 414 (1997).
+
+A plaintiff has the initial burden on the first prong of this inquiry, but the intial burden on the second portion of the inquiry is on the defendant, and summary judgment is granted only in cases where the plaintiff's own negligence is plain, palpable, and undisputed, or, to put it another way, where it is undisputed that the plaintiff would have had equal or superior knowledge of the hazard had she taken due care with regard to her personal safety. Robinson, 268 Ga. at 739-49, 493 S.E.2d at 408.
+
+With regard to what are called "static conditions," the invitee plaintiff's superior knowledge of the hazard is assumed only so long as the hazard is open and obvious and "nothing obstructs the invitee's ability to see" it. Becton v. Tire King of North Columbus, 246 Ga.App. 57, 59, 539 S.E.2d 551, 553 (2000). The choice of terminology is somewhat unfortunate and confusing; a hazard can be considered "static" even if it is not fixed and immobile. See, e.g. Rentz v. Prince of Albany, Inc. 340 Ga. App. 388, 797 S.E.2d 254 (2017) (cornhole game determined to be a static condition). Moreover, the fact that a hazard is fixed in place does not in itself render it immune from liability as an open and obvious static condition; "static" in this context simply means that the hazard "does not change and is dangerous only if someone fails to see it and walks into it." Thomas v. Baptist Convention, 262 Ga. App. 315, 319-20, 585 S.E.2d 217, 220-21 (2003). The fact that a hazard is "static" is a defense to liablity if, and only if, it is plain, palpable, and undisputed that "the defect was or should have been visible" to the plaintiff. Id. 
+
+Numerous cases involving uneven surfaces that would have been visible on close inspection have been decided in favor of the plaintiff because visibility was not open and obvious as a matter of law. See, e.g., Anderson v. Turton Development, Inc., 225 Ga. App. 270, 483 SE 2d 597 (1997) (gap at end of handicap ramp); Christensen v. Overseas Partners Capital, 249 Ga. App. 827, 549 SE 2d 784 (2001) (ramp); Brewer v. Atlanta South 75, 288 Ga. App. 809, 810 ( 655 SE2d 631) (2007) (curb); Perkins v. Val D'Aosta Co., 305 Ga.App. 126, 128, 699 S.E.2d 380 (2010) (curb). Here, the difference in height was not plainly visible, was obscured by surrounding vehicles, and was subject to a distraction in that the vehicles parked in the raised area gave the impression that the raised area was part of a single, level parking area.
+
+Defendant's prior traversal argument also lacks merit. It is not the case that any prior traversal is sufficient to charge a plaintiff, constructively, with superior knowledge of a hazard. The prior traversal rule is an aspect of the "open and obvious static condition" doctrine and not really a separate doctrine; it provides that a prior negotiation of a hazard can in the appropriate circumstances establish superior knowledge of that hazard. Georgia law contains many instances, however, where prior traversal did not decide the case in the defendants' favor, including cases cited above.
+
+In Perkins v. Val D'Aosta Co., 699 SE 2d 380 (2010), for example, a curb case, the Georgia court declined to apply the rule despite unrebutted evidence of multiple prior traversals, on the ground that the specific hazard at issue, a poorly lit curb, would not have been readily observeable on those prior occasions, a significant period of time passed between traversals, and the direction of travel was different. Here, similarly, Plaintiff's prior entrance into the building is not sufficient evidence of knowledge of the hazard to support summary judgment in Defendants' favor.
+
+Moreover, and in any event, Georgia law also provides that a landlord is responsible for injuries arising from breaches of duty imposed by the building code, regardless whether the plaintiff had equal knowledge of the hazard. Bastien v. Metropolitan Park Lake Associates L.P., 209 Ga. App. 881, 882 (1993) (“The landlord...cannot avoid duties created by housing codes.”) (citing Thompson v. Crownover, 259 Ga. 126, 129 (1989)).
+
+As a matter of public policy, in the case of a code violation, “the facts supporting [the defense of assumption of the risk] will not be plain or indisputable” as a matter of both law and public policy. Johnston v. Ross, 264 Ga. App. 252, 255 (2003).
+
+This is not an appropriate case for summary judgment, and it should be permitted to proceed to trial.
+
+PLAINTIFF'S RESPONSE TO DEFENDANTS' STATEMENT OF UNDISPUTED MATERIAL FACTS
+
+1. On the morning of December 18, 2019, Plaintiff Barbara Estes went to the Jim Hardman Buick GMC location to drop off a title and paperwork related to a car she had previously traded in. (Deposition of Plaintiff Barbara Estes (“Plf. Dep.”), pp. 39:8-15).
+RESPONSE: Not controverted.
+
+2. Plaintiff had been to the dealership on approximately one prior occasion. (Id. at p. 39:16-20).
+RESPONSE: Not controverted.
+
+3. At both times Plaintiff had been to the dealership, she had parked her car on the right side of the building. (Id. at pp. 47:14-16, 51:4-19).
+RESPONSE: Not controverted.
+
+4. On December 18, 2019, Plaintiff backed her car into a parking spot, got out of her car, approached the sidewalk, and tripped over a “change in elevation.” (Id. at pp. 53:2-8).
+RESPONSE: The referenced material does not support the implication that the change in elevation Plaintiff tripped over was apparent to her on approach as a "sidewalk."
+   
+5. The photos below, introduced as exhibits during Plaintiff’s deposition, reflect the elevation change between the concrete of the sidewalk and the black asphalt at issue:
+(Id. at pp. 55:1-9 and Deposition Exhibit 4).
+(Id. at pp. 55:22-55:11 and Deposition Exhibit 5).
+RESPONSE: The referenced material speaks for itself and does not support the description of the raised area as a "sidewalk." Moreover, at the time of the fall, there were vehicles parked on the area that Defendants are refering to as a "sidewalk." (Estes Depo. at 52:13-21.)
+
+6. Nothing prevented or obstructed Plaintiff’s view of the change in elevation between the concrete and the asphalt at issue. (Id. at pp. 61:21-62:3).
+RESPONSE: The referenced material does not support the assertion. 
+
+7. The weather was clear and “sunshiny” the day of the incident. (Id. at pp. 45:21-46:2, 60:6).
+RESPONSE: Not controverted.
+   
+8. Plaintiff did not see the change in elevation because she was not looking at the parking lot ground while walking. (Id. at pp. 59:12-17, 60:13, 62:4-9).
+RESPONSE: Plaintiff's testimony is that she was not looking at the ground while she was walking, but the referenced material does not support the implication that she was not acting with due regard for her personal safety as a matter of law. 
+
+PLAINTIFF'S STATEMENT OF MATERIAL FACTS SHOWING GENUINE ISSUES EXIST FOR TRIAL
+
+1. On December 16, 2019, Barbara Estes ("Estes") visited the defendant's dealership of the purpose of purchasing a new vehicle. (Deposition of Barbara Estes ["Estes Depo."], attached to Defendant's Br. Supp. MSJ as Exhibit 1 thereto, at 40:02-05.)
+
+2. On that day, she parked on the right side of the building in the customer parking area and entered the building through the door to the dealership showroom. (Estes Depo. at 41:16-42:05.)
+
+3. Dealership employees drove her vehicle to the service bay and unloaded it; she left in a new car, having promised to return with the title documents relating the her trade-in vehicle. (Estes Depo. at 42:13-43:18.)
+
+4. Two days, later, on December 18, 2019, Estes returned to the dealership to drop off paperwork. (Estes Depo. at 44:13-25.) Again, she parked on the right side of the building. (Estes Depo. at 47:23-48:16.)
+
+5. There were other cars parked on the right side of the building. (Estes Depo. at 49:22-50:03.)
+
+6. Estes does not recall whether she parked in the same space as the prior occasion. (Estes Depo. at 51:14-21.)
+
+7. Estes backed into the parking space and got out to go around the back of her car towards the entrance. (Estes Depo. at 52:01-12.)
+
+8. Walking past the rear of her vehicle, Estes tripped over a "one or two-inch step up" in the parking area. (Id.)
+
+9. There were vehicles behind Estes' car on the raised area outside the dealership, between the parking spaces and the building. (Estes Depo. at 52:13-17.)
+
+10. Estes assumed that these vehicles were simply parked at the dealership, ie., that the area where they were parked was part of the parking lot. (Estes Depo. at 52:18-21.)
+
+11. Prior to her fall, Estes did not see the difference in elevation. (Estes Depo. at 59:11-20.)
+
+12. There was nothing physically obscuring Estes' view, but she was not looking down as she walked; instead, she was looking at the cars parked in the raised area, which she believed to be part of the parking lot. (Estes Depo. at 61:21-62:10.)
+
+13. After her fall, Estes was taken to the hospital, where she was treated for a concussion and an injury to her right knee. (Estes Depo. at 65:14-21, 68:01-05.)
+
+14. Timothy Satterfield, Plaintiff's retained expert, states the opinion that the curb violates applicable building codes and fire and safety standards because it represents an inappropriate elevation change for a walkway and it is insufficiently marked to place a person taking reasonable precautions for their own safety on notice of a trip hazard. (Satterfield Affidavit, thoughout, copy attached as Exhibit A hereto.)
+
+
+
+
+
+
+
+
+* Affidavit
+
+AFFIDAVIT
+
+PERSONALLY APPEARED before the undersigned officer, duly qualified to administer oaths, James Timothy Satterfield, who, on being sworn, deposed and testified as follows:
+
+1. I am over the age of twenty-one and otherwise competent to testify herein, which I do of my own personal knowledge.
+
+2. I have significant expertise in the area of building code compliance and fire and safety inspection, as reflecting in my curriculum vitae, a copy of which is attached hereto as Exhibit A.
+
+3. I am qualified to testify as an expert on the matters addressed herein.
+
+4. I have been retained by the above plaintiff to provide an expert opinion regarding the trip hazard at issue in this case.
+
+5. A copy of relevant material and my report are attached as Exhibit B.
+
+6. I personally inspected the trip hazard at issue here, as shown and reflected in my report.
+
+7. Specifically, it is my opinion that relevant building codes and fire and safety standards including, without limitation, ASTM F1637-21, require a ramp where there is a change in elevation of the height at issue here. The curb, without a ramp, is not a proper change in elevation for a walkway.
+
+8. Moreover, it is also my opinion that the curb was improperly marked and gave insufficient notice of a trip hazard to a person taking reasonable precautions for their own safety.
+
+
+Inspection 2009 Silverado Sheila with Impact Collision Analysis Tues or Wedns 706-965-2745

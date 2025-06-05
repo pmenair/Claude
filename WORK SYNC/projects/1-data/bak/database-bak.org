@@ -1,0 +1,706 @@
+* ---
+
+#+STARTUP: hideblocks
+
+* Leibel Laiiw
+** Adams, Shawn v. Volle
+
+/Shawn Adams v. Luke Volle and Carl Volle/
+
+| Hall State | John Breakfield | 2021SV163D |
+
+| 1500000.0 ; umbrella | AutoOwners | 50000.0 | Progressive | 310590.61 |   0.0 |
+
+Counsel for Ds(Auto Owners): [[https://gabar.reliaguide.com/lawyer/30309-GA-William-Casey-272796][William T. Casey, Jr., Swift, Currie, McGhee & Hiers, LLP]]
+
+Counsel for Ds(Auto Owners): [[https://gabar.reliaguide.com/lawyer/30533-GA-Amber-OConnell-282120][Amber R. O’Connell, Swift, Currie, McGhee & Hiers, LLP]]
+
+- [2024-03-01 Fri] [Follow]: [Adams] officer subpoena, depose radiologist
+
+[ ] get Gower report and file, schedule depositions, billing person for rebuttal, get client ready, focus group, physical therapist live?
+
+[ ] forseeable consequences (malpractice) charge
+
+radiology report
+PT bad news eat the bruise
+
+in the can by next week
+
+- [2024-03-01 Fri] [Follow]: [Adams] Send portion of PTO - agendaskl re MIL, SCHEDULE Seecharan --> reschedule mediation? --> trial in April, PTO in mid-March?
+
+NOTE: stipulations re UM re in trial materials package, otherwise bring adjuster to trial
+
+- [2024-03-15 Fri] [Deadline]: [Adams] MIL dl for trial and PTO
+  
+- [2024-04-15 Mon] [Event]: [Adams] trial, first out
+
+#+begin_comment
+UM out on Yarb, plenty of coverage
+[status]: [Adams] trial April 15
+[[denote:20231228T094739][adams shawn]]
+subpoena officer, doctors, SKL will try the case
+Seecharan Narrative filed, he's coming live
+#+end_comment
+
+** ATU adv. MARTA
+
+[status]: [ATU] waiting on appeal docket
+
+- [2024-03-08 Fri] [Follow]: [ATU] motion filed re appeal, look for docket notice, costs were paid in October
+
+Trial court properly dismissed the debtors’ appeal as a transcript was not filed until over two months after the statutory due date, and the debtors did not request an extension of time to file the transcript; any delay in completing the record past the 30 days granted by statute was presumptively unreasonable and inexcusable. Dye v. U. S. Bank Nat'l Ass'n, 273 Ga. App. 652, 616 S.E.2d 476, 2005 Ga. App. LEXIS 549 (2005), cert. denied, No. S05C1705, 2005 Ga. LEXIS 748 (Ga. Oct. 24, 2005).
+
+Trial court did not err in dismissing the litigant’s appeal when the litigant had not filed the transcript 110 days after the notice of appeal was filed; the litigant’s claim of poverty was contradicted by the litigant’s trip to India during the time the appeal was pending. Roy v. Shetty, 274 Ga. App. 8, 616 S.E.2d 208, 2005 Ga. App. LEXIS 645 (2005).
+
+Appeal was properly dismissed for failure to timely file a transcript under O.C.G.A. § 5-6-42 since the 150 day delay in filing the transcript was unreasonable under O.C.G.A. § 5-6-48, in that it resulted in a delay of the consideration of the appeal for another term and affected the appellee’s ability to administer the estate in question; the delay was inexcusable since the record indicated that the attorney had the transcript when the attorney filed the notice of appeal. Adams v. Hebert, 279 Ga. App. 158, 630 S.E.2d 652, 2006 Ga. App. LEXIS 492 (2006).
+
+** Bromaghim, Stephanie v. Ligon et al.
+
+/Stephanie Lynn Bromaghim v. Lee Ann Ligon and Dan Siler/
+
+| Lumpkin Superior | Jim Cornwell | SUCV2019000023 |
+
+| 500,000.00 | USAA   | 100,000.00 | State Farm | 249060.71 |   0.0 |
+
+Counsel for Defendants: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=NjI2MTc2][Jessica Sanford, Fain Major & Brennan PC]]
+
+Counsel for Defendants: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=Mjg3NTA2][David Olson, Fain Major & Brennan PC]]
+
+Counsel for UM: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=NzcwNjEw][John W. Wingate III, Myers & Wingate LLP]]
+
+- [2024-03-01 Fri] [Follow]: [Bromaghim] motion for expedited treatment DENIED, client is in SC --> pp to refile in federal court, get experts in a row, figure out how to file for indigency
+
+- [2024-04-23 Tue] [Deadline]: [Bromaghim] dl to refile, need another expert, need all rule 26 experts, Marks, 
+
+#+begin_comment
+[status]: [Bromaghim] waiting to refile
+[[denote:20231229T092133][Bromaghim]]
+#+end_comment
+
+** Bruce, Matthew v. Kroger Co.
+
+/Matthew Bruce v. The Kroger Co./
+
+| court | judge | can |
+
+| liamt        | licarr | umamt | umcarr |   medical | other | 
+| 7,000,000.00 | Kroger |   0.0 | NA     | 144820.92 |   0.0 | 
+
+Counsel for Defendant: [[https://gabar.reliaguide.com/lawyer/30326-GA-Matthew-Moffett-254910][Matthew G. Moffett, Gray, Rust, St. Amand, Moffett & Brieske, LLP]]
+
+Counsel for Defendant: [[https://gabar.reliaguide.com/lawyer/30326-GA-Jeffrey-Wasick-268609][Jeffrey M Wasick, Gray, Rust, St. Amand, Moffett & Brieske, LLP]]
+
+- [2024-03-04 Mon] [Todo]: [Bruce] jppr and initial disclosures filed --> reports, serve discovery?
+
+#+begin_comment
+[status]: [Bruce] waiting on discovery
+[[denote:20230524T144740][Bruce]]
+#+end_comment
+
+** Byers v. Swan Lake Manor
+
+/Swan Lake Manor, LLC d/b/a	Swan Lake Overlook d/b/a Deerfield Ranch, ZGW Corporation, Warren Vickers, individually and as Trustee of the Zane Grey Whelchel Family Trust, Mechelle Vickers, Teresa Vickers, individually and as Trustee of the Zane Grey Whelchel Family Trust, and John Does 1-10/
+
+| Hall State | Kelley M. Robertson | 2023SV000451 |
+
+| 1000000.0 | Nationwide |   0.0 | NA     | 84706.89 |   0.0 |
+
+Attorneys for Defendants: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=MjA2Mjc1][Melody Kiella, McAngus, Goudelock & Courie]]
+                          [[https://www.gabar.org/MemberSearchDetail.cfm?ID=OTUzMDczb][Camille D. Dizon, McAngus, Goudelock & Courie]]
+
+#+begin_comment
+[status]: [Byers] timing them out on discovery
+[[denote:20240216T112124][byers]]
+OOS 1MM sent 2/16
+#+end_comment
+
+- [2024-03-06 Wed] [Event]: [Byers] depo --> identify experts, discovery ran 01/08, contested motion to extend pending, have Emma and Fenrir do background
+
+** Conard, Victoria v. Ingles et al.
+
+/Victoria Conard v. Ingles Markets, Inc. and DS Services of America, Inc. d/b/a Primo Water North America
+
+| Fulton State | Jay Roth | 22EV006583 |
+
+| 1,000,000.00 | Safety National Casualty |   0.0 | N/A    | 55949.44 | 3840.0 |    0.0 |   0.0 |
+
+
+Attorney for Ingles: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=NjI4MzI4][James W. Scarbrough, Mabry & McClelland, LLP]]
+
+Attorney for Ingles: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=MjQzNzkw][William S. Carson, Mabry & McClelland, LLP]]
+
+Attorney for Primo: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=MTM0MjIy][Danielle C. Le Jeune, Cozen O'Connor]]
+
+- [2024-03-01 Fri] [Follow]: [Conard] settling with Primo, we will dismiss them and go to Stephens County. discovery ran, waiting on medical/experts
+
+#+begin_comment
+Ingles admits control, won't admit or deny invitee in pleadings but it's admitted in deposition. No concerning defenses in answer. No concerning defenses in Primo's 01-06 answer except "CPUS is an improper party..." All Primo produced was an invoice, case against them is just based on location.
+Liens. Client had knee disloc and sprain. Surgery, lots of PT and Tx with inject. Still wearing a brace as of 2023-04-10, pain, working home care.
+Spoke with [[../5-CaseFiles/Conard.org][manager]] Joe Reynolds, Stephanie Wood, and Daniel Trifan [hold for now] --> FF (fiance), prior records?
+wages: not ready for ppd
+#+end_comment
+
+** Crowe, Jeannine v. Russo et al.
+
+/Jeannine Crowe v. Michelle Russo and Kimberly Russo/
+
+| Forsyth State | James A Dunn | 23SC-0901-A |
+
+| 1,300,000.00 | Geico | 100,000.00 reduced by | Horace Mann | 56,125.56 | 0.0 |
+
+#+begin_comment
+[status]: [Crowe] discovery
+[[../5-CaseFiles/Crowe.md][notes]]
+john reed southeastern endocronology
+husband has seen personality changes
+#+end_comment
+
+- [2024-03-01 Fri] [Follow]: [Crowe] file CONSENT MOTION, amend pleading and caption  - send dad some RFAs and rogs in lieu of depo at least initially, maybe get life care plan and mediate, sending to neuropsych and mcclusker, SC review med re TBI
+
+- [2024-04-15 Mon] [Event]: [Crowe] rule nisi hearing courtroom 402 9a mtn to add party
+
+- [2024-04-19 Fri] [Deadline]: [Crowe] discovery dl per answer
+  
+** Davis / Bass
+
+Karin Davis v. Richard Miley
+
+[status]: [Davis] Waiting on affidavits
+
+NB STANDING ORDER
+
+Karis Davis Will give claims and assets to estate, three children
+
+- [2024-02-29 Thu] [Todo]: [Davis] will
+
+- [2024-03-22 Fri] [Follow]: [Davis] look for discovery responses
+
+- [2024-03-22 Fri] [Event]: [Davis] mediation
+
+J. Jane Manning, law clerk is Viraj Parmar, Staff Attorney
+(770) 528-1704
+Viraj.Parmar@cobbcounty.org<mailto:Viraj.Parmar@cobbcounty.org>
+
+[[https://www.gabar.org/MemberSearchDetail.cfm?ID=MzEzNzc0][Allison Richardson]]
+
+We need the security manual and security protocols for Piedmont Hospital. We need the the amount of assaults that took place in the last five years and how they responded to each assault we need to have any and all publication names of security and security issues that they subscribe to we need to have the names of the risk management people the name of the Head of security and the head of administration to whom they report to. We need to have all incidents and MO use with the Atlanta police department. We need to have the record of Richard Miley and how he got there and how come he wasn’t released we need the protocols for 1031s? And when do they notify the police of someone who is crazy how do they detain individuals who are mentally disturbed and how they handle people whose families do not take them when they are discharged we also need to have any logs of security incidents which regard regarding this rape. We also need to understand why there was nothing in the record aside from one comment, made by the PA concerning this incident.
+
+Tim Benden
+
+5MM is hot but good mediator might make it happen
+
+** Day, Daniel v. McCartney et al
+
+/Daniel Ethridge Day v. Alan Lee McCartney and Linda Johanson/ 
+
+| Forsyth State | Russell McClelland | 20SC-0483-B |
+
+| 125000.0 | State Farm | 100,000.00 | Progressive | 85426.07 | 6686.25 | 
+
+Counsel for Defendants(State Farm): [[https://gabar.reliaguide.com/lawyer/30345-GA-Ann-Mandel-254226][Ann Cox Mandel, Lynn Leonard & Associates]]
+
+Counsel for UM(Progressive): [[https://gabar.reliaguide.com/lawyer/30006-GA-Karolynn-Harris-252472][Karolynn Harris, Worsham Corsi Scott & Dobur]]
+
+#+begin_comment
+[[denote:20231229T092126][Day]]
+[status]: [Day] trial date tbd
+#+end_comment
+
+- [2024-03-04 Mon] [Follow]: [Day] lost income, Zoom with client -- bad faith demand to UM, pp for trial date TBD, MSJ is pending, last dates of service in file are 2022
+
+** Denson, Betty v. Gerteisen
+
+/Betty Denson v. Donald Gerteisen and Linda Gerteisen/
+
+#+begin_export html
+|case' id='Denson|
+|court|NDGA Gainesville|
+|judge|Steve C. Jones|
+|can|2:20-cv-00228-SCJ|
+|liamt|500,000.00|
+|licarr|JohnsonJohnson|
+|umamt|0.0|
+|umcarr|NA|
+|medical|163656.09|
+|other|0.0|
+|demand|500,000.00|
+|offer|50,000.00|
+|
+<br>
+#+end_export
+
+Counsel for Defendants: [[https://gabar.reliaguide.com/lawyer/30309-GA-Paul-Fields-256388][Paul Fields, Fields Howell LLP]]
+
+Counsel for Defendants: [[https://gabar.reliaguide.com/lawyer/30326-GA-Christopher-Lee-281365][Christopher Sue-Min Lee, Fields Howell LLP]]
+
+AL co-counsel: [[https://stokesstemle.com/attorneys/jonathan-h-stokes/][Jonathan Stokes, Stokes Stemle, LLC]]  [JStokes@StokesStemle.com]
+
+[[[file:~/Documents/WORK SYNC/projects/5-CaseFiles/Denson.md][notes]]] EDF ID 11Cir is 430669620
+
+[status]: [Denson] appeal
+
+Roland LeClaire 678-6135049 opinion is bad
+
+** Gade, Krishna et al. v. Wynn
+
+/Krishna Gade and Mekala Srilatha v. Wynn Bevely/
+
+Gade
+
+#+begin_export html
+|case' id='Gade|
+|court|Cobb State|
+|judge|Maria B. Golick|
+|can|20-A-1233|
+|liamt|200,000.00|
+|licarr|State Farm|
+|umamt|0.0|
+|umcarr|GEICO|
+|medical|94038.98|
+|other|7200.0|
+|demand|200,000.00|
+|offer|82000.0|
+|
+<br>
+#+end_export
+
+Counsel for Defendant(State Farm): [[https://gabar.reliaguide.com/lawyer/30060-GA-William-Anderson-283202][Curtis Anderson, Downey & Cleveland LLP]]
+
+Counsel for Defendant(State Farm): [[https://gabar.reliaguide.com/lawyer/30343-GA-James-Cannella-267443][James Cannella, Downey & Cleveland LLP]]
+
+Counsel for UM (GEICO): [[https://gabar.reliaguide.com/lawyer/30305-GA-Dennis-Manganiello-258810][Dennis Manganiello, GEICO]]
+
+[status]: [Gade] getting out
+
+- [2024-03-01 Fri] [Follow]: [Gade] working on reductions to settle for 40k net to client
+
+** Hardwick, Tara v. Adams
+
+/Tara June Hardwick v. James Wesley Adams and Dagmar Adams/
+
+| State Court of Forsyth County | T. Russell McClelland | 23SC-1568-B |
+
+| liamt     | licarr      | umamt      | umcarr  | medical   | other | demand    | offer     |
+| 50,000.00 | Auto-Owners | 250,000.00 | Farmers | 11,102.45 |   0.0 | 50,000.00 | 12,000.00 |
+
+Counsel for Defendants: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=NTAwNjg4][Charles Medlin, Bovis, Kyle, Burch & Medlin, LLC]]
+
+Counsel for Defendants: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=ODg2NjQw][Robert F. Brawner II, Bovis, Kyle, Burch & Medlin, LLC]]
+
+Counsel for UM: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=NzcxODg0][Sarah Darden, Law Offices of Assunta S Fiorni]]
+
+#+begin_comment
+[status]: [Hardwick] discovery
+#+end_comment
+
+- [2024-03-01 Fri] [Follow]: [Hardwick] getting LI money and waiting to see what Sarah wants to do (agendaskl)--> schedule depos, noticing depositions EARLY April, be sure to get verifications, ORR, get bloodwork, verifications, officer depositions, MIDCENTURY DID NOT ANSWER? do OOS? Fenrir is working on background
+
+- [2024-05-08 Wed] [Deadline]: [Hardwick] discovery deadline
+
+** Keller, Olivia v. Olivia Wilson et al.
+
+/Olivia Keller v. Olivia Wilson and Jason Wilson/
+
+Counsel for Defendants: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=MjYxMTYx][Alex McDonald, Swift Currie McGhee & Heirs LLP]]
+
+| Fulton State | Diane E. Besson | 22EV003983 |
+
+| 3250000.00 | Farmers | 1000000.00 | Central Mutual | 54162.03 |   0.0 |
+
+#+begin_comment
+[status]: [Keller] waiting to mediate, client treating
+[[denote:20231229T093527][keller]]
+#+end_comment
+
+CASE MANAGMENT ORDER
+
+- [2024-03-01 Fri] [Follow]: [Keller] file response to msj re family purpose, manadatory insurance, amend complaint? due [2024-03-08 Fri] but not really --> mediation scheduled? scheduling an operation, status? trying to get to the next level, request for addl time sent by ocn McDonald
+
+- [2024-04-01 Mon] [Deadline]: [Keller] dl to amend pleadings or add party
+  
+- [2024-04-30 Tue] [Deadline]: [Keller] discovery deadline, including experts, all treaters must be designated, MSJ dl, mediation dl --> request for trial setting must be FILED within 90 days of close, PTO due one week prior to trial calendar
+
+** Kohler, Robert v. Carroll
+
+/Robert Kohler v. Karen Carroll/
+
+| Forsyth State | McClelland | 21SC-0654-B |
+
+| 500,000.00 | Encompass | 300,000.00+ | Donegal | 148097.0 | 57100.0 | 487000.0 | 103000.0 |
+
+Counsel for D: [[https://gabar.reliaguide.com/lawyer/30603-GA-William-Cowsert-257518][William Cowsert, Cowsert Heath LLP]]
+
+Counsel for D: [[https://gabar.reliaguide.com/lawyer/30603-GA-Susan-Elder-248758][Susan Elder, Cowsert Heath LLP]]
+
+Counsel for UM: [[http://martensonlaw.com/attorneys/e-alan-miller/][Alan Miller, Martenson Hasbrouck & Simon LLP]]
+
+Counsel for UM: [[https://gabar.reliaguide.com/lawyer/30326-GA-William-Prosch-309435][Trey Prosch, Martenson Hasbrouck & Simon LLP]]
+
+Counsel for AmFam: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=ODg5MDky][John Alexander "Sean" Hannay, American Standard Insurance Company of Ohio]]
+
+- [2024-03-01 Fri] [Follow]: [Kohler] pp trial 7/22 --> status?
+
+#+begin_comment
+[[../CaseFiles/Kohler.md][notes]] THERE SHOULD BE TWO UMs IN THIS CASE (Alan and Trey work together)
+[status]: [Kohler] waiting on trial in July or September
+#+end_comment
+
+** McKinney v. Jenkins & Stiles et al.
+
+Forklift accident in TN - NB answer points finger at other parties, being handled by TN counsel
+
+[status]: [McKinney] waiting on trial, outside counsel handling 
+
+** McMullen, Shirley [Davis, Patricia] v. Jones
+
+/Patricia Mercner Davis, individually, as wrongful death claimant, and as personal representative of the Estate of Shirley Mercner McMullen, deceased, and Lynn Hyde and Randy Mercner v. Keira Jones, Jean Jespersen and Michael Jespersen/
+
+Counsel for Defendant: [[https://gabar.reliaguide.com/lawyer/30319-GA-Michael-Moore-273655][Michael J. Moore, Strickland & Schwartz, LLC]]
+
+Counsel for Counterclaim Defendant: [[https://gabar.reliaguide.com/lawyer/30006-GA-Cynthia-Bower-270882][Cynthia Bower, Worsham, Corsi, Dobur & Berss]]
+
+#+begin_export html
+|case' id='McMullen|
+|court|Fulton State|
+|judge|John R. Mather|
+|can|22EV000637|
+|liamt|100,000.00|
+|licarr|Farmers|
+|umamt|100,000.00|
+|umcarr|Progressive|
+|medical|0.0|
+|other|0.0|
+|demand|0.0|
+|offer|100,000.00 |
+|
+<br>
+#+end_export
+
+[[../5-CaseFiles/McMullen.md][notes]]
+
+[status]: [McMullen] on appeal
+
+- [2024-03-01 Fri] [Follow]: [McMullen] waiting on Ct. App, brief filed, when it comes down find out if they will stip to liability
+
+** Moye, Sheria v. Black et al.
+
+/Sheria Moye v. Emily Anne Black, MD, Kimberly Stanley, Jacob Dickson, Northeast Georgia Medical Center, Inc., Northeast Georgia Physician's Group, Inc., Monitoring Concepts Neuro, LLC, and US IOM, LLC/
+
+#+begin_export html
+|case' id='Moye|
+|court|DeKalb State|
+|judge|Kimberly Alexander|
+|can|21A04921|
+|liamt|0.0|
+|licarr|TBD|
+|umamt|0.0|
+|umcarr|NA|
+|medical|48291.82|
+|other|0.0|
+|demand|0.0|
+|offer|0.0|
+|
+<br>
+#+end_export
+
+Counsel for Black, NGPG, NEGMC: [[https://gabar.reliaguide.com/lawyer/30309-GA-Michael-Bailey-248155][M. Scott Bailey, Huff, Powell & Bailey, LLC]]
+
+Counsel for Black, NGPG, NEGMC: [[https://gabar.reliaguide.com/lawyer/30309-GA-Lindsey-Costakos-279062][Lindsey L. Costakos, Huff, Powell & Bailey, LLC]]
+
+Counsel for Stanley, Dickson and monitoring entities: [[https://gabar.reliaguide.com/lawyer/30303-GA-Terrell-Benton-263119][Terrell W. Benton, III, Hall Booth Smith, PC]]
+
+Counsel for Stanley, Dickson and monitoring entities: [[https://gabar.reliaguide.com/lawyer/30303-GA-Sheila-Kazemian-281971][Sheila K. Kazemian, Hall Booth Smith, PC]]
+
+[[../CaseFiles/Moye.md][notes]]
+
+[status]: [Moye] discovery?
+
+- [2024-03-01 Fri] [Follow]: [Moye] amended complaint filed, take out intrusion on seclusion and add in battery?
+
+** Nater, Paul v. Redfern
+
+| Gwinnett State | Jaletta Smith | 21-C-07576-S7 |
+
+| 100,000.00 | State Farm | 100,000.00 | MemberSelect | 80413.74 | 28000.0 | 
+
+Counsel for Defendant: [[https://gabar.reliaguide.com/lawyer/30345-GA-Alaina-Howard-107788][Alaina S. Howard, Lynn Leonard & Associates]]
+
+Counsel for UM: [[https://gabar.reliaguide.com/lawyer/30060-GA-Ryan-Ingram-272652][Ryan Ingram, Moore Ingram Johnson & Steele LLP]]
+
+Counsel for UM: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=OTE3MDAw][Yasmin Cunningham, Moore Ingram Johnson & Steele LLP]]
+
+Counsel for UM: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=NjE2NDU4][Nathan Planitz, Moore Ingram Johnson & Steele LLP]]
+
+#+begin_comment
+[[../5-CaseFiles/Nater.md][notes]]
+[status]: [Nater] trial 3/11, we are #14
+Ferenda Seipp Johns Creek PD, get her subpoena for trial, nelson traffic
+  [ ] WE'VE BEEN USING THE WRONG CAPTION
+  [ ] OCN has requested supplement, anyone working on that? Also, there is no draft PTO and in fact no trial folder at all in this case.
+  [ ] we have not identified any experts, per skl we are identifying Alvarez and deposing him? It's too late for medical narrative
+  [ ] is someone working on a subpoena for Johns Creek officer? I think Steve also wants to talk to her
+  [ ] letter sent to UM with demand in December
+#+end_comment
+
+- [2024-03-01 Fri] [Follow]: [Nater] CONTINUED but will be reset
+
+** Nelson, Curtis v. ATS
+
+/Curtis Nelson v. Advanced Technology Services, Inc. (DE), Brenton Douglas Bonine and John Does 1-10/
+
+#+begin_export html
+|case' id='Nelson|
+|court|Forsyth State|
+|judge|James A Dunn|
+|can|23SC-0519-A|
+|liamt|$2,000.000.00   |
+|licarr|Zurich American Insurance Co.|
+|umamt|NA|
+|umcarr|NA |
+|medical||
+|other||
+|demand||
+|offer||
+|
+<br>
+#+end_export
+
+Counsel for Defendants: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=NTI1NDkw][Jordon Dean Morrow, Brannen Searcy & Smith]]
+
+[[../5-CaseFiles/Nelson.md][notes]]
+
+[status]: [Nelson] discovery
+
+- [2024-03-01 Fri] [Follow]: [Nelson] mtn to continue filed, need to get out of pretrial of go to the pretrial
+
+waiting on docs to schedule depos. Be sure we get proprietary Toyo docs and docs sent to ocn. review Bonine responses. Look for Toyo responses to Morrow, need privilege log and confidential document from Morrow, along with supplemental responses. I assume he's waiting on Toyo.
+
+Bonine, Wolff, and a 30b6. Maybe set discovery deadline by agreement.
+
+- [2024-07-08 Mon] [Deadline]: [Nelson] discovery dl per Bonine belated answer
+
+** Newman, Daniel v. Panton et al.
+
+| liamt        | licarr   | umamt      | umcarr     | medical   | other | 
+| 5,000,000.00 | Sedgwick | 250,000.00 | State Fram | 18,422.51 | TBD   | 
+
+Counsel for Panton and HL: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=NDgzNTAw][Walter McClelland, Mabry & McClelland LLP]]
+
+Counsel for Panton and HL: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=NjI4MzI4][James Scarbrough, Mabry & McClelland LLP]]
+
+Counsel for Panton and HL: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=NDY2OTU3][Nikolai Makarenko, Jr., Groth Makarenko Kaiser & Eidex]]
+
+Counsel for Panton and HL: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=ODk1NjE5][Adina Abrahami, Groth Makarenko Kaiser & Eidex]]
+
+Counsel for State Farm: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=NTg4NzUz][Daniel C. Prout, Jr., Waldon Adelman Castilla McNamara & Prout]] OUT
+
+Counsel for State Farm: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=NjgxMTM3][Ryan E. Brightman, Waldon Adelman Castilla McNamara & Prout]] OUT
+
+Counsel for Chik-fil-A: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=NzI4NzI3][Brooke Voelzke, Hunton Andrews Kurth LLP]]
+
+
+Chik-fil-A case. Waiting on neuropsych. Went to Northside day after accident, neck leg and chest pain, no headache dizziness etc. Headaches later (neck?), later mood changes. But seems to have denied concussion symptoms initially.
+
+Panton and HL answer 1/9, want change of venue, no other concerning. Claim Panton had medical emergency --> LOC.
+
+[[../CaseFiles/Newman.md][notes]]
+
+[status]: [Newman] discovery
+
+- [2024-02-29 Thu] [Todo]: [Newman] extension granted, review answer and discovery responses, keep CFA in for now, OOS for $100,000
+
+** Ragsdale, Forest
+
+/Forrest Ragsdale v. Wells Fargo Bank National Association (Inc.), CBRE, Inc., 5405 JCB Holdings, LLC, and John Does 1-10/
+
+| Gwinnett State | Carla Brown | 22-C-05070-S3 |
+
+| liamt   | 15000000.00    |
+| licarr  | Old Republic   |
+| umamt   | 0.0            |
+| umcarr  | NA             |
+| medical | 100775.11      |
+| other   | 100000.00      |
+| demand  | 2,000,000.00   |
+| offer   | 0.0            |
+
+Counsel for Wells Fargo and JCB Holdings: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=NDA5NTA5][Dawn Pettigrew, Hudson Lambert Parrott Walker, LLC]]
+
+Counsel for Wells Fargo and JCB Holdings: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=NTk1OTk5][Brad Parrott, Hudson Lambert Parrott Walker, LLC]]
+
+Counsel for CBRE: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=NTI4Mjgx][Elliot C. Ream, Hawkins, Parnell & Young, LLP]] x7424
+
+[[../5-CaseFiles/Ragsdale.md]]
+
+[status]: [Ragsdale] discovery
+
+- [2024-02-29 Thu] [Todo]: [Ragsdale] discovery extension granted, identify experts, look at lost income again
+
+- [2024-04-18 Thu] [Deadline]: [Ragsdale] discovery dl
+  
+** [Riley] Carey, Melissa indiv. and as PR et al. v. GNI et al.
+
+/Melissa Riley Carey, individually and as Personal Representative of the Estate of Matthew Wallace Riley, and Christina Greenberg Riley, as Personal Representative of the Estate of Wallace Riley v. Georgia Department of Corrections et al./
+
+Counsel for doctors: [[https://gabar.reliaguide.com/lawyer/30309-GA-Michael-Bailey-248155][M. Scott Bailey, Huff, Powell & Bailey, LLC]]
+
+Counsel for doctors: [[https://gabar.reliaguide.com/lawyer/30309-GA-Jeffrey-Braintwain-265975][Jeffrey D. Braintwain, Huff, Powell & Bailey, LLC]]
+
+Counsel for DOC: [[https://gabar.reliaguide.com/lawyer/30334-GA-Peter-Fisher-276932][Peter Fisher, Georgia Office of the Attorney General]]
+
+Counsel for 1983 Ds: William Winford Peters, Georgia Office of the Attorney General -- Not in bar directory, wpeters@law.ga.gov
+
+[[../CaseFiles/Riley.md][notes]]
+
+[status]: [Riley] waiting on motion
+
+- [2024-02-29 Thu] [Todo]: [Riley] expert disclosures
+  
+** Rundles
+
+- Attorney for NEGMC and Whitfield: [[https://gabar.reliaguide.com/lawyer/30309-GA-Michael-Bailey-248155][M. Scott Bailey, Huff Powell Bailey LLC]]
+
+- Attorney for NEGMC and Whitfield: [[https://gabar.reliaguide.com/lawyer/30309-GA-Lindsey-Costakos-279062][Lindsey Cassimus, Huff Powell Bailey LLC]]
+
+- Attorney for NEGMC and Whitfield: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=NjA2MTI0][Lauren Wright per substitution for Ethan Harris, Huff Powell Bailey LLC]]
+
+- [2024-03-01 Fri] [Follow]: [Rundles] schedule early depos? SKL is wanting to do other people first now, waiting on answer, do OOS for limits
+
+** Sewell
+- [2024-03-01 Fri] [Follow]: [Sewell] fu service, work with  WI lawyers, Rule 26 reports, Feb 20 for service before Feb 29 tolling agreement
+** Smith, Leah v. NEGMC et al.
+
+/Leah Nicole Smith and Robert Smith, individually and as Wrongful death Claimants in relation to Luke Smith, a Deceased Minor, v. Northeast Georgia Medical Center, Inc., Longstreet Clinic, PC, Zachariah B. Dillard, MD, Whitney L. Dockery, CNM, Sally A. Monroe, CNM, and Mandy R. Whitfield, RN/
+
+| Hall State | Larry A Baldwin II | 2023SV000141 |
+
+| 0.0 |   | 0.0 | NA | 0.0 | 0.0 | 0.0 | 0.0 |
+
+- Attorney for Longstreet, Dillard, Monroe, and Dockery: [[https://gabar.reliaguide.com/lawyer/30309-GA-Daniel-Huff-283902][Daniel J. Huff, Huff Powell Bailey LLC]]
+
+- Attorney for Longstreet, Dillard, Monroe, and Dockery: [[https://gabar.reliaguide.com/lawyer/30309-GA-John-Loftin-250170][J. Harrison Loftin, Huff Powell Bailey LLC]]
+
+- Attorney for NEGMC and Whitfield: [[https://gabar.reliaguide.com/lawyer/30309-GA-Michael-Bailey-248155][M. Scott Bailey, Huff Powell Bailey LLC]]
+
+- Attorney for NEGMC and Whitfield: [[https://gabar.reliaguide.com/lawyer/30309-GA-Lindsey-Costakos-279062][Lindsey Cassimus, Huff Powell Bailey LLC]]
+
+- Attorney for NEGMC and Whitfield: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=NjA2MTI0][Lauren Wright per substitution for Ethan Harris, Huff Powell Bailey LLC]]
+
+#+begin_comment
+[[../CaseFiles/Smith.md][notes]]
+[status]: [Smith] mediating
+#+end_comment
+
+- [2024-03-29 Fri] [Follow]: [Smith] mediation
+
+** Smith, Wanda
+
+Elderly client Fractures not identified in ER preexisting tinnitus and chronic back pain, we need to get more prior medical bill for lesion? Talk to Bognar
+
+[status]: [SmithW] discovery
+
+- [2024-03-01 Fri] [Follow]: [SmithW] fu service, look for answer, service 1/18, still trying to serve Payton Johnson via Fenrir
+
+** Sullen, Mordena v. Adams
+
+/Mordena Sullen v. Carla Wilson Adams/
+	      
+[[../CaseFiles/SullenTrialNotes.org][notes]]
+
+[status]: [Sullen] pp for trial
+
+Denise 
+
+- [2024-03-04 Mon] [Todo]: [Sullen] trial prep
+
+** Wedde v. Sheets
+
+| Henry State | Stephen N. Knights, Jr. | STSV2022001656 |
+
+| 750,000.00 | State Farm |   0.0 | Nationwide |     0.0 |   0.0 |
+
+Counsel for Ds: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=NDMwOTIz][Marcia S. Freeman, Waldon Adelman Castilla Hiestand & Prout]]
+
+Counsel for Ds: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=MjM4ODQz][Ashley L. Yagla, Waldon Adelman Castilla Hiestand & Prout]]
+
+Counsel for UM: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=MzU4MTgz][Rebecca Strickland, Swift Currie McGhee & Hiers LLP]]
+
+Counsel for UM: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=MjA1ODE3][Taylor Gore, Swift Currie McGhee & Hiers LLP]]
+
+Counsel for Sheets personal: David J. Hungeling, 404-574-2466, david@hungelinglaw.com
+
+#+begin_comment
+[[../CaseFiles/Wedde.md][notes]]
+[status]: [Wedde] going to arbitration
+#+end_comment
+
+- [2024-02-29 Thu] [Todo]: [Wedde] be sure ltr went out, pp resp to motion, don't worry about expert deadlines etc. supposed to be tried in april but won't be
+
+- [2024-03-08 Fri] [Deadline]: [Wedde] dl to respond to mth reconsideration --> pp hearing
+
+- [2024-03-25 Mon] [Event]: [Wedde] hearing on motion BRING PROPOSED ORDER
+
+** White v. Chaput
+
+/Neal White, individually and as Natural Guardian of Connor White, a minor v. Nicklas Chaput, Barry Stringer and Ann Stringer/
+
+| Lumpkin Superior | T. Buckley Levins | SUVC2023000082 |
+
+| 25000.00 | Alfa   | 100000.00 | Allstate | 32957.64 |   0.0 |
+
+Counsel for RRG: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=MDIwNzY1][Adam L. Appel, Dermer Appel Ruder, LLC]] 
+
+Counsel for property Ds: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=MTE1NjEw][William Casey, Jr., Swift, Currie, McGhee & Hiers, LLP]]
+
+Counsel for property Ds: -NOT IN THE BAR DIRECTORY-(Lane Kublanow, Swift, Currie, McGhee & Hiers, LLP)
+
+Counsel for Chaput: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=MDYzMTQz][Jonathan L. Bledsoe, The Minor Firm]]
+
+Counsel for Chaput: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=NjQ5Mjky][Azurae K. Orie, The Minor Firm]]
+
+Counsel for UM: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=Mzc5NjUz][Morris Margulis, Law Office of Marcus A. Blackwell]]
+
+#+begin_comment
+[[../CaseFiles/White.md]]
+[status]: [White] discovery
+Ty Robinson [restaurant] 706-973-9239, no written lease agreement
+Probably don't need a PO
+#+end_comment
+
+- [2024-03-01 Fri] [Follow]: [White] Nelson report, do they have document --> schedule depositions, get 25k from Alfa OOS? [think about it]--LLR no indemnification
+
+- [2024-06-06 Thu] [Deadline]: [White] discovery dl per property Ds
+
+** Williams
+- [2024-03-01 Fri] [Todo]: [Williams] fu lawsuit, engagement letter
+** Wood
+
+This is a PBA termination case
+
+- [2024-03-01 Fri] [Todo]: [Wood] pp for termination hearing 
+
+** Wright
+- [2024-03-01 Fri] [Follow]: [Wright] status re writ of possession of trailer? should we contact opposing? file motion for summary judgment?
+* Misc
+
+- Note: NO COS WITH OOS, other RSS notes (practice pointer re UM) [[https://www.fastmail.com/mail/search:uninsured/M6bbf5769d6b98f51b21f1e36?u=737c4181&domain=fastmail.fm][em]]
+
+- [2025-01-06 Mon] [Todo]: [CCS] Cladding and Component Solutions, Inc. -- annual meeting
+
+- [Follow]: [Misc] review re confidentiality orders --> Wildeboer, Cotton, Loftin, Hyams, Ballard, Murray [Schuch, Bruce, Young, XXX]
+
+- [2024-03-01 Fri] [Todo]: [Krebs] traffic, look at meds first, then file, talk to her about lost income, July statute
+
+- [2024-02-29 Thu] [Todo]: [Robinson] bleachers case S Forsyth HS DOL 2023-01-07, broken tailbone,
+  
+- [2024-03-01 Fri] [Follow]: [Kipfmiller] AFFIDAVIT pp compl, needs to be looked at medically first, getting affidavit re design defect, Oak Vieg Group, need ORR re CofO, copy of, date issued, punch list of exterionr items not completed, broken tailbone
+
+[ ] [Young] T-Mobile slip and fall, not ready yet
+
+[ ] Martin, Dawn - file suit
+
+- [2024-03-01 Fri] [*TODO*]: [Firm] CLE - need 8.5 hours by 3/31
+
+- [2024-03-01 Fri] [Todo]: [Firm] make a better expert interrogatory
+
+src_elisp{(insert-current-date-time)}

@@ -1,0 +1,50 @@
+#+title:      wallace
+#+date:       [2024-10-09 Wed 09:54]
+#+filetags:   :casenotes:
+#+identifier: 20241009T095427
+
+Sherry Wallace v. The Fulton-Dekalb Hospital Authority d/b/a Grady Memorial Hospital Corporation d/b/a Grady Health System, Shamon Pierce, and John Does 1-10
+
+COMPLAINT
+
+
+
+Defendant Fulton-DeKalb Hospital Authority, d/b/a Grady Health System
+(hereinafter “Grady”) operates Grady Memorial Hospital in Fulton County,
+Georgia. It is a public governmental body and may be served by its president and chief executive officer, Michael Young, at
+
+Defendant Grady Memorial Hospital Corporation is a non-profit domestic corporation and it may be served with summons and complaint in this action by its registered agent, Timothy Jefferson, at 80 Jesse Hill Jr. Drive SE, Atlanta, Fulton County, Georgia, 30303, USA
+
+
+---
+
+
+BAGLEY v. FULTON-DeKALB HOSPITAL AUTHORITY et al.; and vice versa., 216 Ga. App. 537 (1995)
+
+https://efast.gaappeals.us/download?filingId=a5f67235-62da-422f-859b-a92306336383
+
+charitable immunity except for paying patients or gross negligence, and maybe "administrative negligence"
+
+insurance waiver?
+
+here is no liability for the negligence of employees or agents, except where the
+organisation itself has failed to exercise ordinary care in their selection and retention.
+There is no immunity for non-charitable assets when dealing with paying claimants.
+Trust funds are immune, unless non-charitable property (including insurance) is available
+to satisfy judgment. Immunity is waived to extent of insurance coverage.
+Cox v De Jarnette 104 GaApp 664, 123 SE2d 16 (1961) (Court of Appeals of Georgia,
+Division No.1).
+Morehouse College v Russell 219 Ga 717, 135 SE2d 432 (1964) (Supreme Court of
+Georgia). Head, Presiding Justice: „It thus appears that it is the rule in Georgia that the
+funds in trust for charitable purposes are subject to a judgment against a charitable
+institution for what the Court of Appeals terms “administrative negligence”, while only
+noncharitable assets are subject to a judgment for the negligence of a servant of the
+charitable institution under the doctrine of respondeat superior.‟
+Special protection is available for free healthcare providers. Ga Code Ann, §51-1-29.1,
+provides for „Immunity from liability of certain health care providers which provide
+professional services without compensation or the expectation thereof.‟ This is not
+waived by insurance.
+For evidence of the continued currency of charitable immunity, see Stephens v Conyers
+Apostolic Church 243 GaApp 170, 532 SE2d 728, 00 FCDR 1766 (2000) (Court of
+Appeals of Georgia), and Wells v Rogers 281 GaApp 473, 636 SE2d 171, 06 FCDR 2833
+(2006) (Court of Appeals of Georgia).

@@ -1,0 +1,143 @@
+#+title:      Bruce
+#+date:       [2023-05-24 Wed 14:47]
+#+filetags:   :casenotes:
+#+identifier: 20230524T144740
+
+** /Representation and Coverage/:
+
+Counsel for Defendant: [[https://gabar.reliaguide.com/lawyer/30326-GA-Matthew-Moffett-254910][Matthew G. Moffett, Gray, Rust, St. Amand, Moffett & Brieske, LLP]]
+Counsel for Defendant: [[https://www.grsmb.com/attorneys/nicholas-d-bedford/][Nick Bedford, Gray, Rust, St. Amand, Moffett & Brieske, LLP]]
+# Counsel for Defendant: [[https://gabar.reliaguide.com/lawyer/30326-GA-Jeffrey-Wasick-268609][Jeffrey M Wasick, Gray, Rust, St. Amand, Moffett & Brieske, LLP]]
+LI Policy: 7,000,000
+
+** /Damages/:
+
+Medical: 144820.92
+Lost Income: NA
+
+** /Experts/:
+
+
+Actually identified:
+
+        Retained: Gingris, Cabot (withdrawn), McCord, Harben, Malcolm
+        Treating: Muxlow. Kancherla, Goshn
+
+REBUTTAL: Robert Crawford (shoewear rebuttal) [y]
+
+[Medical Board]
+
+** /Notes/:
+
+Back looks significantly worse in imaging *after* the disk seal, SC is providing a lot of information, sees lots of disk material in the early imaging, missing in later imaging. bacteria from disk seal? very concerning MRI, looks like there was an intervening procedure, he thinks we have a subsequent fall, disk seeding from procedure just seeing now, NOT ROCK SOLID
+
+--> supplement re experts, non-party --> review file re final supplement UPDATE CABOT, SKL TO TALK TO KANCHERLA, FF, Cabot update based on new records
+
+SSDI?
+
+Camera 132 (Disc 2) at 10:52:25, no wet floor sign (confirmed by witness statements), but he walks right past the guy with the mop. Female witness notifies the guy at the sushi bar. Area visible to the folks at the sushi bar.
+
+Hardee's Food v. Green, 232 Ga. App. 864 (Ga. Ct. App. 1998)
+Rodriquez v. City of Augusta, 222 Ga. App. 383 (Ga. Ct. App. 1996)
+
+Janet Creek 770-356-9887 DOES NOT WANT TO BE INVOLVED
+
+310-294-3187 Chuong Hoang (jong huong) re Cheng Zhou (chen yow) - NO PER SKL 
+
+Came in and came out, prior fall; If no shoulder year or two before then better credibility.
+
+NB liens
+
+Remember we have a direct negligence argument, may be important in this case.
+
+Client is self employed truck driver, now disabled. Was resistant to surgery for a long time, problems with pain management and drug compliance, eventually got shoulder surgery but no back. Sexual dysfunction.
+
+Initial encounter NGMC Dx likely cuff injury, neck sprain, pain along entire left side, no head injury, XR negative for fracture. Record says he fell in the parking lot. DOS 3/4/20, same day as incident. Northview Orth MRI 3/13 shows no cuff tear, tendinosis. He talked to a bunch of doctors and eventually found someone who found a tear and operated on it. Cabot did a chart review and has a good opinion on causation of the shoulder tear and cervical sprain with radiculopathy. He thought the lumbar was likely temporary.
+
+
+xAMLI Residential Props. v. Georgia Power Co., 293 Ga. App. 358, 363 (2008)
+xBerry v. Hamilton, 246 Ga. App. 608, 609 (2000)
+xBouve & Mohr, LLC v. Banks, 274 Ga. App. 758, 762 (2005)
+xCollins v. S.H. Kress & Co., 114 Ga. App. 159, 160 (1966)
+xCooper Tire & Rubber Co. v. Koch, 303 Ga. 336 (2018)
+xDebrock-Sartin v. Georgia CVS Pharma., LLC, No. 4:21-CV-00012, 2022 WL 4596676, at *7 (N.D. Ga. Jun. 30, 2022)
+xEvans v. Kaiser Aluminum & Chem. Corp., 170 Ga. App. 145 (1984)
+xGillis v. Foodonics Intern., Inc., 273 Ga. App. 759, 759-60 (2005)
+xHenson v. Ga-Pacific Corp., 289 Ga. App. 777, 781 (2008)
+xJohnson v. Georgia Kraft Co., 167 Ga. App. 585 (1983)
+xKitchens v. Brusman, 303 Ga. App. 703, 709 (2010)
+xLane v. Montgomery Elevator Co., 225 Ga. App. 523 (1997)
+xOgletree v. QuikTrip Corp., No. 1:20-cv-1201, 2021 WL 9763364, at *7 (N.D. Ga. Aug. 13, 2021)
+xPhillips v. Harmon, 297 Ga. 386, 396 (2015)
+xPiedmont Newnan Hosp., Inc. v. Barbour, 333 Ga. App. 620, 628-30 (2015)
+xPowell v. Woodridge Condo. Ass’n, Inc., 206 Ga. App. 176, 177 (1992)
+xR.A. Siegel Co. v. Bowen, 246 Ga. App. 117, 179 (2000)
+xShadburn v. Whitlow, 243 Ga. App. 555, 556 (2000)​
+xWal-Mart Stores, Inc. v. Lee, 290 Ga. App. 541, 543-46 (2008)
+Wilson v. Kroger Co., No. 1:18-CV-1417x, 2019 WL 2211443, at *5 (N.D. Ga. May 22, 2019)
+xWimpey v. Norfolk Southern Ry. Co., 217 Ga. App. 153, 154 (1995)
+
+
+https://casetext.com/case/amli-residential-v-ga-power-co
+
+### Statutes:
+1. **O.C.G.A. § 51-3-1**
+2. **Fed. R. Civ. P. 56**
+3. **Local Rule 56**
+4. **O.C.G.A. § 51-3-2**
+5. **OCGA § 51–3–2(b)**
+
+### Cases:
+1. **Whetstone Candy Co. v. Kraft Foods, Inc.**, 351 F.3d 1067, 1073 (11th Cir. 2003)
+2. **Anderson v. Liberty Lobby, Inc.**, 477 U.S. 242, 248 (1986)
+3. **Patton v. Triad Guar. Ins. Corp.**, 277 F.3d 1294, 1296 (11th Cir. 2002)
+4. **Allen v. Tyson Foods, Inc.**, 121 F.3d 642, 646 (11th Cir. 1997)
+5. **Celotex Corp. v. Catrett**, 477 U.S. 317, 325 (1986)
+6. **Shotz v. City of Plantation**, 344 F.3d 1161, 1184 (11th Cir. 2003)
+7. **Savage v. Flagler Co.**, 185 Ga. App. 334, 338 (2) (364 S.E.2d 52 (1987)
+8. **Lee v. Myers**, 189 Ga. App 87, 88 (1) (374 S.E.2d 797 (1988)
+9. **Todd v. Byrd**, 283 Ga. App. 37, 40 (2006)
+10. **Higginbotham v. Winborn**, 135 Ga.App. 753, 755(1), 218 S.E.2d 917 (1975)
+11. **Haliburton v. Cole**, 193 Ga. App. 795 (1989)
+12. **Chatham v. Larkins**, 134 Ga. App. 856 (1975)
+13. **Ferrell v. Mikula**, 295 Ga. App. 326, 675 S.E.2d. 7 (2008)
+14. **Evans v. Parker**, 172 Ga.App. 416, 417(1), 323 S.E.2d 276 (1984)
+15. **Broadnax v. SSF Imported Auto Parts, LLC**, No. 1:21-cv-295, 2023 WL 2090284 (N.D. Ga. Feb. 17, 2023)
+16. **Hudson v. J.H. Harvey Co.**, 244 Ga. App. 479, 480 (2000)
+17. **Glynn-Brunswick Mem. Hosp. Auth. v. Benton**, 303 Ga. App. 305, 693 S.E.2d 566, 568 (2010)
+18. **Flagstar Enters., Inc. v. Burch**, 267 Ga. App. 856, 600 S.E.2d 834, 836 (2004)
+19. **Brown v. Amerson**, 220 Ga. App. 318, 469 S.E.2d 723, 725 (1996)
+20. **Oliver v. Columbia Sussex Corp.**, 391 Fed. Appx. 840, 841 (11th Cir. 2010)
+21. **Greyhound Lines, Inc. v. Williams**, 290 Ga. App. 450, 659 S.E.2d 867 (2008)
+22. **Pinckney v. Covington Athletic Club & Fitness Ctr.**, 288 Ga. App. 891, 655 S.E.2d 650 (2007)
+23. **Moore v. Teague**, 255 Ga. App. 220, 564 S.E.2d 817 (2002)
+24. **Jackson v. K–Mart Corp.**, 242 Ga. App. 274, 529 S.E.2d 404 (2000)
+25. **Rutledge v. Kroger Co.**, No. 3:16-cv-099, 2017 WL 6997148, at *2 (N.D. Ga. Oct. 16, 2017)
+26. **Braswell v. Belk, Inc.**, No. 1:14-cv-185, 2015 WL 12852306, at *1 (N.D. Ga. Oct. 29, 2015)
+27. **Wight v. DISH Network, LLC**, 714 Fed. Appx. 951, 954 (11th Cir. 2017)
+28. **Williams v. QuikTrip Corp.**, 817 Fed. Appx. 743, 745 (11th Cir. 2020)
+29. **Becton v. Tire King of North Columbus, Inc.**, 246 Ga. App. 57, 59 (2000)
+
+** /Mediation/:
+
+Les Bruce was injured in a slip and fall at a Kroger store in Dawsonville, Georgia on March 4, 2020. At the time of his injury, Bruce was a 52 year old tow truck driver, visiting the store with his wife with the intent to shop. Although Kroger will contend otherwise, Bruce was an invitee at the store. He entered, used the restroom, and was injured on his way back out to return to his vehicle in the parking loat and get some coupons he had forgotten. His wife, who remained in the truck to conduct business on her phone, supports this testimony.
+
+Bruce slipped on a floor that had been damp mopped minutes before he walked on it. We have video showing the mopping and the fall. They have filed a motion for summary judgment supported by the testimony of a biomechanical expert who testifies that Bruce stumbled and did not fall. He speculates that this was because the soles of Bruce's work boots were worn down. But we strongly believe that there is at least a jury issue here and that the video is consistent with a person losing traction on a wet floor.
+
+Kroger also has filed a spoiliation motion relating to the fact that the boots were not preserved, although they never sent a spoliation letter or expressed any interest in the boots other than typical boilerplate discovery requests until long after the boots had been disposed of. This appears to be a strategy that Kroger is pursuing in other cases, waiting to take the position after discovery or late in discovery that footwear should have been preserved, and we think that's disingenuous. Moreover, it is not clear what use their expert could possibly have made of the footwear itself, given the floor is no longer available in it's wet condition to provide an accurate coefficient of friction. Moreover, and in any event, the expert's actual opinion is premised not on friction but on gait mechanics, and there are reasonably good photographs of the boots and extensive video of my client walking that allows us to discuss this with the jury.
+
+Like any working class man his age, Bruce has a medical history and also likely had pre-existing some disc degeneration. However, he was injured in this fall.
+
+On the date of the Kroger fall, he went directly to the emergency room complaining of neck, shoulder, knee, and hip pain. He was diagnosed by xray with a likely rotator cuff injury. He followed up with an orthopedist, who ordered more imaging. His shoulder MRI showed tendinosis and strain, and they prescribed physical therapy, which he attended. Because his back pain persisted, his primary care physician ordered MRI of the cervical and lumbar spine.
+
+In August, Bruce returned to orthopedic care with continuing, significant pain in his neck, back, and knee. Imaging at that time showed issues with his knee associated with trauma and cord compression and nerve impingement in his spine. He continued to pursue conservative treatment without improvement and with extreme, constant, and continuing pain and radiculopathy.
+
+Although there are in this period what opposing counsel will likely point to as gaps in treatment of 4-5 months, it is clear that a conservative approach was approved by doctors. Bruce was resistant to surgery and intent on being stoic. However, the pain was continuing and extreme, and whatever the preexisting condition of Bruce's spine was it plainly was drastically exacerbated by the fall in Kroger. Although one expects opposing counsel to pursue the usual strategy of arguing causation based on gaps in treatment and pre-existing conditions, this was a working man who was very badly hurt in a fall and resisted surgery as long as he could.
+
+In July of 2021, Bruce underwent an outpatient left shoulder arthroscopy to repair his rotator cuff, which was diagnosed post-operatively as a rotator cuff and biceps tear. This required significant rehabilitation and therapy but slowly led to improvement of the shoulder aspect of his condition, albeit with a lot of pain along the way.
+
+In the spring of 2022, he again sought treatment for continuing lower back pain with sciatica. These were not new complaints, and this was not a new condition. An IME conducted that year supports causation at the time of the fall. His shoulder also continued hurting. He underwent a discseel procedure in April of 2023, hoping that a less invasive procedure would improve his condition, but it only worsened. It's unclear whether this was due to complications of the discseeal or further degeneration of a spine weakened by his fall.
+
+Bruce has had medical expenses to date, which will continue, in the amount of $$182,538.75 as of August of last year. He has been unable to operate a tow truck, which is a family business, so they have been forced to employ his son and refuse jobs. Although his condition finally appears to be improving somewhat, he is still disabled and in significant pain.
+
+There is a pending summary judgment motion in this matter, but we are confident it will go to trial if we do not settle today.

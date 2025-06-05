@@ -1,0 +1,9 @@
+~/Databases
+~/Documents
+~/Dropbox
+~/Google\ Drive
+~/MEGA
+~/Resilio
+~/Sites
+~/Zotero
+~/notebooks

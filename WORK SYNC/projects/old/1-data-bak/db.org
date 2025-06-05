@@ -1,0 +1,85 @@
+    
+* html output function
+
+Have to hardcode the outermost tags because nesting output from esxml-to-xml doesn't work. I assume in the near future I won't be able to read this at all, but what I'm doing is creating a temp plist and consuming it into table rows. First column uses "symbol-name" to turn the plist key, which is a symbol, into a string. The second column prints the string if it's a string, translates floats into decimal numbers with the my-group-number helper function.
+
+#+begin_src elisp
+    (defun my-caseprint-html (casename)
+      (setq temp casename)
+      (setq rows "")
+      (while (not (eq temp nil)) (setq rows (concat rows (concat "\n" (esxml-to-xml `(tr () (td () ,(symbol-name (car temp)) ":") (td () ,(if (eq (type-of (cadr temp)) 'float) (my-group-number (format "%.2f" (cadr temp))) (cadr temp)))))))) (setq temp (cddr temp)))
+      (format "<table> %s \n</table>" rows))
+#+end_src
+
+* xml
+
+#+begin_src elisp
+  
+  ;; (defun my-caseprint-xml (casename)
+  ;;   (dom-print
+  ;;    `(row ((row-id . ,(plist-get casename :name)))
+  ;; 	 (client nil ,(plist-get casename :name))
+  ;; 	 (court nil ,(plist-get casename :court))
+  ;; 	 (judge nil ,(plist-get casename :judge))
+  ;; 	 (can nil ,(plist-get casename :can))
+  ;; 	 (status nil ,(plist-get casename :status))
+  ;; 	 (liamt nil ,(format "%.2f" (plist-get casename :liamt))) ; no commas, this is data
+  ;; 	 (licarr nil ,(plist-get casename :licarr))
+  ;; 	 (umamt nil ,(format "%.2f" (plist-get casename :umamt)))
+  ;; 	 (umcarr nil ,(plist-get casename :umcarr))
+  ;; 	 (med nil ,(format "%.2f" (plist-get casename :med)))
+  ;; 	 (other nil ,(format "%.2f" (plist-get casename :other)))
+  ;; 	 (demand nil ,(format "%.2f" (plist-get casename :demand)))
+  ;; 	 (offer nil ,(format "%.2f" (plist-get casename :offer)))
+  ;; 	 ) t t )
+  ;;   (insert "\n"))
+  
+  ;; (defun my-xml-dump ()
+  ;;   (interactive)
+  ;;   "creates an xml file for further processing"
+  ;;   (with-temp-file "cases.xml"
+  ;;     (insert "<cases>\n")
+  ;;     (mapcar 'my-caseprint-xml caselist)
+  ;;     (insert "</cases>")))
+  
+  (defun my-caseprint-xml-general (casename)
+    (setq temp casename)
+    (insert "<row>\n")
+    (while (not (eq temp nil)) (dom-print `(,(symbol-name (car temp)) nil ,(if (eq (type-of (cadr temp)) 'float) (my-group-number (format "%.2f" (cadr temp))) (cadr temp)))) (setq temp (cddr temp)))
+    (insert "</row>\n"))
+  
+  
+  ; need to strip ":" and do a bunch of other stuff
+  
+#+end_src
+
+* SQL
+
+#+begin_src elisp
+
+  ;; prefer to emacsql because of issues with quoting but for posterity:
+  
+  ;; (defun my-export-database-to-sql ()
+  ;;   "Dump the db into SQL"
+  ;;   (interactive)
+  ;;   (progn
+  ;;     (setq db (emacsql-sqlite "~/Documents/Github/projects/1-data/test.db"))
+  ;;     (emacsql db [:create-table-if-not-exists cases
+  ;; 					     ([(name :primary-key) court judge can status liamt licarr umamt umcarr med other demand offer])])
+  ;;     (dolist (casename caselist)
+  ;;       (emacsql db [:insert-or-replace-into cases :values $v1]
+  ;; 	       (list (vector (plist-get casename :name)
+  ;; 			     (plist-get casename :court)
+  ;; 			     (plist-get casename :judge)
+  ;; 			     (plist-get casename :can)
+  ;; 			     (plist-get casename :status)
+  ;; 			     (plist-get casename :liamt)
+  ;; 			     (plist-get casename :licarr)
+  ;; 			     (plist-get casename :umamt)
+  ;; 			     (plist-get casename :umcarr)
+  ;; 			     (plist-get casename :med)
+  ;; 			     (plist-get casename :other)
+  ;; 			     (plist-get casename :demand)
+  ;; 			     (plist-get casename :offer)))))))
+
+#+end_src

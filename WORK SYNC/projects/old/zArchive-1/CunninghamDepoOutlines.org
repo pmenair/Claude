@@ -1,0 +1,291 @@
+** DEPOSITION OF XXX
+
+This is the deposition of XXX, taken pursuant to notice and agreement of counsel under the Georgia Rules of Civil Procedure, with the understanding that all objection will be reserved until the first lawful use of the deposition except as to form and responsiveness, and that the witness will be under oath even though we are taking this deposition via video conference with the witness in a different physical location than the officer administering the oath. Is that agreeable?
+
+Does the witness want to read and sign?
+
+Could you please swear the witness.
+
+Good morning. Have you ever been deposed before?
+
+This won't take long, at least not my part of it, but if you need to take a break at any time, please let me know. I will ask that you answer any questions I've asked before we go on mute, unless your lawyer tells you otherwise, fair enough?
+
+It's important that we try to be clear about how we speak and also try very hard not to talk over each other, because the court reporter is making a written transcript of what we say here today, okay?
+
+If I ask you to clarify an answer, I'm just trying to make a clear record, and if you don't understand something I say, please ask me to rephrase the question and I'll try to do so, okay?
+
+What's your full name?
+
+I have a few quick background questions.
+
+Where did you grow up?
+
+Do you have any relatives in Fulton County, Georgia?
+
+Do you have an undergraduate degree? From where? Year
+
+How about graduate school.
+
+Military service?
+
+Do you have any licenses or certifications.
+
+For example, are you a licensed engineer?
+
+What type of education or training do you have in the general field of engineering?
+
+How about manufacture of furniture?
+
+Stability testing of furniture?
+
+Tell me more about that? What did you learn? Why is stability testing conducted?
+
+You were employed by GRCC in January of 2019
+
+What was your title at that time?
+
+Do you still work at GRCC? Same job title?
+
+Who did you report to in 2019?
+
+How about today?
+
+Who reports to you?
+
+How about in 2019?
+
+When did you start working at GRCC?
+
+Tell me about your typical day. Are you back to the office yet?
+
+What is your involvement in stability testing of GRCC products, if any?
+
+What is your involvement in manufacturing processes, if any?
+
+Who designs furnishing for GRCC? Is that done in house?
+
+How is the manufacturing done, in house?
+
+From raw materials, or are you assembling components that come from somewhere else?
+
+How are new products designed for safety at GRCC, today?
+
+How about in 2012, when I'll represent looks like the year that the table we're here about today was sold to Ingles?
+
+Do you know when the table we're here about today, the Ellipse, was actually designed?
+
+Can you speculate?
+
+Who designed it?
+
+Was any testing conducted in the design process, back then?
+
+We'll look at some documents showing testing was conducted in 2021, and another document from 2019. Would the Ellipse table design have been formally tested for stability prior to 2019 in any way, other than maybe just someone putting their hand on it to see if it was hand stable?
+
+Was that common practice at GRCC prior to 2019, not to formally test for stability?
+
+What type of testing was done prior to 2019, if any?
+
+What has changed?
+
+Does GRCC still sell these tables?
+
+About how many a year?
+
+Who buys these tables?
+
+Is it fair to say these tables are intended for use in commercial establishments that are open to the public?
+
+And is it fair to say that some members of the public who visit a commercial establishment are going to be mobility impaired in various ways?
+
+Let's look at some documents.
+
+Ex 1
+
+This is currently marked as Exhibit 11 to a prior deposition but I'd like to mark it exhibit 1 to this deposition, please.
+
+Let's start by talking about the document. Is this a form that's used for testing in general, or was it created just for this testing?
+
+Who created the form?
+
+Where are these forms kept? Physically and/or electronically?
+
+What does FM-0002 mean?
+
+In the file path at the bottom, it says "50 Product Testing" What does the 50 mean?
+
+TST-EL-02, what does that mean?
+
+Was there a TST-EL-01? [ ]
+
+03?
+
+Who conducted this testing? Any way to know for sure? Anything in writing?
+
+Where was it performed?
+
+Who supervised?
+
+Who ordered this testing? Why?
+
+Okay, this looks like three separate tests, with an Ellipse table in three different configurations, fair?
+
+First is a 36 inch square top with a 22 inch base, yes?
+
+And in this first configuration the prongs of the base are oriented towards the sides.
+
+Where it says part number, there's a revision number 20190124
+
+
+
+That's 2019, yes?
+
+So this table may be different in some way from a table that would have been sold in 2012?
+
+[ ]
+
+Do you know how it was or was not different?
+
+Would the basic configuration as to top dimensions and base dimensions be the same?
+
+Any differences you can think of that might impact the stability of the table you tested, versus an earlier version?
+
+GRC Make means manufactured by GRCC?
+
+Any idea where the design came from?
+
+Tell me about BIFMA?
+
+Is this manner of testing an industry standard?
+
+Was this testing conducted at any time prior to 2019?
+
+Should it have been?
+
+Is BIFMA testing required before a table is put out for sale to the general public?
+
+Suggested?
+
+What is the purpose of the BIFMA standards?
+
+Describe the standard applicable to the testing conducted here.
+
+Describe the testing itself, what happened.
+
+Why do this testing in house?
+
+This first table did not pass the test, right?
+
+In your opinion, was a table in this configuration safe to use? Appropriate to market?
+
+Did it tip at 50 pounds or 55?
+
+That's less than half of the weight that BIFMA says the table should bear, correct?
+
+Were tables sold in this configuration?
+
+Second test was with a larger base, same orientation, yes?
+
+Was this a base and top that were actually marketed by GRCC?
+
+This did not pass, correct?
+
+In fact, again, less than half of the standard weight.
+
+This table is sold with tops made from a variety of different materials, correct?
+
+Do those materials have different weights?
+
+Which top material did you use in this testing?
+
+How and why did you select that material?
+
+Okay, third configuration was the larger base and a different rotation, so the prongs are oriented towards the corners.
+
+This also didn't pass, but it came closer, yes?
+
+Why did you test this last?
+
+What is your understanding of how these tables were supposed to be assembled, when they were sold in, say, 2012?
+
+Are there any issues with this orientation towards the corners? Any reason why a customer would prefer the other orientation?
+
+I'll show you what we'll mark as Exhibit 2 and represent I believe this to be catalog material related to the Ellipse table.
+
+This shows the orientation towards the seating, not the corner of the table, correct?
+
+And that is the less safe orientation, stability wise, correct?
+
+Any safety concerns that this orientation *prevents*?
+
+Did you make any recommendations based on this testing?
+
+Do you know whether any recommendations were made based on this testing?
+
+Are there any recommendations you think should have been made, but weren't?
+
+What policies and procedures does GRCC have regarding testing of products for safety.
+
+How were those policies different in 2012?
+
+Are there any regulations or industry standards relating to testing tables for stability?
+
+Not how to test, but whether tests should be conducted?
+
+Were those regulations or industry standards in place in 2012?
+
+What changed?
+
+Who did you meet with on this? Phone calls? Email?
+
+Exhibit 3 is a 2019 document, yes?
+
+This appears to be at test planning document, not a test results document.
+
+Was this testing ever performed?
+
+This appears to be a plan for testing the smaller top with the smaller base, yes?
+
+Do you have any opinion regarding the stability of that configuration?
+
+Are you aware of any testing that was ever done on that configuration?
+
+Exhibit 4 is some more testing, looks like testing that was actually conducted, on the larger top with a larger base, yes?
+
+The revision number here is different. What changed?
+
+In fact, they increased the base dimension from 26 inches to 30 inches, correct?
+
+This seems to be more stable in the orientation show in that catalog photo we just looked at, but still not actually passing, right?
+
+And in the second test you were able to get it to pass with the rotation of the base.
+
+Exhibit 5 is a photograph of a table. Based on the photograph and your knowledge of the testing that was conducted, do you have an opinion regarding the stability of this table.
+
+Exhibit 6 is another photograph of a table. Can you tell whether this is one of the smaller tops?
+
+Is that a 22 inch or 26 inch base?
+
+Do you have any opinion regarding the stability of this table, judging from the photograph?
+
+
+
+
+
+
+How'd you hear about the incident we're here about today?
+Tell me about the Ellipse table?
+Testing
+Remediation
+
+
+Greg Bremer
+
+Tooling Engineer Jason Lodvinsky, still employed?
+
+Scarborough -- smaller base didn't really matter
+
+---
+
+Stay until mediation, then extend 30-45
+

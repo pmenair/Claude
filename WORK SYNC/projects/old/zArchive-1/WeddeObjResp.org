@@ -1,0 +1,29 @@
+PLAINTIFFS' RESPONSE TO OBJECTION TO AMENDED SUBPOENA
+
+COME NOW the above Plaintiff and file their brief in response to Defendants' Objection to Amended Subpeona Dueces Tecum and Non-Party Notice objection, showing the following:
+
+The objection filed by the above Defendants on April 17, 2023 is directed at the first paragraph of requested documents listed in Plaintiff's amended subpoena, which is directed at an insurance company ("Central Mutual") and requests production by a non-party as follows:
+
+Any correspondence or information in your file relating to but not limited to policy number FMA 3627637, which publish denials of coverage for Nathan Thomas Sheets to their insureds. The published or recorded information about Nathan Thomas Sheets from your insureds relating to Nathan's conduct and driving history which caused or contributed to the denial of coverage for Nathan Thomas Sheets.
+
+This requests production of documents relating to a denial of coverage to Nathan Thomas Sheets, the defendant driver herein, specifically but without limitation relating to his conduct or driving history, both as these may have been reported to Central and as they may have formed the basis for a denial of coverage issued prior to the collision.
+
+Defendants object on the basis of (a) relevance and (b) privilege. The privilege objection appears to be an objection as to material which may constitute work product and, additionally, a blanket objection that the material sought is somehow subject to Nathan Thomas Sheets' privilege against self-incrimination under the Fifth Amendment to the Constitution of the United States (the "Fifth Amendment"). For reasons set forth below, the objection should be overruled and the material should be produced.
+
+(a) Relevance
+
+Plaintiffs are alleging negligent entrustment of the motor vehicle that Mr. Sheets was driving by his parents. The material sought is plainly relevant to Plaintiffs' negligent entrustment claim, which requires Plaintiffs to show actual knowledge that the defendant driver, in this case Nathan Thomas Sheets, was "incompetent by reason of his age or inexperience, or his physical or mental condition, or his known habit of recklessness." Webb v. Day, 273 Ga. App. 491, 493 (2005). Defendants' relevance objection should be overruled.
+
+(b) Privilege
+
+(i) Regarding work product immunity, Plaintiffs are not seeking production of material prepared in anticipation of this litigation. The documentation sought relates to a denial of coverage that Plaintiffs believe occurred, not just prior to any anticipation of litigation, but prior to the collision itself.
+
+(ii) Regarding the assertion of the Fifth Amendment privilege, Plaintiff submits the following:
+
+The Fifth Amendment provides that individuals may not be compelled to provide testimony that could be used against them in a criminal matter; the person invoking it must show (a) compulsion, (b) incrimination, and (c) a testimonial act. See United States v. Ghidoni, 732 F.2d 814, 816 (11th Cir.1984) (citing United States v. Authement, 607 F.2d 1129, 1131 (5th Cir.1979) (per curiam)). None of these elements are here. To begin with, the subpoena is directed not at Nathan Sheets but at Central Mutual. There is no compulsion of Mr. Sheets to do anything. Second, the information sought is not information relating in any way to the accident; the information sought relates to Mr. Sheet's driving history prior to the accident at issue here and would be relevant to Plaintiff's negligent entrustment claim against his parents. Finally, there is no testimonial act by Sheets in a document production by Central Mutual.
+
+As a general rule, it is a "settled proposition" that a compelled production of existing documents is not itself a testimonial act, even if the contents of those documents is incriminating. United States v. Hubbell, 530 U.S. 27, 35–36 (2000). Under limited circumstances, a document production may be a testimonial act, where circumstances surrounding the act of production of the documents render the act itself testimonial. See Fisher v. United States, 425 U.S. 391, 410 (1976). However, the doctrine plainly does not apply, both because Mr. Sheets has no role in responding to the subpoena whatsoever and because the parties contracting for this insurance were his parents.
+
+WHEREFORE, Plaintiffs respectfully pray that the objection of Defendants be overruled and that Central Mutual produce the requested documents instanter.
+
+hold on report

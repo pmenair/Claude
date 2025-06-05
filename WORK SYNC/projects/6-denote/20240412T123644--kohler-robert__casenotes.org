@@ -1,0 +1,90 @@
+#+title:      kohler robert
+#+date:       [2024-04-12 Fri 12:36]
+#+filetags:   :casenotes:
+#+identifier: 20240412T123644
+
+  do they admit liability? Fees?
+  
+  --> MIL re their biomechanical expert May 24 em Emma
+
+  FCE 6/4, report to Langenbeck, taking Belknap, Nelson for rebuttal of reconstruction
+
+get stip re um
+
+** /Representation and Coverage/:
+
+LI 500,000.00 Encompass
+UM 300,000.00+ Donegal
+
+Counsel for D: [[https://gabar.reliaguide.com/lawyer/30603-GA-William-Cowsert-257518][William Cowsert, Cowsert Heath LLP]]
+
+Counsel for D: [[https://gabar.reliaguide.com/lawyer/30603-GA-Susan-Elder-248758][Susan Elder, Cowsert Heath LLP]]
+
+Counsel for UM: [[http://martensonlaw.com/attorneys/e-alan-miller/][Alan Miller, Martenson Hasbrouck & Simon LLP]]
+
+Counsel for UM: [[https://gabar.reliaguide.com/lawyer/30326-GA-William-Prosch-309435][William Trey Prosch, Martenson Hasbrouck & Simon LLP]]
+
+Counsel for Am Standard: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=ODg5MDky][John Alexander "Sean" Hannay, American Standard Insurance Company of Ohio]]
+
+THERE SHOULD BE TWO UMs IN THIS CASE (Alan and Trey work together)
+
+** /Damages/:
+
+$166,914.30
+
+148097.0 | 57100.0 | 487000.0 | 103000.0 |
+ (+ 144279 57100)
+
+(- 500000 201379)
+
+2016 68,897
+2017 61,349
+2018 84,811
+2019 53,053
+2020 74,648
+2021 65,357
+
+COME NOW the undersigned, pursuant to OCGA § 9-11-6(b), and file their Joint Stipulation Extending Time, extending the time within which Plaintiff shall respond to Motion of Defendant ATS to Open Default through to and until Monday, August 7, 2023.
+
+
+2016 7070  on  130082 gross receipts
+2017 -6778 on  151400 gross receipts
+2018 10911 on  168744 gross receipts
+2019 -24899 on 107883 gross receipts, documented loss that year 57,138.84+
+2020 -60418 on 120025 gross receipts
+2021 -41433 on 183661 gross receipts
+
+Belknap additional 35,000
+
+** /Notes/:
+
+Cowsert's adjuster wants to take father's deposition
+
+Carroll ssn 254673748
+
+depose Belknap, Navarro, OOS 500k sent --> pp for trial, PTO drafted but not submitted BE SURE WE CAN DOCUMENT LOST INCOME - do we need an economist? [No McCord, put them on for lost income], FCE look at the tax forms and figure out whether we can do any past loss of income, think about futures only NEED an airbag guy, lifecare and vocational from McCord, Mike Nelson re airbags, preservation Belknap Status as of 2023-08-17: Will be set for trial eventually. FCE and PPD produced, and we have been more or less keeping medical up to date, Navarro is the only named expert. SKL was going to talk to Belknap and Keating, both treatings, and Sabrina Daniels, NP. The expert folder mentions McCord and Adams as "pending," as assume they are not going to be named. Getting photos from insurance companies. We need to figure out what to do about the lost income claim. These self-employment cases are always difficult, but we need a strategy. There was talk at one point about calling his accountant as an expert? Need to also figure out what's up with the photos we got via open records.
+
+D Answer filed 06/09/21, no concerning defences, admits negligence and causation of the collision. RFAs point to the fact that this was a chain reaction accident, but she stips to liability and will not claim comparative fault as to the other drivers in the chain.  Neck and back surgery.
+
+Cowsert:
+low speed
+low back not related
+neck complaint in chiro records from 2017, some imaging showing degen
+not taking Belknap ltr into account, looks like litigation inspired
+
+Reese:
+Nothing to add
+
+Miller:
+3rd car testified minor collision, his vehicle pushed not hit
+McBray (V2) cut
+Kohler was fine per V3
+Kohler admits in depo no injuries at the scene
+admits in 2017 record that work stress was injuring him
+initial Keating visit no neck
+a big portion is neck surgery, no complaints first few weeks, also notes osteophyte complex as main reason for surgery
+thoracic other major portion, not until 2021, next biggest piece
+lost wages questionable, year of tax records divide income by 12 months, then divided by weeks out of work, but should have divided by 52 weeks, not supported by release to work, only out until 2019, should cut to 14,000 as initial lost wages
+last medical from Belknap was MRI in February, both normal, don't know where this comes from
+
+KB: offered $125,000 response to OOS for policy [top today was 200k]

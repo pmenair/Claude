@@ -1,0 +1,430 @@
+* headers                                                          :noexport:
+#+OPTIONS: toc:nil num:nil H:2 title:nil tags:nil
+# HTML style sheet for print CSS. Solarized stylsheet fallback at http://thomasf.github.io/solarized-css/solarized-dark.min.css
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="css/print-style.css"/>
+#+OPTIONS: html-style:nil
+#+STARTUP: hideblocks
+
+@@html:<div style="color: blue; font-size: 24px;">Leibel Law Case Status</div>@@
+
+-----
+
+* [[denote:20240830T130931][Adams, Deborah Ann v. Blalock]]
+
+[[https://leibel.filevineapp.com/#/project/991037798/custom/casesummary990000988][91985]], [[elisp: (dired-other-window "/Volumes/Work Files/Work Sync Folders/Adams Deborah")][Deborah Ann Adams, v. Mary Kirkwood Blalock]], [[https://researchga.tylerhost.net/CourtRecordsSearch/#!/case/c807eeabe7085dbeacd6c38c42fca974][24EV007394]], Fulton State, Jay M Roth
+
+Admit breach duty, no service defense.
+
+- [2024-11-11 Mon] {F} [AdamsD] our discovery responses due 11/11, schedule D depo
+
+  due answer 10/11, service 9/11, filed 9/19, SOL March, look for discovery
+
+* [[denote:20231228T094739][Adams, Shawn]]
+
+[[https://leibel.filevineapp.com/#/project/990516513/calendar/list][91626]], [[elisp:(dired-other-window "/Volumes/Work Files/Work Sync Folders/Adams Shawn")][/Shawn Adams v. Luke Volle and Carl Volle]],
+[[https://peachcourt.com/CaseDocket/index?cno=2021SV000163&cty=Hall&crt=State][2021SV163D]], [[https://www.hallcourts.net][Hall State]], [[https://www.hallcounty.org/734/Judge-Breakfield][John Breakfield]]
+
+Traffic accident in Dahlonega, multiple surgeries. Set for trial in November. Offer of settlement.
+
+- [2024-11-11 Mon] {F} [Adams] fu judgment
+
+* [[denote:20240313T103418][ATU adv. MARTA]]
+
+[[elisp:(dired-other-window "/Volumes/Work Files/Work Sync Folders/ATU/")][TRO Petition]] pending in Fulton State 24CV004279, answer extended to 10/04
+
+[[elisp:(dired-other-window "/Volumes/Work Files/Work Sync Folders/ATU/")][New MARTA Case]] 24CV006697 Filed 5-24-24
+
+[[elisp:(dired-other-window "/Volumes/Work Files/Work Sync Folders/ATU/")][APPEAL]] A24A1557
+
+- [2024-12-30 Mon] {F} [ATU] extending answer
+
+  status? everything is fully briefed, decision in appeal by March 14, 2025, no deadline in new MARTA, our TRO answer extended to [10-04 Fri], NLRB thing done
+
+* [[denote:20231229T092133][Bromaghim, Stephanie v. Ligon]]
+
+[[https://leibel.filevineapp.com/#/project/990515833/custom/casesummary990000988][91330]], [[elisp:(dired-other-window "/Volumes/Work Files/Work Sync Folders/Bromaghim/")][/Stephanie Lynn Bromaghim v. Lee Ann Ligon and Dan Siler/]]
+
+Traffic accident, renewal in federal court, CONNECT TO SERVER FOR LINK TO DIRED
+
+- [2024-11-11 Mon] {D} [Bromaghim] PTO filed?
+
+* [[denote:20230524T144740][Bruce, Matthew v. Kroger Co.]]
+
+[[https://leibel.filevineapp.com/#/project/990515965/custom/casesummary990000988][91764]], [[elisp:(dired-other-window "/Volumes/Work Files/Work Sync Folders/Bruce/")][/Matthew Bruce v. The Kroger Co./]], [[https://ecf.gand.uscourts.gov/cgi-bin/iquery.pl?183017581859587-L_1_0-0-323097][1:23-cv-05470-ELR]], [[https://www.gand.uscourts.gov/][Georgia Northern District]], [[https://www.gand.uscourts.gov/DJdir/ELR][Eleanor L. Ross]]
+
+Slip and fall at Kroger, refiled, in early discovery. - client is fixated on Janet Creek (and maybe friend re "pouring out water"), but spoke with SKL and will continue not deposing her, we have video, do not rebut mechanical per SKL
+
+- [2024-11-11 Mon] {F} [Bruce] reply br filed, anything else necessary?
+
+  discovery deadline 8/28 per JPPR, they will be filing a MSJ, SKL looking into maybe Daubert, looking into Remkis for rebuttal, REMEMBER MSJ RESPONSE IS 21 DAYS
+  
+* [[denote:20240216T112124][Byers, Teresa v. Swan Lake Manor, LLC et al.]]
+
+[[https://leibel.filevineapp.com/#/project/990583977/custom/casesummary990000988][91960]], [[elisp:(dired-other-window "/Volumes/Work Files/Work Sync Folders/Byers/")][/Swan Lake Manor, LLC d/b/a Swan Lake Overlook d/b/a Deerfield Ranch, ZGW Corporation, Warren Vickers, individually and as Trustee of the Zane Grey Whelchel Family Trust, Mechelle Vickers, Teresa Vickers, individually and as Trustee of the Zane Grey Whelchel Family Trust, and John Does 1-10/]],
+[[https://www.hallcourts.net/WebCaseManagement/mainpage.aspx][2023SV000451]], [[https://www.hallcourts.net/][Hall State]], [[https://www.hallcounty.org/1159/Judge-Robertson][Kelley M. Robertson]]
+
+Fall case at wedding venue, timed them out on discovery, OOS 1MM sent 2/16
+
+- [2024-11-11 Mon] {T} [Byers] review PTO, dl for MSJ passed, subpoena Satterfield DUE 10/28!
+
+- [2024-11-18 Mon] {E} [Byers] trial SPECIAL SET
+
+* [[denote:20240821T100113][Cladding and Component Solutions, Inc. v. Nguyen et al.]]
+
+[[https://leibel.filevineapp.com/#/project/992160313/custom/casesummary990000988][H92090]], [[elisp:(dired-other-window "/Volumes/Work Files/Work Sync Folders/Cladding")][Cladding and Component Solutions, Inc. v. Phuong K. Nguyen and Cam Ken Construction, LLC]]
+
+STCV24-01932, Chatham State Court, J. Elizabeth Coolidge
+
+- [2024-11-11 Mon] {F} [Cladding] timely answer, pp discovery, call OCN re settling case
+  
+* [[denote:20240409T133728][Conard, Victoria v. Ingles Markets, Inc. et al.]]
+
+[[https://leibel.filevineapp.com/#/project/990515978/custom/casesummary990000988][91847]], [[elisp:(dired-other-window "/Volumes/Work Files/Work Sync Folders/Conard")][/Victoria Conard v. Ingles Markets, Inc. and DS Services of America, Inc. d/b/a Primo Water North America/]], STC2024000369, Stephens, Judge TBD
+
+- [2024-11-21 Thu] {E} [Conard] mediation with Chrisna Jones
+
+fu re new damages / amendment filed and cost checks sent, discovery ran, waiting on medical/experts, Dr. V is our only expert
+
+* [[denote:20240409T135247][Crowe, Jeannine v. Russo et al.]]
+
+[[https://leibel.filevineapp.com/#/project/990516175/custom/casesummary990000988][91888]], [[elisp:(dired-other-window "/Volumes/Work Files/Work Sync Folders/Crowe")][/Jeannine Crowe v. Michelle Russo and Louis Russo/]],
+[[https://atty.forsythco.com/CaseDetail.aspx?CaseID=1417237][23SC-0901-A]], [[https://www.forsythclerk.com/CourtsAndJudges/StateCourt.aspx][Forsyth State]], [[https://www.forsythclerk.com/CourtsAndJudges/JudgeJamesDunn.aspx][James A Dunn]]
+
+Traffic accident, client has probably neck related headaches, had to change parties for entrustment because the police got the wrong vehicle owner
+
+- [2024-11-15 Fri] {F} [Crowe] mediation dl 11/1, did we report to the Court, dispositive or daubert mtns also due, getting records and trying to settle
+
+   --> bring back UM, experts
+
+Emma is working on medical, they supplemented re vicarious but still say not a proper party, they identify Keith Sanders as an expert re "no objective evidence of a neurological injury" (I basically agree?), GETTING MEDICAL NARRATIVES from docs or depo, get the expert stuff from OCN
+
+* [[denote:20240409T152859][Davis, Karin v. Piedmont Hospital]]
+
+[[https://leibel.filevineapp.com/#/project/991238553/custom/casesummary990000988][92000]], [[elisp:(dired-other-window "/Volumes/Work Files/Work Sync Folders/Davis/")][/Karin Robertson Davis v. Piedmont Hospital/]],
+[[https://courtconnect.cobbcounty.org:4443/ccstate/ck_public_qry_doct.cp_dktrpt_frames?backto=P&case_id=24-A-307&begin_date=&end_date=][24-A-307]], [[https://www.cobbcounty.org/courts/state-court][Cobb State]], [[https://www.cobbcounty.org/courts/state-court/judges/judge-jane-manning][Jane Manning]]
+
+Hospital assault case, NB STANDING ORDER
+
+- [2024-11-15 Fri] {F} [Davis] SETTLED, petition filed 9/25
+
+* [[denote:20240416T094516][Day, Daniel v. McCartney et al]]
+
+[[https://leibel.filevineapp.com/#/project/990516497/custom/casesummary990000988][91605]], [[elisp:(dired-other-window "/Volumes/Work Files/Work Sync Folders/Day/")][/Daniel Ethridge Day v. Alan Lee McCartney and Linda Johanson/]],
+[[https://peachcourt.com/CaseDocket/index?cno=20SC-0483-B&cty=Forsyth&crt=State][20SC-0483-B]], [[https://www.forsythclerk.com/CourtsAndJudges/StateCourt.aspx][Forsyth State]], [[https://www.forsythclerk.com/CourtsAndJudges/JudgeMcClelland.aspx][Russell McClelland]]
+
+Traffic accident in Forsyth, client is an overweight truck driver, we have video of the accident. Bad faith demand to UM was sent.
+
+- [2024-11-21 Thu] {F} [Day] pp for trial date TBD?, MSJ is pending. Need to look at this re experts. fu Emma re organizing medical, look at Gilmore depo
+
+* [[denote:20240520T131409][Hardwick, Tara v. Adams]]
+
+[[https://leibel.filevineapp.com/#/project/990311327/custom/casesummary990000988][91907]], [[(elisp:(dired-other-window "/Volumes/Work Files/Work Sync Folders/Hardwick/")][/Tara June Hardwick v. James Wesley Adams and Dagmar Adams/]],
+[[https://atty.forsythco.com/CaseDetail.aspx?CaseID=1428883][23SC-1568-B]], [[https://forsythclerk.com/CourtsAndJudges/StateCourt.aspx][Forsyth State]], [[https://forsythclerk.com/CourtsAndJudges/JudgeMcClelland.aspx][T. Russell McClelland]]
+
+- [2024-11-15 Fri] {F} [Hardwick] mediate (S Darden)? client not treating
+
+discovery ran 5/8, trying to settle with UM
+
+  --> schedule depos, get verifications, ORR, get bloodwork, officer depositions, MIDCENTURY DID NOT ANSWER? do OOS?
+  
+* [[denote:20240920T111836][Holderfield, Ricky Alan v. Dennis Wang MD et al.]]
+
+[[elisp:(dired-other-window "/Volumes/Work Files/Work Sync Folders/Holderfield")][Rickie Alan Holderfield v.Dennis Wang, M.D., Julio Bimbela, R.N., Northeast Georgia, Medical Center, Inc., and Georgia Emergency Department Services, P.C]] #medmal
+
+- [2024-11-11 Mon] {F} [Holderfield] look for answers, fu service issues
+
+* [[denote:20240514T090408][Kipfmiller, Marylynn v. City of Savannah]]
+
+[[Https://leibel.filevineapp.com/#/project/991005339/custom/casesummary990000988][91977]], [[elisp:(dired-other-window "/Volumes/Work Files/Work Sync Folders/Kipfmiller/")][/Marylynn Kipfmiller v. The City of Savannah, Oak View Group, LLC/]],
+[[https://peachcourt.com/MyCases][24-A-2090]], [[https://www.cobbcounty.org/courts/state-court][Cobb State]], [[https://www.cobbcounty.org/courts/state-court/judges/judge-allison-salter][Allison B. Salter]]
+
+Fall case, DOL 2023-01-28, municipal defendant
+
+- [2024-11-11 Mon] {F} [Kipfmiller] mtn to transfer granted 10/14, fu re bill of costs --> do demand, no 6.4 or depos, amendment filed
+
+I don't think we need an RFA, they are claiming it's an open and obvious hazard which seems to constitute an admission, if they're right we lose? no warning, gates utilized afterwards
+
+fu service defense [they will withdraw], no brain injury, just an ankle per skl, Live Nation out, C3 accepts responsibility, C3 and Live Nation out
+
+- [2024-12-20 Fri] {D} [Kipfmiller] discovery dl per Savannah answer 
+
+* [[denote:20240312T113933][Krebs-Bensch, Allison v. George]]
+
+[[https://leibel.filevineapp.com/#/project/990415089/custom/casesummary990000988][91951]], [[elisp:(dired-other-window "/Volumes/Work Files/Work Sync Folders/Krebs")][/Allison Krebs Bensch v. Trinity George and Jaqueline George/]]
+
+- [2024-11-15 Fri] {F} [Krebs] fu re extension
+
+  discovery dl WAS 10/29 per answer, extending, DO NOT fix name, no D depos --> fu scheduling mediation --> they filed a bunch of motions to compel, certifying good faith discussions that never took place, pp response?
+
+- [2024-11-12 Tue] {D} PTO, dispositive
+
+- [2024-11-19 Tue] {E} Pretrial conference
+
+* [[Iron Mountain adv. Leibel]]
+
+- [2024-11-15 Fri] {T} [Iron Mountain] just nuisance - letter of rep? pp mtn intervene? CWA allows pra with 60 day notice to violator, the statem, AND EPA. 33 U.S.C. § 1365, suit is barred if either takes it up.
+  
+* [[denote:20240528T110056][Martin, Dawn v. Ash et al.]]
+
+[[elisp:(dired-other-window "/Volumes/Work Files/Work Sync Folders/Martin/")][/Dawn Martin v. Lynneicia Ash and Dajuan Cloud and Jasmine Mahone d/b/a collectively as D&J Appliances/]]
+
+2024SV000939, Hall State, Larry Baldwin
+
+- [2024-11-11 Mon] {F} [Martin] notice depos
+
+  no discovery responses, probably should just go ahead and depose. Ash filed an answer in default claiming she was 1099 and not on company time, Cloud filed a COS but not answer so also default. Mahone has filed nothing and is in default. Arguably everyone is in default. Still no atty or insurance.
+
+  get asset search from Fenrir? UM out
+    
+* [[denote:20240522T140017][McKinney v. Jenkins & Stiles et al.]]
+
+Forklift accident in TN - NB answer points finger at other parties, being handled by TN counsel
+
+[status]: [McKinney] waiting on trial, outside counsel handling 
+
+* [[denote:20240320T091653][McMullen, Shirley [Davis, Patricia] v. Jones]]
+
+[[https://leibel.filevineapp.com/#/project/990515820/custom/casesummary990000988][91832]], /Patricia Mercner Davis, individually, as wrongful death claimant, and as personal representative of the Estate of Shirley Mercner McMullen, deceased, and Lynn Hyde and Randy Mercner v. Keira Jones, Jean Jespersen and Michael Jespersen/
+
+- [2024-11-22 Fri] {F} [McMullen] SETTLED 
+
+* [[Murray, Brooke Nichole et al. {Coen} v. Megally et al.]]
+
+- [2024-11-27 Wed] {F} [Murray] fu re status, Fulton County State Court, assigned to Judge Myra Dixon, New Case No. 24EV005687
+
+- [2025-01-24 Fri] {D} discovery close
+
+  service acknowledged, motion to transfer GRANTED
+  
+* [[denote:20240429T083730][Moye, Sheria v. USIOM et al]]
+
+[[https://leibel.filevineapp.com/#/project/990516069/custom/casesummary990000988][91811]], [[elisp:(dired-other-window "/Volumes/Work Files/Work Sync Folders/Moye/")][/Sheria Moye v. Kimberly Stanley, Monitoring Concepts Neuro, LLC, and US IOM, LLC/]],
+[[https://dekalbstatecourt.net/][DeKalb State]], [[https://dekalbstatecourt.net/directory][Kimberly Alexander]], [[https://researchga.tylerhost.net/CourtRecordsSearch/#!/cases][21A04921]]
+
+- [2024-12-06 Fri] {F} [Moye] scheduling expert depos, agendaskl re status - USIOM will not settle so no mediation
+
+* [[denote:20240411T123600][Nater, Paul et al. v. Redfern]]
+
+[[https://leibel.filevineapp.com/#/project/990516053/custom/casesummary990000988][91722]], [[elisp:(dired-other-window "/Volumes/Work Files/Work Sync Folders/Nater/")][/Paul Nater and Karen Nater v. Ken Redfern/]],
+[[https://researchga.tylerhost.net/CourtRecordsSearch/#!/cases][21-C-07576-S7]], [[https://www.gwinnettcourts.com/state-court/][Gwinnett State]], [[https://www.gwinnettcourts.com/state-court/judge-jaletta-l-smith][Jaletta Smith]] 
+
+Traffic accident, no admission of liability, defendant driver was very ill and passed out. OOS. Client lives in FL.
+
+Never had to testify, $250/hr, pharmacy expert, get her on board if we can't mediate, amend for punitive?
+
+- {F} [Nater] mediation report filed
+
+* [[denote:20240417T151048][Nelson, Curtis v. ATS]]
+
+[[91970][91970, ]][[elisp:(dired-other-window "/Volumes/Work Files/Work Sync Folders/Nelson")][/Curtis Nelson v. Advanced Technology Services, Inc. (DE), Brenton Douglas Bonine and John Does 1-10/]],
+[[https://peachcourt.com/MyCases][23SC-0519-A]]
+[[https://www.forsythclerk.com/CourtsAndJudges/JudgeJamesDunn.aspx][Forsyth State, James A Dunn]]
+
+  update medical, get deposition of burn doctor maybe
+  Doing Davis, holding on Turgeon, talking to Tubbs
+
+- [2024-11-11 Mon] {F} [Nelson] fu depo of policy guy
+
+- [2025-01-20 Mon] {D} [Nelson] discovery dl
+
+* [[denote:20240318T150448][Newman, Daniel v. Kurt Panton et al.]]
+
+[[https://leibel.filevineapp.com/#/project/990516226/custom/casesummary990000988][91908]], [[elisp:(dired-other-window "/Volumes/Work Files/Work Sync Folders/Newman/")][/Daniel Allen Newman v. Kurt Rohan Panton, Humble Leaderology, LLC, and Chick-fil-A, Inc./]],
+[[https://researchga.tylerhost.net/CourtRecordsSearch/#!/case/47608944336a506b839596f016488104][23EV007755]], [[https://researchga.tylerhost.net/CourtRecordsSearch/#!/case/47608944336a506b839596f016488104][Fulton State]], [[https://www.fultoncourt.org/sites/default/files/jdglist/judgelist2.pdf][Diane Besson]]
+
+Traffic accident with CFA driver, significant property damage.
+
+standards re motor fleet industry American National Standards Institute Safe Practices for Motor Vehicle...
+
+- [2024-12-02 Mon] {F} [Newman] id experts - fu D medical, review file re close of discovery
+
+  --> fu client re blood pressure log, FF, deductibles and copays, why were there two pairs of glasses? get mvrs from Walt if there's a problem, don't forget ssn, produce ANSI "Safe Practices" document?
+
+  ID MacDonald and Napier
+
+- [2025-01-12 Tue] {D} [Newman] dl to identify expert witnesses INCLUDING TREATING to be deposed by close of discovery 02/12, motions to dismiss per rule 12 or add parties timed out as of 12/12, OTHER DL IN ORDER
+
+* [[denote:20240417T092927][Ragsdale, Forrest v. Wells Fargo et al.]]
+
+[[https://leibel.filevineapp.com/#/project/990516163/custom/casesummary990000988][91815]], [[elisp:(dired-other-window "/Volumes/Work Files/Work Sync Folders/Ragsdale/")][/Forrest Ragsdale v. Wells Fargo Bank National Association (Inc.), CBRE, Inc., 5405 JCB Holdings, LLC, and John Does 1-10/]],
+[[https://researchga.tylerhost.net/CourtRecordsSearch/#!/case/1313e046b9af52b4b0d1ef9bbe5070eb][22-C-05070-S3]], [[https://www.gwinnettcourts.com/state-court/][Gwinnett State]], [[https://www.gwinnettcourts.com/state-court/judge-carla-e-brown][Carla Brown]]
+
+- [2024-11-11 Mon] {F} [Ragsdale] mediate? experts? be sure FF identified
+
+  --> talk to counsel re mediating - discovery ran 4/18. Mediate if we can.
+  
+* [[denote:20240416T150121][[Riley] Carey, Melissa indiv. and as PR et al. v. GNI et al.]]
+
+[[https://leibel.filevineapp.com/#/project/990516197/custom/casesummary990000988][91560]], [[elisp:(dired-other-window "/Volumes/Work Files/Work Sync Folders/Riley/")][/Melissa Riley Carey, individually and as Personal Representative of the Estate of Matthew Wallace Riley, and Christina Greenberg Riley, as Personal Representative of the Estate of Wallace Riley v. Georgia Department of Corrections et al./]],
+[[https://researchga.tylerhost.net/CourtRecordsSearch/#!/cases][20EV002325]], [[https://www.fultonclerk.org/144/eServices][Fulton State]], [[https://www.fultoncourt.org/sites/default/files/jdglist/judgelist2.pdf][Patsy Y. Porter]]
+
+What's left of our prison malpractice case.
+
+- [2024-12-05 Thu] {F} [Riley] status?
+
+  expert disclosures are okay per Fischer. 
+
+* [[denote:20240418T095349][Rundles, Royce v. NEGMC et al]]
+
+- [2024-12-02 Mon] {F} [Rundles] P experts id dl passed, D experts by Jan 31, SC working on OOS
+
+* [[denote:20240418T092418][Sewell, Marcus et al v. Wilderness Development Corporation]]
+
+[[https://leibel.filevineapp.com/#/project/990515878/custom/casesummary990000988][91929]], [[elisp:(dired-other-window "/Volumes/Work Files/Work Sync Folders/Sewell")][/Sewell, Marcus et al v. Wilderness Development Corporation/]], 3:24-cv-00107-jdp
+
+Initial disclosures done, need to do written discovery, WI depositions, save site visit for later. Get rogs from experts?
+
+- disclosures: They identify a bunch of TN employees. Send to our expert for advice about interrogatories, policy discovery. Depose Marc Playman *individually* re venue, policies. Get with expert input re list of policies for Playman, will send document request first. Playman seems to technically be employed by Wilderness Resorts and Waterparks, Inc., they may object to making him available, but I suppose we could subpoena him. Control issues will be fun to tease out. NOT REFERENCE TO VIDEO NOT PRODUCED
+
+  What does Wisconsin law say on prejudgment interest?
+Proslide information - send subpoena or ask OCN to get these documents?
+SKL wants to take the depo of the President of Wilderness Development Corporation
+Can we go for excess in an insurer in an event where they don’t pay the limits within a certain time?
+Need to set up a meeting for all three attys to discuss this case once SKL gets back from LOA
+ 
+
+[ ] Non-party Ellis & Associates trains lifeguard *trainers* and does third party audits per Playman depo, they are in FL, think about bringing them in, meeting with experts and depose the TN witnesses first - not specific standards FOR SLIDE OPERATIONS more like lifeguard response issues, steve is all excited about proslide, manuals, etc
+
+[ ] proslide, canadian company, wouldn't go down design defects rabbit trail, but there is a manual
+
+lifeguards at fault, more of a training issue, not trained to radio down, clearly outlined in the standards, man who went first was wearing sandals, might have slowed him down and got him stuck, safety signage specifically says no footwear
+
+interrogatories re social media, chain of command re responding to issues, language issues, definitely issue re language barrier
+
+[ ] lots of diary and rss, need to sit down with Steve and figure out what to produce IF ANYTHING
+
+
+- [2024-11-11 Mon] {T} [Sewell] review file, discovery re status, 6.4. SC is working on disclosing treating experts, ET is working on Rule 26 reports for Harben and Eisenman, SKL to decide whether we're using McCord
+
+R file re transfer MUST BE ADMITTED WITHIN 15 DAYS, still NEED REPORT BY 11/1, FU disclosures, rogs and RFP, experts, discovery re foreign worker program, review production, review deposition on the server, site visit later, do WI discovery first, language training other country stuff, vendor
+
+confidentiality  
+Name Leatherman, identify non-reporting
+
+  "Supplementation under Rule 26(e) is appropriate only to correct mistakes and oversights, not to include new examples, illustrations, or analyses that could have been included in an original expert report. Any further expert report is allowed only by stipulation of all parties, or by leave of court."
+
+- [2025-02-14 Fri] {D} [Sewell] dispositive motions. Respondent gets *30* days per standing order. File complete, *compressed* copies of depositions.
+
+- [2025-06-20 Fri] {D} [Sewell] discovery deadline, can extend by written stipulation without leave
+
+- [2025-06-27 Fri] {D} [Sewell] file confidential settlement memo with *clerk of court* - TRIAL DEADLINES IN ORDER FOLLOW
+  
+* [[denote:20240522T131920][Smith, Leah v. NEGMC et al.]]
+
+[[https://leibel.filevineapp.com/#/project/990583973/custom/casesummary990000988][91957]], /Leah Nicole Smith and Robert Smith, individually and as Wrongful death Claimants in relation to Luke Smith, a Deceased Minor, v. Northeast Georgia Medical Center, Inc., Longstreet Clinic, PC, Zachariah B. Dillard, MD, Whitney L. Dockery, CNM, Sally A. Monroe, CNM, and Mandy R. Whitfield, RN/
+
+- [2024-11-30 Sat] {D} [Smith] dl to depose P experts --> D experts ID by 12/1, depose by 2025-02-28
+
+  --> waiting on scheduling order, get 30b6 of IT person, spoliation motion
+  
+* [[denote:20240312T104552][Smith, Wanda v. Tracy Pagliari et al.]]
+
+[[https://leibel.filevineapp.com/#/project/990583973/custom/casesummary990000988][91957]], [[elisp:(dired-other-window "/Volumes/Work Files/Work Sync Folders/SmithW")][Wanda Smith and Leslie Smith v. Tracy Pagliara, Payton Allen Johnson, Williams Industrial Services Group, Inc., Williams Industrial Services Group, LLC, and Williams Industrial Services, LLC]],
+[[https://researchga.tylerhost.net/CourtRecordsSearch/#!/cases][24EV000284]], [[https://fultonstate.org/announcements/][Fulton State]], [[https://trellis.law/judge/john.r.mather][John R. Mather]]
+
+Elderly client, defendant is CEO of major corp. Fractures not identified in ER, preexisting tinnitus and chronic back pain, we need to get more prior medical bill for lesion? SKL trying to settle, deadline to answer extended, consider dismissing corporate defendants and living with Dawson County venue
+
+- [2024-11-21 Thu] {F} [SmithW] sending docs, hold discovery responses; medical is much less than we thought
+
+  Bankruptcy? / Service done / FU re discovery em, service SOL IS 6/26; RELIEF FROM STAY? trying to get it settled / Pagliari pled to basic rules
+
+* [[denote:20240522T135857][Sullen, Mordena v. Adams]]
+
+/Mordena Sullen v. Carla Wilson Adams/
+
+- [2024-12-12 Thu] {T} [Sullen] trial prep?
+
+* [[denote:20241009T095427][Wallace, Sherry v. Grady Memorial Hospital et al.]]
+
+- [2024-12-02 Mon] {F} [Wallace] pp compl?
+  
+* [[denote:20240514T121105][White, Neal v. Chaput et al.]]
+
+[[https://leibel.filevineapp.com/#/project/990515879/custom/casesummary990000988][91938]], [[elisp:(dired-other-window "/Volumes/Work Files/Work Sync Folders/White")][/Neal White, individually and as Natural Guardian of Connor White, a minor v. Nicklas Chaput, Barry Stringer and Ann Stringer/]],
+[[https://peachcourt.com/MyCases][SUVC2023000082]], [[https://www.lumpkincounty.gov/170/Clerk-of-Superior-Court][Lumpkin Superior]], [[https://www.lumpkincounty.gov/DocumentCenter/View/2510/Court-Personnel-Contact-Information][T. Buckley Levins]]
+
+"You agreed you would provide the updated Medical Bills and Medical Records for Mr. White. The Medical Bills include those marked TBD in your INT responses including Specialty Orthopaedics bills from 3-29-23, 30-30-23, 8-15-23, 8-24-23, and anything after 10-9-23.  We will also need the Medical Records from Mr. White’s surgery in December of 2023, and any rehab following the surgery. Mr. White also agreed to provide a list of the current medications he is taking."
+
+Nelson identified 6/17, they sent OOS
+
+- [2024-12-02 Mon] {F} [White] Amended to drop child, settled with LI, UM and Stringers still in the case, fu depos and suppl med, discovery ran 9/4
+
+* [[denote:20240409T123822][Williams, Julie adv. King]]
+
+[[https://leibel.filevineapp.com/#/project/991874182/custom/casesummary990000988][H92054]], [[elisp:(dired-other-window" /Volumes/Work Files/Work Sync Folders/Williams")][/Howard Stanley King, Jr. and Karrie King v. Julie M. Williams, d/b/a Sellers Realty of Dahlonega]], [[https://peachcourt.com/CaseDocket/index?cno=SUCV2024000164&cty=Lumpkin&crt=Superior][SUCV2024000164]], [[https://www.lumpkincounty.gov/directory.aspx?did=9][Lumpkin Superior]], [[https://www.lumpkincounty.gov/DocumentCenter/View/2510/Court-Personnel-Contact-Information][T. Buckley Levins]]
+
+ask for $1,000 property damage, did they get paid for the rent, they said it was their stove
+
+Defense offer of settlement
+
+https://gmass.net/meet-the-team/#leadership
+
+- [2024-11-21 Thu] {F} [Williams] look for response and reply
+  
+* [[Willis]]
+
+REGINA MICHELLE WILLIS and DARIN WILLIS, individually and as Wrongful death Claimants in relation to OLIVER DUNCAN WILLIS, a Deceased Minor, v. NORTHEAST GEORGIA MEDICAL CENTER, INC., LONGSTREET CLINIC, P.C., and AMANDA TURNER DRISKELL, CNM
+
+Fetal distress case.
+
+- [2024-11-21 Thu] {F} [Willis] service defense withdraw?, sol is 11/8, no depos yet
+
+* [[denote:20240514T134729][Young, Vicky v. Verizon
+]]
+Correct party is T-Mobile USA, Inc., misidentified in caption. No venue issues, they have the contract with the contractor.
+T-Mobile Leasing, LLC
+T-Mobile South, LLC
+Dismiss without prejudice, USA would be responsible.
+
+- [2024-11-11 Mon] {F} [Young] ADD [[https://ecorp.sos.ga.gov/BusinessSearch/BusinessInformation?businessId=2619954&businessType=Domestic%20Limited%20Liability%20Company&fromSearch=True][ASE Flooring, LLC]]
+
+  set up file, r file re status, etc discovery? T-Mobile slip and fall SOL Nov 25, set up subtreee, Caliber filed a special appearance answer but acknowledged service, T-Mobile has a LOT of defenses. FILE DISCOVERY MOTIONS WITHIN 60 DAYS, CALL FIRST PER CMO, NB substitution of counsel
+
+- [2025-04-01 Tue] {D} [Young] close of discovery per CMO ALL EXPERTS MUST BE DEPOSED, SHOULD BE DEPOSED WITHIN 30 DAYS OF DISCLOSURE
+
+- [2025-05-01 Thu] {D} [Young] dl for rebuttal witnesses
+
+- [2025-05-15 Thu] {D} [Young] dl to mediate per CMO
+
+- [2025-06-02 Mon] {D} [Young] PTO (get our copy to them 10 days prior) and dl for dispositive motions INCLUDING DAUBERT, no boilerplate MIL, NOTE MANY OTHER CASE MGT ISSUES ADDRESSED IN CMO PARTICULARLY WRT TRIAL
+
+* Misc
+
+[[https://leibellaw-my.sharepoint.com/:w:/g/personal/emma_leibel_com/ESYZkAUjwOpDvmkIO35grS4BGVIBJs1yLQr5Ajc8J0hBGQ?rtime=QSz6kHTO3Eg][emmas td list]]
+
+- [2024-12-02 Mon] {F} [FCSO] entity fun
+
+- [2024-11-11 Mon] {F} [Lunsford] fu green cards, getting prior medical
+
+Gwen Middleton​
+Service of Process Designee
+Executive Business Operations Manager, Risk Management Division
+Georgia Department of Administrative Services
+200 Piedmont Avenue SB
+Suite 1804, West Tower
+Atlanta, Georgia 30334
+
+- [2025-04-01 Tue] {F} [Leaptrot] March 26 annual return, bond must cover accumulated amount, bank statements showing no withdrawals, ending balance matches return, bond amount must be within $3,000 or court will order increase
+
+- [2024-11-11 Mon] {F} [Alevy] status? SOL is 2025-04-03, adr in place after 9/24?
+
+- [2025-01-06 Mon] {T} [CCS] Cladding and Component Solutions, Inc. -- annual meeting
+
+- [2024-12-02 Mon] {F} [CCS] justice sotomayor, piazza inc. yonkers, get amount and bills from Connie
+
+- {F} [Misc] review re confidentiality orders --> Wildeboer, Cotton, Loftin, Hyams, Ballard, Murray [Schuch, Bruce, Young, XXX]
+  
+- [2024-12-02 Mon] {F} [Howard], PAISLEY - GET IT SETTLED seriously ffs
+
+* Trials
+
+Sep Nater
+Nov Byers, Adams
+
+TBD Day, Moye, Sullen
+
+* --
+
+Local variables:
+eval: (custom-set-faces '(org-level-1 ((t (:foreground "darkred")))))
+End:

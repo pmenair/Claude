@@ -1,0 +1,47 @@
+# - org-babel-execute-buffer C-c C-v b
+
+#+begin_src jupyter-julia :session casedata
+  
+  # # NaN is  frowned on in Julia but not in the formatting module for floating point numbers! I could work around that with conditionals in the print function, but it seems overly complex.
+  # # UPDATE t SET a1=NULL WHERE a1='NaN' works on the SQL side to plug in the NULLs; - could probably do something similar in the dataframe to set the NaNs to Julia prefered "missing."
+  # # TODO print summary
+  # # TODO clean up misc and note
+  
+  # # I remember damage...
+  # using Formatting
+  # mutable struct Case
+  #     name::String
+  #     court::String
+  #     judge::String
+  #     can::String
+  #     status::String
+  #     liamt::Real
+  #     licarr::String
+  #     umamt::Real
+  #     umcarr::String
+  #     med::Real
+  #     other::Real
+  #     demand::Real
+  #     offer::Real
+  #     function Case(name::String)
+  # 	return new(name, "", "", "", "", NaN, "", NaN, "", NaN, NaN, NaN, NaN)
+  #     end
+  # end
+  # function PrintCase(case)
+  #     liamt = sprintf1("%'.02f", case.liamt)
+  #     umamt = sprintf1("%'.02f", case.umamt)
+  #     meds = sprintf1("%'10.2f", case.med)
+  #     other = sprintf1("%'10.2f", case.other)
+  #     demand = sprintf1("%'10.2f", case.demand)
+  #     offer = sprintf1("%'10.2f", case.offer)
+  #     printfmt("ID:     {}\nCourt:  {}\nJudge:  {}\nCAN:    {}\nStatus: {}\n------- \nLI:    {:s} - {:<s}\nUM:    {:s} - {:<s}\n------- \nMeds:    {}\nOther:   {}\n-------\nDemand:  {}\nOffer:   {}", case.name, case.court, case.judge, case.can, case.status, liamt, case.licarr, umamt, case.umcarr, meds, other, demand, offer)
+  # end
+  # cases = [];                     # 
+#+end_src
+
+#+begin_src jupyter-julia :session casedata :exports results
+  # using DataFrames
+  # using CSV
+  # caseframe = DataFrame(NamedTuple(n=>[getfield(x, n) for x in cases] for n in fieldnames(Case)))
+  # CSV.write("database.csv", caseframe)
+#+end_src

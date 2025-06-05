@@ -1,0 +1,135 @@
+
+
+Could you please state your name for the jury.
+
+I apologize for this, but we need your date of birth.
+
+Where did you grow up?
+
+Did you finish high school? College?
+
+Are you currently married to Daniel Schuch?
+
+When did you guys meet?
+
+And how long after you met were you married?
+
+Do you have children together? [names, ages?]
+
+Prior to the collision we're here about today, in 2019, how was your marriage?
+
+Were you pregnant before the accident?
+
+Was that going to be your last child, or were you planning on having more?
+
+Was Daniel in an accident prior to the collision in 2019
+
+Tell me about that prior accident. Was he hurt? Did he fully recover?
+
+What about the accident in 2019, how did you find out he'd been in a collision?
+
+Did you go to the scene?
+
+Did you go to the hospital with him?
+
+How badly was he hurt?
+
+How involved have you been in his medical treatment since?
+
+Tell me about how this collision has impacted his life? [golf?]
+
+How has the collision affected you?
+
+How has it affected your marriage?
+
+Do you still spend time together?
+
+Is he still able to be a companion to you?
+
+How has this affected your plans regarding children?
+
+Is he able to help around the house?
+
+Does he help with child care?
+
+What are some things he used to do around the house that he doesn't do any more?
+
+Has his personality changed?
+
+Have your feeling for him changed?
+
+
+
+
+* SCHUCH
+
+Daniel Schuch and Angelique Schuch v. Douglas Whitt, MasTec North America, Inc., MasTec, Inc., and Ace American Insurance Company.
+
+SOL 2021-06-24 (except that if we run it from citation it's 2021-08-18). Policy limits is 5MM (See below). 4MM demanded prelit. UM(GEICO) rejected.
+
+Buchanan neuropsych dated 2019-09, headaches, blurred vision, forgetfulness, irritability, confusion, but pre-existing ADHD; not a great report, suggests mixed causation with post-concussive syndrome most likely. Lower back pain arising from injury to his spine requiring surgery, may require future. Back surgery resulted in retrograde ejaculation, permanent condition. Shoulder, neck, knee and arm pain also. 189,215.53 medical specials. Loss of consortium? Lost income 21665.67.
+
+
+USDOT Number 774244
+
+Insurance listed on accident report Ace American ISAH25159779; Dec Page says Chubb Ace American ISAH09061666, named insured is MasTec, Inc. w/FL address. Per accident report GVWR is 16,000, interstate use. Cargo body type "other," two axles. DOT lists Mastec as interstate but not for hire.
+
+40-1-112(c) and 40-1-126 authorizes direct action against intrastate carriers only. but 40-2-140(d)(4) DOES authorize v. interstate carriers. Daily Underwriters of America v. Williams,  354 Ga. App. 551, —, 841 S.E.2d 135, — (Ga. App. March 13, 2020). NB this distinction is in any event trip specific. Id. vehicle weight of the f450 is around 8000. There's a good summary at https://case-metrix.com/2018/12/06/georgias-direct-action-statute/, and broad authority in Bramlett v. Bajric, No. 1:12-CV-2148-TWT, 2012 WL 4951213, at *2 (N.D. Ga. Oct. 17, 2012). Even a private carrier is subject to direct action, and the basis is GVWR, which in this case is around 14,000.
+
+Venue proper in place of tort pursuant to OCGA § 46-7-17(b) and Southern Drayage, Inc. v. Williams, 216 Ga. App. 721, 455 S.E.2d 418 (1995). But we can also sue them in Gwinnett (distinguishing Southern Drayage) because they do business in Georgia.
+
+Dear Kenan,
+
+ We received your responses to our client's discovery requests and have the following concerns:
+
+ I. Ace American:
+
+ * Your client's responses to Interrogatories 1-5, requesting information regarding underwriting, consists of objection only, referencing Patricia Holland v. Cypress Insurance Company, 2019 U.S. Dist. LEXIS 232427. The reference is to an order by The Honorable Richard Story entered at the trial court level in a federal case; it is plainly not binding. The rationale of the holding is that the underwriting policies of an insurer in a direct action were not relevant and discoverable in that case. In addition to not being binding, the holding is not necessarily generalizable to all direct action cases. As expect you are well aware, insurers may be liable in the appropriate case directly and not simply as surety, where they involve themselves in the hiring process. We are entitled to explore this possibility in discovery. Please supplement.
+
+ * Regarding your client's response to our Requests to Produce generally, please provide a privilege log identifying any documents withheld from production pursuant to objection. Note that we recognize that your client may have a legitimate objection to certain documents having been prepared in anticipation of litigation or otherwise subject to privilege. However, your client appears to intend to withhold its entire file respecting this insured and, as stated above, we disagree with the contention that this file material is somehow per se off limits as outside of the scope of discovery. This applies to each and every request with respect to which you have simply cut and pasted this rote objection regarding the purported exclusion from discovery of underwriting material.
+
+ * For example, regarding your client's response to Request to Produce 6 and 7, this request simply asks you to produce documents your client may rely on at trial or whcih you client may have obtained from experts. This is standard, unobjectionabl discovery and is similar to requirements imposed in federal practice as part of initial disclosures. Please supplement you client's response if necessary or provide a log of items withheld pursuant to objection.
+
+ * Similarly, I fail to see how a request for copies of material your client has obtained through non-party discovery in this very case could concievably be excluded for discovery because it allegedly relates somehow to "underwriting." See RFPD 14.
+
+II. MasTec NA
+
+ * Please provide information regarding any documents or information withheld from discovery pursuant to a claim of privilege. See, e.g., Interrogatory 5 and throughout.
+
+ * Regarding the response to Interrogatory 6, we are entitled to know about other lawsuits, even if the details of that litigation itself might not be admissible at trial, because the scope of discovery is broader than that. Please supplement.
+
+ * Regarding Interrogatory 7, while I appreciate that there are different views regarding the discoverability of surveillance material, and I note that this appears to still be an open question under Georgia law, please be advised that we expect disclosure of any such material prior to trial and would strenuously object to the admission of any surveillance material not disclosed in discovery.
+
+ * Please provide a supplementary response to Interrogatory 10, regarding MasTec's safety director. Note that we will likely request the deposition of a corporate representative on safety issues anyway, if no specific individual is identified in response to this interrogatory.
+
+ * Although I appreciate that you are providing the testing document, please supplement your client's response to Interrogatory 13 to provide a complete response respecting drug and alcohol testing. For example, without limitation, the document itself does not provide any information regarding MasTec's policies with respect to testing.
+
+ * Interrogatory 20, regarding industry and trade publications, is within the scope of discovery in that, without limitation, it is calculated to show knowledge, or constructive knowledge, of industry standards regarding fleet safety.
+
+ * Regarding Interrogatory 21, the requested information regarding compliance history is relevant. While I agree that some information is publicly accessible, please confirm that all responsive information is publicly accessible and identify with specificity every place where it may be located.
+
+ * Regarding Request to Produce 3 and 9,respecting policies and procedures and driver logs, if documents withheld pursuant to a claim of privilege (see above), please note that we would be happy to enter into an appropriate protective order regarding material MasTec believes to be confidential.
+
+ * Regarding Request to Produce 4, information regarding Douglas Whitt's activities after the accident is relevant and should be produced.
+
+ * Regarding Request to Produce 5, I am unaware of any authority limiting our ability to request documents to only those document specifically identified in OCGA § 9-11-26(b)(4). I am aware that you have not yet identified any expert, but please be advised that we will expect complete responses to these requests, subject to your withholding of documents pursuant to legitimate claims of privilege specifically enumerated in a privilege log.
+
+ * I am somewhat confused by the response to Requests to Produce 7 and 8, which suggests that our request for on-board or telemetry data is unduly burdensome but goes on to identify documents produced. Are there other documents withheld pursuant to these objections? If so, please identify them so that we can assess the claim of undue burden.
+
+ * Please supplement the response to Request 9, regarding driver logs.
+
+ * It should not be burdensome to produce the entire file or files relating to this driver (Requests 10-13), and I note that you have produce a substantial number of documents. What, if anything, was withheld?
+
+ * Regarding Request to Produce 23, safety audits are directly relevant to the negligence claims against MasTec and should be produced. Moreover, to the extent that they are in the possession of MasTec and not Ace, they are not "underwriting documents," even assuming for the sake of argument that objection were valid. See also Request to Produce 37.
+
+ * Please supplement re Requests to Produce 35, regarding employee handbooks and other policy and training material.
+
+ * The material requested in Requests to Produce 40, 41 and 43, regarding safety meetings, advertising, and DOT violations are relevant to the direct negligence claims against your client. Please supplement and produce.
+
+ * Request to Produce 44 asks for material, ie., legal authority your client intends to rely on, that is so unobjectionable that it is required under the federal rules as an initial disclosure. Please supplement.
+
+III. MasTec Inc.
+
+Your client has generally asserted objections to discovery on the grounds that it "did not employ" Mr. Whitt and is not authorized to transact business in Georgia. Would this client be willing to enter into a stipulation that it had no authority over Mr. Whitt and did not control MasTec NA with respect to safety policies, etc.? I would be happy to discuss releasing the parent entity subject to such a stipulation.
+
+ 

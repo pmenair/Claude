@@ -1,0 +1,108 @@
+#+title:      chabad
+#+date:       [2025-04-01 Tue 09:56]
+#+filetags:   :casenotes:
+#+identifier: 20250401T095642
+
+Juan,
+
+I am writing to put your client on notice of my client's election intention to terminate the contract for material breach through continuing insistence on being paid for work allegedly conducted outside of the original scope without a change order. My previous correspondence of {date} provided the contracted for notice and opportunity to cure this breach. Please notify me immediately of any unfunded undisputed draws or any documents you intend to allege constitute signed change orders. Please also let me know if there are any subcontractors who are unpaid.
+
+In the meantime, I have a few additional issues that I would like you to share with your client, which have been determined since our original letter was sent.
+
+To begin with, the land development portion of the project has not been completed through final grading. There is $12,000 worth of dirt that was purchased and may not be needed, which remains on the property. The following items still have not been installed or completed:
+
+1. Main sewer pipe;
+2. Brannon road turning and accelleration lanes;
+3. Fire lane markings, handicap parking signs, fire lane signs;
+4. Sidewalks and patio along parking lot.
+
+With respect to the work that has been completed, the following issues have been noted:
+
+1. Two manhole covers above the water retention system access shafts were not secured properly;
+2. Handicap ramp gutter cuts were not make;
+3. Multiple instances of cracking and poor workmanship in parking lot, which was delivered in concrete instead of the contracted for asphalt;
+4. Domestic and fire water lines not stubbed to the correct locations;
+5. Fire hydrant not installed correctly;
+6. Meter and RPZ Backflow installed in wrong order.
+7. Dumpster enclosure not completed.
+
+There may of course be other issues that arise. This phase of the project was contracted at $1,046,050.00, and $866,050.00 has been paid to date. The cost to remediate and complete this portion is to be determined.
+
+Moving on to the construction portion, my client's position as a general matter is that the cost of rising construction expenses should be borne by your client, as they are responsible for delays and for completion of the contracted work as originally agreed. Much of the contracted work in the $2,740,500.00 projected has been neither completed nor paid for. The following issues have been identified with completed work to date:
+
+1. Retaining wall footings issue, see previous correspondence;
+2. Side walls to back retaining wall not completed;
+3. Footings not poured in accordance with contract;
+4. Various issues with structural columns, beams, and joists, no attempts being made to remedy these issues other than the presentation of change orders that appear to have been intended to fund remediation of issues caused by your client;
+5. Roof trusses framed incorrectly, wood structure incomplete, exposed to weather, and installed at an improper slope;
+6. Roof drains, windows, and skylights paid for but not installed;
+7. Rough plumbing installed incorrectly and incomplete;
+
+This is no doubt and incomplete list, and my client is only beginning to explore the cost of remediation. Time is of the essence in completing this project, however, and it seems likely that remediation cost and cost to complete unfinished work will significantly exceed to $1,255,399.36 that remains to be paid on the original contract.
+
+The site is open they did nothing to mitigate
+
+[calculated damages 18% of 1.5MM is 1.7MM]
+
+letter to insurer, ask for copy of policy
+
+-------
+
+
+ChatGPT: Because the contract channels every dispute through the “Default” paragraph (22) and the ADR paragraph (23), termination has to be evaluated almost entirely inside that framework rather than by reference to common-law notions of material breach.
+
+
+1. Has the contractor actually breached?
+
+Their claim for extra money rests on “changed work.” Paragraph 13 requires a written Change Order signed by both sides (and, if relevant, approved by the lender) before the contractor is entitled to perform or bill for changed work; no subcontractor can bind the owner in lieu of that signature contract.pdf](file-service://file-8kqjS22t4oXFkXkQN4kvCH). If no such Change Order exists, the contractor’s demand is outside the contract, so refusal to pay it is not an owner default. By contrast, paragraph 6 obliges the owner to fund the ordinary draw requests within fifteen days of submission once the lender approves them, with 18 percent interest after thirty days contract.pdf](file-service://file-8kqjS22t4oXFkXkQN4kvCH). Make sure you have not withheld any undisputed draw, or they can frame that as your breach under 22.B.
+
+
+2. Your 30-day cure letter and the clock.
+
+Paragraph 22.A lets the owner terminate after giving the contractor “thirty (30) days to substantially cure” the cited breach contract.pdf](file-service://file-8kqjS22t4oXFkXkQN4kvCH). You have satisfied the notice requirement; if the contractor still “denies breach” at day 30 without a cure, the termination right vests automatically. Nothing in 22 forces you to send a second notice or prove futility.
+
+
+3. Money consequences of owner-for-cause termination.
+
+If you exercise that right, paragraph 22.C forces the owner to pay three buckets:
+
+
+    any amounts already due under the draw schedule (¶ 6);
+    the proportional value of any signed Change Orders performed (¶ 13);
+    amounts due under “paragraph 8,” which in context appears to be the Allowances clause (owner owes for selections that exceed allowances) contract.pdf](file-service://file-8kqjS22t4oXFkXkQN4kvCH).
+
+
+
+There is no obligation to pay for the contractor’s claimed extra work if it never became an approved Change Order, and there is no exit payment for the contractor’s lost profit when termination is for their breach (that bonus only appears when they terminate for your breach) contract.pdf](file-service://file-8kqjS22t4oXFkXkQN4kvCH).
+
+
+4. Offsetting and liquidated-damage leverage.
+
+If delay is part of your complaint, the liquidated-damage clause assesses 18 percent per annum on “the value of all unfinished work” until completion contract.pdf](file-service://file-8kqjS22t4oXFkXkQN4kvCH). While the contract does not expressly label that amount as an “offset,” Georgia law permits set-off where the parties’ obligations are mutual and liquidated. You can therefore argue that any sum falling in bucket (1) above is reduced, dollar-for-dollar, by the liquidated damages accruing through substantial completion by a replacement contractor. (Because the contract waives consequential damages ontract.pdf](file-service://file-8kqjS22t4oXFkXkQN4kvCH), liquidated damages are the only direct monetary leverage you have outside of traditional cost-to-complete theories in common-law litigation.)
+
+
+5. Procedural choke-points after notice.
+
+Paragraph 23 makes arbitration “mandatory” for any dispute “arising out of or relating to” the Agreement, but either party can insist on mediation first, and that appears to be where you are headed contract.pdf](file-service://file-8kqjS22t4oXFkXkQN4kvCH). Termination does not sidestep arbitration; 23.E expressly says the ADR provisions “apply even if the Agreement is terminated or rescinded” ontract.pdf](file-service://file-8kqjS22t4oXFkXkQN4kvCH). Thus, once you send the formal termination letter you should expect the contractor to initiate arbitration, and the mediator will likely press both sides to stipulate to the arbitration forum (Construction Arbitration Associates, Ltd. is the default).
+
+
+6. Practical issues to resolve before pulling the trigger.
+
+
+Document the cure window. Keep a neat timeline: date of your notice, the alleged breach (e.g., billing without a Change Order), and each interaction since. This will be Exhibit A in mediation/arbitration.
+
+
+Audit the pay apps. Confirm the lender has approved every undisputed draw and that you have funded them. That eliminates their best counter-punch.
+
+
+Value the unfinished work. You will need a credible number for the “value of unfinished work” on the cure-date to calculate liquidated damages and to show the mediator that your offset theory is grounded, not speculative.
+
+
+Line up the replacement GC. Even though the contract does not reimburse you for cost-to-complete, showing that you have someone ready to step in (and at what price) bolsters your case that termination is commercially reasonable and that delay damages are real.
+
+
+Consider leverage versus risk. Because arbitration is inevitable and the contract’s payment-on-termination clause caps your immediate savings, some owners choose to mediate first, lock in a global settlement, and use the termination right as a cudgel rather than a fait accompli. Your best bargaining chip is that if they force arbitration you can counterclaim for liquidated damages and attorney fees (the arbitrator can award fees in proportion to the prevailing party contract.pdf](file-service://file-8kqjS22t4oXFkXkQN4kvCH)).
+
+
+In short, the contract gives you a clean, notice-and-cure pathway to terminate, but it also obligates you to pay uncontested draws and allowances and keeps both sides in the arbitration lane. Before you send the termination letter, make sure your payment ledger is spotless and be ready to quantify liquidated damages and completion costs; that combination will position you strongly in the mediation now being scheduled.
+

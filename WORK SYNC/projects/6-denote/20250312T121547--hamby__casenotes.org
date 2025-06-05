@@ -1,0 +1,67 @@
+#+title:      hamby
+#+date:       [2025-03-12 Wed 12:15]
+#+filetags:   :casenotes:
+#+identifier: 20250312T121547
+
+IN THE STATE COURT OF FULTON COUNTY
+STATE OF GEORGIA
+
+Tyler Hamby and Emily Hamby, individually and as natural guardians and parents of Watson Hamby, a minor,
+
+Plaintiff,
+
+v.
+
+Phase Family Learning Center, LLC,
+
+Defendant.
+
+COMPLAINT
+
+x. This is a personal injury action for monetary damages only arising from an incident at a day care center.
+
+Jurisdiction and Venue
+
+x. Plaintiffs are citizens of the State of Georgia submitting themselves hereby to the jurisdiction and venue of this Court; they are the parents and natural guardians of Watson Hamby, a minor, and accordingly have the capacity to sue on his behalf.
+
+x. Phase Family Center, DC, LLC ("PFC") is a Georgia limited liability company and it may be served with summons and process in this action by its registered agent, Stacie Williams, at 12150 Morris Road, Alpharetta, Fulton County, Georgia 30005.
+
+x. That state court has jurisdiction of this action for monetary damages.
+
+x. Venue is proper in Fulton County pursuant to OCGA § 14-11-1108.
+
+Facts Common to All Counts
+
+x. PFC operates a preschool in Alpharetta, Georgia, under the business name "Phase Family Learning Center."
+
+x. Watson Hamby was a student at the PFC facility.
+
+x. On April 27, 2023, Watson Hamby was climbing on a piece of furniture when the furniture tipped over and fell on top of him.
+
+x. Watson Hamby was struck in the head and abdomen and experience a closed fracture of his nasal bone, and a closed head injury with loss of consciousness.
+
+x. At the time of his injury, Watson Hamby was under the care and in the custody of PFC, its employees or agents.
+
+COUNT I - Premises Liability
+
+x. PFC was the owner or occupier of the property where the injury alleged herein occurred.
+
+x. Watson Hamby was an invitee on said premises.
+
+x. Under OCGA § 51-3-1, PFC had a duty to exercise ordinary care to make said premises safe for invitees.
+
+x. PFC had superior knowledge of the hazard represented by insecure or unstable furniture on the premises and, accordingly, breached its duty of care by failing to remediate that hazard.
+
+x. As a direct and proximate consequence said breach of duty, Plaintiff have incurred and are entitled to recover as special damages necessary medical expenses for the care of their child, Watson Hamby, in the amount of at least $37,618.28, which continue to accrue, and they have lost income in the amount of $12,960.00, which category of special damages also continue to accrue. As natural guardians of Watson Hamby, they are also entitled to recover on his behalf general damages for his pain, suffering, and emotional distress in an amount to be determined at trial by the enlightened conscience of an impartial jury.
+
+COUNT II - Ordinary Negligence
+
+x. PFC, acting through its officers, employees or agents, had a duty of care in the operation of their business.
+
+x. PFC should be held vicariously liable for the negligent supervision of Watson Hamby in allowing him to climb on furniture.
+
+x. PFC should also be held liable for its direct negligence in hiring, training, supervision, and retention of its employees who were responsible for the care and supervision of Watson Hamby.
+
+x. As a direct and proximate consequence said breach of duty, Plaintiff have incurred and are entitled to recover as special damages necessary medical expenses for the care of their child, Watson Hamby, in the amount of at least $37,618.28, which continue to accrue, and they have lost income in the amount of $12,960.00, which category of special damages also continue to accrue. As natural guardians of Watson Hamby, they are also entitled to recover on his behalf general damages for his pain, suffering, and emotional distress in an amount to be determined at trial by the enlightened conscience of an impartial jury.
+
+WHEREFORE, Plaintiffs respectfully pray that summons issue and be served with the foregoing complaint as provided by law, that six months of discovery be had, that the matter be tried to a jury and judgment entered upon the verdict of said jury in favor of Plaintiffs and against Defendant in an amount to be determined at trial, that the costs of the action be cast upon the Defendant, and that the Court grant such other and further relief as it deems proper and just.

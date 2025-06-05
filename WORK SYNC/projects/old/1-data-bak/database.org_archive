@@ -1,0 +1,660 @@
+#    -*- mode: org -*-
+
+
+Archived entries from file /Users/pmenair/Documents/WORK SYNC/projects/1-data/database.org
+
+
+* LaClair, Linda v. Myers et al.
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-12-05 Mon 12:11
+:ARCHIVE_FILE: ~/Documents/WORK SYNC/projects/1-data/database.org
+:ARCHIVE_OLPATH: Leibel Law
+:ARCHIVE_CATEGORY: database
+:END:
+
+/Linda LaClair, v. Fred L. Myers and Carol M. Myers, individually and d/b/a Hightower Creek Vineyards/
+
+#+begin_src elisp :exports results :results value html
+  (setq LaClair
+	'(:name "LaClair"
+	      :court "Towns Superior"
+	      :judge "Raymond George"
+	      :can "SUCV2020000104"
+	      :status "pretrial"
+	      :liamt 3000000.0
+	      :licarr "Home-Owners"
+	      :umamt 0.0
+	      :umcarr "NA"
+	      :med 100232.24
+	      :other 0.0
+	      :demand 0.0
+	      :offer 0.0))
+  (add-to-list 'caselist LaClair)
+  (my-caseprint-html LaClair)
+#+end_src
+
+Counsel for Defendants: [[https://gabar.reliaguide.com/lawyer/30309-GA-Pamela-Lee-252687][Pamela Lee, Swift Currie McGhee & Hiers LLP]]
+
+Counsel for Defendants: [[https://gabar.reliaguide.com/lawyer/30309-GA-Rachel-Mathews-282378][Rachel Mathews, Swift Currie McGhee & Hiers LLP]]
+
+No expert per SKL, discovery ran 3/23. Special damages around 100k on 3MM{?} coverage. No concerning defenses, they admit invitee status and ownership/control, statements withheld as work product. NB there was an entity but they are not hiding behind it. No ETOH test in ER but the Rx narcotics. Disco supplemented, amended compl re damages figure, MSJ lost, appeal pending, dl to appeal was 6/3.
+
+No OOS fees on appeal. Wheatley v. Moe's Southwest Grill, LLC, 580 F. Supp. 2d 1324 (N.D. Ga. 2008)
+
+
+
+* Hatcher, Shane v. Susana et al.
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-12-05 Mon 14:09
+:ARCHIVE_FILE: ~/Documents/WORK SYNC/projects/1-data/database.org
+:ARCHIVE_OLPATH: Leibel Law
+:ARCHIVE_CATEGORY: database
+:END:
+
+/Frankie Shane Hatcher v. Alexis Antonio Susana, Impact Transport, LLC, and Progressive Mountain Insurance Company/
+
+#+begin_src elisp :exports results :results value html
+  (setq Hatcher
+	'(:name "Hatcher"
+	      :court "Fulton State"
+	      :judge "Fred Eady"
+	      :can "22EV000861"
+	      :status "discovery"
+	      :liamt 978876.32
+	      :licarr "ProgressiveMountain"
+	      :umamt 0.0
+	      :umcarr "TBD"
+	      :med 155175.50
+	      :other 8518.38
+	      :demand 1000000.0
+	      :offer 0.0))
+  (add-to-list 'caselist Hatcher)
+  (my-caseprint-html Hatcher)
+#+end_src
+
+Counsel for Progressive: [[https://gabar.reliaguide.com/lawyer/30024-GA-Nikolai-Makarenko-251515][Nikolai Makarenko Jr., Groth, Makarenko, Kaiser & Eidex, LLC]]
+
+Counsel for Progressive: [[https://gabar.reliaguide.com/lawyer/30236-GA-Douglas-MacKimm-280697
+][Douglas A. MacKimm, Groth, Makarenko, Kaiser & Eidex, LLC]]
+
+Rotator cuff with medmal issue on treatment. Non-insurance Ds answered 4/7 with venue defense. Venue is wrong but per SKL they agree to stay in Fulton for now. Amended complaint filed asserting lost income claim. Tax returns and disability slips produced with medical, ORR, and photos/video - NB dashcam.
+
+Medical: Went to urgent care with shoulder issue almost five months after the accident. $$ is lots of PT, then two surgeries.
+
+Won't give up insurance claim file, does not have "ready access" to audits, doesn't have driving record. Lots of "no documents in possession." I think we're ready to do depos. Some objections in Progressive response as well.
+
+Comp? 10/26, client no need to read and sign
+
+SETTLED
+
+[Hatcher] reschedule Progressive 30b6 - show them the video, get copies of certificates, photos, repair bill, Marquis Corp from D --> rss re Smith System, Truck Stop app, Marquis Corp, give them comp stuff?
+
+Update lost wage, hourly rate, job sheets, wage and salary verification, update figure.
+  
+  NM - Wants comp claim
+
+DOT requires a spotter
+  
+
+* Cohen, Rachael v. McCravy
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-12-06 Tue 09:04
+:ARCHIVE_FILE: ~/Documents/WORK SYNC/projects/1-data/database.org
+:ARCHIVE_OLPATH: Leibel Law
+:ARCHIVE_CATEGORY: database
+:END:
+
+/Rachael Cohen v. Charles McCravy/
+
+#+begin_src elisp :exports results :results value html
+  (setq Cohen
+	'(:name "Cohen"
+	      :court "Cobb State"
+	      :judge "Bowers"
+	      :can "20-A-2605"
+	      :status "pretrial"
+	      :liamt 100000.0
+	      :licarr "Allstate"
+	      :umamt 100000.0
+	      :umcarr "State Farm"
+	      :med 37254.0
+	      :other 0.0
+	      :demand 75000.0
+	      :offer 75000.0))
+  (add-to-list 'caselist Cohen)
+  (my-caseprint-html Cohen)
+#+end_src
+
+Counsel for McCravy(Allstate): [[https://gabar.reliaguide.com/lawyer/30060-GA-Jonathan-Jones-249064][J. Colby Jones, Downey & Cleveland LLP]]
+
+Counsel for UM(State Farm): [[https://gabar.reliaguide.com/lawyer/30503-GA-Jason-Carter-272321][Jason F. Carter, Lynn Leonard & Associates]]
+
+NB client memory issues at depo will be a problem, but I think she has a legit TBI, issue will be timing and credibility re the first accident. She had a not so great neuropsych.
+
+Answer contains purported mtn to strike re citation, nothing else concerning except denial of liability. No add'l parties per em cherie@downeycleveland.com 12/08.  D alleges Rachael was speeding. Offer of settlement sent 2020-12-02 for 100k, client wants more than that. UM(SF) was out on Yarb, brought back. Discovery reopened as of 2021-12-02. 
+
+She wants 60k net. DDS? SKL talking to treating. UM to pay 5k to settle liens? Request for mediation sent 5/19, no response. Discovery ran again 6/2. Stipped to trial.
+
+Am. Int'l South Ins. Co. v. Floyd, 288 Ga. 322 (2010)
+
+State Farm Mut. Auto. Ins. Co. v. Adams, 288 Ga. 315 (2010)
+
+spine and neck/back, they don't buy the concussion, did not treat immediately, prior accident (significant), similar injuries alleged, neurologist treated about a year after, no neck or back pain at initial visit, injections after prior accident, chronic sinus infections predate accident (including headaches, deny blurred vision etc), inconsistent discovery responses re neuro symptoms, jury will find defendant at fault, will see minor impact and not a lot of damages, will be difficult to show brain injury, no headache at the scene, no vomiting, and alternative causation re sinuses. memory etc will be explicable via aging and so forth, difficult to prove. No special expert medical evidence. Through Jan 2020 Sovereign Rehab 90% improvement.
+
+Steve has a story about multiple concussions but we don't have an expert to explain it.
+
+- [Cohen] SETTLED, but not before summary jt for State Farm
+
+  Deadlines? SKL needs to talk to Cody re RFAs, we need to supplement, eventually need to depose Cody, reconvene in January --> Was he talking on his phone? --> dismiss UM, PTO, pp trial - Re PTO and msj NB requirements in Order, no dispositive motions after 9/14
+
+
+* Peacock, Ansley v. Twin Creeks Timber et al.
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-12-13 Tue 09:02
+:ARCHIVE_FILE: ~/Documents/WORK SYNC/projects/1-data/database.org
+:ARCHIVE_OLPATH: Leibel Law
+:ARCHIVE_CATEGORY: database
+:END:
+
+/Kelly Lucas, individually and as Natural Guardian of Ansley Peacock, a minor, v. Twin Creeks Timber, LLC, John David Ussery, and April Hayes/
+
+Mitchel Evans 678-510-1686
+
+Discovery ran 9/2, mtn dismiss timber filed, mtn compel filed, remember to amend compl, take default
+
+John David Ussery and April Hayes
+
+15 4th Avenue, Milan, Dodge County, Georgia was sold in foreclosure earlier this year, I assume there are no other assets worth talking about. April owns a trailer and works in a saw shop.
+
+dismissed without prejudice
+
+
+* DeLuna, Jose v. ASCO
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-12-14 Wed 12:22
+:ARCHIVE_FILE: ~/Documents/WORK SYNC/projects/1-data/database.org
+:ARCHIVE_OLPATH: Leibel Law
+:ARCHIVE_CATEGORY: database
+:END:
+
+/Jose DeLuna v. ASCO Power/
+
+#+begin_src elisp :exports results :results value html
+  (setq DeLuna
+	'(:name "DeLuna"
+	      :court "DeKalb State"
+	      :judge "Dax Lopex"
+	      :can "20A83387"
+	      :status "mediation"
+	      :liamt 2000000.0
+	      :licarr "Allstate"
+	      :umamt 100000.0
+	      :umcarr "State Farm"
+	      :med 21734.0
+	      :other 0.0
+	      :demand 0.0
+	      :offer 0.0))
+  (add-to-list 'caselist DeLuna)
+  (my-caseprint-html DeLuna)
+#+end_src
+
+Counsel for Caprio and ASCO Power: [[https://gabar.reliaguide.com/lawyer/37902-GA-Ian-Hennessey-371230][Ian P. Hennessey, London & Amburn P.C.]]
+
+Counsel for Caprio and ASCO Power: [[https://londonamburn.com/attorneys/r-scott-durham/][Robert Scott Durham, London & Amburn, PC]]
+
+Counsel for State Farm: [[https://gabar.reliaguide.com/lawyer/30303-GA-Tawanna-Hopson-252385][Tawanna Hopson, Lynn Leonard & Associates]]
+
+Defendants answered 3/2 per extension (excepting Mahamet), probably a day late and ASCO was technically not included in the stip. We have a default against Mahamet, but probably no coverage. Izadine Mahamat non est, sent for service at new addr, service, default. UM out. Caprio out per amendment and leave of court. Answer to amended complaint, still with sudden emergency, no other concerning defenses. Denial of liability, more or less admits respondeat? Need to sort out experts. Discovery ran 3/31, extending. They have neuropsych.
+
+no life care plan per expert, no Harbin, no discovery conducted per SKL
+
+lost income prior income v ss
+
+NB new case mgt order
+
+- <2022-12-09 Fri> Event: [DeLuna] mediation
+
+
+* Heath, Harry v. Hayes et al.
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-12-22 Thu 13:32
+:ARCHIVE_FILE: ~/Documents/WORK SYNC/projects/1-data/database.org
+:ARCHIVE_OLPATH: Leibel Law
+:ARCHIVE_CATEGORY: database
+:END:
+
+/Harry Heath v. Marcus Benjamin Hayes and Georgia Air Contractors, Inc./
+
+#+begin_src elisp :exports results :results value html
+  (setq Heath
+	'(:name "Heath"
+	      :court "Hall State"
+	      :judge "B E Roberts III"
+	      :can "2022SV394N"
+	      :status "new filing"
+	      :liamt 1000000.0
+	      :licarr "Donegal"
+	      :umamt 0.0
+	      :umcarr ""            
+	      :med 36794.08
+	      :other 0.0
+	      :demand 0.0
+	      :offer 0.0))
+  (add-to-list 'caselist Heath)
+  (my-caseprint-html Heath)
+#+end_src
+
+Counsel for Hayes: [[http://martensonlaw.com/attorneys/e-alan-miller/][Alan Miller, Martenson Hasbrouck & Simon LLP]]
+
+Counsel for Hayes: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=ODQzMTMz][Grant Coyle, E. Alan Miller, PC]]
+
+Service on GAC 5/17, notorious on Hayes same day but not filed until 6/9 - everyone is served. They deny liability, employer denies scope, driver says he was on a personal errand, Heath said the collision was "no big deal." Low speed failure to yield case, he claims he looked both ways. Not a lot of damage in photos. Some documents withheld but I'm not ready to make a big deal of it. They want entity out. Client looks fine in dashcam, D claims he's out of scope of employment. UM out on Yarb. Client can't attend deposition.
+
+
+* [-] Hankerson, Sonya v. Lamothe
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-12-22 Thu 15:51
+:ARCHIVE_FILE: ~/Documents/WORK SYNC/projects/1-data/database.org
+:ARCHIVE_OLPATH: Leibel Law
+:ARCHIVE_CATEGORY: database
+:END:
+
+/Sonya Hankerson v. Korey Lamothe/
+
+#+begin_src elisp :exports results :results value html
+  (setq Hankerson
+	'(:name "Hankerson"
+	      :court "Newton Superior"
+	      :judge "Layla Zon"
+	      :can "2020001869"
+	      :status "pretrial"
+	      :liamt 0.0
+	      :licarr "NA"
+	      :umamt 50000.0
+	      :umcarr "Allstate"
+	      :med 18452.0
+	      :other 1770.65
+	      :demand 44000.0
+	      :offer 23893.44))
+  (add-to-list 'caselist Hankerson)
+  (my-caseprint-html Hankerson)
+#+end_src
+
+Counsel for Defendant[UM]: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=MTkyMjU5][William Cowsert, Coswert Heath, LLP]]
+
+Counsel for Defendant[UM]: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=OTgwNjA3][Michael Broun, Cowsert Heath, LLP]]
+
+Discovery ran 4/29 per UM answer
+
+UM only case due to uninsured D. D served 2020-10-26 via Fenrir, Allstate served 2020-09. Open default fee paid. NB Lamothe answered and responded to RFAs pro se with liability admission. Client going back to treatment. rss re bad faith done, we need to wait for judgment. Stip'ed to trial. We did OOS for 50 and 40.
+
+Gaps in treatment.
+
+- <2022-12-23 Fri> Follow up: [Hankerson] MIL? Be sure we comply with 24-8-803 and 24-9-902 [business records]
+  
+  1-30, set for trial, jurors all together, all qualified, general and then individual by juror.
+
+- <2023-01-30 Mon> Event: [Hankerson] trial calendar
+
+
+* Jones, Samantha indiv. and as NG v. Sewell
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-12-28 Wed 09:52
+:ARCHIVE_FILE: ~/Documents/WORK SYNC/projects/1-data/database.org
+:ARCHIVE_OLPATH: Leibel Law
+:ARCHIVE_CATEGORY: database
+:END:
+
+/Samantha Jones, individually and as parent and natural guardian of Mersadies Marie Jean, a minor, v. Vita Bernice Sewell/
+
+#+begin_src elisp :exports results :results value html
+  (setq Jones
+	'(:name "Jones"
+	      :court "Meriweather Superior"
+	      :judge "Travis Sakrison"
+	      :can "2021-CV-0017"
+	      :status "mediation"
+	      :liamt 300000.0
+	      :licarr "Liberty Mutual"
+	      :umamt 0.0
+	      :umcarr "NA"
+	      :med 27870.93
+	      :other 0.0
+	      :demand 281375.0
+	      :offer 1819.84))
+  (add-to-list 'caselist Jones)
+  (my-caseprint-html Jones)
+#+end_src
+
+Counsel for D: [[https://gabar.reliaguide.com/lawyer/0-GA-Rosalyn-Mintah-169623][Rosalyn Yaa Mintah, Law Offices of McLaughlin & Ream]]
+
+Answer 2021-02-24 with denial of liability, no concerning defenses. Service only at mclaughlinelectronicmail@libertymutual.com. RFAs admit the citation but deny liability, contending that the driver of our vehicle stopped suddenly and without signalling. Responses are clean, no 6.4. No UM, $25,010.93 specials on a [NOT] TBI, mostly on lien. Last offer pre-litigation was $1,819.94 (only emergent treatment, they think the PTSD etc. is fabricated) Per skl we are not adding driver. Grandinette can't help.
+
+--> client getting neuro and IEP, NON-PARTY PCP, need contract and substitute her as an individual (mom still has a claim)
+
+  Teyonn Donaldson 404-910-6015, boyfriend of 5 1/2 years, will write down what's going on with her.
+
+back is "locking up," still smoking marijuana, helps headaches and stress, failed to connect to group session and didn't follow up.
+
+- <2022-12-30 Fri> Follow up: [Jean] mtn WITHDRAW GRANTED
+
+- rescheduling client depo, add party (drafted)? --> depo prep, non-party Kaiser [sent]
+
+- <2023-01-13 Fri> Deadline: [Jean] discovery deadline
+
+
+* Shea, Althea v. Croy
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-02-20 Mon 10:49
+:ARCHIVE_FILE: ~/Documents/WORK SYNC/projects/1-data/database.org
+:ARCHIVE_OLPATH: Leibel Law
+:ARCHIVE_CATEGORY: database
+:END:
+
+/Althea Shea v. Gary Croy/
+
+#+begin_src elisp :exports results :results value html
+  (setq Shea
+	'(:name "Shea"
+	      :court "Hall State"
+	      :judge "Baldwin"
+	      :can "18SV147"
+	      :status "pretrial"
+	      :liamt 25000.0
+	      :licarr "Southern General"
+	      :umamt 0.0
+	      :umcarr "NA"
+	      :med 143139.0
+	      :other 3000.0
+	      :demand 25000.0
+	      :offer 8500.0))
+  (add-to-list 'caselist Shea)
+  (my-caseprint-html Shea)
+#+end_src
+
+Counsel for D(Southern General): [[https://gabar.reliaguide.com/lawyer/30024-GA-Jay-Eidex-261773][Jay Eidex, Groth & Makarenko LLC]]
+
+Note: Be sure we can get surgical estimate into the record. Discovery ran 2019-02. Only 25k coverage by Southern General, no UM per rejection by client. Medical damages are $143,139 with surgical estimate, 14k and change without. PTO is in draft, not reviewed yet. ==>  Requests to Charge, agreed record set 10/17 nb conflict
+
+- <2023-02-24 Fri> Follow up: [Shea] letter re treatment sent with 2/15 dl, withdraw?
+
+- <2023-04-10 Mon> Deadline: [Shea] to refile
+
+
+* - Clark, Deborah v. Hinton [McDonald]
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-02-22 Wed 15:34
+:ARCHIVE_FILE: ~/Documents/WORK SYNC/projects/1-data/database.org
+:ARCHIVE_OLPATH: Leibel Law
+:ARCHIVE_CATEGORY: database
+:END:
+
+/Deborah Clark v. Wallis McDonald/ 
+
+#+begin_src elisp :exports results :results value html
+  (setq Clark
+	'(:name "Clark"
+	      :court "Hall State"
+	      :judge "Larry Baldwin"
+	      :can "2020SV330S"
+	      :status "pretrial"
+	      :liamt 100000.0
+	      :licarr "Cincinnati"
+	      :umamt 250000.0
+	      :umcarr "Central"
+	      :med 60089.97
+	      :other 0.0
+	      :demand 100000.0
+	      :offer 8000.0))
+  (add-to-list 'caselist Clark)
+  (my-caseprint-html Clark)
+#+end_src
+
+Counsel for Defendant(Cincinnati): [[https://gabar.reliaguide.com/lawyer/30092-GA-Alexandra-Higgins-266294][Alexandra Bowen Higgins, The Cincinnati Insurance Company]] -- 678-357-2384 cell
+
+Counsel for Central: [[https://gabar.reliaguide.com/lawyer/30326-GA-Robert-Luskin-248178][Robert Luskin, Chartwell Law]]
+
+D was disabled but got served notorious, Higgins agreed to withdraw service defense, but that was before the estate business. 60k+ with surgery, continuing treatment, last offer 8k bc claim unrelated. 
+
+NB they are misspelling their client's first name. They are going to refuse to pay for the weight loss camp and probably not the surgery.
+
+Discovery ran 6/2, per skl let discovery run, talk to client about her financial expectations, maybe talk to treating. 
+
+
+* Cox
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-03-10 Fri 13:37
+:ARCHIVE_FILE: ~/Documents/WORK SYNC/projects/1-data/database.org
+:ARCHIVE_OLPATH: Leibel Law
+:ARCHIVE_CATEGORY: database
+:END:
+
+- Follow up: [Cox] referring out, 2024 statute
+
+
+* Williams, Amanda and Phillip Raimey v. Stidham
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-04-06 Thu 13:42
+:ARCHIVE_FILE: ~/Documents/WORK SYNC/projects/1-data/database.org
+:ARCHIVE_OLPATH: Leibel Law
+:ARCHIVE_CATEGORY: database
+:END:
+
+/Amanda Williams and Phillip Raimey v. Connie Bill Stidham, Superior Court of Lumpkin County/
+
+#+begin_src elisp :exports results :results value html
+  (setq Williams
+	'(:name "Williams"
+	      :court "Lumpkin Superior"
+	      :judge "Raymond George"
+	      :can "SUCV2022000012"
+	      :status "discovery"
+	      :liamt 0.0
+	      :licarr "CenturyNational"
+	      :umamt 100000.0
+	      :umcarr "AutoOwners"            
+	      :med 52376.3
+	      :other 0.0
+	      :demand 100000.0
+	      :offer 5000.0))
+  (add-to-list 'caselist Williams)
+  (my-caseprint-html Williams)
+#+end_src
+
+Counsel for UM: [[https://gabar.reliaguide.com/lawyer/30338-GA-Charles-Medlin-259239][Charles Medline, Bovis, Kyle, Burch & Medlin, LLC]]
+
+Counsel for UM: [[https://gabar.reliaguide.com/lawyer/30338-266-GA-Robert-Brawner-175024][Robert Brawner, II, Bovis, Kyle, Burch & Medlin, LLC]]
+
+Counsel for Defendant: [[https://gabar.reliaguide.com/lawyer/36104-GA-John-Searcy-281112][John E. Searcy, Gower, Wooten & Darnielle, LLC]] {PAID}
+
+LI paid 25k each, liens paid with LI settlement
+
+- <2023-04-07 Fri> Follow up: [Williams] SETTLED FOR 38,000, need to add language to release
+
+
+* Bell, Sarah v. Christopher et al.
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-04-24 Mon 10:05
+:ARCHIVE_FILE: ~/Documents/WORK SYNC/projects/1-data/database.org
+:ARCHIVE_OLPATH: Leibel Law
+:ARCHIVE_CATEGORY: database
+:END:
+
+/Sarah Bell v. Kasey Leeann Christopher and Monday's, LLC, d/b/a Monday's Pub/
+
+Counsel for State Farm: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=NzcwNjEw][John Wingate III, Myers & Wingate, LLP]]
+
+Counsel for Christopher: [[https://www.gabar.org/MemberSearchDetail.cfm?ID=Mjg3NTA2][David Olson, Fain, Major & Brennan, PC]]
+
+Counsel for Monday's: [[https://gabar.reliaguide.com/lawyer/30328-GA-William-Allred-255993][William Allred, Barrickman, Allred & Young, LLC]]
+
+Counsel for Monday's: [[https://gabar.reliaguide.com/lawyer/30328-GA-Elizabeth-Howard-252575][Elizabeth G. Howard, Barrickman, Allred & Young, LLC]]
+
+#+begin_src elisp :exports results :results value html
+  (setq Bell
+	'(:name "Bell"
+	      :court "White Superior"
+	      :judge "T. Buckley Levins"
+	      :can "SUCV2022000194"
+	      :status "discovery"
+	      :liamt 25000.0
+	      :licarr "USAA"
+	      :umamt 300000.0
+	      :umcarr "State Farm"
+	      :med 12955.83
+	      :other 0.0
+	      :demand 0.0
+	      :offer 0.0))
+  (add-to-list 'caselist Bell)
+  (my-caseprint-html Bell)
+#+end_src
+
+NB addl coverage for Mondays, punitive damages all Ds.  They claim they didn't overserve her and she only had a shot and a beer at the pub, tried to keep her there when it became apparent she was drunk.  D driver admits liability but alleges contrib.  She pled guilty to drinking and admits she failed to maintain her lane.  She is evading the Facebook question.  Client does not recall the accident, was not wearing a seatbelt. 
+
+NonParty Straight talk for Alan McPheters 706-200-2549, Verizon for Don Monday 678-910-6936.
+
+Wait to identify Harben IME
+
+OOS to UM 300,000 for driver, intern to look at reports on the bar, need to get her scanned. Good neuropsych.
+
+BAC done, Steve is working with expert.
+Alan Soneck re restaurants, security - good opinion, working on report
+Dr. Randall Tackett, toxicologist
+Seeing Maloon for MRI with neuroquant
+Needs to see an endocrinologist?
+Tracy Marks re psych?
+
+No order yet on motion to compel re neuropsych? 60 day demand sent 1/10 re State Farm bad faith to Wingate
+
+--> motion special set? mediation? Gingris & McCord?
+
+--> fu phone disco?, OOS drafted, authorize and send? Steve wants to amend in punitives if we don't settle. look for response to 60 day demand and amend complaint to add direct claim against State Farm per attachments
+
+- <2023-04-24 Mon> Follow up: [Bell] settled?
+
+
+* Peterson, Ginger v. Walmart
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-06-07 Wed 14:12
+:ARCHIVE_FILE: ~/Documents/WORK SYNC/projects/1-data/database.org
+:ARCHIVE_OLPATH: Leibel Law
+:ARCHIVE_CATEGORY: database
+:END:
+
+/Ginger Peterson v. Walmart, Inc, Wal-Mart Real Estate Business Trust, and Wal-Mart Stores East, LP/
+
+#+begin_src elisp :exports results :results value html
+  (setq Peterson
+	'(:name "Peterson"
+	      :court "NDGa Gainesville"
+	      :judge "Steven Jones"
+	      :can "2:20-cv-00304-SCJ"
+	      :status "pretrial" ; [Peterson] SETTLED
+	      :liamt 100000.0
+	      :licarr "Walmart"
+	      :umamt 0.0
+	      :umcarr "NA"
+	      :med 94788.92
+	      :other 0.0
+	      :demand 210000.0
+	      :offer 0.0))
+  (add-to-list 'caselist Peterson)
+  (my-caseprint-html Peterson)
+#+end_src
+
+Counsel for WalMart: [[https://gabar.reliaguide.com/lawyer/31708-GA-Mark-Pickett-246349][Mark Pickett, McLain & Merritt PC]]
+
+Counsel for WalMart: [[https://gabar.reliaguide.com/lawyer/30326-GA-Ernest-Beaton-253895][Ernest L. Beaton IV, McLain & Merritt PC]]
+
+Walmart denies liability, video slip. We have the shoes. Total hip. Client saw nothing on floor. Client and husband worked for Walmart. Service defenses as to the real estate trust but they admit WMS East controls the premises. We interviewed the Subway guy, he thinks it was the shoes, do not depose.
+
+Not a great case on liability. Discovery ran 11/23, MSJ pending, not sure if we ever had a post-discovery settlement conf.
+
+[ ] Exchange demostratives
+[ ] supplement exhibit list
+[ ] witness 30b6 name her
+[ ] demonstratives - recovery time etc DAMAGES
+[ ] look for camera 13
+
+
+- <2023-06-09 Fri> Follow up: [Peterson] SETTLED 
+
+
+Pinkney v. Wal-Mart Stores E., LP, 2022 U.S. Dist. LEXIS 146068
+Silvagni v. Wal-Mart Stores, Inc., 2017 U.S. Dist. LEXIS 179234
+Lankford v. Reladyne, 2016 U.S. Dist. LEXIS 47931
+Kurylo v. Rizzo, 2017 U.S. Dist. LEXIS 38487
+
+- <2023-06-12 Mon> Event: [Peterson] trial
+
+
+* Scantland, David v. French
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-06-12 Mon 10:14
+:ARCHIVE_FILE: ~/Documents/WORK SYNC/projects/1-data/database.org
+:ARCHIVE_OLPATH: Leibel Law
+:ARCHIVE_CATEGORY: database
+:END:
+
+/David Scantland v. Kelci French/
+
+#+begin_src elisp :exports results :results value html
+  (setq Scantland
+	'(:name "Scantland"
+	      :court "Forsyth State"
+	      :judge "T. Russell McClelland"
+	      :can "21SC-0351-B"
+	      :status "pretrial" ; 06-12, 07-17 [Scantland] June 12 backup crim, July 17 #8
+	      :liamt 100000.0
+	      :licarr "USAA"
+	      :umamt 25000.0
+	      :umcarr "Progressive"
+	      :med 177502.63
+	      :other 0.0
+	      :demand 0.0
+	      :offer 100000.0))
+  (add-to-list 'caselist Scantland)
+  (my-caseprint-html Scantland)
+#+end_src
+
+ppeele@meyn.com
+
+Counsel for Defendant: R. Russell Grant, Cruser, Mitchell, Novitz, Sanchex, Gaston, & Zimet, LLP - no longer with firm, no substitution?
+
+Counsel for Defendant: [[https://gabar.reliaguide.com/lawyer/30092-GA-Timothy-Mitchell-276517][Timothy L. Mitchell, Cruser, Mitchell, Novitz, Sanchez, Gaston, & Zimet, LLP]] Cell: 810-348-1942
+
+Counsel for Progressive: [[https://gabar.reliaguide.com/lawyer/30308-GA-Terry-Strawser-256088][Terry L. Strawser, Worsham Corsi, Dobur & Beress]]
+
+Joe Kania joseph_p_kania@progressive.com 908-601-7486
+
+SOL 3/24. USAA has 100k LI, Progressive has 25k add on UM. Preexisting cervical, see 2015-07-16 MRI disc protrusion, but record confirms posttraumatic protrusion. Headaches and blurry vision post-MVA. Post-accident fall caused by sciatic pain. $21,894.20 medical as of 7/19, needs update. Per CS value at 35-40k. HOWEVER, surgical recommendation; he got bariatric surgery to lose weight for the back procedure. We made policy limits demand to USAA, their top offer was $32,225, litigation OOS 100,000. 
+
+Other driver filed in 2019. Rear end, client was middle car, stopped for vehicle turning left. Vehicle total loss. Per default order discovery is damages only.
+
+No OOS per SKL, work on the medicine. Floyd recorded statement produced. Per SC spine is related, not ocular, not good for tbi bc ETOH, psych, and lack of other evidence. Most recent neuro relates to spine per doctor.
+
+Wallis v. Cotton States Mut. Ins. Co., 182 Ga. App. 147
+Cherokee Ins. Co. v. Lewis, 204 Ga. App. 152
+
+Re UM, interesting problem for Stephen
+
+Discovery ran 9/30/22. 
+
+---
+
+NB Casey thinks headaches are cervical not TBI, cognitive unrelated
+
+KEEP TRACK OF TIME
+
+Progressive elected to proceed as Defendant, name no longer on caption?
+
+- <2023-06-12 Mon> Follow up: [Scantland] SETTLING ltr to Optum
+
+  finalize narrative / respond to MIL / get expert --> Trial Calendar for weeks of [2023-06-12 Mon] and [2023-07-17 Mon] -->  update medical / SKL to depose doctor, FF, loss work flesh out, capacity, urology - need to set up UM, conflicting with Alevy
+
+  Take deposition of Tamaras or get him live
+
+2013 accident, 2015 cervical mri, nothing about lumbar, MRI shows X, etc
+
+subpoena Javina Krisha, Cumming Family Medicine?
+

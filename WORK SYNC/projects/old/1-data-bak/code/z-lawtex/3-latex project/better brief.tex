@@ -1,0 +1,172 @@
+\documentclass{article}
+% \usepackage{draftwatermark}
+\usepackage{geometry}
+	\newgeometry{top=.84in, bottom=.7in, left=1in, right=.5in}
+	\setlength{\footskip}{15pt}
+\usepackage{ulem}
+\usepackage{fancyhdr}
+	\renewcommand{\headrulewidth}{0pt}
+	\renewcommand{\footrulewidth}{0pt}
+\usepackage{parskip}
+	\setlength{\parskip}{0mm}
+\usepackage{pstricks}
+\usepackage{quoting}
+	\quotingsetup{leftmargin=1in, rightmargin=1in, vskip=-1.5mm}
+		\makeatletter
+			\g@addto@macro\quoting\singlespacing
+			\g@addto@macro\quoting{\vspace{-2mm}}
+			\makeatother
+		\makeatletter
+			\renewenvironment{quotation}
+				{\list{}{\listparindent=0pt
+				\itemindent    \listparindent
+				\leftmargin=1in
+				\rightmargin=1in
+				\topsep=-1mm
+				\parsep        \z@ \@plus\p@}
+				\item\relax}
+				{\endlist}
+		\makeatother
+\usepackage[T1]{pbsi}
+\usepackage{times}
+\renewcommand{\rmdefault}{ptm}
+\renewcommand{\normalsize}{\fontsize{14}{14.5}\selectfont}
+
+\newcommand*{\ptm}{
+	\fontfamily{ptm} \selectfont
+	\fontsize{14}{0}
+	\selectfont}
+
+\newcommand*{\bsi}{
+	\bsifamily \selectfont
+	\fontsize{16}{15}
+	\selectfont}
+
+\usepackage{setspace}
+	\doublespacing
+
+\raggedright
+
+\newcommand{\tab}{\hspace*{.5in}}
+
+\newenvironment{tightcenter}{%
+	\setlength\topsep{0pt}
+	\setlength\parskip{0pt}
+		\begin{center}
+		}{%
+		\end{center}
+		}
+
+% BEGIN left and right vertical lines, and line numbers.
+\usepackage{eso-pic}
+\usepackage{calc}
+\newlength{\leftruleA}
+\setlength{\leftruleA}{3.0\leftmargin-\marginparsep}
+\newlength{\leftruleB}
+\setlength{\leftruleB}{2.8\leftmargin-\marginparsep}
+\newlength{\rightrule}
+\setlength{\rightrule}{2.6\leftmargin+\textwidth+\marginparsep}
+\AddToShipoutPicture{%
+	\AtPageLowerLeft	{%
+	\put(\LenToUnit{\leftruleA},0){\rule{1pt}{\paperheight}}  % First rule on the left
+	\put(\LenToUnit{\leftruleB},0){\rule{1pt}{\paperheight}}  % Second rule on the left
+	\put(\LenToUnit{\rightrule},0){\rule{1pt}{\paperheight}}  % Rule on the right
+	\rput(1.6,13.74)		{
+		\begin{minipage}[t]{5mm}
+		\begin{flushright}
+		\begin{doublespace}
+		1\\2\\3\\4\\5\\6\\7\\8\\9\\10\\11\\12\\13\\14\\15\\16\\17\\18\\19\\20\\21\\22\\23\\24\\25\\26\\27\\28
+		\end{doublespace}
+		\end{flushright}
+		\end{minipage}
+						}
+					}
+				}
+% END left and right vertical lines, and line numbers.
+
+% BEGIN footer
+\pagestyle{fancy}
+\cfoot{\vspace{-1mm} \ptm{-\thepage-} }
+\rfoot{\makebox[2in]{\hrulefill}\\INSERT}%
+% END footer
+
+\begin{document}
+
+\begin{singlespace*}
+
+INSERT
+
+~\\
+
+Attorney for INSERT,
+
+INSERT
+
+\end{singlespace*}
+
+\vspace*{18mm}
+
+\begin{tightcenter}
+SUPERIOR COURT OF THE STATE OF CALIFORNIA \\ FOR THE COUNTY OF LOS ANGELES
+\end{tightcenter}
+
+\vspace*{16.25mm}
+
+% BEGIN caption.
+	{
+\begin{minipage}[t]{3in}
+
+In re the Marriage of
+
+INSERT,
+
+\tab \tab \tab Petitioner,
+
+\tab \tab v.
+
+INSERT,
+
+\tab \tab \tab Respondent,
+
+\makebox[3in]{\hrulefill}
+
+\end{minipage}
+	\begin{minipage}[t]{5mm}
+		\begin{singlespace*}
+			)\\)\\)\\)\\)\\)\\)\\)\\)\\)\\)
+		\end{singlespace*}
+	\end{minipage}
+\begin{minipage}[t]{3in}
+
+Case Number: ~ INSERT
+
+INSERT
+
+
+\end{minipage}
+	}
+% END caption.
+
+\vspace{5mm}
+
+\tab TO THE ABOVE-ENTITLED COURT AND TO THE PARTIES HEREIN AND THEIR ATTORNEYS OF RECORD:
+
+
+\hspace*{3in}Respectfully submitted,\\
+
+~\\
+~\\
+
+\begin{singlespace*}
+
+Date: ~ \today \hspace*{30mm} By: ~ \makebox[3in]{\hrulefill}
+
+\hspace*{3.5in}INSERT
+
+\hspace*{3.5in}Attorney for INSERT,
+
+\hspace*{3.5in}INSERT
+
+\end{singlespace*}
+
+\end{document}

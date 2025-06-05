@@ -1,0 +1,74 @@
+(defvar casedata-mode-hook nil
+  "Initialize list of functions to call when entering Case Data mode.") ;pandoc
+
+(defvar casedata-mode-map
+  (let ((map (make-sparse-keymap)))
+    (define-key map "\M-\\" "◊"))
+  "Mode map for derived mode Case Data.")
+
+; (add-hook 'casedata-mode-hook 'pandoc-mode) ; need to load pandoc mode in init!
+    
+(define-derived-mode casedata-mode markdown-mode "Case Data"
+  "Derived major mode for editing casedata files."
+;  (setq-local directives-regexp "◊")) 
+(setq-local pandoc-regex-@@-directive
+  "\\(◊\\)\\(include\\|lisp\\)\\({\\)\\(.*?\\)\\(}\\)")
+(provide 'casedata-mode)
+
+@@lisp{test}
+
+----
+
+
+;; Function to load entire file
+
+(defun load-markdown-init (path)
+  "If the specified file exists then attempt to load it.
+
+We treat the file as markdown, and we extract code-blocks from it which we execute directly.
+"
+  ;; if the file exists
+  (if (file-exists-p (expand-file-name path))
+      (with-temp-buffer
+        ;; insert into temporary buffer
+        (insert-file-contents (expand-file-name path))
+
+        ;; Go to the start of the file.
+        (goto-char (point-min))
+
+        ;; Until we're at the end of the file ...
+        (while (not (eobp))
+
+          ;; Jump forward a line.
+          (forward-line 1)
+
+          ;; Skip to the start of the code block.
+          (re-search-forward "^```lisp$" (point-max) t)
+
+          (let ((l (match-end 0)))
+            ;; Find the end of the code-block
+            (re-search-forward "^```$" (point-max) t)
+
+            ;; Evaluate it, and then keep going.
+            (eval-region l (match-beginning 0)))))
+    (message "Skipping file that doesn't exist %s" path)))
+
+;; NB you can eval with M-: or C-x C-e and put results into the buffer with a prefix argument.
+;; combine with <span hidden> </span>?
+
+;; (defface markdown-isodate-face
+;;   '((t (:bold t :foreground "#b13120")))
+;;   "Used for ISO date followed by text")
+
+;; (defface markdown-h2-face
+;;   '((t (:bold nil :foreground "#d94a05" :height 140)))
+;;   "Used for heading level 2 and higher")
+
+;; (font-lock-add-keywords
+;;  'markdown-mode
+;;  '(
+;;    ("^[0-9]\\\{4\\\}-[0-9]\\{2\\}-[0-9]\\\{2\\\}.*$" . 'markdown-isodate-face)
+;;    ("^##.*$" . 'markdown-h2-face)
+;;    ))
+
+

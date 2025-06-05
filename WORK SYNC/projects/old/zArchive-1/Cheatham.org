@@ -1,0 +1,123 @@
+* Kuturah B. Cheatham, individually, and as surviving spouse, and as personal representative of the Estate of Terrell Cheatham, deceased, v. Georgia Power Company, Home Partners Resources Properties LLC f/k/a cataLIST Properties, LLC, and OPVHHJV LLC d/b/a Pathlight Property Management, and John Does 1-5, State Court of Fulton County, 20EV005535, J. Eady.
+
+
+Georgia law allows recovery for emotional distress only to the extent it is proximately caused by a physical injury. Numerous cases exclude any claim for negligent infliction of emotional distress. The sole exception is that a *parent* can recover for emotional distress relating to seeing an injury to their *child*, if and ONLY IF the parent is also injured in the same accident. https://casetext.com/case/lee-v-state-farm-mutual-ins-co.
+
+Need better pictures, worried now; If the bare wire was electrified, you'd expect a short circuit; Drone photography; Drone guy can give measurements. Measure voltage - need an electrician qualified by OSHA to do that, basically a lineman. OR we have GA Power do the readings. He thinks there's another exposed spot. Cut on homeowner's side so we get connectors, will go all the way to the pull, do their best to preserve the orientation and position of the wires at the house.
+
+Jesperson drone guy; will take some time. We definitely want pictures while it's up. Measurements at different points "photogrametry"
+
+June 22-24, July 12-13
+
+---
+
+Georgia Transmission Corporation v. Worley, 312 Ga. App. 855 (Ga. Ct. App. 2011)
+
+tcw w/ expert
+
+Issue of control; they own the connector, you can tell by the cover in the photograph. Only one picture tells us anything IMG 40771, the one that shows the connection.
+
+Other houses in the area, look at the code re insulation
+Bare neutral attaches to the house with a hook. Insulated wires are the two hot legs, 120, 240.
+
+Red shows insulation is missing. Blobs to the right of the red circle are the connectors. Power company hooks up their triplex service. Neutral also mechanical support. GA Power makes the connections inside those black covers. Cover insulates the connection. GA Power stops at the connector. Insulation that's missing is on their side. That's their defect, without a doubt; can't find in GA administration code, but it may have express requirements for inspections. Expert can't find what code covers electric utilities. Sometimes PSC has maintenance edicts.  [ ] **Legal research**
+
+Should say National Electric Safety Code. Any maintenance and inspection procedures. [ ] Need legit copy of the blue book from GA Power. [ ] Get tariff also. [ ] Also need city or county franchise agreement.
+
+GA Power has ownership of where the insulation was bad.
+
+NESC 324C3a1
+
+Energized service drops to be insulated or covered...
+
+What we have is actual service drop cable with no insulation.
+
+Not going to get out of the ladder and OSHA and all that.
+
+Landowner need to deenergize
+
+Georgia response "we don't understand what an electric service is" is dumb.NESC has definitions we can refer to.
+
+Interrogatory "Georgia Power maintains its...located near..." Constract with "Osmose Utility Services" on 10 yr cycle.
+
+[ ] Add Osmose? They inspect poles, not service drops. That's what the 10 yr is about.
+
+[ ] the meter documents have nothing to do with the address
+
+1387-90
+
+"Who inspects the service drops"
+
+Interrogatories limits, getting it to me, we'll send a 6.4 letter in the interim.
+
+Protective order.
+
+[ ] Send someone to look and see if there are other places in the neighborhood, AND THE SERVICE DROP ITSELF - is it still there? Did they tape it? Make them preserve it if they haven't
+
+No fuse or breaker, low voltage shock, [ ] **Autopsy report**
+
+Not an employee. Everything in OSHA relates to employees. High voltage act doesn't apply. 
+
+Blue book - should have been three feet between mast and cable, small thing, but it's another issue.
+
+Surprised they were killed.
+
+GA Power answer references the High Voltage Safety Act OCGA 46-3-30 et seq. Anne Kaufold-Wiggins, Meghan Pieler, Balch & Bingham. Per 46-3-40 looks like indemnification obligation runs from B Builds to GA Power if work done within 10 feet of a high power line? I dont' think voltage at the service drop (Google weatherhead) counts as high voltage, 600 or less v. 750, but they may have been too close to the pole. Mark Wiseheart DEF (Pathlight and HPR) re cost of defense settlement; Amerispec inspection, exterior wiring was in the scope of the inspection. 404-885-6136. --> consider adding them as a party prior to SOL 2021-07; did inspectors have insurance? 
+
+Docs produced by Pathlight start with the OSHA file, which contains numerous adverse findings; OSHA redacted inteviews with witnesses pursuant to (b)(7)(D) (confidential source exemption); did we get completed police incident report? Pathlight produced all scope of work docs and AmericSpec inspection report wo reference to related exterior wiring conditions - Main Service Drop rated "ok." Bates 00155. text messages - looks like Pathlight paid burial assistance? Pathlight and Home Partners deny jxn and venue but admit service, deny indispensible parties. They identify witnesses Jason Marshall (Pathlight/scope of work), Chris Green (Epidemic/finished job), Josh Denard (Amerispec), Michael Aquino and Michael Jefferson (OSHA), GA Power, EMS etc. 1MM policy. Identifies owner as CataLIST Properties, LLC, it has a management agreement with Home Partners, LLC, which in turn hired Pathlight -- they have not produced the agreement? Amerispec identified as potential party and B Builds. No policies or procedures but "will supplement." Will also supplement dec page.
+
+Firearm was hers.
+
+CALL HANKERSON SONYA RE SETTING UP AN ESTATE, KUTURAH RE THE VEHICLE,
+document Pathlight
+
+Review file, maybe fu with Pathlight and cataLIST re comp if they
+don't provide, rss re comp issues (only required to carry liability)
+{Steve thinks you need 3 employees} /SOL is 2021-07-24/ Demand for
+Hankerson
+
+NB witness interview
+
+Pathlight inspectors: Jason 470-312-8704 -hes one of the head inspectors
+Temeji Wyatt -404-542-4993
+
+Pull permits at address
+
+CLIENT NEEDS PERMANENT APPOINTMENT
+
+Facebook Username: 4049445389 Password: Xavier890
+
+Maurice paid under the table, not an employee
+
+Christopher Greene (completed work, paid for funeral) 404-931-1487 Mack
+Edwin Cheatham (older brother) 910-225-6509 Harvey Bellamy (father)
+843-503-5427 Dana Bellamy (sister) 404-670-5537 (children Jalyn Dewitt,
+Justin Dewitt, Bryson Towns) Tamara Bellamy (1st cousin) 770-369-0188
+Casmar and Mack 678-531-4935 (?)
+
+GET EMT and medical.
+
+2019-07-24 140 Crumley Street EMT to Grady (124 Crumley Street?)
+CATALIST PROPERTIES LLC
+
+OPVHHJV LLC = Pathlight Property Management
+
+Home Partners of America
+
+HP Georgia I, LLC, d/b/a Home Partners of America
+
+Power line worn through at guide wire and resting on it. Both hook for
+the guide wire and the guide wire itself may have been energized.
+Connection initially faulty. Hot neutral. Photos July 30, went back
+August 2. Aug 2 is when they got in and got a picture out the window.
+DOL was July 23. Still unremediated as of Sept 3. Inspection only if
+disconnected, lights were still on. Based on marks on ladder Satterfield
+thinks it was the hook for the service.
+
+Power line worn through at guide wire and resting on it. Both hook for
+the guide wire and the guide wire itself may have been energized.
+Connection initially faulty. Hot neutral. Photos July 30, went back
+August 2. Aug 2 is when they got in and got a picture out the window.
+DOL was July 23. Still unremediated as of Sept 3. Inspection only if
+disconnected, lights were still on. Based on marks on ladder Satterfield
+thinks it was the hook for the service.

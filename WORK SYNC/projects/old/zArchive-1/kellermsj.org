@@ -1,0 +1,69 @@
+Preliminary Statement
+
+This case arises from a traffic accident. In their briefing on the present motion, Defendant Jason Wilson concedes that he would be vicariously liable for the conduct of his daughter, Olivia Wilson, under the family purpose doctrine as articulated in binding Georgia law currently in effect. (Br. Supp. Pl. Jason Wilson's MSJ at 1.) Nonetheless, he suggests to the Court that this authority has been "legislatively superseded." (Id.) However, this argument lacks merit and current authority is, in any event, binding on this Court.
+
+ARGUMENT AND CITATION OF AUTHORITY
+
+I. Standard of Review
+
+Summary jdgment is appropriate and authorized if, and only if, no genuine issue of fact exists for trial. O.C.G.A. § 9-11-56(c).
+
+II. Negligent Entrustment Claim Withdrawn
+
+A negligent entrustment plaintiff must show that the driver was incompetent, and known to be incompetent, due to a pattern of reckless conduct, some physical or mental condition, or age and inexperience. Here, there is no evidence suggesting that Ms. Wilson had a debilitating physical or mental condition or a pattern of reckless driving known to her father. Here, Defendant Olivia Wilson testified that she received her driver's license in 2015 (O. Wilson Depo. at 7:10-19), and the collision occurred in November of 2020 (O. Wilson Depo. at 9:14-16). She had only two speeding tickets, in 2018 and 2019, and only one was disclosed to her father. (O. Wilson Depo. at 16:02-16.) Accordingly, this claim is withdrawn.
+
+III. Georgia Courts Should Abolish the Family Purpose Doctrine.
+
+Defendant Jason Wilson concedes that he is subject to liability under the family purpose doctrine as currently in force but argues that the doctrine should be abolished or recognized as superseded by statute. (Br. Supp. Pl. Jason Wilson's MSJ at 1.) Specifically, he contends that it's purpose is served by the passage of coverage requirements, including both mandatory liability and underinsured motorist coverage.
+
+As noted in the primary case cited by Movant, Phillips v. Dixon, 236 Ga. 271 (1976), the family purpose doctrine is an aspect of agency law, which arose in various American jurisdictions because of "the frequency with which the negligent driver was found to be judgment proof." Phillips at 272. Movant argues, in essence, that this concern is satisfied by O.C.G.A. § 40-9-37, which provides minimum policy requirements for liability insurance, and the mandatory uninsured/underinsured motorist coverage of O.C.G.A. § 33-7-11.
+
+It is notable, however, that the Phillips case focuses not on coverage (insurance is never mentioned in the case) but on whether the child driver is likely to be judgment proof. This is an important distinction. As a legal matter, in individual is liable regardless of whether that individual has contracted with a third party to pay damages and remains liable for excess. The mandated coverage minimums are notably fairly low. Moreover, as a practical matter and a policy consideration, the issue of whether an individual insured might be held liable in excess is notably relevant in decisions whether to pay claims pre-suit under O.C.G.A. 33-4-6. While there is significant coverage in this case and Olivia Wilson is a covered driver, that will not always be the case, and the suggestion of the Movant is that this Court make generally applicable law. This Court is bound by existing precedent. Even if that were not the case, the Courts should not make law based on the specific and unusual aspects of coverage in this case.[fn][The Order of the Superior Court of Paulding County referenced by Movant, which was not attached to Plaintiff's copy of the briefing, is in any event not binding on this Court. From the brief portion quoted, it appears that the arguments presented here by Movant were not the only basis for that ruling and may be considered as dicta.]
+
+The foreign precedent and treatise material relied on by Movant also does not present a compelling argument to the contrary. The American Law Reports suggests that the family purpose doctrine's public policy rationale might be met by "statutes of various kinds imposing liability on the owner of a car" and does not suggest that low minimum insurance requirements are necessarily sufficient for to meet the public policy interest in themselves. A.L.R.3d 1191, § 2[b] (1966). The Iowa case cited by Movant is an illustration of this point; it relies on the fact that Iowa abrogated the family purpose doctrine by passing a consent statute holding owners generally liable for the negligence of consent drivers regardless whether a family relationship existed. McMartin v. Saemich, 254 Iowa 45, 49, 116 N.W.2d 491, 495 (1962). No such statute exists in Georgia. [fn][Hackley v. Robey, 170 Va. 55, 195 S.E. 689 (1938), the other case relied on by Movant, is a somewhat ancient case in which the Virginia Supreme Court rejected the doctrine in the first instance.]
+
+RESPONSE TO STATEMENT OF MATERIAL FACTS
+
+COMES NOW the above Plaintiff and responds to Defendant Jason Wilson's Statement of Material Facts as follows:
+
+1. The subject lawsuit arises out of a car accident that occurred on November 24, 2020 on GA I-20. See Complaint ¶ 7-8.
+RESPONSE: Admitted.
+
+2. Plaintiff claims that Defendant Olivia Wilson was in the left-hand turn lane at the intersection of 3rd street, turned into oncoming traffic, and collided with Plaintiff. See Complaint ¶ 7-8.
+RESPONSE: Admitted.
+
+3. Defendant Jason Wilson was not present during the accident. See Complaint ¶ 7-11.
+RESPONSE: Admitted.
+
+3.[sic] Plaintiff’s Complaint alleges that Defendant Jason Wilson was negligent in entrusting a motor vehicle to Defendant Olivia Wilson, his daughter, because she was an inexperienced driver. See Complaint ¶ 19-20.
+RESPONSE: Admitted.
+
+4. However, the record is completely void of any proof that Defendant Jason Wilson had actual knowledge that Defendant Olivia Wilson was an inexperienced driver.
+RESPONSE: Denied. However, the relevant claim is withdrawn.
+
+5. Plaintiff’s Complaint alleges that Defendant Jason Wilson is vicariously liable for Defendant Olivia Wilson’s negligence under the Family Purpose Doctrine. See Complaint ¶ 18.
+RESPONSE: Admitted.
+
+6. However, Defendant’s auto insurance policy and Plaintiff’s uninsured/underinsured motorist coverage are enough to compensate Plaintiff for her alleged injuries without contributions from Defendant Jason Wilson.
+RESPONSE: Not material and unsupported by reference to the record.
+
+RESPONDENTS STATEMENT OF FACTS SHOWING GENUINE ISSUES EXIST FOR TRIAL
+
+1. This is a traffic accident case in which it is alleged that Jason Wilson should be held liable for the negligent conduct of Olivia Wilson pursuant to the family purpose doctrine. (Complaint.)
+
+2. Defendant Jason Wilson concedes that he would vicariously liable for Defendant Olivia Wilson's negligent conduct under the family purpose doctrine as articulated in existing law. (Br. Supp. Pl. Jason Wilson's MSJ at 1.)
+
+3. Defendant Jason Wilson was the owner of the vehicle and Defendant Olivia Wilson was operating it with his consent for a family purpose. (Id.; Deposition of Jason Wilson at 14:12-15; 15:16-22.)
+
+Defendant Jason Wilson argues that this Court should conclude that the family purpose doctrine has been abrogated by statutes creating minimum insurance coverage mandates. (Br. Supp. Pl. Jason Wilson's MSJ.)
+
+NOTICE OF FILING
+
+COMES NOW the undersigned and notices filing of the transcripts of the depositions of Olivia and Jason Wilson, conducted February 23, 2023.
+
+PROPOSED ORDER
+
+THE COURT having read and considered Defendant Jason Wilson's Motion for Summary Judgment, and the arguments of counsel,
+
+IT IS HEREBY ORDERED that said motion is DENIED. The Court is bound by existing precedent on this question. Moreover, the public policy consideration underlying the family purpose doctrine, as stated in Phillips v. Dixon, 236 Ga. 271 (1976), is to hold parents liable for the conduct of their children given the likelihood that the child will be judgment proof. This problem is not fully addressed by the statutory provision of mandatory minimum insurance coverage, and the question whether adequate coverage exists in this particular case is not relevant.
+
