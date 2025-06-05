@@ -8,7 +8,7 @@
 #+STARTUP: nofold
 #+STARTUP: hideblocks
 @@html:<div style="color: blue; font-size: 24px;">Leibel Law Case Status</div>@@
-* -------------- Traffic [9]
+* -------------- Traffic [10]
 ** [[denote:20240830T130931][Adams]]
 
 [[https://leibel.filevineapp.com/#/project/991037798/calendar/list/2024/12/307394][Deborah Ann Adams, v. Mary Kirkwood Blalock]], [[https://researchga.tylerhost.net/CourtRecordsSearch/#!/case/c807eeabe7085dbeacd6c38c42fca974][24EV007394]], [["https://fultonstate.org/][Fulton State]], Jay M Roth
@@ -16,10 +16,14 @@
 [[https://www.gabar.org/member-directory/?id=DAD946C89B915C4348327FF364872C6E][Carrie L. Christie, Rutherford & Christie, LLP]]\\
 [[https://www.gabar.org/member-directory/?id=8A8954095C2B57D40C6325B2618EDF5B][Alexis C. Jones, Christie, Rutherford & Christie, LLP]]
 
-| [2025-06-06 Fri] | {F}  | [AdamsD] | schedule mediation, why no UM |
+| [2025-06-06 Fri] | {F}  | [AdamsD] | schedule mediation, review file |
 | [2025-07-08 Tue] | {D} | [AdamsD] | discovery dl per extend       |
 
 nonparties, contact FF [list in notes]
+
+** [[denote:20250605T081054][Baudo]]
+
+
 
 ** [[denote:20231229T092133][Bromaghim]]
 
@@ -74,13 +78,13 @@ Attorney for Defendants: [[https://www.gabar.org/member-directory/?id=F95E177D22
 
 | [2025-06-10 Tue] | {D} | [Martin] | discovery dl per extend, mtn to compel pending, sanctions? --> dispositive motion? |
 
-** Reeves
+** [[denote:20250519T112114][Reeves]]
 
 [[https://leibel.filevineapp.com/#/project/991510203/calendar/list/2025/5/19][Lord Reeves v. Ely Terrell, Ethan Terrell, Michael Terrell, and Amy Floyd]], 25-A-2429, Cobb State, John S. Morgan
 
 [no appearances yet, Michael Terrell served 4/29]
 
-| [2025-06-05 Thu] | {F] | [Reeves] | waiting on answer due 5/29, statute runs July 13, disco, contact OCN re acknowledge |
+| [2025-06-06 Fri] | {F] | [Reeves] | fu em OCN re acknowledge, notice depo by COB, statute runs July 13 |
 
 DO I HAVE ALL THE RIGHT PARTIES (Michael?)
 
@@ -132,7 +136,7 @@ Attorney for Savannah: [[https://www.gabar.org/member-directory/?id=20AF99CBEA09
 Attorney for Oak View: [[https://www.gabar.org/member-directory/?id=37008CB76EDC3A0DC48DFB1C0C1693C1][Craig Terrett, Cruser Mitchell Novitz Sanchez Gaston & Zimet LLP]]
 Attorney for Oak View: [[https://www.gabar.org/member-directory/?id=7FD345AECEA1D06017CABB382D850D77][Robert Mills, Cruser Mitchell Novitz Sanchez Gaston & Zimet LLP]]
 
-| [2025-06-05 Thu] | {zF} | [Kipfmiller] | request 30b6s and other witnesses, identify experts [notes] |
+| [2025-06-06 Fri] | {zF} | [Kipfmiller] | request 30b6s and other witnesses, identify experts [notes] |
 | [2025-08-21 Thu] | {D} | [Kipfmiller] | discovery dl per extend                                     |
 
 ** [[denote:20240417T151048][Nelson]]
@@ -151,7 +155,7 @@ Counsel for Defendant: [[https://fmsllp.com/attorneys/mullins/][Benjamin C. Mull
 
 --> SUPPLEMENT social, pp liability depos, McCord report coming in June, SKL with Brian Avery 
 
-| [2025-06-06 Fri] | {F} | [Sewell] | r timeline, notes, ID experts             |
+| [2025-06-27 Fri] | {F} | [Sewell] | r timeline, notes, ID experts             |
 | [2025-08-25 Mon] | {E} | [Sewell] | mediation                                 |
 | [2025-09-11 Thu] | {D} | [Sewell] | dl expert disclosures for Pl --> more dls |
 
@@ -174,7 +178,7 @@ waiting on Ace
 20000 or 30000 or more if others are putting money on it
 not a 2-3x specials case, need to contribute
 
-| [2025-06-05 Thu] | {zF} | [Young] | schedule depos, figure out experts, schedule mediation              |
+| [2025-06-06 Fri] | {zF} | [Young] | schedule depos, figure out experts, schedule mediation              |
 | [2025-08-01 Fri] | {D} | [Young] | close of discovery per FINAL CMO, dl to disclose experts [none yet] |
 | [2025-09-01 Mon] | {D} | [Young] | dl for rebuttal witnesses                                           |
 | [2025-09-15 Mon] | {D} | [Young] | dl for mediation                                                    |
@@ -264,7 +268,7 @@ status? everything is fully briefed, decision in appeal by March 14, 2025, no de
 
 ** [[denote:20250220T132030][Popphan
 ]]
-| [2025-06-06 Fri] | {F} | [Popphan] | filed, fu re service |
+| [2025-06-13 Fri] | {F} | [Popphan] | filed, fu re service |
 
 FF mother Jennifer Lowe 693 Sweetwater Church 706-974-8766, father Jeff, MIL Brandy Dollar 706-974-7389
 
@@ -274,7 +278,6 @@ FF mother Jennifer Lowe 693 Sweetwater Church 706-974-8766, father Jeff, MIL Bra
 
 ** FCSO
 
-| [2025-06-06 Fri] | {F} | [FCSO] | corporation book single entity plan |
 
 ** [[denote:20240821T100113][Cladding]]
 
@@ -306,11 +309,10 @@ being handled by TN counsel
 
 [[https://gmass.net/meet-the-team/#leadership]]
 
-| [2025-06-05 Thu] | {T} | [Williams] | pp for trial |
+| [2025-06-09 Mon] | {T} | [Williams] | pp for trial |
 
 ** Misc Misc
 
-| [2025-06-06 Fri] | {F} | [Alevy]   | status? SOL 04/03 tolled to 7/3                      |
 | [2026-01-05 Mon] | {F} | [CCS]     | Cladding and Component Solutions, Inc. -- annual mtg |
 | [XXXX]           | {F} | [Howard]  | PAISLEY - GET IT SETTLED seriously ffs               |
 | [2025-06-07 Sat] | {F} | [Fogaros] | pp compl                                             |
